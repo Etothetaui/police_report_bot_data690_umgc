@@ -1,0 +1,245 @@
+{
+  "crime_type": "Strangulation",
+  "required_elements": [
+    {
+      "id": "strangulation_01",
+      "element": "Difficulty breathing/unable to breathe"
+    },
+    {
+      "id": "strangulation_02",
+      "element": "Hyperventilation"
+    },
+    {
+      "id": "strangulation_03",
+      "element": "Raspy voice, hoarse voice, coughing, unable to speak"
+    },
+    {
+      "id": "strangulation_04",
+      "element": "Trouble swallowing, painful to swallow"
+    },
+    {
+      "id": "strangulation_05",
+      "element": "Neck pain"
+    },
+    {
+      "id": "strangulation_06",
+      "element": "Nausea, vomiting"
+    },
+    {
+      "id": "strangulation_07",
+      "element": "Involuntary urination or defecation"
+    },
+    {
+      "id": "strangulation_08",
+      "element": "Dizziness, fainting/light-headed"
+    },
+    {
+      "id": "strangulation_09",
+      "element": "Headaches, head rush, ears ringing"
+    },
+    {
+      "id": "strangulation_10",
+      "element": "Loss of consciousness (how long?)"
+    },
+    {
+      "id": "strangulation_11",
+      "element": "Change in mental status (disoriented, memory loss, spaced out)"
+    },
+    {
+      "id": "strangulation_12",
+      "element": "Petechiae (pinpoint red spots above the area of constriction)"
+    },
+    {
+      "id": "strangulation_13",
+      "element": "Hemorrhaging, bruising"
+    },
+    {
+      "id": "strangulation_14",
+      "element": "Scratch marks, scrapes, abrasions"
+    },
+    {
+      "id": "strangulation_15",
+      "element": "Bloody nose, broken nose"
+    },
+    {
+      "id": "strangulation_16",
+      "element": "Finger nail impressions"
+    },
+    {
+      "id": "strangulation_17",
+      "element": "Swelling of the neck or face"
+    },
+    {
+      "id": "strangulation_18",
+      "element": "Pulled/missing hair, bumps on head"
+    },
+    {
+      "id": "strangulation_19",
+      "element": "Skull fracture, concussion"
+    },
+    {
+      "id": "strangulation_20",
+      "element": "Swollen tongue, swollen lips"
+    },
+    {
+      "id": "strangulation_21",
+      "element": "Diagram of injuries"
+    },
+    {
+      "id": "strangulation_22",
+      "element": "Existing (old) injuries"
+    },
+    {
+      "id": "strangulation_23",
+      "element": "Victim's jewelry"
+    },
+    {
+      "id": "strangulation_24",
+      "element": "Suspect's jewelry"
+    },
+    {
+      "id": "strangulation_25",
+      "element": "Gloves"
+    },
+    {
+      "id": "strangulation_26",
+      "element": "Comprehensive information about the incident"
+    },
+    {
+      "id": "strangulation_27",
+      "element": "Suspect's handedness (right or left)"
+    },
+    {
+      "id": "strangulation_28",
+      "element": "Duration of strangulation"
+    },
+    {
+      "id": "strangulation_29",
+      "element": "Number of times the victim was strangled"
+    },
+    {
+      "id": "strangulation_30",
+      "element": "Smothering"
+    },
+    {
+      "id": "strangulation_31",
+      "element": "Shaking while being strangled"
+    },
+    {
+      "id": "strangulation_32",
+      "element": "Victim's head pushed into a wall, floor, or other surface"
+    },
+    {
+      "id": "strangulation_33",
+      "element": "Property damage"
+    },
+    {
+      "id": "strangulation_34",
+      "element": "Victim's attempt to protect themselves"
+    },
+    {
+      "id": "strangulation_35",
+      "element": "Suspect's emotional state"
+    },
+    {
+      "id": "strangulation_36",
+      "element": "Victim's emotional state"
+    },
+    {
+      "id": "strangulation_37",
+      "element": "Active warrants for the suspect"
+    },
+    {
+      "id": "strangulation_38",
+      "element": "Previous protection orders against the suspect"
+    },
+    {
+      "id": "strangulation_39",
+      "element": "Suspect's statements before, during, and after the incident"
+    },
+    {
+      "id": "strangulation_40",
+      "element": "Victim's statements before, during, and after the incident"
+    },
+    {
+      "id": "strangulation_41",
+      "element": "Suspect's demeanor before, during, and after the incident"
+    },
+    {
+      "id": "strangulation_42",
+      "element": "Suspect's access to firearms"
+    },
+    {
+      "id": "strangulation_43",
+      "element": "Threats to use firearms"
+    },
+    {
+      "id": "strangulation_44",
+      "element": "Reason for stopping the strangulation"
+    },
+    {
+      "id": "strangulation_45",
+      "element": "Medical attention provided"
+    },
+    {
+      "id": "strangulation_46",
+      "element": "Scene description/diagram"
+    },
+    {
+      "id": "strangulation_47",
+      "element": "Follow-up photos"
+    },
+    {
+      "id": "strangulation_48",
+      "element": "Relationship between parties"
+    },
+    {
+      "id": "strangulation_49",
+      "element": "Valid protection order in place"
+    },
+    {
+      "id": "strangulation_50",
+      "element": "Events pre and post strangulation"
+    },
+    {
+      "id": "strangulation_51",
+      "element": "Previous incidents of strangulation, domestic/sexual violence, threats, or stalking"
+    },
+    {
+      "id": "strangulation_52",
+      "element": "Witness statements"
+    },
+    {
+      "id": "strangulation_53",
+      "element": "Method of strangulation (one hand, two hands, forearm, other body part, ligature, etc.)"
+    },
+    {
+      "id": "strangulation_54",
+      "element": "Other weapons involved"
+    },
+    {
+      "id": "strangulation_55",
+      "element": "Direction of strangulation (from front or behind)"
+    },
+    {
+      "id": "strangulation_56",
+      "element": "Time of call, dispatch, and arrival"
+    },
+    {
+      "id": "strangulation_57",
+      "element": "Arrest made"
+    },
+    {
+      "id": "strangulation_58",
+      "element": "Suspect's injuries"
+    },
+    {
+      "id": "strangulation_59",
+      "element": "Injuries on suspect that may have been caused by the victim in self-defense"
+    },
+    {
+      "id": "strangulation_60",
+      "element": "Local service providers' information"
+    }
+  ]
+}

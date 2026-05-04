@@ -1,0 +1,237 @@
+{
+  "crime_type": "Sexual Assault",
+  "required_elements": [
+    {
+      "id": "sexual_assault_01",
+      "element": "Did the officer ask about firearms"
+    },
+    {
+      "id": "sexual_assault_02",
+      "element": "Did the suspect use firearms during the incident that occurred"
+    },
+    {
+      "id": "sexual_assault_03",
+      "element": "Did the suspect use firearms in previous incidents"
+    },
+    {
+      "id": "sexual_assault_04",
+      "element": "Did the suspect make threats\u2014 real or implied\u2014 to use firearms during the incident that occurred"
+    },
+    {
+      "id": "sexual_assault_05",
+      "element": "Did the suspect make threats\u2014 real or implied\u2014 to use firearms in previous incidents"
+    },
+    {
+      "id": "sexual_assault_06",
+      "element": "Does the suspect have access to firearms"
+    },
+    {
+      "id": "sexual_assault_07",
+      "element": "Details of the firearms, including location"
+    },
+    {
+      "id": "sexual_assault_08",
+      "element": "Did the victim express fear about the suspect\u2019s access to firearms"
+    },
+    {
+      "id": "sexual_assault_09",
+      "element": "How the victim's fear about the suspect's access to firearms was captured in the report"
+    },
+    {
+      "id": "sexual_assault_10",
+      "element": "Is this individual prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence"
+    },
+    {
+      "id": "sexual_assault_11",
+      "element": "Is this individual prohibited from possessing firearms due to a qualifying order of protection"
+    },
+    {
+      "id": "sexual_assault_12",
+      "element": "Is this individual prohibited from possessing firearms due to a dishonorable discharge from the military"
+    },
+    {
+      "id": "sexual_assault_13",
+      "element": "Time of the call, including time of incident, time of dispatch, and time of arrival"
+    },
+    {
+      "id": "sexual_assault_14",
+      "element": "Elements of the crime(s) articulated to meet state and/or federal laws"
+    },
+    {
+      "id": "sexual_assault_15",
+      "element": "Observations upon approach"
+    },
+    {
+      "id": "sexual_assault_16",
+      "element": "Scene(s) concisely described/diagramed"
+    },
+    {
+      "id": "sexual_assault_17",
+      "element": "Photos taken and details recorded"
+    },
+    {
+      "id": "sexual_assault_18",
+      "element": "Relationship of the parties identified"
+    },
+    {
+      "id": "sexual_assault_19",
+      "element": "History of the relationship, including frequency of any violence, intimidation, and threats"
+    },
+    {
+      "id": "sexual_assault_20",
+      "element": "All witnesses interviewed and documented"
+    },
+    {
+      "id": "sexual_assault_21",
+      "element": "Outcry witness interviewed"
+    },
+    {
+      "id": "sexual_assault_22",
+      "element": "Comprehensive information about the suspect gathered"
+    },
+    {
+      "id": "sexual_assault_23",
+      "element": "Weapons/objects used"
+    },
+    {
+      "id": "sexual_assault_24",
+      "element": "Emotional state of the victim"
+    },
+    {
+      "id": "sexual_assault_25",
+      "element": "Emotional state of the suspect"
+    },
+    {
+      "id": "sexual_assault_26",
+      "element": "Arrest made"
+    },
+    {
+      "id": "sexual_assault_27",
+      "element": "Evidence collected"
+    },
+    {
+      "id": "sexual_assault_28",
+      "element": "All injuries (visible and non-visible) documented"
+    },
+    {
+      "id": "sexual_assault_29",
+      "element": "Injuries existing or new"
+    },
+    {
+      "id": "sexual_assault_30",
+      "element": "Trauma documented in the report"
+    },
+    {
+      "id": "sexual_assault_31",
+      "element": "All threats clearly documented"
+    },
+    {
+      "id": "sexual_assault_32",
+      "element": "Victim\u2019s fear effectively documented"
+    },
+    {
+      "id": "sexual_assault_33",
+      "element": "Use of coercion and/or force articulated"
+    },
+    {
+      "id": "sexual_assault_34",
+      "element": "Property damage, theft, or burglary"
+    },
+    {
+      "id": "sexual_assault_35",
+      "element": "Suspect exam conducted"
+    },
+    {
+      "id": "sexual_assault_36",
+      "element": "Stalking behaviors identified in the report"
+    },
+    {
+      "id": "sexual_assault_37",
+      "element": "Suspect's pre-incident behaviors documented"
+    },
+    {
+      "id": "sexual_assault_38",
+      "element": "Victim reported being strangled (choked)"
+    },
+    {
+      "id": "sexual_assault_39",
+      "element": "Details of strangulation (hands, ligature, etc.)"
+    },
+    {
+      "id": "sexual_assault_40",
+      "element": "Victim asked about possible strangulation"
+    },
+    {
+      "id": "sexual_assault_41",
+      "element": "Proper protocol followed if the suspect was not on the scene"
+    },
+    {
+      "id": "sexual_assault_42",
+      "element": "Active warrants out for the suspect"
+    },
+    {
+      "id": "sexual_assault_43",
+      "element": "Suspect's history of protection orders"
+    },
+    {
+      "id": "sexual_assault_44",
+      "element": "Valid protection order in place and verified"
+    },
+    {
+      "id": "sexual_assault_45",
+      "element": "Other identified victims"
+    },
+    {
+      "id": "sexual_assault_46",
+      "element": "Case coded properly"
+    },
+    {
+      "id": "sexual_assault_47",
+      "element": "Ongoing sexual abuse by the suspect"
+    },
+    {
+      "id": "sexual_assault_48",
+      "element": "All spontaneous statements captured"
+    },
+    {
+      "id": "sexual_assault_49",
+      "element": "Victim incapacitated or incapable of giving consent"
+    },
+    {
+      "id": "sexual_assault_50",
+      "element": "Drugs or alcohol used by the victim, including amounts and timespan"
+    },
+    {
+      "id": "sexual_assault_51",
+      "element": "Victim believes they were drugged"
+    },
+    {
+      "id": "sexual_assault_52",
+      "element": "Blood and urine collected if drug-facilitated sex assault is suspected"
+    },
+    {
+      "id": "sexual_assault_53",
+      "element": "Mental and/or physical incapacities documented"
+    },
+    {
+      "id": "sexual_assault_54",
+      "element": "Officers assisted the victim with safety planning"
+    },
+    {
+      "id": "sexual_assault_55",
+      "element": "Victim provided with information about local service providers"
+    },
+    {
+      "id": "sexual_assault_56",
+      "element": "Forensic examination of the victim conducted"
+    },
+    {
+      "id": "sexual_assault_57",
+      "element": "Threat/risk assessment tool used with the victim"
+    },
+    {
+      "id": "sexual_assault_58",
+      "element": "Firearms/weapons confiscated, including grounds for confiscation"
+    }
+  ]
+}

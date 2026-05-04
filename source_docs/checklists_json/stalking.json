@@ -1,0 +1,137 @@
+{
+  "crime_type": "Stalking",
+  "required_elements": [
+    {
+      "id": "stalking_01",
+      "element": "Time of the call recorded (including time of incident, time of dispatch, time of arrival)"
+    },
+    {
+      "id": "stalking_02",
+      "element": "Relationship of the parties identified"
+    },
+    {
+      "id": "stalking_03",
+      "element": "History of the relationship (include frequency of any violence, intimidation, and threats)"
+    },
+    {
+      "id": "stalking_04",
+      "element": "Stalking behaviors articulated (e.g. following, repeated calling, sending unwanted gifts)"
+    },
+    {
+      "id": "stalking_05",
+      "element": "Valid protection order in place and verified"
+    },
+    {
+      "id": "stalking_06",
+      "element": "All witnesses interviewed and documented"
+    },
+    {
+      "id": "stalking_07",
+      "element": "Information about previous incidents documented"
+    },
+    {
+      "id": "stalking_08",
+      "element": "Evidence collected"
+    },
+    {
+      "id": "stalking_09",
+      "element": "Electronic/technological evidence collected"
+    },
+    {
+      "id": "stalking_10",
+      "element": "All incidents of stalking behavior on cell phones, computers, and recording devices captured"
+    },
+    {
+      "id": "stalking_11",
+      "element": "Scene(s) concisely described/diagramed"
+    },
+    {
+      "id": "stalking_12",
+      "element": "Weapons/objects used"
+    },
+    {
+      "id": "stalking_13",
+      "element": "Emotional state of the victim (what they were thinking and feeling)"
+    },
+    {
+      "id": "stalking_14",
+      "element": "Evidence of fear articulated in the report"
+    },
+    {
+      "id": "stalking_15",
+      "element": "All threats clearly documented"
+    },
+    {
+      "id": "stalking_16",
+      "element": "Use of coercion and/or force articulated"
+    },
+    {
+      "id": "stalking_17",
+      "element": "All injuries (visible and non-visible) properly documented"
+    },
+    {
+      "id": "stalking_18",
+      "element": "Property damage, theft, or burglary documented"
+    },
+    {
+      "id": "stalking_19",
+      "element": "Photos taken and details recorded"
+    },
+    {
+      "id": "stalking_20",
+      "element": "Victim's report of being strangled (choked) described in detail"
+    },
+    {
+      "id": "stalking_21",
+      "element": "Victim's need for medical attention documented"
+    },
+    {
+      "id": "stalking_22",
+      "element": "All spontaneous statements captured"
+    },
+    {
+      "id": "stalking_23",
+      "element": "Elements of the stalking crime thoroughly articulated"
+    },
+    {
+      "id": "stalking_24",
+      "element": "Victim's safety planning documented"
+    },
+    {
+      "id": "stalking_25",
+      "element": "Information about obtaining an order of protection provided to the victim"
+    },
+    {
+      "id": "stalking_26",
+      "element": "Information about local service providers supplied to the victim"
+    },
+    {
+      "id": "stalking_27",
+      "element": "Threat/risk assessment tool utilized with the victim"
+    },
+    {
+      "id": "stalking_28",
+      "element": "Use of a stalking kit and/or stalking log discussed with the victim"
+    },
+    {
+      "id": "stalking_29",
+      "element": "Suspect's access to weapons documented"
+    },
+    {
+      "id": "stalking_30",
+      "element": "Emotional state of the suspect (what they were thinking and feeling)"
+    },
+    {
+      "id": "stalking_31",
+      "element": "Suspect's history of protection orders"
+    },
+    {
+      "id": "stalking_32",
+      "element": "Suspect's prohibition from possessing firearms due to a conviction for a misdemeanor crime of domestic violence or a qualifying order of protection"
+    },
+    {
+      "id": "stalking_33",
+      "element": "Active warrants out for the suspect documented"
+    }
+  ]
+}

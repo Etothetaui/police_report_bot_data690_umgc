@@ -1,0 +1,157 @@
+{
+  "crime_type": "Protection Order Violation",
+  "required_elements": [
+    {
+      "id": "protection_order_violation_01",
+      "element": "Did the suspect use firearms during the incident that occurred?"
+    },
+    {
+      "id": "protection_order_violation_02",
+      "element": "Did the suspect use firearms in previous incidents?"
+    },
+    {
+      "id": "protection_order_violation_03",
+      "element": "Did the suspect make threats\u2014 real or implied\u2014 to use firearms during the incident that occurred?"
+    },
+    {
+      "id": "protection_order_violation_04",
+      "element": "Did the suspect make threats\u2014 real or implied\u2014 to use firearms in previous incidents?"
+    },
+    {
+      "id": "protection_order_violation_05",
+      "element": "Does the suspect have access to firearms? If so, what are the details of the firearms? Where are they located?"
+    },
+    {
+      "id": "protection_order_violation_06",
+      "element": "Did the victim express fear about the suspect\u2019s access to firearms? If so, how was this captured in the report?"
+    },
+    {
+      "id": "protection_order_violation_07",
+      "element": "Were firearms/weapons confiscated? If so, on what grounds?"
+    },
+    {
+      "id": "protection_order_violation_08",
+      "element": "Is this individual prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence?"
+    },
+    {
+      "id": "protection_order_violation_09",
+      "element": "Is this individual prohibited from possessing firearms due to a qualifying order of protection?"
+    },
+    {
+      "id": "protection_order_violation_10",
+      "element": "Is this individual prohibited from possessing firearms due to dishonorable discharge from the military?"
+    },
+    {
+      "id": "protection_order_violation_11",
+      "element": "Is the relationship of the parties identified?"
+    },
+    {
+      "id": "protection_order_violation_12",
+      "element": "What is the history of the relationship? (include frequency of any violence, intimidation, and threats)"
+    },
+    {
+      "id": "protection_order_violation_13",
+      "element": "Were all witnesses interviewed and documented?"
+    },
+    {
+      "id": "protection_order_violation_14",
+      "element": "Were weapons/objects used?"
+    },
+    {
+      "id": "protection_order_violation_15",
+      "element": "What was the emotional state of the victim (what did they report they were thinking and feeling)?"
+    },
+    {
+      "id": "protection_order_violation_16",
+      "element": "What evidence was collected?"
+    },
+    {
+      "id": "protection_order_violation_17",
+      "element": "Is evidence of fear articulated in the report?"
+    },
+    {
+      "id": "protection_order_violation_18",
+      "element": "Have all threats been clearly documented?"
+    },
+    {
+      "id": "protection_order_violation_19",
+      "element": "Are stalking behaviors identified? (e.g. following, repeated calling, sending unwanted gifts)"
+    },
+    {
+      "id": "protection_order_violation_20",
+      "element": "Is the use of coercion and/or force articulated?"
+    },
+    {
+      "id": "protection_order_violation_21",
+      "element": "Have all injuries (visible and non-visible) been documented? Were injuries existing or new?"
+    },
+    {
+      "id": "protection_order_violation_22",
+      "element": "Was there any property damage? Theft? Burglary?"
+    },
+    {
+      "id": "protection_order_violation_23",
+      "element": "Did the victim report being strangled (\u201cchoked\u201d)? If so, was it described in detail?"
+    },
+    {
+      "id": "protection_order_violation_24",
+      "element": "Did the victim need medical attention?"
+    },
+    {
+      "id": "protection_order_violation_25",
+      "element": "Were all spontaneous statements captured and documented?"
+    },
+    {
+      "id": "protection_order_violation_26",
+      "element": "Was information provided to the victim about local service providers?"
+    },
+    {
+      "id": "protection_order_violation_27",
+      "element": "Was a threat/risk assessment tool used with the victim?"
+    },
+    {
+      "id": "protection_order_violation_28",
+      "element": "Did the officer gather comprehensive information about the suspect?"
+    },
+    {
+      "id": "protection_order_violation_29",
+      "element": "Was an arrest made?"
+    },
+    {
+      "id": "protection_order_violation_30",
+      "element": "What was the emotional state of the suspect (what did they report they were thinking and feeling)?"
+    },
+    {
+      "id": "protection_order_violation_31",
+      "element": "Was a threat/risk assessment tool used with the suspect?"
+    },
+    {
+      "id": "protection_order_violation_32",
+      "element": "Was the proper protocol followed if the suspect was not on the scene?"
+    },
+    {
+      "id": "protection_order_violation_33",
+      "element": "Are there any active warrants out for the suspect?"
+    },
+    {
+      "id": "protection_order_violation_34",
+      "element": "Has the suspect been the respondent to a protection order in the past?"
+    },
+    {
+      "id": "protection_order_violation_35",
+      "element": "Is the time of the call recorded (including time of incident, time of dispatch, time of arrival)?"
+    },
+    {
+      "id": "protection_order_violation_36",
+      "element": "Is the scene concisely described/diagramed?"
+    },
+    {
+      "id": "protection_order_violation_37",
+      "element": "Were photos taken and details recorded?"
+    },
+    {
+      "id": "protection_order_violation_38",
+      "element": "Are the elements of the crime(s) articulated to meet state and/or federal laws?"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "crime_type": "Domestic Violence",
+  "required_elements": [
+    {
+      "id": "domestic_violence_01",
+      "element": "Is this individual prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence"
+    },
+    {
+      "id": "domestic_violence_02",
+      "element": "Is this individual prohibited from possessing firearms due to a qualifying order of protection"
+    },
+    {
+      "id": "domestic_violence_03",
+      "element": "Does the report include all needed information"
+    },
+    {
+      "id": "domestic_violence_04",
+      "element": "Did the officer assist the victim"
+    },
+    {
+      "id": "domestic_violence_05",
+      "element": "How was the case received"
+    },
+    {
+      "id": "domestic_violence_06",
+      "element": "Was information provided about obtaining an order of protection"
+    },
+    {
+      "id": "domestic_violence_07",
+      "element": "Is the time of the call recorded (including time of incident, time of dispatch, time of arrival)"
+    },
+    {
+      "id": "domestic_violence_08",
+      "element": "Was information provided to the victim about local service providers"
+    },
+    {
+      "id": "domestic_violence_09",
+      "element": "Are the elements of the crime(s) articulated to meet state and/or federal laws that address domestic violence"
+    },
+    {
+      "id": "domestic_violence_10",
+      "element": "Was a threat/risk assessment tool used with the victim"
+    },
+    {
+      "id": "domestic_violence_11",
+      "element": "What were the observations upon approach"
+    },
+    {
+      "id": "domestic_violence_12",
+      "element": "Is there a valid protection order in place"
+    },
+    {
+      "id": "domestic_violence_13",
+      "element": "Is the scene concisely described/diagramed"
+    },
+    {
+      "id": "domestic_violence_14",
+      "element": "Were photos taken and details recorded"
+    },
+    {
+      "id": "domestic_violence_15",
+      "element": "Is the relationship of the parties identified"
+    },
+    {
+      "id": "domestic_violence_16",
+      "element": "What is the history of the relationship (include frequency of any violence, intimidation, and threats)"
+    },
+    {
+      "id": "domestic_violence_17",
+      "element": "Were all witnesses interviewed and documented"
+    },
+    {
+      "id": "domestic_violence_18",
+      "element": "Was an arrest made"
+    },
+    {
+      "id": "domestic_violence_19",
+      "element": "Were there children on the scene"
+    },
+    {
+      "id": "domestic_violence_20",
+      "element": "Was information about previous incidents documented"
+    },
+    {
+      "id": "domestic_violence_21",
+      "element": "Were weapons/objects used"
+    },
+    {
+      "id": "domestic_violence_22",
+      "element": "What was the emotional state of the victim"
+    },
+    {
+      "id": "domestic_violence_23",
+      "element": "What was the emotional state of the suspect"
+    },
+    {
+      "id": "domestic_violence_24",
+      "element": "What evidence was collected"
+    },
+    {
+      "id": "domestic_violence_25",
+      "element": "Was a threat/risk assessment tool used with the suspect"
+    },
+    {
+      "id": "domestic_violence_26",
+      "element": "Is evidence of fear articulated in the report"
+    },
+    {
+      "id": "domestic_violence_27",
+      "element": "Have all threats been clearly documented"
+    },
+    {
+      "id": "domestic_violence_28",
+      "element": "Was the proper protocol followed if the suspect was not on the scene"
+    },
+    {
+      "id": "domestic_violence_29",
+      "element": "Is the use of coercion and/or force articulated"
+    },
+    {
+      "id": "domestic_violence_30",
+      "element": "Have all injuries (visible and non-visible) been documented"
+    },
+    {
+      "id": "domestic_violence_31",
+      "element": "Were injuries existing or new"
+    },
+    {
+      "id": "domestic_violence_32",
+      "element": "Was there any property damage, theft, or burglary"
+    },
+    {
+      "id": "domestic_violence_33",
+      "element": "Are stalking behaviors identified"
+    },
+    {
+      "id": "domestic_violence_34",
+      "element": "Did the officer inquire about possible strangulation"
+    },
+    {
+      "id": "domestic_violence_35",
+      "element": "Did the victim report being strangled"
+    },
+    {
+      "id": "domestic_violence_36",
+      "element": "Did the victim request/need medical attention"
+    },
+    {
+      "id": "domestic_violence_37",
+      "element": "Did the victim report sexual violence"
+    },
+    {
+      "id": "domestic_violence_38",
+      "element": "Were all spontaneous statements captured"
+    },
+    {
+      "id": "domestic_violence_39",
+      "element": "Did the officer ask about firearms"
+    },
+    {
+      "id": "domestic_violence_40",
+      "element": "Did the suspect use firearms during the incident"
+    },
+    {
+      "id": "domestic_violence_41",
+      "element": "Did the suspect make threats to use firearms"
+    },
+    {
+      "id": "domestic_violence_42",
+      "element": "Does the suspect have access to firearms"
+    },
+    {
+      "id": "domestic_violence_43",
+      "element": "Did the victim express fear about the suspect's access to firearms"
+    },
+    {
+      "id": "domestic_violence_44",
+      "element": "Were firearms/weapons confiscated"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "crime_type": "Partner/Family Member Assault",
+  "required_elements": [
+    {
+      "id": "partner_family_member_assault_01",
+      "element": "Time of incident and arrival"
+    },
+    {
+      "id": "partner_family_member_assault_02",
+      "element": "Relevant 911 information"
+    },
+    {
+      "id": "partner_family_member_assault_03",
+      "element": "Immediate statements of either party"
+    },
+    {
+      "id": "partner_family_member_assault_04",
+      "element": "Relationship of parties involved/witnesses"
+    },
+    {
+      "id": "partner_family_member_assault_05",
+      "element": "Name, address, phone \u2013 work/home, employer, etc."
+    },
+    {
+      "id": "partner_family_member_assault_06",
+      "element": "Individual\u2019s account of events"
+    },
+    {
+      "id": "partner_family_member_assault_07",
+      "element": "When and how violence started"
+    },
+    {
+      "id": "partner_family_member_assault_08",
+      "element": "Officer observation related to account of events"
+    },
+    {
+      "id": "partner_family_member_assault_09",
+      "element": "Injuries, including those not visible, i.e. sexual assault, strangulation"
+    },
+    {
+      "id": "partner_family_member_assault_10",
+      "element": "Emotional state/demeanor"
+    },
+    {
+      "id": "partner_family_member_assault_11",
+      "element": "Alcohol or drug use/impairment"
+    },
+    {
+      "id": "partner_family_member_assault_12",
+      "element": "Evidence collected (i.e. pictures, statements, weapons)"
+    },
+    {
+      "id": "partner_family_member_assault_13",
+      "element": "Children present, involvement in incident, general welfare; or Children not present, but reside at the residence"
+    },
+    {
+      "id": "partner_family_member_assault_14",
+      "element": "Medical help offered or used, facility, medical release obtained"
+    },
+    {
+      "id": "partner_family_member_assault_15",
+      "element": "Rationale for arrest or non-arrest decisions"
+    },
+    {
+      "id": "partner_family_member_assault_16",
+      "element": "Summary of actions (i.e. arrest, non-arrest, attempt to locate, transport, referrals, victim rights form, seizing firearms)"
+    },
+    {
+      "id": "partner_family_member_assault_17",
+      "element": "Existence of Orders of Protection, probation, warrants, prior convictions"
+    },
+    {
+      "id": "partner_family_member_assault_18",
+      "element": "Victim responses to risk questions including your observations of their responses"
+    }
+  ]
+}
