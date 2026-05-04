@@ -1,0 +1,6 @@
+pdfplumber
+groq
+gradio
+pandas
+reportlab
+language-tool-python

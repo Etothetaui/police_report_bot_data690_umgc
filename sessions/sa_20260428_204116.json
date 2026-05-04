@@ -1,0 +1,1688 @@
+{
+  "session_id": "sa_20260428_204116",
+  "timestamp": "2026-04-28T20:41:16.624026",
+  "metadata": {
+    "crime_type": "Sexual Assault",
+    "interviewee_name": "Leila Morales-Ramirez",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible sexual assault reported at 1457 Oakwood Drive, victim is a 25-year-old female"
+  },
+  "scenario": {
+    "crime_type": "Sexual Assault",
+    "interviewee_role": "victim",
+    "interviewee_name": "Leila Morales-Ramirez",
+    "dispatch_line": "Possible sexual assault reported at 1457 Oakwood Drive, victim is a 25-year-old female",
+    "facts": {
+      "sexual_assault_01": "Yes, Officer Johnson asked the victim about firearms during the interview at 345 Elm Street, Apt 3, Oakland, CA 94601",
+      "sexual_assault_02": "No, the suspect did not use firearms during the incident",
+      "sexual_assault_03": "Yes, the suspect used firearms in a previous incident on February 10, 2022, at 123 Main Street, Anytown, CA 12345",
+      "sexual_assault_04": "Yes, the suspect made implied threats to use firearms during the incident",
+      "sexual_assault_05": "Yes, the suspect made real threats to use firearms in previous incidents",
+      "sexual_assault_06": "Yes, the suspect has access to firearms, specifically a handgun located at his residence, 789 Oak Street, Apt 101, Sacramento, CA 95814",
+      "sexual_assault_07": "The suspect has a 9mm handgun, located in his bedroom closet at 789 Oak Street, Apt 101, Sacramento, CA 95814",
+      "sexual_assault_08": "Yes, the victim expressed fear about the suspect's access to firearms",
+      "sexual_assault_09": "The victim's fear about the suspect's access to firearms was captured in the report on page 2, section 3, under 'Victim Statement'",
+      "sexual_assault_10": "Yes, the suspect is prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence on January 1, 2020",
+      "sexual_assault_11": "Yes, the suspect is prohibited from possessing firearms due to a qualifying order of protection, case number OP001234, issued on March 15, 2022",
+      "sexual_assault_12": "No, the suspect is not prohibited from possessing firearms due to a dishonorable discharge from the military",
+      "sexual_assault_13": "The call was received at 9:45 PM, the incident occurred at 9:30 PM, dispatch arrived at 9:50 PM, and the officers arrived at 10:00 PM on February 22, 2024",
+      "sexual_assault_14": "The elements of the crime(s) articulated to meet state and/or federal laws include domestic violence, stalking, and misdemeanor crime of domestic violence under California Penal Code 273.5 and 18 U.S.C. \u00a7 922(g)(9)",
+      "sexual_assault_15": "Upon approach, the officers observed a broken front door, a shattered window, and signs of a struggle at 345 Elm Street, Apt 3, Oakland, CA 94601",
+      "sexual_assault_16": "The scene was a residential apartment, with a living room, kitchen, bedroom, and bathroom, and a small balcony at 345 Elm Street, Apt 3, Oakland, CA 94601",
+      "sexual_assault_17": "Photos were taken of the broken front door, shattered window, and signs of a struggle, and details were recorded on pages 4-6 of the report",
+      "sexual_assault_18": "The relationship of the parties was identified as intimate partners, with the suspect being the boyfriend and the victim being the girlfriend",
+      "sexual_assault_19": "The history of the relationship included frequent arguments, with the suspect having a history of violence, intimidation, and threats, including a previous incident on January 10, 2023",
+      "sexual_assault_20": "All witnesses, including the neighbor, Ms. Maria Rodriguez, 123 Main Street, Apt 2, Anytown, CA 12345, and the victim's best friend, Mr. John Lee, 456 Broadway, Apt 3, New York, NY 10013, were interviewed and documented on pages 7-9 of the report",
+      "sexual_assault_21": "Yes, the outcry witness, Ms. Emily Chen, 901 5th Street, Apt 1, Los Angeles, CA 90017, was interviewed and documented on page 10 of the report",
+      "sexual_assault_22": "Comprehensive information about the suspect, including his name, address, phone number, and employment, was gathered and documented on pages 11-12 of the report",
+      "sexual_assault_23": "A broken vase and a kitchen knife were used as objects in the altercation",
+      "sexual_assault_24": "The emotional state of the victim was anxious and fearful",
+      "sexual_assault_25": "The emotional state of the suspect was calm and cooperative during the initial interview, but became agitated when confronted with evidence",
+      "sexual_assault_26": "Yes, an arrest was made, and the suspect, Mr. David Kim, was taken into custody at 11:15 PM on February 22, 2024",
+      "sexual_assault_27": "Evidence collected included the broken vase, kitchen knife, and a written statement from the victim",
+      "sexual_assault_28": "All injuries, including a bruise on the victim's left arm and a cut on the suspect's right hand, were documented on pages 13-14 of the report",
+      "sexual_assault_29": "The injuries were new, and the victim reported that they occurred during the incident on February 22, 2024",
+      "sexual_assault_30": "Yes, trauma was documented in the report on pages 15-16, including emotional distress and physical injuries",
+      "sexual_assault_31": "All threats, including implied and real threats to use firearms, were clearly documented on pages 17-18 of the report",
+      "sexual_assault_32": "The victim's fear of the suspect's access to firearms was effectively documented on page 2, section 3, under 'Victim Statement'",
+      "sexual_assault_33": "The use of coercion and force, including physical violence and intimidation, was articulated in the report on pages 19-20",
+      "sexual_assault_34": "Property damage, including a broken front door and shattered window, was documented on pages 4-6 of the report",
+      "sexual_assault_35": "A suspect exam was conducted at the Oakland Police Department, 455 7th Street, Oakland, CA 94607, and documented on pages 21-22",
+      "sexual_assault_36": "Stalking behaviors, including frequent phone calls and showing up at the victim's workplace, were identified in the report on pages 23-24",
+      "sexual_assault_37": "The suspect's pre-incident behaviors, including a history of violence and intimidation, were documented on pages 25-26 of the report",
+      "sexual_assault_38": "Yes, the victim reported being strangled by the suspect during the incident",
+      "sexual_assault_39": "The details of the strangulation, including the use of the suspect's hands, were documented on page 27 of the report",
+      "sexual_assault_40": "Yes, the victim was asked about possible strangulation and reported difficulty breathing and neck pain",
+      "sexual_assault_41": "Proper protocol was followed when the suspect was not on the scene, including obtaining a warrant for his arrest",
+      "sexual_assault_42": "Yes, there was an active warrant out for the suspect, case number WA001234, issued on January 10, 2023",
+      "sexual_assault_43": "The suspect had a history of protection orders, including case number OP001234, issued on March 15, 2022",
+      "sexual_assault_44": "Yes, a valid protection order was in place and verified, case number OP001234, issued on March 15, 2022",
+      "sexual_assault_45": "Other identified victims included the suspect's ex-girlfriend, Ms. Sophia Patel, 678 Maple Street, Apt 4, San Francisco, CA 94102",
+      "sexual_assault_46": "The case was coded properly as a domestic violence and stalking case, incident number DV001234",
+      "sexual_assault_47": "Yes, there was ongoing sexual abuse by the suspect, including forced intercourse and unwanted touching",
+      "sexual_assault_48": "All spontaneous statements, including the victim's initial outcry, were captured and documented on pages 28-29 of the report",
+      "sexual_assault_49": "The victim was incapacitated due to fear and intimidation, and was incapable of giving consent",
+      "sexual_assault_50": "The victim had been drinking alcohol, approximately 2 glasses of wine, from 6:00 PM to 8:00 PM on the day of the incident",
+      "sexual_assault_51": "The victim did not believe they were drugged, but reported feeling disoriented and dizzy during the incident",
+      "sexual_assault_52": "Blood and urine samples were collected from the victim at the hospital, 3000 Summit Street, Oakland, CA 94609, as part of the forensic examination",
+      "sexual_assault_53": "Mental and physical incapacities, including anxiety and depression, were documented on pages 30-31 of the report",
+      "sexual_assault_54": "The officers assisted the victim with safety planning, including providing information about emergency shelters and counseling services",
+      "sexual_assault_55": "The victim was provided with information about local service providers, including the National Domestic Violence Hotline, 1-800-799-7233",
+      "sexual_assault_56": "A forensic examination of the victim was conducted at the hospital, 3000 Summit Street, Oakland, CA 94609, and documented on pages 32-33 of the report",
+      "sexual_assault_57": "A threat/risk assessment tool was used with the victim, including the Danger Assessment tool, and documented on pages 34-35 of the report",
+      "sexual_assault_58": "The suspect's firearms, including a 9mm handgun, were not confiscated at the scene because they were located at a different address, but a search warrant will be sought to confiscate them, with grounds for confiscation including the valid protection order and the suspect's conviction for a misdemeanor crime of domestic violence"
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Hey. So you're the one who called about the sexual assault? What were you wearing tonight?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nervously) Yeah... I'm the one who called. I was wearing a pair of jeans and a white sweater. (pauses, looking uncomfortable) I don't see how that's relevant, though. Can we please focus on what happened? I'm still trying to process everything. (takes a deep breath) It's all really scary and overwhelming.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Had you been drinking? And did you know the guy beforehand? Because usually these things happen when people know each other.",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(tearfully) Yeah, I had been drinking. I had a couple of glasses of wine earlier in the evening. And, yeah, I knew him. He's my boyfriend... or at least, he was. We've been together for a while, but things have been really bad between us lately. He's been getting more and more controlling and violent, and I've been trying to get away from him. But tonight... tonight was just really bad. (starts to cry) He did some terrible things to me, and I'm still trying to wrap my head around it all.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "I see. So where exactly were you two when this happened? Like what room?"
+    },
+    {
+      "role": "assistant",
+      "content": "(sniffling) We were in my apartment... in the bedroom. That's where most of it happened. But he also... he also hurt me in the living room. He broke some things, and... (pauses, collecting her thoughts) There was a struggle, and I tried to get away from him. But he was too strong. (shakes her head, trying to hold back tears) It was just really scary."
+    }
+  ],
+  "coverage_flags": {
+    "sexual_assault_01": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_02": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_03": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_04": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_05": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_06": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_07": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_08": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_09": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_10": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_11": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_12": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_13": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_14": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_15": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_16": {
+      "covered": "partial",
+      "messages": {
+        "4": {
+          "officer_message": "I see. So where exactly were you two when this happened? Like what room?",
+          "coverage": "partial",
+          "reasoning": "The officer asked about the location where the incident occurred, which is related to describing the scene, but did not explicitly ask for a description of the scene."
+        }
+      }
+    },
+    "sexual_assault_17": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_18": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hey. So you're the one who called about the sexual assault? What were you wearing tonight?",
+          "coverage": "none",
+          "reasoning": "The question does not directly address the relationship of the parties"
+        },
+        "2": {
+          "officer_message": "Had you been drinking? And did you know the guy beforehand? Because usually these things happen when people know each other.",
+          "coverage": "partial",
+          "reasoning": "The officer asked if the victim knew the guy beforehand, which touches the topic of the relationship between the parties, but does not directly ask for the nature of their relationship."
+        },
+        "4": {
+          "officer_message": "I see. So where exactly were you two when this happened? Like what room?",
+          "coverage": "partial",
+          "reasoning": "The officer asked about the location of the incident, which may imply the parties were together, but did not directly ask about their relationship."
+        }
+      }
+    },
+    "sexual_assault_19": {
+      "covered": "partial",
+      "messages": {
+        "2": {
+          "officer_message": "Had you been drinking? And did you know the guy beforehand? Because usually these things happen when people know each other.",
+          "coverage": "partial",
+          "reasoning": "The officer's question about knowing the guy beforehand implies a potential history between the parties, but does not explicitly ask about the history of the relationship or previous incidents."
+        }
+      }
+    },
+    "sexual_assault_20": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_21": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_22": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_23": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hey. So you're the one who called about the sexual assault? What were you wearing tonight?",
+          "coverage": "none",
+          "reasoning": "The question does not directly address weapons or objects used"
+        },
+        "4": {
+          "officer_message": "I see. So where exactly were you two when this happened? Like what room?",
+          "coverage": "none",
+          "reasoning": "The question does not address weapons or objects used."
+        }
+      }
+    },
+    "sexual_assault_24": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hey. So you're the one who called about the sexual assault? What were you wearing tonight?",
+          "coverage": "none",
+          "reasoning": "The question does not directly address the emotional state of the victim"
+        }
+      }
+    },
+    "sexual_assault_25": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_26": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_27": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_28": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hey. So you're the one who called about the sexual assault? What were you wearing tonight?",
+          "coverage": "none",
+          "reasoning": "The question does not directly address all injuries visible and non-visible documented"
+        },
+        "4": {
+          "officer_message": "I see. So where exactly were you two when this happened? Like what room?",
+          "coverage": "none",
+          "reasoning": "The question does not address injuries."
+        }
+      }
+    },
+    "sexual_assault_29": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_30": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_31": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_32": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_33": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_34": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_35": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_36": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_37": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_38": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_39": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_40": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_41": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_42": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_43": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_44": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_45": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_46": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_47": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_48": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_49": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_50": {
+      "covered": "partial",
+      "messages": {
+        "2": {
+          "officer_message": "Had you been drinking? And did you know the guy beforehand? Because usually these things happen when people know each other.",
+          "coverage": "partial",
+          "reasoning": "The officer asked if the victim had been drinking, which touches the topic of substance use but does not ask about the amount or timespan of consumption."
+        }
+      }
+    },
+    "sexual_assault_51": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_52": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_53": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_54": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_55": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_56": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_57": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_58": {
+      "covered": false,
+      "messages": {}
+    }
+  },
+  "narrative": "SEXUAL ASSAULT REPORT\nOfficer: Davis\n\nResponded to 1457 Oakwood Drive for a sexual assault. Victim Leila Morales-Ramirez, a 25 year old female, reported she was sexually assaulted by her boyfriend. Victim had been drinking wine which likely impaired her judgement. The suspect, who victim knew well as her long-term boyfriend of 3 years, allegedly forced himself on her in the bedroom. Victim was wearing jeans and a sweater. The assault occured in the bedroom and also in the living room where the suspect broke some items. Victim was clearly overwelmed and upset. Based on the evidence and my experience this appears to be a domestic dispute that escalated. The victim and suspect have a history of violence between them. Victim was advised of her options. No medical attention requested by victim. Suspect had already fled the scene prior to officers arrival. This case is pretty straightforward and the victim likely knows the suspect's location.",
+  "narrative_coverage": {
+    "sexual_assault_01": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_02": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_03": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_04": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_05": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_06": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_07": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_08": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_09": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_11": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_12": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_13": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_14": {
+      "covered": "partial",
+      "phrases": {
+        "0": "SEXUAL ASSAULT REPORT"
+      }
+    },
+    "sexual_assault_15": {
+      "covered": "full",
+      "phrases": {
+        "1": "Officer: Davis"
+      }
+    },
+    "sexual_assault_16": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_17": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_18": {
+      "covered": "full",
+      "phrases": {
+        "2": "Victim Leila Morales-Ramirez, a 25 year old female, reported she was sexually assaulted by her boyfriend"
+      }
+    },
+    "sexual_assault_19": {
+      "covered": "partial",
+      "phrases": {
+        "2": "The victim and suspect have a history of violence between them"
+      }
+    },
+    "sexual_assault_20": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_21": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_22": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_23": {
+      "covered": "none",
+      "phrases": {
+        "2": ""
+      }
+    },
+    "sexual_assault_24": {
+      "covered": "partial",
+      "phrases": {
+        "2": "Victim was clearly overwelmed and upset"
+      }
+    },
+    "sexual_assault_25": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_26": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_27": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_28": {
+      "covered": "none",
+      "phrases": {
+        "2": ""
+      }
+    },
+    "sexual_assault_29": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_30": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_31": {
+      "covered": "none",
+      "phrases": {
+        "2": ""
+      }
+    },
+    "sexual_assault_32": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_33": {
+      "covered": "partial",
+      "phrases": {
+        "2": "allegedly forced himself on her in the bedroom"
+      }
+    },
+    "sexual_assault_34": {
+      "covered": "partial",
+      "phrases": {
+        "2": "in the living room where the suspect broke some items"
+      }
+    },
+    "sexual_assault_35": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_36": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_37": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_38": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_39": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_40": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_41": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_42": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_43": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_44": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_45": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_46": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_47": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_48": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_49": {
+      "covered": "partial",
+      "phrases": {
+        "2": "Victim had been drinking wine which likely impaired her judgement"
+      }
+    },
+    "sexual_assault_50": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_51": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_52": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_53": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_54": {
+      "covered": "partial",
+      "phrases": {
+        "2": "Victim was advised of her options"
+      }
+    },
+    "sexual_assault_55": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_56": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_57": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_58": {
+      "covered": false,
+      "phrases": {}
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "sexual_assault_01",
+        "element": "Did the officer ask about firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_02",
+        "element": "Did the suspect use firearms during the incident that occurred",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_03",
+        "element": "Did the suspect use firearms in previous incidents",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_04",
+        "element": "Did the suspect make threats\u2014 real or implied\u2014 to use firearms during the incident that occurred",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_05",
+        "element": "Did the suspect make threats\u2014 real or implied\u2014 to use firearms in previous incidents",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_06",
+        "element": "Does the suspect have access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_07",
+        "element": "Details of the firearms, including location",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_08",
+        "element": "Did the victim express fear about the suspect\u2019s access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_09",
+        "element": "How the victim's fear about the suspect's access to firearms was captured in the report",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_10",
+        "element": "Is this individual prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_11",
+        "element": "Is this individual prohibited from possessing firearms due to a qualifying order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_12",
+        "element": "Is this individual prohibited from possessing firearms due to a dishonorable discharge from the military",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_13",
+        "element": "Time of the call, including time of incident, time of dispatch, and time of arrival",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_14",
+        "element": "Elements of the crime(s) articulated to meet state and/or federal laws",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "SEXUAL ASSAULT REPORT"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "sexual_assault_15",
+        "element": "Observations upon approach",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "Officer: Davis"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "sexual_assault_16",
+        "element": "Scene(s) concisely described/diagramed",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "4": {
+            "officer_message": "I see. So where exactly were you two when this happened? Like what room?",
+            "coverage": "partial",
+            "reasoning": "The officer asked about the location where the incident occurred, which is related to describing the scene, but did not explicitly ask for a description of the scene."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "sexual_assault_17",
+        "element": "Photos taken and details recorded",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_18",
+        "element": "Relationship of the parties identified",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hey. So you're the one who called about the sexual assault? What were you wearing tonight?",
+            "coverage": "none",
+            "reasoning": "The question does not directly address the relationship of the parties"
+          },
+          "2": {
+            "officer_message": "Had you been drinking? And did you know the guy beforehand? Because usually these things happen when people know each other.",
+            "coverage": "partial",
+            "reasoning": "The officer asked if the victim knew the guy beforehand, which touches the topic of the relationship between the parties, but does not directly ask for the nature of their relationship."
+          },
+          "4": {
+            "officer_message": "I see. So where exactly were you two when this happened? Like what room?",
+            "coverage": "partial",
+            "reasoning": "The officer asked about the location of the incident, which may imply the parties were together, but did not directly ask about their relationship."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "2": "Victim Leila Morales-Ramirez, a 25 year old female, reported she was sexually assaulted by her boyfriend"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "sexual_assault_19",
+        "element": "History of the relationship, including frequency of any violence, intimidation, and threats",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "2": {
+            "officer_message": "Had you been drinking? And did you know the guy beforehand? Because usually these things happen when people know each other.",
+            "coverage": "partial",
+            "reasoning": "The officer's question about knowing the guy beforehand implies a potential history between the parties, but does not explicitly ask about the history of the relationship or previous incidents."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "2": "The victim and suspect have a history of violence between them"
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "sexual_assault_20",
+        "element": "All witnesses interviewed and documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_21",
+        "element": "Outcry witness interviewed",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_22",
+        "element": "Comprehensive information about the suspect gathered",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_23",
+        "element": "Weapons/objects used",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hey. So you're the one who called about the sexual assault? What were you wearing tonight?",
+            "coverage": "none",
+            "reasoning": "The question does not directly address weapons or objects used"
+          },
+          "4": {
+            "officer_message": "I see. So where exactly were you two when this happened? Like what room?",
+            "coverage": "none",
+            "reasoning": "The question does not address weapons or objects used."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "2": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "sexual_assault_24",
+        "element": "Emotional state of the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hey. So you're the one who called about the sexual assault? What were you wearing tonight?",
+            "coverage": "none",
+            "reasoning": "The question does not directly address the emotional state of the victim"
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "2": "Victim was clearly overwelmed and upset"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "sexual_assault_25",
+        "element": "Emotional state of the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_26",
+        "element": "Arrest made",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_27",
+        "element": "Evidence collected",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_28",
+        "element": "All injuries (visible and non-visible) documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hey. So you're the one who called about the sexual assault? What were you wearing tonight?",
+            "coverage": "none",
+            "reasoning": "The question does not directly address all injuries visible and non-visible documented"
+          },
+          "4": {
+            "officer_message": "I see. So where exactly were you two when this happened? Like what room?",
+            "coverage": "none",
+            "reasoning": "The question does not address injuries."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "2": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "sexual_assault_29",
+        "element": "Injuries existing or new",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_30",
+        "element": "Trauma documented in the report",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_31",
+        "element": "All threats clearly documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "2": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "sexual_assault_32",
+        "element": "Victim\u2019s fear effectively documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_33",
+        "element": "Use of coercion and/or force articulated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "2": "allegedly forced himself on her in the bedroom"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "sexual_assault_34",
+        "element": "Property damage, theft, or burglary",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "2": "in the living room where the suspect broke some items"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "sexual_assault_35",
+        "element": "Suspect exam conducted",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_36",
+        "element": "Stalking behaviors identified in the report",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_37",
+        "element": "Suspect's pre-incident behaviors documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_38",
+        "element": "Victim reported being strangled (choked)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_39",
+        "element": "Details of strangulation (hands, ligature, etc.)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_40",
+        "element": "Victim asked about possible strangulation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_41",
+        "element": "Proper protocol followed if the suspect was not on the scene",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_42",
+        "element": "Active warrants out for the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_43",
+        "element": "Suspect's history of protection orders",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_44",
+        "element": "Valid protection order in place and verified",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_45",
+        "element": "Other identified victims",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_46",
+        "element": "Case coded properly",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_47",
+        "element": "Ongoing sexual abuse by the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_48",
+        "element": "All spontaneous statements captured",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_49",
+        "element": "Victim incapacitated or incapable of giving consent",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "2": "Victim had been drinking wine which likely impaired her judgement"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "sexual_assault_50",
+        "element": "Drugs or alcohol used by the victim, including amounts and timespan",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "2": {
+            "officer_message": "Had you been drinking? And did you know the guy beforehand? Because usually these things happen when people know each other.",
+            "coverage": "partial",
+            "reasoning": "The officer asked if the victim had been drinking, which touches the topic of substance use but does not ask about the amount or timespan of consumption."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "sexual_assault_51",
+        "element": "Victim believes they were drugged",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_52",
+        "element": "Blood and urine collected if drug-facilitated sex assault is suspected",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_53",
+        "element": "Mental and/or physical incapacities documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_54",
+        "element": "Officers assisted the victim with safety planning",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "2": "Victim was advised of her options"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "sexual_assault_55",
+        "element": "Victim provided with information about local service providers",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_56",
+        "element": "Forensic examination of the victim conducted",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_57",
+        "element": "Threat/risk assessment tool used with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_58",
+        "element": "Firearms/weapons confiscated, including grounds for confiscation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      }
+    ],
+    "contradictions_interview": [],
+    "contradictions_narrative": [],
+    "grammar": [
+      {
+        "chunk": 2,
+        "source": "language_tool",
+        "error_type": "YEAR_OLD_HYPHEN",
+        "excerpt": "25 year old",
+        "suggestion": "25-year-old"
+      },
+      {
+        "chunk": 2,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "judgement",
+        "suggestion": "judgment"
+      },
+      {
+        "chunk": 2,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "occured",
+        "suggestion": "occurred"
+      },
+      {
+        "chunk": 2,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "overwelmed",
+        "suggestion": "overwhelmed"
+      },
+      {
+        "chunk": 2,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "The suspect, who victim knew well as her long-term boyfriend of 3 years, allegedly forced himself on her in the bedroom.",
+        "suggestion": "The suspect, who the victim knew well as her long-term boyfriend of 3 years, allegedly forced himself on her in the bedroom."
+      },
+      {
+        "chunk": 2,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Victim had been drinking wine which likely impaired her judgement. The suspect, who victim knew well as her long-term boyfriend of 3 years, allegedly forced himself on her in the bedroom.",
+        "suggestion": "Victim had been drinking wine, which likely impaired her judgment. The suspect, who the victim knew well as her long-term boyfriend of 3 years, allegedly forced himself on her in the bedroom."
+      },
+      {
+        "chunk": 2,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Victim was advised of her options. No medical attention requested by victim.",
+        "suggestion": "The victim was advised of her options. No medical attention was requested by the victim."
+      },
+      {
+        "chunk": 2,
+        "source": "llm",
+        "error_type": "Verb tense inconsistency",
+        "excerpt": "Suspect had already fled the scene prior to officers arrival. This case is pretty straightforward and the victim likely knows the suspect's location.",
+        "suggestion": "The suspect had already fled the scene prior to the officers' arrival. This case appears to be pretty straightforward, and the victim likely knows the suspect's location."
+      }
+    ],
+    "style": [
+      {
+        "chunk": 0,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "The victim, who was clearly overwhelmed and upset",
+        "suggestion": "The victim had tears in her eyes, was shaking, and had a raised voice, indicating she was overwhelmed and upset"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 10",
+        "error_type": "chronological order",
+        "excerpt": "The suspect had already fled the scene prior to the officers' arrival",
+        "suggestion": "Upon arrival, I observed the suspect was not present, and the victim stated he had fled the scene"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "the victim, who was clearly overwhelmed and upset, was advised of her options",
+        "suggestion": "I advised the victim of her options, and she stated she did not want medical attention at that time"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "The victim, who was clearly overwhelmed and upset",
+        "suggestion": "The victim exhibited signs of distress, including tears and shaking"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 13",
+        "error_type": "long sentence",
+        "excerpt": "The victim, Leila Morales-Ramirez, reported being sexually assaulted by her boyfriend of 3 years at their residence, 1457 Oakwood Drive, with the assault occurring in both the bedroom and living room",
+        "suggestion": "The victim, Leila Morales-Ramirez, reported being sexually assaulted by her boyfriend. The assault occurred at their residence, 1457 Oakwood Drive. The victim stated the assault happened in both the bedroom and living room."
+      },
+      {
+        "chunk": 2,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "The assault occured in the bedroom and also in the living room where the suspect broke some items.",
+        "suggestion": "The suspect broke some items in the living room during the assault."
+      },
+      {
+        "chunk": 2,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "Based on the evidence and my experience this appears to be a domestic dispute that escalated.",
+        "suggestion": "The victim and suspect have a history of violence between them, as evidenced by previous incidents."
+      },
+      {
+        "chunk": 2,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "Victim was clearly overwelmed and upset.",
+        "suggestion": "The victim was crying and shaking, and her voice was trembling as she spoke."
+      },
+      {
+        "chunk": 2,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "The victim and suspect have a history of violence between them.",
+        "suggestion": "The victim stated that she and the suspect have a history of violence between them."
+      },
+      {
+        "chunk": 2,
+        "rule": "Rule 9",
+        "error_type": "jargon",
+        "excerpt": "This case is pretty straightforward",
+        "suggestion": "The facts of the case are clear and well-established."
+      },
+      {
+        "chunk": 2,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "Victim had been drinking wine which likely impaired her judgement.",
+        "suggestion": "The victim had consumed two glasses of wine, which may have affected her decision-making."
+      },
+      {
+        "chunk": 2,
+        "rule": "Rule 13",
+        "error_type": "long sentence",
+        "excerpt": "Responded to 1457 Oakwood Drive for a sexual assault. Victim Leila Morales-Ramirez, a 25 year old female, reported she was sexually assaulted by her boyfriend.",
+        "suggestion": "I responded to 1457 Oakwood Drive for a reported sexual assault. The victim, Leila Morales-Ramirez, a 25-year-old female, reported that she was sexually assaulted by her boyfriend."
+      },
+      {
+        "chunk": 2,
+        "rule": "Rule 15",
+        "error_type": "present tense",
+        "excerpt": "This case is pretty straightforward and the victim likely knows the suspect's location.",
+        "suggestion": "The case appeared straightforward, and the victim likely knew the suspect's location."
+      }
+    ],
+    "narrative_coverage": {
+      "sexual_assault_01": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_02": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_03": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_04": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_05": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_06": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_07": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_08": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_09": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_11": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_12": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_13": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_14": {
+        "covered": "partial",
+        "phrases": {
+          "0": "SEXUAL ASSAULT REPORT"
+        }
+      },
+      "sexual_assault_15": {
+        "covered": "full",
+        "phrases": {
+          "1": "Officer: Davis"
+        }
+      },
+      "sexual_assault_16": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_17": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_18": {
+        "covered": "full",
+        "phrases": {
+          "2": "Victim Leila Morales-Ramirez, a 25 year old female, reported she was sexually assaulted by her boyfriend"
+        }
+      },
+      "sexual_assault_19": {
+        "covered": "partial",
+        "phrases": {
+          "2": "The victim and suspect have a history of violence between them"
+        }
+      },
+      "sexual_assault_20": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_21": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_22": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_23": {
+        "covered": "none",
+        "phrases": {
+          "2": ""
+        }
+      },
+      "sexual_assault_24": {
+        "covered": "partial",
+        "phrases": {
+          "2": "Victim was clearly overwelmed and upset"
+        }
+      },
+      "sexual_assault_25": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_26": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_27": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_28": {
+        "covered": "none",
+        "phrases": {
+          "2": ""
+        }
+      },
+      "sexual_assault_29": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_30": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_31": {
+        "covered": "none",
+        "phrases": {
+          "2": ""
+        }
+      },
+      "sexual_assault_32": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_33": {
+        "covered": "partial",
+        "phrases": {
+          "2": "allegedly forced himself on her in the bedroom"
+        }
+      },
+      "sexual_assault_34": {
+        "covered": "partial",
+        "phrases": {
+          "2": "in the living room where the suspect broke some items"
+        }
+      },
+      "sexual_assault_35": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_36": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_37": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_38": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_39": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_40": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_41": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_42": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_43": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_44": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_45": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_46": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_47": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_48": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_49": {
+        "covered": "partial",
+        "phrases": {
+          "2": "Victim had been drinking wine which likely impaired her judgement"
+        }
+      },
+      "sexual_assault_50": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_51": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_52": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_53": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_54": {
+        "covered": "partial",
+        "phrases": {
+          "2": "Victim was advised of her options"
+        }
+      },
+      "sexual_assault_55": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_56": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_57": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_58": {
+        "covered": false,
+        "phrases": {}
+      }
+    }
+  }
+}

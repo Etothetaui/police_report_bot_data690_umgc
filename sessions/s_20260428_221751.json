@@ -1,0 +1,1177 @@
+{
+  "session_id": "s_20260428_221751",
+  "timestamp": "2026-04-28T22:17:51.109812",
+  "metadata": {
+    "crime_type": "Stalking",
+    "interviewee_name": "Maya Ramos",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible stalking incident reported at 1456 Oakwood Drive, Apartment 3B, victim claims suspicious person lurking around residence"
+  },
+  "scenario": {
+    "crime_type": "Stalking",
+    "interviewee_role": "victim",
+    "interviewee_name": "Maya Ramos",
+    "dispatch_line": "Possible stalking incident reported at 1456 Oakwood Drive, Apartment 3B, victim claims suspicious person lurking around residence",
+    "facts": {
+      "stalking_01": "The incident was reported at 10:45 PM, dispatched at 10:50 PM, and officers arrived at 11:05 PM",
+      "stalking_02": "The parties are in a dating relationship, having met 6 months ago through mutual friends, with the victim, Maya Ramos, and the suspect, Ethan Lee, living together at 1456 Oakwood Drive, Apartment 3B, in the city of Riverside, California",
+      "stalking_03": "The relationship has been marked by frequent arguments, with 3 incidents of physical violence in the past 2 months, including an incident where Ethan pushed Maya against the wall, and another where he threw a vase at her, as well as regular intimidation and threats to harm Maya if she tries to leave him",
+      "stalking_04": "Maya reported that Ethan has been following her to work, repeatedly calling and texting her over 20 times a day, and sending her unwanted gifts, including a diamond necklace and a bouquet of flowers, after she tried to end the relationship",
+      "stalking_05": "A valid protection order is in place, issued by the Riverside County Court on February 10, 2023, and verified by Officer James, badge number 1234, who obtained a copy of the order from the court's database",
+      "stalking_06": "All witnesses, including Maya's coworker, David Kim, and their neighbor, Mrs. Patel, were interviewed and their statements documented, with David stating that he saw Ethan waiting outside Maya's workplace on multiple occasions, and Mrs. Patel reporting that she heard loud arguments coming from the apartment",
+      "stalking_07": "Information about previous incidents, including the 3 physical altercations, was documented, with dates, times, and details of each incident, including the fact that Ethan was arrested for domestic violence on January 15, 2023, and released on bail",
+      "stalking_08": "Evidence collected includes a torn piece of fabric caught in the door handle of Maya's car, a broken vase from the living room, and a threatening text message sent by Ethan, which read 'You'll never be able to leave me'",
+      "stalking_09": "Electronic/technological evidence collected includes a recording of a threatening phone call from Ethan to Maya, a screenshot of Ethan's Facebook post where he posted a picture of Maya with a threatening caption, and the phone records showing the repeated calls and texts",
+      "stalking_10": "All incidents of stalking behavior on Maya's cell phone, computer, and a security camera at her workplace were captured and documented, including a video of Ethan lurking around Maya's car in the parking lot",
+      "stalking_11": "The scene at 1456 Oakwood Drive, Apartment 3B, was concisely described and diagramed, showing the location of the broken vase, the torn fabric, and the security camera",
+      "stalking_12": "Weapons/objects used include a vase thrown at Maya and a car used to follow her, as well as a baseball bat found in Ethan's car, which he claimed was for 'protection'",
+      "stalking_13": "Maya was visibly shaken, crying, and expressed fear for her life, stating that she was thinking 'I'm going to die' and feeling 'trapped' and 'scared'",
+      "stalking_14": "Evidence of fear articulated in the report includes Maya's statement that she has been 'walking on eggshells' around Ethan and is 'afraid to leave the house' because she doesn't know what he will do",
+      "stalking_15": "All threats, including the text message and phone call, were clearly documented, with the exact words and tone used by Ethan, as well as the context in which they were made",
+      "stalking_16": "Use of coercion and/or force articulated includes Ethan's history of physical violence and intimidation, as well as his threats to harm Maya's family if she doesn't comply with his demands",
+      "stalking_17": "All injuries, including a bruise on Maya's left arm and a scratch on her right cheek, were properly documented, with photographs and measurements taken, as well as a detailed description of the injuries and how they were sustained",
+      "stalking_18": "Property damage, including the broken vase and a damaged door handle on Maya's car, was documented, with estimates of the cost of repairs and replacement",
+      "stalking_19": "Photos were taken and details recorded of the scene, including the location of the broken vase and the torn fabric, as well as the security camera footage",
+      "stalking_20": "Maya reported being strangled (choked) by Ethan during an argument 2 weeks ago, with visible marks on her neck and difficulty breathing, and stated that she was 'gasping for air' and 'felt like she was going to pass out'",
+      "stalking_21": "Maya's need for medical attention was documented, and she was transported to Riverside General Hospital for treatment, where she was evaluated by a doctor and received medication for her injuries",
+      "stalking_22": "All spontaneous statements, including Maya's statement 'I'm afraid he's going to kill me', were captured and documented, with the exact words and context in which they were made",
+      "stalking_23": "Elements of the stalking crime, including the repeated following, calling, and threats, were thoroughly articulated in the report, with a detailed analysis of the evidence and the suspect's actions",
+      "stalking_24": "Victim's safety planning, including a plan to stay with a friend and to vary her daily routine, was documented, with a detailed plan of action and a timeline for implementation",
+      "stalking_25": "Information about obtaining an order of protection was provided to Maya, including the phone number for the Riverside County Court and the address of the local domestic violence shelter",
+      "stalking_26": "Information about local service providers, including the National Domestic Violence Hotline and the Riverside County Victim Services, was supplied to Maya, with phone numbers, addresses, and hours of operation",
+      "stalking_27": "A threat/risk assessment tool was utilized with Maya, including the Danger Assessment tool, which indicated a high risk of further violence",
+      "stalking_28": "The use of a stalking kit and/or stalking log was discussed with Maya, and she was provided with a log to document any future incidents, with instructions on how to use it and what to include",
+      "stalking_29": "Ethan's access to weapons, including a handgun registered in his name, was documented, with a check of the state and federal databases to confirm the registration",
+      "stalking_30": "Ethan's emotional state, including his anger and possessiveness, was documented, with a description of his behavior and demeanor during the incident",
+      "stalking_31": "Ethan's history of protection orders, including a previous order issued in 2018, was documented, with a review of the court records and a summary of the findings",
+      "stalking_32": "Ethan's prohibition from possessing firearms due to the qualifying protection order and a conviction for a misdemeanor crime of domestic violence in 2015 was noted, with a check of the state and federal databases to confirm the conviction and the order",
+      "stalking_33": "An active warrant out for Ethan's arrest for a previous domestic violence incident was documented, with a review of the court records and a summary of the findings"
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "content": "Hi"
+    },
+    {
+      "role": "assistant",
+      "content": "*hyperventilating slightly* Oh, hi... I'm so glad you're here. I've been really scared. *sniffling* My boyfriend, Ethan... he's been doing some really scary things. *looking around nervously* Can we talk about this somewhere safe? I don't know if he's still out there, watching me. *voice shaking*"
+    }
+  ],
+  "coverage_flags": {
+    "stalking_01": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not address the time of the call or incident."
+        }
+      }
+    },
+    "stalking_02": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not identify the relationship between the parties."
+        }
+      }
+    },
+    "stalking_03": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not discuss the history of the relationship."
+        }
+      }
+    },
+    "stalking_04": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not articulate stalking behaviors."
+        }
+      }
+    },
+    "stalking_05": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not mention a protection order."
+        }
+      }
+    },
+    "stalking_06": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not address witness interviews."
+        }
+      }
+    },
+    "stalking_07": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not document previous incidents."
+        }
+      }
+    },
+    "stalking_08": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not discuss evidence collection."
+        }
+      }
+    },
+    "stalking_09": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not mention electronic evidence."
+        }
+      }
+    },
+    "stalking_10": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not capture stalking behavior on devices."
+        }
+      }
+    },
+    "stalking_11": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not describe the scene."
+        }
+      }
+    },
+    "stalking_12": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not mention weapons or objects used."
+        }
+      }
+    },
+    "stalking_13": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not address the victim's emotional state."
+        }
+      }
+    },
+    "stalking_14": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not articulate evidence of fear."
+        }
+      }
+    },
+    "stalking_15": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not document threats."
+        }
+      }
+    },
+    "stalking_16": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not mention coercion or force."
+        }
+      }
+    },
+    "stalking_17": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not document injuries."
+        }
+      }
+    },
+    "stalking_18": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not mention property damage or theft."
+        }
+      }
+    },
+    "stalking_19": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not discuss photos or details."
+        }
+      }
+    },
+    "stalking_20": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not describe strangulation."
+        }
+      }
+    },
+    "stalking_21": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not address medical attention."
+        }
+      }
+    },
+    "stalking_22": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not capture spontaneous statements."
+        }
+      }
+    },
+    "stalking_23": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not articulate stalking crime elements."
+        }
+      }
+    },
+    "stalking_24": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not discuss safety planning."
+        }
+      }
+    },
+    "stalking_25": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not provide information about protection orders."
+        }
+      }
+    },
+    "stalking_26": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not supply information about local service providers."
+        }
+      }
+    },
+    "stalking_27": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not utilize a threat assessment tool."
+        }
+      }
+    },
+    "stalking_28": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not discuss a stalking kit or log."
+        }
+      }
+    },
+    "stalking_29": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not document the suspect's access to weapons."
+        }
+      }
+    },
+    "stalking_30": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not address the suspect's emotional state."
+        }
+      }
+    },
+    "stalking_31": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not mention the suspect's history of protection orders."
+        }
+      }
+    },
+    "stalking_32": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not discuss the suspect's prohibition from possessing firearms."
+        }
+      }
+    },
+    "stalking_33": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not document active warrants for the suspect."
+        }
+      }
+    }
+  },
+  "narrative": "report\n",
+  "narrative_coverage": {
+    "stalking_01": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_02": {
+      "covered": "none",
+      "phrases": {
+        "0": ""
+      }
+    },
+    "stalking_03": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_04": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_05": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_06": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_07": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_08": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_09": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_11": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_12": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_13": {
+      "covered": "none",
+      "phrases": {
+        "0": ""
+      }
+    },
+    "stalking_14": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_15": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_16": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_17": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_18": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_19": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_20": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_21": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_22": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_23": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_24": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_25": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_26": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_27": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_28": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_29": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_30": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_31": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_32": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_33": {
+      "covered": false,
+      "phrases": {}
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "stalking_01",
+        "element": "Time of the call recorded (including time of incident, time of dispatch, time of arrival)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not address the time of the call or incident."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_02",
+        "element": "Relationship of the parties identified",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not identify the relationship between the parties."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_03",
+        "element": "History of the relationship (include frequency of any violence, intimidation, and threats)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not discuss the history of the relationship."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_04",
+        "element": "Stalking behaviors articulated (e.g. following, repeated calling, sending unwanted gifts)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not articulate stalking behaviors."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_05",
+        "element": "Valid protection order in place and verified",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not mention a protection order."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_06",
+        "element": "All witnesses interviewed and documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not address witness interviews."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_07",
+        "element": "Information about previous incidents documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not document previous incidents."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_08",
+        "element": "Evidence collected",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not discuss evidence collection."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_09",
+        "element": "Electronic/technological evidence collected",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not mention electronic evidence."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_10",
+        "element": "All incidents of stalking behavior on cell phones, computers, and recording devices captured",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not capture stalking behavior on devices."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_11",
+        "element": "Scene(s) concisely described/diagramed",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not describe the scene."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_12",
+        "element": "Weapons/objects used",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not mention weapons or objects used."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_13",
+        "element": "Emotional state of the victim (what they were thinking and feeling)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not address the victim's emotional state."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_14",
+        "element": "Evidence of fear articulated in the report",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not articulate evidence of fear."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_15",
+        "element": "All threats clearly documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not document threats."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_16",
+        "element": "Use of coercion and/or force articulated",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not mention coercion or force."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_17",
+        "element": "All injuries (visible and non-visible) properly documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not document injuries."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_18",
+        "element": "Property damage, theft, or burglary documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not mention property damage or theft."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_19",
+        "element": "Photos taken and details recorded",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not discuss photos or details."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_20",
+        "element": "Victim's report of being strangled (choked) described in detail",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not describe strangulation."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_21",
+        "element": "Victim's need for medical attention documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not address medical attention."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_22",
+        "element": "All spontaneous statements captured",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not capture spontaneous statements."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_23",
+        "element": "Elements of the stalking crime thoroughly articulated",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not articulate stalking crime elements."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_24",
+        "element": "Victim's safety planning documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not discuss safety planning."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_25",
+        "element": "Information about obtaining an order of protection provided to the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not provide information about protection orders."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_26",
+        "element": "Information about local service providers supplied to the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not supply information about local service providers."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_27",
+        "element": "Threat/risk assessment tool utilized with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not utilize a threat assessment tool."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_28",
+        "element": "Use of a stalking kit and/or stalking log discussed with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not discuss a stalking kit or log."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_29",
+        "element": "Suspect's access to weapons documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not document the suspect's access to weapons."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_30",
+        "element": "Emotional state of the suspect (what they were thinking and feeling)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not address the suspect's emotional state."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_31",
+        "element": "Suspect's history of protection orders",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not mention the suspect's history of protection orders."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_32",
+        "element": "Suspect's prohibition from possessing firearms due to a conviction for a misdemeanor crime of domestic violence or a qualifying order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not discuss the suspect's prohibition from possessing firearms."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_33",
+        "element": "Active warrants out for the suspect documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not document active warrants for the suspect."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      }
+    ],
+    "contradictions_interview": [],
+    "contradictions_narrative": [],
+    "grammar": [],
+    "style": [],
+    "narrative_coverage": {
+      "stalking_01": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_02": {
+        "covered": "none",
+        "phrases": {
+          "0": ""
+        }
+      },
+      "stalking_03": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_04": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_05": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_06": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_07": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_08": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_09": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_11": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_12": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_13": {
+        "covered": "none",
+        "phrases": {
+          "0": ""
+        }
+      },
+      "stalking_14": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_15": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_16": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_17": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_18": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_19": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_20": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_21": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_22": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_23": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_24": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_25": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_26": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_27": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_28": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_29": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_30": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_31": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_32": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_33": {
+        "covered": false,
+        "phrases": {}
+      }
+    }
+  }
+}

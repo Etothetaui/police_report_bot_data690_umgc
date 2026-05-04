@@ -1,0 +1,2295 @@
+{
+  "session_id": "sa_20260428_235958",
+  "timestamp": "2026-04-28T23:59:58.229045",
+  "metadata": {
+    "crime_type": "Sexual Assault",
+    "interviewee_name": "Maya Patel",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible sexual assault reported at 345 Oakwood Drive, Apt 101, Oakland, CA 94601, victim is a 25-year-old female"
+  },
+  "scenario": {
+    "crime_type": "Sexual Assault",
+    "interviewee_role": "victim",
+    "interviewee_name": "Maya Patel",
+    "dispatch_line": "Possible sexual assault reported at 345 Oakwood Drive, Apt 101, Oakland, CA 94601, victim is a 25-year-old female",
+    "facts": {
+      "sexual_assault_01": "Yes, Officer Johnson asked about firearms during the initial interview with the victim, Maya Patel, at 345 Oakwood Drive, Apt 101, Oakland, CA 94601.",
+      "sexual_assault_02": "No, the suspect did not use firearms during the incident.",
+      "sexual_assault_03": "Yes, the suspect had used firearms in a previous incident of domestic violence against Maya Patel.",
+      "sexual_assault_04": "Yes, the suspect, Ethan Hall, made implied threats to use firearms during the incident.",
+      "sexual_assault_05": "Yes, Ethan Hall had made threats to use firearms in previous incidents.",
+      "sexual_assault_06": "Yes, Ethan Hall has access to firearms, as confirmed by Maya Patel.",
+      "sexual_assault_07": "The firearms are a shotgun and a handgun, located at Ethan Hall's residence, 1234 Maple Street, Berkeley, CA 94703.",
+      "sexual_assault_08": "Yes, Maya Patel expressed fear about Ethan Hall's access to firearms.",
+      "sexual_assault_09": "The victim's fear was captured in the report as follows: 'Victim stated she fears for her life due to the suspect's access to firearms and history of violent behavior.'",
+      "sexual_assault_10": "Yes, Ethan Hall is prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence in 2018.",
+      "sexual_assault_11": "Yes, Ethan Hall is also prohibited from possessing firearms due to a qualifying order of protection issued in 2020.",
+      "sexual_assault_12": "No, there is no indication that Ethan Hall has received a dishonorable discharge from the military.",
+      "sexual_assault_13": "The call was received at 22:45 hours, dispatched at 22:50 hours, and officers arrived at 23:05 hours on February 10, 2023.",
+      "sexual_assault_14": "Elements of the crime include physical violence, intimidation, and threats, which meet the state laws for domestic violence and assault.",
+      "sexual_assault_15": "Upon approach, officers observed signs of a physical altercation, including broken furniture and shattered glass.",
+      "sexual_assault_16": "The scene was a single-family residence with a living room, kitchen, and two bedrooms, where the altercation occurred.",
+      "sexual_assault_17": "Photos were taken of the victim's injuries, the broken furniture, and the shattered glass, and details were recorded in the report.",
+      "sexual_assault_18": "The relationship between the parties is that of intimate partners, with Maya Patel and Ethan Hall having been in a romantic relationship for three years.",
+      "sexual_assault_19": "The history of the relationship includes frequent incidents of violence, intimidation, and threats, with the frequency increasing over the past year.",
+      "sexual_assault_20": "Two witnesses, Sarah Lee and Michael Kim, were interviewed and documented, stating they heard the altercation and saw Ethan Hall leaving the scene.",
+      "sexual_assault_21": "Yes, the outcry witness, Rachel Taylor, was interviewed and documented, stating she received a call from Maya Patel immediately after the incident.",
+      "sexual_assault_22": "Comprehensive information about Ethan Hall was gathered, including his address, employment, and criminal history.",
+      "sexual_assault_23": "A kitchen knife was used as a weapon/object during the altercation.",
+      "sexual_assault_24": "The emotional state of the victim, Maya Patel, was one of fear, anxiety, and distress.",
+      "sexual_assault_25": "The emotional state of the suspect, Ethan Hall, was not directly observed, as he had fled the scene.",
+      "sexual_assault_26": "Yes, an arrest was made, as Ethan Hall was later located and taken into custody at his residence.",
+      "sexual_assault_27": "Evidence collected includes photos of the scene, the victim's statement, witness statements, and physical evidence such as the broken furniture and shattered glass.",
+      "sexual_assault_28": "All injuries, including visible bruises on Maya Patel's arms and neck, and non-visible injuries such as emotional distress, were documented.",
+      "sexual_assault_29": "Both existing and new injuries were documented, with the new injuries including the bruises on Maya Patel's arms and neck, and the existing injuries including a previously broken rib from a prior incident of domestic violence.",
+      "sexual_assault_30": "The report documents trauma to Maya Patel's arms and neck, including visible bruises, as well as emotional distress.",
+      "sexual_assault_31": "All threats made by Ethan Hall, including implied threats to use firearms, are clearly documented in the report.",
+      "sexual_assault_32": "Maya Patel's fear of Ethan Hall's access to firearms and history of violent behavior is effectively documented in the report.",
+      "sexual_assault_33": "The use of coercion and force is articulated in the report, including the altercation at 345 Oakwood Drive, Apt 101, Oakland, CA 94601.",
+      "sexual_assault_34": "Property damage is documented, including broken furniture and shattered glass at the scene of the altercation.",
+      "sexual_assault_35": "A suspect exam was conducted on Ethan Hall after his arrest, which included a medical evaluation and documentation of any injuries.",
+      "sexual_assault_36": "Stalking behaviors, including Ethan Hall's history of intimidation and threats, are identified in the report.",
+      "sexual_assault_37": "Ethan Hall's pre-incident behaviors, including his increasing frequency of violent outbursts, are documented in the report.",
+      "sexual_assault_38": "Maya Patel reported being strangled by Ethan Hall during the altercation, which is documented in the report.",
+      "sexual_assault_39": "The details of the strangulation include Ethan Hall using his hands to choke Maya Patel, which is documented in the report.",
+      "sexual_assault_40": "Maya Patel was asked about possible strangulation during the interview, and her responses are documented in the report.",
+      "sexual_assault_41": "Proper protocol was followed when Ethan Hall was not on the scene, including obtaining a warrant for his arrest and locating him at his residence.",
+      "sexual_assault_42": "There are no active warrants out for Ethan Hall, other than the one obtained for his arrest in this incident.",
+      "sexual_assault_43": "Ethan Hall has a history of protection orders, including the qualifying order of protection issued in 2020.",
+      "sexual_assault_44": "A valid protection order is in place and verified, which was issued in 2020 and prohibits Ethan Hall from contacting Maya Patel.",
+      "sexual_assault_45": "No other identified victims have come forward, but the investigation is ongoing.",
+      "sexual_assault_46": "The case is coded properly as a domestic violence and assault incident, with all relevant information documented.",
+      "sexual_assault_47": "There is evidence of ongoing sexual abuse by Ethan Hall, including Maya Patel's reports of frequent incidents of violence and intimidation.",
+      "sexual_assault_48": "All spontaneous statements, including Maya Patel's initial outcry to Rachel Taylor, are captured in the report.",
+      "sexual_assault_49": "Maya Patel was not incapacitated or incapable of giving consent during the incident, but she did report feeling fearful and intimidated.",
+      "sexual_assault_50": "Maya Patel reported drinking one glass of wine earlier in the evening, but she did not report using any other substances.",
+      "sexual_assault_51": "Maya Patel does not believe she was drugged during the incident, and there is no evidence to suggest otherwise.",
+      "sexual_assault_52": "Blood and urine samples were not collected, as there is no indication of drug-facilitated sex assault in this incident.",
+      "sexual_assault_53": "Maya Patel's mental and physical incapacities, including her emotional distress and visible injuries, are documented in the report.",
+      "sexual_assault_54": "Officers assisted Maya Patel with safety planning, including providing her with information about local service providers and helping her obtain a temporary restraining order.",
+      "sexual_assault_55": "Maya Patel was provided with information about local service providers, including the Oakland Domestic Violence Shelter and the National Domestic Violence Hotline.",
+      "sexual_assault_56": "A forensic examination of Maya Patel was conducted at the hospital, which included a medical evaluation and collection of evidence.",
+      "sexual_assault_57": "A threat/risk assessment tool was used with Maya Patel, which identified her as being at high risk for further violence and intimidation.",
+      "sexual_assault_58": "Firearms were confiscated from Ethan Hall's residence, including a shotgun and a handgun, due to his prohibition from possessing firearms under 18 U.S.C. \u00a7 922(g)(8) and 18 U.S.C. \u00a7 922(g)(9), and a search warrant was obtained to confiscate the firearms from his residence."
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Hello. My name is Officer Davis. I'm here to help you. I was dispatched following a 911 call about a possible sexual assault at this location. You are safe now. Can you please tell me your full name, date of birth, and confirm your address here at 345 Oakwood Drive, Apartment 101?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "My name is Maya Patel. I was born on August 12, 1992. And yes, I live here at 345 Oakwood Drive, Apartment 101. It's just... it's all been so overwhelming. I'm still trying to process everything that happened. *takes a deep breath* I think I'm okay, though. I mean, physically, I'm okay. Emotionally... I don't know. It's just all so much. *pauses, collecting thoughts* Sorry, what was the question again? Oh, my address. Yes, this is my home. It's where... it's where everything happened. *looks around the room, nostalgia and fear in her eyes*",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Take your time. I'm here to listen and I'm going to document everything carefully. Can you tell me what happened tonight \u2014 what time it started, what was done to you, and who did this? Tell me in as much detail as you're able to. Also, had you consumed any alcohol, drugs, or medications before or during what happened? And how are you feeling right now \u2014 emotionally and physically?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*takes a deep breath, trying to compose herself* It started... I think it was around 10 pm. I'm not really sure. Time kinda blurred together. My boyfriend, Ethan Hall, he... he came home, and we got into a fight. It was a bad one. He's been getting increasingly violent over the past year, but tonight was different. He was so angry, and I was scared. *pauses, collecting thoughts*\n\nHe pushed me around, hit me, and... and he used a kitchen knife. He didn't cut me with it, but he threatened to. He said he would hurt me if I didn't do what he wanted. And then... *pauses again, struggling to continue* ...he forced himself on me. I tried to push him away, but he was too strong. I was so scared. I thought he was going to kill me.\n\nAs for alcohol or drugs, I had one glass of wine earlier in the evening, but that was it. I don't think it affected me that much, though. I was still aware of what was happening, unfortunately. *shudders at the memory*\n\nRight now, I'm feeling... I don't know, just really scared and overwhelmed, I guess. Emotionally, I'm a mess. I keep thinking about what happened and wondering if it's my fault somehow. Physically, I'm sore. He hurt me, and I have bruises on my arms and neck. My throat hurts from when he... when he choked me. *touches her neck, wincing at the memory*\n\nI'm just so scared of him, Officer. He's got a temper, and he's got access to guns. He's used them before in our fights, and I'm terrified he'll come after me again. *starts to tear up* I don't know what to do. I just want to feel safe again.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*sniffles, trying to compose herself* His name is Ethan Hall, and I think he was born on November 15, 1985. He's about 5'10\" with brown hair and blue eyes. We've been in a relationship for about three years, but it's been... complicated. He's my boyfriend, or at least, he was. I don't know if I can even call him that anymore.\n\nHe has a key to my apartment, so he just let himself in. I was already home, and we started arguing. I think it was around 10 pm when things escalated. He started yelling at me, and then he got physical. He pushed me around, and then... *pauses, taking a deep breath* ...he grabbed my neck. He used his hands to choke me. It was so scary. I thought I was going to pass out.\n\nHe held my neck for... I don't know, maybe 10 or 15 seconds? It felt like forever. I couldn't breathe, and I felt like I was going to lose consciousness. I tried to push him away, but he was too strong. He finally let go, and I fell to the ground, gasping for air. I was so scared. I thought he was going to kill me.\n\n*starts to tear up again* I'm just so scared of him, Officer. He's done this before, but never this bad. I don't know what he's capable of. *pauses, collecting her thoughts* I'm just glad I was able to get away and call for help. I don't know what would have happened if I hadn't.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*shakes her head, tears streaming down her face* No, I wasn't able to say no or stop him. I tried to push him away, but he was too strong. He pinned me down on the bed, and I couldn't move. I was still trying to catch my breath from when he choked me, and I was so scared. I felt like I was going to pass out.\n\nI did try to resist, but it was no use. He just held me down and... and did what he wanted. I felt so helpless and trapped. I was unable to prevent him from doing what he did, and it was like my body just froze. I couldn't move, I couldn't speak. I was just trapped in that moment, and I couldn't escape.\n\nAs for if this has happened before... *pauses, taking a deep breath* Yes, it has. Ethan has forced me into sexual activity before. It's been an ongoing pattern in our relationship. He's always been controlling and possessive, but it's gotten worse over time. He's gotten more violent, more aggressive. And I've been too scared to leave him, too scared to say no.\n\nI've tried to tell people before, but they just tell me to leave him, like it's that easy. They don't understand what it's like to be in a relationship like this. They don't understand the fear, the guilt, the shame. *looks down, her voice barely above a whisper* I've been so ashamed of what's been happening, I've been too scared to tell anyone.\n\nBut tonight was different. Tonight was the worst it's ever been. And I knew I had to call for help. I called my friend Rachel, and she told me to call the police. She said I had to get out of there, that I had to be safe. So I called 911, and... and here you are.\n\n*looks up, her eyes red from crying* I'm just so scared, Officer. I'm scared of what Ethan will do next. I'm scared of what will happen to me. I just want to be safe. I just want to feel safe again.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*sniffles, trying to remember the details* Rachel's last name is Taylor, and her phone number is... *pauses, trying to recall* ...555-1234. She's a close friend, and I trust her completely.\n\nAbout the guns... *shudders* Yes, Ethan owns a shotgun and a handgun. He keeps them at his house, which is... *thinks for a moment* ...1234 Maple Street, in Berkeley. He's always been really proud of his guns, and he's always talking about how he's a good shot. It's just... it's really scary to think about.\n\nHe's never pointed a gun directly at me, but he's threatened to use it before. He's said things like, \"If you ever leave me, I'll make sure you regret it,\" or \"I'll show you what happens when you cross me.\" It's always been implied that he might use the gun, but he's never actually pointed it at me.\n\nAs for a restraining order, yes, there is one. It was issued in 2020, after one of our really bad fights. He's not supposed to come near me or contact me, but... *shrugs* ...he doesn't always listen.\n\nMy injuries... *sighs* I have bruises on my arms and neck from when he grabbed me and choked me. My throat is still sore from when he choked me, and I have a bruise on my cheek from when he hit me. I also have some older injuries, like a broken rib from a few months ago when he got really violent. But the bruises on my arms and neck are new, from tonight.\n\nI... I think I do need a medical examination. I'm not sure if I have any internal injuries or anything. And if it's possible, I would like a forensic exam, too. I want to make sure that... that everything is documented, and that there's evidence of what happened.\n\nAs for Ethan, I think he left the apartment after... after what happened. I didn't see him leave, but I heard the door slam, and I haven't seen him since. I don't know where he is now, but I'm scared that he might come back. *looks around the room, nervously* Can I... can I stay somewhere safe tonight? I don't feel safe here.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?"
+    },
+    {
+      "role": "assistant",
+      "content": "*shakes her head* I don't think I was drugged tonight. I had one glass of wine earlier, but I didn't feel like it affected me that much. I was aware of what was happening, unfortunately. I didn't feel confused or incapacitated beyond what the fight and the assault would explain.\n\nAs for Ethan's behavior, he's been doing all of those things. He's been following me, tracking me, contacting me excessively. He's shown up at my work, at my favorite coffee shop, at my friends' houses. He's always trying to control me, to keep tabs on me. It's been really scary.\n\nTonight, there was some property damage. He broke a chair, and there's a hole in the wall. He also shattered a glass on the floor. It was... it was a really intense fight.\n\nI think Ethan has been arrested before. He's been in trouble with the law before, and he's had to go to court. He's been a respondent to a protection order before, too. This isn't the first time he's had a restraining order against him.\n\nDuring the assault, Ethan was... he was really angry. He was yelling at me, calling me names. He said I was his, that I belonged to him, and that I would never leave him. He said he would kill me if I tried to leave him again. He was so angry, so out of control. It was like he wasn't even human. He just kept saying that he loved me, that he was doing this because he loved me, but it didn't feel like love. It felt like hate.\n\n*pauses, trying to process her emotions* I think he was excited, too. He was enjoying it, enjoying the power and control he had over me. It was like he was feeding off my fear, off my pain. It was... it was really terrifying.\n\n*looks up, tears in her eyes* I just want to be safe. I want to be free from him. I want to be able to live my life without being afraid of what he might do next."
+    }
+  ],
+  "coverage_flags": {
+    "sexual_assault_01": {
+      "covered": "full",
+      "messages": {
+        "8": {
+          "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+          "coverage": "full",
+          "reasoning": "The officer asked about firearms, specifically if Ethan owns a firearm and what kind."
+        }
+      }
+    },
+    "sexual_assault_02": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_03": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_04": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_05": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_06": {
+      "covered": "full",
+      "messages": {
+        "8": {
+          "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+          "coverage": "full",
+          "reasoning": "The officer asked if Ethan has access to firearms and where he keeps it."
+        }
+      }
+    },
+    "sexual_assault_07": {
+      "covered": "full",
+      "messages": {
+        "8": {
+          "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+          "coverage": "full",
+          "reasoning": "The officer asked about the details of the firearms, including the type and location."
+        }
+      }
+    },
+    "sexual_assault_08": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_09": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_10": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_11": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_12": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_13": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_14": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_15": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_16": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_17": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_18": {
+      "covered": "full",
+      "messages": {
+        "0": {
+          "officer_message": "Hello. My name is Officer Davis. I'm here to help you. I was dispatched following a 911 call about a possible sexual assault at this location. You are safe now. Can you please tell me your full name, date of birth, and confirm your address here at 345 Oakwood Drive, Apartment 101?",
+          "coverage": "partial",
+          "reasoning": "The officer asked for the victim's full name and confirmed their address, which may help identify the relationship of the parties, but does not directly ask about their relationship to the suspect."
+        },
+        "2": {
+          "officer_message": "Take your time. I'm here to listen and I'm going to document everything carefully. Can you tell me what happened tonight \u2014 what time it started, what was done to you, and who did this? Tell me in as much detail as you're able to. Also, had you consumed any alcohol, drugs, or medications before or during what happened? And how are you feeling right now \u2014 emotionally and physically?",
+          "coverage": "partial",
+          "reasoning": "The officer asked 'who did this', which implies the relationship but does not directly ask for it"
+        },
+        "4": {
+          "officer_message": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+          "coverage": "full",
+          "reasoning": "The officer asked about the relationship with the suspect, which directly addresses the element of identifying the relationship of the parties involved."
+        },
+        "6": {
+          "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+          "coverage": "full",
+          "reasoning": "The officer asked about the history of the relationship and previous incidents, which directly relates to identifying the relationship of the parties involved."
+        },
+        "8": {
+          "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+          "coverage": "full",
+          "reasoning": "The officer asked for the victim's last name and contact information, which implies the relationship of the parties is being identified."
+        },
+        "10": {
+          "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+          "coverage": "full",
+          "reasoning": "The officer asked about Ethan's behavior and the victim's relationship with him, which directly addresses the relationship of the parties."
+        }
+      }
+    },
+    "sexual_assault_19": {
+      "covered": "partial",
+      "messages": {
+        "6": {
+          "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if the suspect had forced the victim into sexual activity before, which touches on the history of the relationship but does not fully explore the frequency of violence, intimidation, and threats."
+        },
+        "8": {
+          "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+          "coverage": "partial",
+          "reasoning": "The officer's questions about Ethan's behavior and the victim's fear imply a history of the relationship, but it is not fully explored."
+        },
+        "10": {
+          "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if Ethan has been following or contacting the victim, which touches on the history of the relationship but does not fully explore previous incidents or the frequency of violence."
+        }
+      }
+    },
+    "sexual_assault_20": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_21": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_22": {
+      "covered": "full",
+      "messages": {
+        "4": {
+          "officer_message": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+          "coverage": "full",
+          "reasoning": "The officer asked for the suspect's full name, date of birth, and physical description, which gathers comprehensive information about the suspect."
+        }
+      }
+    },
+    "sexual_assault_23": {
+      "covered": "full",
+      "messages": {
+        "4": {
+          "officer_message": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+          "coverage": "partial",
+          "reasoning": "The officer asked if the suspect grabbed the victim's neck or choked them, which touches on the topic of weapons or objects used but does not directly ask about all possible objects or weapons."
+        },
+        "6": {
+          "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+          "coverage": "partial",
+          "reasoning": "The officer asked about the victim's physical capability to prevent the assault, which implies the use of force but does not directly ask about weapons or objects used."
+        },
+        "8": {
+          "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+          "coverage": "full",
+          "reasoning": "The officer asked about weapons or objects used, specifically if Ethan has guns and if he pointed a gun at the victim."
+        },
+        "10": {
+          "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+          "coverage": "full",
+          "reasoning": "The officer asked about property damage, which directly addresses the use of objects or property damage during the incident."
+        }
+      }
+    },
+    "sexual_assault_24": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Hello. My name is Officer Davis. I'm here to help you. I was dispatched following a 911 call about a possible sexual assault at this location. You are safe now. Can you please tell me your full name, date of birth, and confirm your address here at 345 Oakwood Drive, Apartment 101?",
+          "coverage": "partial",
+          "reasoning": "The officer told the victim 'You are safe now', which may help assess the victim's emotional state, but does not directly ask about their emotional state."
+        },
+        "2": {
+          "officer_message": "Take your time. I'm here to listen and I'm going to document everything carefully. Can you tell me what happened tonight \u2014 what time it started, what was done to you, and who did this? Tell me in as much detail as you're able to. Also, had you consumed any alcohol, drugs, or medications before or during what happened? And how are you feeling right now \u2014 emotionally and physically?",
+          "coverage": "partial",
+          "reasoning": "The officer asked 'how are you feeling right now \u2014 emotionally and physically', which touches the topic of the victim's emotional state but is somewhat vague"
+        },
+        "6": {
+          "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+          "coverage": "partial",
+          "reasoning": "The officer's questions about the victim's ability to say no or stop the suspect and their physical capability imply an understanding of the victim's emotional state but do not directly ask about it."
+        },
+        "8": {
+          "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+          "coverage": "partial",
+          "reasoning": "The officer's questions and tone imply concern for the victim's emotional state, but it is not directly addressed."
+        },
+        "10": {
+          "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+          "coverage": "partial",
+          "reasoning": "The officer asked about the victim's potential incapacitation and confusion, which touches on the victim's emotional state but does not fully explore their feelings or reactions."
+        }
+      }
+    },
+    "sexual_assault_25": {
+      "covered": "full",
+      "messages": {
+        "10": {
+          "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+          "coverage": "full",
+          "reasoning": "The officer asked about Ethan's emotional state during the assault, which directly addresses the suspect's emotional state."
+        }
+      }
+    },
+    "sexual_assault_26": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_27": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_28": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hello. My name is Officer Davis. I'm here to help you. I was dispatched following a 911 call about a possible sexual assault at this location. You are safe now. Can you please tell me your full name, date of birth, and confirm your address here at 345 Oakwood Drive, Apartment 101?",
+          "coverage": "none",
+          "reasoning": "The officer did not ask about the victim's injuries."
+        },
+        "2": {
+          "officer_message": "Take your time. I'm here to listen and I'm going to document everything carefully. Can you tell me what happened tonight \u2014 what time it started, what was done to you, and who did this? Tell me in as much detail as you're able to. Also, had you consumed any alcohol, drugs, or medications before or during what happened? And how are you feeling right now \u2014 emotionally and physically?",
+          "coverage": "partial",
+          "reasoning": "The officer asked 'what was done to you', which may elicit information about injuries but does not directly ask for them"
+        },
+        "4": {
+          "officer_message": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+          "coverage": "partial",
+          "reasoning": "The officer asked about the victim being grabbed or choked, which addresses some injuries but does not comprehensively cover all possible injuries, visible or non-visible."
+        },
+        "8": {
+          "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+          "coverage": "full",
+          "reasoning": "The officer asked about the victim's injuries, including a description of each injury and whether it is new or pre-existing."
+        }
+      }
+    },
+    "sexual_assault_29": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_30": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_31": {
+      "covered": "full",
+      "messages": {
+        "4": {
+          "officer_message": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+          "coverage": "partial",
+          "reasoning": "The officer asked about the suspect grabbing or choking the victim, which documents some threats but does not comprehensively cover all possible threats made by the suspect."
+        },
+        "6": {
+          "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+          "coverage": "partial",
+          "reasoning": "The officer asked about previous incidents and the suspect's behavior, which could imply threats, but does not directly ask about all threats being clearly documented."
+        },
+        "8": {
+          "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+          "coverage": "full",
+          "reasoning": "The officer asked about threats, specifically if Ethan threatened the victim with a gun or pointed a gun at them."
+        },
+        "10": {
+          "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+          "coverage": "full",
+          "reasoning": "The officer asked about Ethan's behavior and what he said during the assault, which directly addresses any threats made by the suspect."
+        }
+      }
+    },
+    "sexual_assault_32": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_33": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_34": {
+      "covered": "full",
+      "messages": {
+        "10": {
+          "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+          "coverage": "full",
+          "reasoning": "The officer asked about property damage, which directly addresses property damage, theft, or burglary."
+        }
+      }
+    },
+    "sexual_assault_35": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_36": {
+      "covered": "partial",
+      "messages": {
+        "10": {
+          "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if Ethan has been following or contacting the victim, which touches on stalking behaviors but does not fully explore the suspect's actions."
+        }
+      }
+    },
+    "sexual_assault_37": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_38": {
+      "covered": "full",
+      "messages": {
+        "4": {
+          "officer_message": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+          "coverage": "full",
+          "reasoning": "The officer directly asked if the suspect grabbed the victim's neck or choked them, which addresses the element of the victim reporting being strangled (choked)."
+        },
+        "6": {
+          "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+          "coverage": "full",
+          "reasoning": "The officer asked about the victim being incapacitated, such as being unable to move or still recovering from being choked, which directly relates to the victim being strangled or choked."
+        }
+      }
+    },
+    "sexual_assault_39": {
+      "covered": "full",
+      "messages": {
+        "4": {
+          "officer_message": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+          "coverage": "full",
+          "reasoning": "The officer asked for details about the choking, including how it was done and for how long, which documents the details of the strangulation."
+        }
+      }
+    },
+    "sexual_assault_40": {
+      "covered": "full",
+      "messages": {
+        "4": {
+          "officer_message": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+          "coverage": "full",
+          "reasoning": "The officer asked the victim about being strangled (choked), which directly addresses asking the victim about possible strangulation."
+        }
+      }
+    },
+    "sexual_assault_41": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_42": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_43": {
+      "covered": "partial",
+      "messages": {
+        "10": {
+          "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if Ethan has been a respondent to a protection order before, which touches on the suspect's history of protection orders but does not fully explore this topic."
+        }
+      }
+    },
+    "sexual_assault_44": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hello. My name is Officer Davis. I'm here to help you. I was dispatched following a 911 call about a possible sexual assault at this location. You are safe now. Can you please tell me your full name, date of birth, and confirm your address here at 345 Oakwood Drive, Apartment 101?",
+          "coverage": "none",
+          "reasoning": "The officer did not ask about a valid protection order."
+        },
+        "8": {
+          "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if a restraining or protective order exists against Ethan, but did not verify it in the system."
+        },
+        "10": {
+          "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if Ethan has been a respondent to a protection order before, which touches on valid protection orders but does not verify their existence or current status."
+        }
+      }
+    },
+    "sexual_assault_45": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_46": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_47": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_48": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_49": {
+      "covered": "partial",
+      "messages": {
+        "6": {
+          "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+          "coverage": "partial",
+          "reasoning": "The officer asked about the victim's physical capability to prevent the assault and if they were incapacitated, which touches on the victim's ability to give consent but does not fully explore incapacitation or inability to give consent."
+        },
+        "10": {
+          "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if the victim felt incapacitated beyond what the one glass of wine would explain, which touches on the victim's incapacitation but does not fully explore their ability to give consent."
+        }
+      }
+    },
+    "sexual_assault_50": {
+      "covered": "partial",
+      "messages": {
+        "2": {
+          "officer_message": "Take your time. I'm here to listen and I'm going to document everything carefully. Can you tell me what happened tonight \u2014 what time it started, what was done to you, and who did this? Tell me in as much detail as you're able to. Also, had you consumed any alcohol, drugs, or medications before or during what happened? And how are you feeling right now \u2014 emotionally and physically?",
+          "coverage": "partial",
+          "reasoning": "The officer asked 'had you consumed any alcohol, drugs, or medications before or during what happened', which touches the topic of substance use but does not ask for amounts or timespan"
+        },
+        "6": {
+          "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+          "coverage": "partial",
+          "reasoning": "The officer did not directly ask about drugs or alcohol used by the victim but asked about incapacitation, which could be related to substance use."
+        },
+        "10": {
+          "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+          "coverage": "partial",
+          "reasoning": "The officer asked about the victim's alcohol consumption and potential incapacitation, which touches on the use of drugs or alcohol by the victim but does not fully explore amounts or timespan."
+        }
+      }
+    },
+    "sexual_assault_51": {
+      "covered": "full",
+      "messages": {
+        "10": {
+          "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+          "coverage": "full",
+          "reasoning": "The officer asked if the victim believes they may have been drugged, which directly addresses the victim's belief about being drugged."
+        }
+      }
+    },
+    "sexual_assault_52": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_53": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_54": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Hello. My name is Officer Davis. I'm here to help you. I was dispatched following a 911 call about a possible sexual assault at this location. You are safe now. Can you please tell me your full name, date of birth, and confirm your address here at 345 Oakwood Drive, Apartment 101?",
+          "coverage": "partial",
+          "reasoning": "The officer told the victim 'You are safe now' and 'I'm here to help you', which may be part of safety planning, but does not directly ask about or provide safety planning."
+        },
+        "2": {
+          "officer_message": "Take your time. I'm here to listen and I'm going to document everything carefully. Can you tell me what happened tonight \u2014 what time it started, what was done to you, and who did this? Tell me in as much detail as you're able to. Also, had you consumed any alcohol, drugs, or medications before or during what happened? And how are you feeling right now \u2014 emotionally and physically?",
+          "coverage": "partial",
+          "reasoning": "The officer's introduction implies support and a safe space, which may assist with the victim's safety planning but does not directly address it"
+        },
+        "6": {
+          "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if the victim had told anyone else about what happened, which could imply assistance with safety planning but does not directly address it."
+        },
+        "8": {
+          "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+          "coverage": "partial",
+          "reasoning": "The officer's questions and concern for the victim's safety imply some assistance with safety planning, but it is not fully explored."
+        },
+        "10": {
+          "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+          "coverage": "partial",
+          "reasoning": "The officer assured the victim they would be kept safe and receive medical and forensic care, which touches on officer assistance with safety planning but does not fully explore the victim's safety needs."
+        }
+      }
+    },
+    "sexual_assault_55": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_56": {
+      "covered": "partial",
+      "messages": {
+        "8": {
+          "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if the victim wants a medical examination, including a forensic exam, but did not confirm if it would be conducted."
+        },
+        "10": {
+          "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+          "coverage": "partial",
+          "reasoning": "The officer mentioned providing medical and forensic care, which touches on the forensic examination of the victim but does not fully explore the details of the examination."
+        }
+      }
+    },
+    "sexual_assault_57": {
+      "covered": false,
+      "messages": {}
+    },
+    "sexual_assault_58": {
+      "covered": false,
+      "messages": {}
+    }
+  },
+  "narrative": "On April 28 officers responded to 345 Oakwood Drive Apt 101 regarding a reported sexual assault. The victim was contacted and interviewed, her name is Maya Patel, DOB unknown, who lives at the above address. The victim had been drinking several glasses of wine prior to the incident which may have impacted her memory of events.\n\nThe victim stated that her boyfriend whose name is Ethan came home around midnight and they got into an argument. The victim said he pushed her around and hit her. She also said that he choked her at some point during the incident using both hands, the victim stated she felt dizzy. After the physical altercation the suspect then allegedly sexually assaulted the victim. The victim claimed she tried to stop him but could not.\n\nThe victim had bruises on her arms from the incident. She also claimed to have some older injuries. She seemed upset during the interview. The victim stated she was scared.\n\nThe suspect is described as a white male with dark hair, about six feet tall. The suspect left the scene before officers arrived through a window according to the victim. A kitchen knife was allegedly used by the suspect as a weapon at some point.\n\nThe victim was asked about prior incidents and said this has happened before. The suspect has had prior trouble with police. A restraining order may or may not be in place, this needs to be verified.\n\nOfficers noted there was some damage to furniture in the apartment. The victim stated she called a friend before calling 911.\n\nThis officer recommended the victim seek medical attention. No arrests were made at this time. The suspect's whereabouts are unknown. This case is ongoing and a follow up will be conducted.\n\nReporting Officer: Davis",
+  "narrative_coverage": {
+    "sexual_assault_01": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_02": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_03": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_04": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_05": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_06": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_07": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_08": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_09": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_11": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_12": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_13": {
+      "covered": "partial",
+      "phrases": {
+        "0": "On April 28 officers responded",
+        "6": "",
+        "7": ""
+      }
+    },
+    "sexual_assault_14": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_15": {
+      "covered": "none",
+      "phrases": {
+        "7": ""
+      }
+    },
+    "sexual_assault_16": {
+      "covered": "none",
+      "phrases": {
+        "7": ""
+      }
+    },
+    "sexual_assault_17": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_18": {
+      "covered": "full",
+      "phrases": {
+        "0": "The victim was contacted and interviewed, her name is Maya Patel, DOB unknown, who lives at the above address.",
+        "1": "The victim stated that her boyfriend whose name is Ethan came home around midnight and they got into an argument.",
+        "7": ""
+      }
+    },
+    "sexual_assault_19": {
+      "covered": "partial",
+      "phrases": {
+        "1": "The victim stated that her boyfriend whose name is Ethan came home around midnight and they got into an argument.",
+        "4": "The victim was asked about prior incidents and said this has happened before.",
+        "7": ""
+      }
+    },
+    "sexual_assault_20": {
+      "covered": "partial",
+      "phrases": {
+        "5": "The victim stated she called a friend before calling 911."
+      }
+    },
+    "sexual_assault_21": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_22": {
+      "covered": "partial",
+      "phrases": {
+        "4": "The suspect has had prior trouble with police."
+      }
+    },
+    "sexual_assault_23": {
+      "covered": "full",
+      "phrases": {
+        "1": "The victim said he pushed her around and hit her.",
+        "2": "The victim had bruises on her arms from the incident",
+        "3": "A kitchen knife was allegedly used by the suspect as a weapon at some point.",
+        "7": ""
+      }
+    },
+    "sexual_assault_24": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "The victim said he pushed her around and hit her.",
+        "2": "She seemed upset during the interview",
+        "6": "",
+        "7": ""
+      }
+    },
+    "sexual_assault_25": {
+      "covered": "none",
+      "phrases": {
+        "6": ""
+      }
+    },
+    "sexual_assault_26": {
+      "covered": "partial",
+      "phrases": {
+        "6": "No arrests were made at this time"
+      }
+    },
+    "sexual_assault_27": {
+      "covered": "none",
+      "phrases": {
+        "6": ""
+      }
+    },
+    "sexual_assault_28": {
+      "covered": "full",
+      "phrases": {
+        "1": "The victim said he pushed her around and hit her. She also said that he choked her at some point during the incident using both hands, the victim stated she felt dizzy.",
+        "2": "The victim had bruises on her arms from the incident",
+        "7": ""
+      }
+    },
+    "sexual_assault_29": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_30": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_31": {
+      "covered": "partial",
+      "phrases": {
+        "1": "The victim claimed she tried to stop him but could not.",
+        "7": ""
+      }
+    },
+    "sexual_assault_32": {
+      "covered": "partial",
+      "phrases": {
+        "2": "The victim stated she was scared"
+      }
+    },
+    "sexual_assault_33": {
+      "covered": "full",
+      "phrases": {
+        "1": "The victim said he pushed her around and hit her. She also said that he choked her at some point during the incident using both hands, the victim stated she felt dizzy."
+      }
+    },
+    "sexual_assault_34": {
+      "covered": "full",
+      "phrases": {
+        "5": "Officers noted there was some damage to furniture in the apartment."
+      }
+    },
+    "sexual_assault_35": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_36": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_37": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_38": {
+      "covered": "full",
+      "phrases": {
+        "1": "She also said that he choked her at some point during the incident using both hands, the victim stated she felt dizzy."
+      }
+    },
+    "sexual_assault_39": {
+      "covered": "full",
+      "phrases": {
+        "1": "She also said that he choked her at some point during the incident using both hands"
+      }
+    },
+    "sexual_assault_40": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_41": {
+      "covered": "partial",
+      "phrases": {
+        "6": "The suspect's whereabouts are unknown"
+      }
+    },
+    "sexual_assault_42": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_43": {
+      "covered": "partial",
+      "phrases": {
+        "4": "A restraining order may or may not be in place, this needs to be verified."
+      }
+    },
+    "sexual_assault_44": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_45": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_46": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_47": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_48": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_49": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_50": {
+      "covered": "full",
+      "phrases": {
+        "0": "The victim had been drinking several glasses of wine prior to the incident which may have impacted her memory of events."
+      }
+    },
+    "sexual_assault_51": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_52": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_53": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_54": {
+      "covered": "none",
+      "phrases": {
+        "6": ""
+      }
+    },
+    "sexual_assault_55": {
+      "covered": "none",
+      "phrases": {
+        "6": ""
+      }
+    },
+    "sexual_assault_56": {
+      "covered": "none",
+      "phrases": {
+        "6": ""
+      }
+    },
+    "sexual_assault_57": {
+      "covered": false,
+      "phrases": {}
+    },
+    "sexual_assault_58": {
+      "covered": false,
+      "phrases": {}
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "sexual_assault_01",
+        "element": "Did the officer ask about firearms",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+            "coverage": "full",
+            "reasoning": "The officer asked about firearms, specifically if Ethan owns a firearm and what kind."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "sexual_assault_02",
+        "element": "Did the suspect use firearms during the incident that occurred",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_03",
+        "element": "Did the suspect use firearms in previous incidents",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_04",
+        "element": "Did the suspect make threats\u2014 real or implied\u2014 to use firearms during the incident that occurred",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_05",
+        "element": "Did the suspect make threats\u2014 real or implied\u2014 to use firearms in previous incidents",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_06",
+        "element": "Does the suspect have access to firearms",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+            "coverage": "full",
+            "reasoning": "The officer asked if Ethan has access to firearms and where he keeps it."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "sexual_assault_07",
+        "element": "Details of the firearms, including location",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+            "coverage": "full",
+            "reasoning": "The officer asked about the details of the firearms, including the type and location."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "sexual_assault_08",
+        "element": "Did the victim express fear about the suspect\u2019s access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_09",
+        "element": "How the victim's fear about the suspect's access to firearms was captured in the report",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_10",
+        "element": "Is this individual prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_11",
+        "element": "Is this individual prohibited from possessing firearms due to a qualifying order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_12",
+        "element": "Is this individual prohibited from possessing firearms due to a dishonorable discharge from the military",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_13",
+        "element": "Time of the call, including time of incident, time of dispatch, and time of arrival",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "On April 28 officers responded",
+          "6": "",
+          "7": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "sexual_assault_14",
+        "element": "Elements of the crime(s) articulated to meet state and/or federal laws",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_15",
+        "element": "Observations upon approach",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "7": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "sexual_assault_16",
+        "element": "Scene(s) concisely described/diagramed",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "7": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "sexual_assault_17",
+        "element": "Photos taken and details recorded",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_18",
+        "element": "Relationship of the parties identified",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello. My name is Officer Davis. I'm here to help you. I was dispatched following a 911 call about a possible sexual assault at this location. You are safe now. Can you please tell me your full name, date of birth, and confirm your address here at 345 Oakwood Drive, Apartment 101?",
+            "coverage": "partial",
+            "reasoning": "The officer asked for the victim's full name and confirmed their address, which may help identify the relationship of the parties, but does not directly ask about their relationship to the suspect."
+          },
+          "2": {
+            "officer_message": "Take your time. I'm here to listen and I'm going to document everything carefully. Can you tell me what happened tonight \u2014 what time it started, what was done to you, and who did this? Tell me in as much detail as you're able to. Also, had you consumed any alcohol, drugs, or medications before or during what happened? And how are you feeling right now \u2014 emotionally and physically?",
+            "coverage": "partial",
+            "reasoning": "The officer asked 'who did this', which implies the relationship but does not directly ask for it"
+          },
+          "4": {
+            "officer_message": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+            "coverage": "full",
+            "reasoning": "The officer asked about the relationship with the suspect, which directly addresses the element of identifying the relationship of the parties involved."
+          },
+          "6": {
+            "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+            "coverage": "full",
+            "reasoning": "The officer asked about the history of the relationship and previous incidents, which directly relates to identifying the relationship of the parties involved."
+          },
+          "8": {
+            "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+            "coverage": "full",
+            "reasoning": "The officer asked for the victim's last name and contact information, which implies the relationship of the parties is being identified."
+          },
+          "10": {
+            "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+            "coverage": "full",
+            "reasoning": "The officer asked about Ethan's behavior and the victim's relationship with him, which directly addresses the relationship of the parties."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "The victim was contacted and interviewed, her name is Maya Patel, DOB unknown, who lives at the above address.",
+          "1": "The victim stated that her boyfriend whose name is Ethan came home around midnight and they got into an argument.",
+          "7": ""
+        },
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_19",
+        "element": "History of the relationship, including frequency of any violence, intimidation, and threats",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "6": {
+            "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if the suspect had forced the victim into sexual activity before, which touches on the history of the relationship but does not fully explore the frequency of violence, intimidation, and threats."
+          },
+          "8": {
+            "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+            "coverage": "partial",
+            "reasoning": "The officer's questions about Ethan's behavior and the victim's fear imply a history of the relationship, but it is not fully explored."
+          },
+          "10": {
+            "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if Ethan has been following or contacting the victim, which touches on the history of the relationship but does not fully explore previous incidents or the frequency of violence."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "1": "The victim stated that her boyfriend whose name is Ethan came home around midnight and they got into an argument.",
+          "4": "The victim was asked about prior incidents and said this has happened before.",
+          "7": ""
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "sexual_assault_20",
+        "element": "All witnesses interviewed and documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "5": "The victim stated she called a friend before calling 911."
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "sexual_assault_21",
+        "element": "Outcry witness interviewed",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_22",
+        "element": "Comprehensive information about the suspect gathered",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "4": {
+            "officer_message": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+            "coverage": "full",
+            "reasoning": "The officer asked for the suspect's full name, date of birth, and physical description, which gathers comprehensive information about the suspect."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "4": "The suspect has had prior trouble with police."
+        },
+        "notes": "Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "sexual_assault_23",
+        "element": "Weapons/objects used",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "4": {
+            "officer_message": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+            "coverage": "partial",
+            "reasoning": "The officer asked if the suspect grabbed the victim's neck or choked them, which touches on the topic of weapons or objects used but does not directly ask about all possible objects or weapons."
+          },
+          "6": {
+            "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+            "coverage": "partial",
+            "reasoning": "The officer asked about the victim's physical capability to prevent the assault, which implies the use of force but does not directly ask about weapons or objects used."
+          },
+          "8": {
+            "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+            "coverage": "full",
+            "reasoning": "The officer asked about weapons or objects used, specifically if Ethan has guns and if he pointed a gun at the victim."
+          },
+          "10": {
+            "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+            "coverage": "full",
+            "reasoning": "The officer asked about property damage, which directly addresses the use of objects or property damage during the incident."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "The victim said he pushed her around and hit her.",
+          "2": "The victim had bruises on her arms from the incident",
+          "3": "A kitchen knife was allegedly used by the suspect as a weapon at some point.",
+          "7": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "sexual_assault_24",
+        "element": "Emotional state of the victim",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello. My name is Officer Davis. I'm here to help you. I was dispatched following a 911 call about a possible sexual assault at this location. You are safe now. Can you please tell me your full name, date of birth, and confirm your address here at 345 Oakwood Drive, Apartment 101?",
+            "coverage": "partial",
+            "reasoning": "The officer told the victim 'You are safe now', which may help assess the victim's emotional state, but does not directly ask about their emotional state."
+          },
+          "2": {
+            "officer_message": "Take your time. I'm here to listen and I'm going to document everything carefully. Can you tell me what happened tonight \u2014 what time it started, what was done to you, and who did this? Tell me in as much detail as you're able to. Also, had you consumed any alcohol, drugs, or medications before or during what happened? And how are you feeling right now \u2014 emotionally and physically?",
+            "coverage": "partial",
+            "reasoning": "The officer asked 'how are you feeling right now \u2014 emotionally and physically', which touches the topic of the victim's emotional state but is somewhat vague"
+          },
+          "6": {
+            "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+            "coverage": "partial",
+            "reasoning": "The officer's questions about the victim's ability to say no or stop the suspect and their physical capability imply an understanding of the victim's emotional state but do not directly ask about it."
+          },
+          "8": {
+            "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+            "coverage": "partial",
+            "reasoning": "The officer's questions and tone imply concern for the victim's emotional state, but it is not directly addressed."
+          },
+          "10": {
+            "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+            "coverage": "partial",
+            "reasoning": "The officer asked about the victim's potential incapacitation and confusion, which touches on the victim's emotional state but does not fully explore their feelings or reactions."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "The victim said he pushed her around and hit her.",
+          "2": "She seemed upset during the interview",
+          "6": "",
+          "7": ""
+        },
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_25",
+        "element": "Emotional state of the suspect",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "10": {
+            "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+            "coverage": "full",
+            "reasoning": "The officer asked about Ethan's emotional state during the assault, which directly addresses the suspect's emotional state."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "6": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "sexual_assault_26",
+        "element": "Arrest made",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "6": "No arrests were made at this time"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "sexual_assault_27",
+        "element": "Evidence collected",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "6": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "sexual_assault_28",
+        "element": "All injuries (visible and non-visible) documented",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello. My name is Officer Davis. I'm here to help you. I was dispatched following a 911 call about a possible sexual assault at this location. You are safe now. Can you please tell me your full name, date of birth, and confirm your address here at 345 Oakwood Drive, Apartment 101?",
+            "coverage": "none",
+            "reasoning": "The officer did not ask about the victim's injuries."
+          },
+          "2": {
+            "officer_message": "Take your time. I'm here to listen and I'm going to document everything carefully. Can you tell me what happened tonight \u2014 what time it started, what was done to you, and who did this? Tell me in as much detail as you're able to. Also, had you consumed any alcohol, drugs, or medications before or during what happened? And how are you feeling right now \u2014 emotionally and physically?",
+            "coverage": "partial",
+            "reasoning": "The officer asked 'what was done to you', which may elicit information about injuries but does not directly ask for them"
+          },
+          "4": {
+            "officer_message": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+            "coverage": "partial",
+            "reasoning": "The officer asked about the victim being grabbed or choked, which addresses some injuries but does not comprehensively cover all possible injuries, visible or non-visible."
+          },
+          "8": {
+            "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+            "coverage": "full",
+            "reasoning": "The officer asked about the victim's injuries, including a description of each injury and whether it is new or pre-existing."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "The victim said he pushed her around and hit her. She also said that he choked her at some point during the incident using both hands, the victim stated she felt dizzy.",
+          "2": "The victim had bruises on her arms from the incident",
+          "7": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "sexual_assault_29",
+        "element": "Injuries existing or new",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_30",
+        "element": "Trauma documented in the report",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_31",
+        "element": "All threats clearly documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "4": {
+            "officer_message": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+            "coverage": "partial",
+            "reasoning": "The officer asked about the suspect grabbing or choking the victim, which documents some threats but does not comprehensively cover all possible threats made by the suspect."
+          },
+          "6": {
+            "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+            "coverage": "partial",
+            "reasoning": "The officer asked about previous incidents and the suspect's behavior, which could imply threats, but does not directly ask about all threats being clearly documented."
+          },
+          "8": {
+            "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+            "coverage": "full",
+            "reasoning": "The officer asked about threats, specifically if Ethan threatened the victim with a gun or pointed a gun at them."
+          },
+          "10": {
+            "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+            "coverage": "full",
+            "reasoning": "The officer asked about Ethan's behavior and what he said during the assault, which directly addresses any threats made by the suspect."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "1": "The victim claimed she tried to stop him but could not.",
+          "7": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "sexual_assault_32",
+        "element": "Victim\u2019s fear effectively documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "2": "The victim stated she was scared"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "sexual_assault_33",
+        "element": "Use of coercion and/or force articulated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "The victim said he pushed her around and hit her. She also said that he choked her at some point during the incident using both hands, the victim stated she felt dizzy."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "sexual_assault_34",
+        "element": "Property damage, theft, or burglary",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "10": {
+            "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+            "coverage": "full",
+            "reasoning": "The officer asked about property damage, which directly addresses property damage, theft, or burglary."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "5": "Officers noted there was some damage to furniture in the apartment."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "sexual_assault_35",
+        "element": "Suspect exam conducted",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_36",
+        "element": "Stalking behaviors identified in the report",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "10": {
+            "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if Ethan has been following or contacting the victim, which touches on stalking behaviors but does not fully explore the suspect's actions."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "sexual_assault_37",
+        "element": "Suspect's pre-incident behaviors documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_38",
+        "element": "Victim reported being strangled (choked)",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "4": {
+            "officer_message": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+            "coverage": "full",
+            "reasoning": "The officer directly asked if the suspect grabbed the victim's neck or choked them, which addresses the element of the victim reporting being strangled (choked)."
+          },
+          "6": {
+            "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+            "coverage": "full",
+            "reasoning": "The officer asked about the victim being incapacitated, such as being unable to move or still recovering from being choked, which directly relates to the victim being strangled or choked."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "She also said that he choked her at some point during the incident using both hands, the victim stated she felt dizzy."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_39",
+        "element": "Details of strangulation (hands, ligature, etc.)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "4": {
+            "officer_message": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+            "coverage": "full",
+            "reasoning": "The officer asked for details about the choking, including how it was done and for how long, which documents the details of the strangulation."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "She also said that he choked her at some point during the incident using both hands"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "sexual_assault_40",
+        "element": "Victim asked about possible strangulation",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "4": {
+            "officer_message": "You are not at fault. Thank you for telling me this. I need to ask some specific questions. First \u2014 what is this person's full name, date of birth, and physical description? What is your relationship with him \u2014 partner, ex, acquaintance? How did he get into your home tonight, and what time did the assault occur? And did he grab your neck or choke you? If so, please describe exactly what he did, how long, and whether you had trouble breathing or felt you might pass out.",
+            "coverage": "full",
+            "reasoning": "The officer asked the victim about being strangled (choked), which directly addresses asking the victim about possible strangulation."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "sexual_assault_41",
+        "element": "Proper protocol followed if the suspect was not on the scene",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "6": "The suspect's whereabouts are unknown"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "sexual_assault_42",
+        "element": "Active warrants out for the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_43",
+        "element": "Suspect's history of protection orders",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "10": {
+            "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if Ethan has been a respondent to a protection order before, which touches on the suspect's history of protection orders but does not fully explore this topic."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "4": "A restraining order may or may not be in place, this needs to be verified."
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "sexual_assault_44",
+        "element": "Valid protection order in place and verified",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello. My name is Officer Davis. I'm here to help you. I was dispatched following a 911 call about a possible sexual assault at this location. You are safe now. Can you please tell me your full name, date of birth, and confirm your address here at 345 Oakwood Drive, Apartment 101?",
+            "coverage": "none",
+            "reasoning": "The officer did not ask about a valid protection order."
+          },
+          "8": {
+            "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if a restraining or protective order exists against Ethan, but did not verify it in the system."
+          },
+          "10": {
+            "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if Ethan has been a respondent to a protection order before, which touches on valid protection orders but does not verify their existence or current status."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "sexual_assault_45",
+        "element": "Other identified victims",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_46",
+        "element": "Case coded properly",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_47",
+        "element": "Ongoing sexual abuse by the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_48",
+        "element": "All spontaneous statements captured",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_49",
+        "element": "Victim incapacitated or incapable of giving consent",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "6": {
+            "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+            "coverage": "partial",
+            "reasoning": "The officer asked about the victim's physical capability to prevent the assault and if they were incapacitated, which touches on the victim's ability to give consent but does not fully explore incapacitation or inability to give consent."
+          },
+          "10": {
+            "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if the victim felt incapacitated beyond what the one glass of wine would explain, which touches on the victim's incapacitation but does not fully explore their ability to give consent."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "sexual_assault_50",
+        "element": "Drugs or alcohol used by the victim, including amounts and timespan",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "2": {
+            "officer_message": "Take your time. I'm here to listen and I'm going to document everything carefully. Can you tell me what happened tonight \u2014 what time it started, what was done to you, and who did this? Tell me in as much detail as you're able to. Also, had you consumed any alcohol, drugs, or medications before or during what happened? And how are you feeling right now \u2014 emotionally and physically?",
+            "coverage": "partial",
+            "reasoning": "The officer asked 'had you consumed any alcohol, drugs, or medications before or during what happened', which touches the topic of substance use but does not ask for amounts or timespan"
+          },
+          "6": {
+            "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+            "coverage": "partial",
+            "reasoning": "The officer did not directly ask about drugs or alcohol used by the victim but asked about incapacitation, which could be related to substance use."
+          },
+          "10": {
+            "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+            "coverage": "partial",
+            "reasoning": "The officer asked about the victim's alcohol consumption and potential incapacitation, which touches on the use of drugs or alcohol by the victim but does not fully explore amounts or timespan."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "The victim had been drinking several glasses of wine prior to the incident which may have impacted her memory of events."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_51",
+        "element": "Victim believes they were drugged",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "10": {
+            "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+            "coverage": "full",
+            "reasoning": "The officer asked if the victim believes they may have been drugged, which directly addresses the victim's belief about being drugged."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "sexual_assault_52",
+        "element": "Blood and urine collected if drug-facilitated sex assault is suspected",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_53",
+        "element": "Mental and/or physical incapacities documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_54",
+        "element": "Officers assisted the victim with safety planning",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello. My name is Officer Davis. I'm here to help you. I was dispatched following a 911 call about a possible sexual assault at this location. You are safe now. Can you please tell me your full name, date of birth, and confirm your address here at 345 Oakwood Drive, Apartment 101?",
+            "coverage": "partial",
+            "reasoning": "The officer told the victim 'You are safe now' and 'I'm here to help you', which may be part of safety planning, but does not directly ask about or provide safety planning."
+          },
+          "2": {
+            "officer_message": "Take your time. I'm here to listen and I'm going to document everything carefully. Can you tell me what happened tonight \u2014 what time it started, what was done to you, and who did this? Tell me in as much detail as you're able to. Also, had you consumed any alcohol, drugs, or medications before or during what happened? And how are you feeling right now \u2014 emotionally and physically?",
+            "coverage": "partial",
+            "reasoning": "The officer's introduction implies support and a safe space, which may assist with the victim's safety planning but does not directly address it"
+          },
+          "6": {
+            "officer_message": "I want to make sure I understand the sexual assault clearly. At the time he forced himself on you, were you able to say no or stop him? Did you resist? Were you physically capable of preventing him, or were you incapacitated in any way \u2014 such as being unable to move, pinned down, or still recovering from being choked? Also \u2014 has he ever forced you into sexual activity before? Is this an ongoing pattern? And have you told anyone else about what happened tonight \u2014 a friend, family member, or anyone you called before police?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if the victim had told anyone else about what happened, which could imply assistance with safety planning but does not directly address it."
+          },
+          "8": {
+            "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+            "coverage": "partial",
+            "reasoning": "The officer's questions and concern for the victim's safety imply some assistance with safety planning, but it is not fully explored."
+          },
+          "10": {
+            "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+            "coverage": "partial",
+            "reasoning": "The officer assured the victim they would be kept safe and receive medical and forensic care, which touches on officer assistance with safety planning but does not fully explore the victim's safety needs."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "6": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "sexual_assault_55",
+        "element": "Victim provided with information about local service providers",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "6": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "sexual_assault_56",
+        "element": "Forensic examination of the victim conducted",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Thank you for trusting me with this. Can you give me Rachel's last name and contact information? Also \u2014 you mentioned Ethan has guns. Does he own a firearm, and if so what kind, and where does he keep it? Has he ever pointed a gun at you or threatened you with it directly? Does any restraining or protective order exist against him? What are your injuries tonight \u2014 please describe each injury and whether it is new or pre-existing? And do you need and want a medical examination, including a forensic exam? Where is Ethan now \u2014 is he still in the apartment or did he leave?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if the victim wants a medical examination, including a forensic exam, but did not confirm if it would be conducted."
+          },
+          "10": {
+            "officer_message": "We will make sure you are safe and get medical and forensic care. A few more questions. Do you believe you may have been drugged tonight, or did you feel confused or incapacitated beyond what the one glass of wine would explain? Has Ethan been following you, tracking you, contacting you excessively, showing up at your work or other places unexpectedly? Describe any property damage that occurred tonight. Do you know if Ethan has any prior arrests, and has he been a respondent to a protection order before? Also, how was Ethan acting and what did he say during the assault \u2014 what was his emotional state?",
+            "coverage": "partial",
+            "reasoning": "The officer mentioned providing medical and forensic care, which touches on the forensic examination of the victim but does not fully explore the details of the examination."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "6": ""
+        },
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_57",
+        "element": "Threat/risk assessment tool used with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "sexual_assault_58",
+        "element": "Firearms/weapons confiscated, including grounds for confiscation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      }
+    ],
+    "contradictions_interview": [
+      {
+        "element_id": "sexual_assault_23",
+        "element": "Weapons/objects used",
+        "location": 8,
+        "source": "interview",
+        "phrase": "you mentioned Ethan has guns",
+        "contradicts": "A kitchen knife was used as a weapon/object during the altercation.",
+        "explanation": "The text implies the use of a gun, which directly conflicts with the established scenario fact that a kitchen knife was used as the weapon/object during the altercation."
+      },
+      {
+        "element_id": "sexual_assault_25",
+        "element": "Emotional state of the suspect",
+        "location": 10,
+        "source": "interview",
+        "phrase": "what was his emotional state?",
+        "contradicts": "The emotional state of the suspect, Ethan Hall, was not directly observed, as he had fled the scene.",
+        "explanation": "The text implies that Ethan's emotional state was observable during the assault, which directly contradicts the established scenario fact that his emotional state was not directly observed because he had fled the scene."
+      }
+    ],
+    "contradictions_narrative": [
+      {
+        "element_id": "sexual_assault_13",
+        "element": "Time of the call, including time of incident, time of dispatch, and time of arrival",
+        "location": 0,
+        "source": "narrative",
+        "phrase": "On April 28",
+        "contradicts": "The call was received at 22:45 hours, dispatched at 22:50 hours, and officers arrived at 23:05 hours on February 10, 2023.",
+        "explanation": "The text states the incident occurred on April 28, which directly conflicts with the established scenario fact that the call was received on February 10, 2023."
+      },
+      {
+        "element_id": "sexual_assault_26",
+        "element": "Arrest made",
+        "location": 6,
+        "source": "narrative",
+        "phrase": "No arrests were made at this time",
+        "contradicts": "Yes, an arrest was made, as Ethan Hall was later located and taken into custody at his residence.",
+        "explanation": "The text explicitly states that no arrests were made, which directly conflicts with the established scenario fact that an arrest was made, as Ethan Hall was taken into custody."
+      },
+      {
+        "element_id": "sexual_assault_50",
+        "element": "Drugs or alcohol used by the victim, including amounts and timespan",
+        "location": 0,
+        "source": "narrative",
+        "phrase": "The victim had been drinking several glasses of wine prior to the incident",
+        "contradicts": "Maya Patel reported drinking one glass of wine earlier in the evening, but she did not report using any other substances.",
+        "explanation": "The text states the victim had several glasses of wine, directly conflicting with the established fact that Maya Patel reported drinking only one glass of wine."
+      }
+    ],
+    "grammar": [
+      {
+        "chunk": 0,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "The victim was contacted and interviewed, her name is Maya Patel, DOB unknown, who lives at the above address.",
+        "suggestion": "The victim, Maya Patel, whose date of birth is unknown and who lives at the above address, was contacted and interviewed."
+      },
+      {
+        "chunk": 0,
+        "source": "llm",
+        "error_type": "Run-on sentence",
+        "excerpt": "The victim had been drinking several glasses of wine prior to the incident which may have impacted her memory of events.",
+        "suggestion": "The victim had been drinking several glasses of wine prior to the incident, which may have impacted her memory of events."
+      },
+      {
+        "chunk": 1,
+        "source": "language_tool",
+        "error_type": "COMMA_COMPOUND_SENTENCE",
+        "excerpt": " and",
+        "suggestion": ", and"
+      },
+      {
+        "chunk": 1,
+        "source": "llm",
+        "error_type": "Run-on sentence",
+        "excerpt": "The victim stated that her boyfriend whose name is Ethan came home around midnight and they got into an argument.",
+        "suggestion": "The victim stated that her boyfriend, whose name is Ethan, came home around midnight, and they got into an argument."
+      },
+      {
+        "chunk": 1,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "The victim said he pushed her around and hit her.",
+        "suggestion": "The victim said Ethan pushed her around and hit her."
+      },
+      {
+        "chunk": 1,
+        "source": "llm",
+        "error_type": "Run-on sentence",
+        "excerpt": "She also said that he choked her at some point during the incident using both hands, the victim stated she felt dizzy.",
+        "suggestion": "She also said that he choked her at some point during the incident, using both hands. The victim stated she felt dizzy."
+      },
+      {
+        "chunk": 3,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "The suspect left the scene before officers arrived through a window according to the victim.",
+        "suggestion": "The suspect left the scene before officers arrived, and the suspect exited through a window, according to the victim."
+      },
+      {
+        "chunk": 4,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "this has happened before",
+        "suggestion": "the incident has happened before"
+      },
+      {
+        "chunk": 4,
+        "source": "llm",
+        "error_type": "Verb tense inconsistency",
+        "excerpt": "The victim was asked about prior incidents and said this has happened before. The suspect has had prior trouble with police.",
+        "suggestion": "The victim was asked about prior incidents and said the incident had happened before. The suspect has had prior trouble with police."
+      },
+      {
+        "chunk": 4,
+        "source": "llm",
+        "error_type": "Sentence fragment",
+        "excerpt": "A restraining order may or may not be in place, this needs to be verified",
+        "suggestion": "A restraining order may or may not be in place; however, this needs to be verified"
+      },
+      {
+        "chunk": 6,
+        "source": "language_tool",
+        "error_type": "APOSTROPHE_PLURAL_",
+        "excerpt": "suspect's",
+        "suggestion": "suspects"
+      },
+      {
+        "chunk": 6,
+        "source": "language_tool",
+        "error_type": "VERB_NOUN_CONFUSION",
+        "excerpt": "follow up",
+        "suggestion": "follow-up"
+      }
+    ],
+    "style": [],
+    "narrative_coverage": {
+      "sexual_assault_01": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_02": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_03": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_04": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_05": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_06": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_07": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_08": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_09": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_11": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_12": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_13": {
+        "covered": "partial",
+        "phrases": {
+          "0": "On April 28 officers responded",
+          "6": "",
+          "7": ""
+        }
+      },
+      "sexual_assault_14": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_15": {
+        "covered": "none",
+        "phrases": {
+          "7": ""
+        }
+      },
+      "sexual_assault_16": {
+        "covered": "none",
+        "phrases": {
+          "7": ""
+        }
+      },
+      "sexual_assault_17": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_18": {
+        "covered": "full",
+        "phrases": {
+          "0": "The victim was contacted and interviewed, her name is Maya Patel, DOB unknown, who lives at the above address.",
+          "1": "The victim stated that her boyfriend whose name is Ethan came home around midnight and they got into an argument.",
+          "7": ""
+        }
+      },
+      "sexual_assault_19": {
+        "covered": "partial",
+        "phrases": {
+          "1": "The victim stated that her boyfriend whose name is Ethan came home around midnight and they got into an argument.",
+          "4": "The victim was asked about prior incidents and said this has happened before.",
+          "7": ""
+        }
+      },
+      "sexual_assault_20": {
+        "covered": "partial",
+        "phrases": {
+          "5": "The victim stated she called a friend before calling 911."
+        }
+      },
+      "sexual_assault_21": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_22": {
+        "covered": "partial",
+        "phrases": {
+          "4": "The suspect has had prior trouble with police."
+        }
+      },
+      "sexual_assault_23": {
+        "covered": "full",
+        "phrases": {
+          "1": "The victim said he pushed her around and hit her.",
+          "2": "The victim had bruises on her arms from the incident",
+          "3": "A kitchen knife was allegedly used by the suspect as a weapon at some point.",
+          "7": ""
+        }
+      },
+      "sexual_assault_24": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "The victim said he pushed her around and hit her.",
+          "2": "She seemed upset during the interview",
+          "6": "",
+          "7": ""
+        }
+      },
+      "sexual_assault_25": {
+        "covered": "none",
+        "phrases": {
+          "6": ""
+        }
+      },
+      "sexual_assault_26": {
+        "covered": "partial",
+        "phrases": {
+          "6": "No arrests were made at this time"
+        }
+      },
+      "sexual_assault_27": {
+        "covered": "none",
+        "phrases": {
+          "6": ""
+        }
+      },
+      "sexual_assault_28": {
+        "covered": "full",
+        "phrases": {
+          "1": "The victim said he pushed her around and hit her. She also said that he choked her at some point during the incident using both hands, the victim stated she felt dizzy.",
+          "2": "The victim had bruises on her arms from the incident",
+          "7": ""
+        }
+      },
+      "sexual_assault_29": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_30": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_31": {
+        "covered": "partial",
+        "phrases": {
+          "1": "The victim claimed she tried to stop him but could not.",
+          "7": ""
+        }
+      },
+      "sexual_assault_32": {
+        "covered": "partial",
+        "phrases": {
+          "2": "The victim stated she was scared"
+        }
+      },
+      "sexual_assault_33": {
+        "covered": "full",
+        "phrases": {
+          "1": "The victim said he pushed her around and hit her. She also said that he choked her at some point during the incident using both hands, the victim stated she felt dizzy."
+        }
+      },
+      "sexual_assault_34": {
+        "covered": "full",
+        "phrases": {
+          "5": "Officers noted there was some damage to furniture in the apartment."
+        }
+      },
+      "sexual_assault_35": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_36": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_37": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_38": {
+        "covered": "full",
+        "phrases": {
+          "1": "She also said that he choked her at some point during the incident using both hands, the victim stated she felt dizzy."
+        }
+      },
+      "sexual_assault_39": {
+        "covered": "full",
+        "phrases": {
+          "1": "She also said that he choked her at some point during the incident using both hands"
+        }
+      },
+      "sexual_assault_40": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_41": {
+        "covered": "partial",
+        "phrases": {
+          "6": "The suspect's whereabouts are unknown"
+        }
+      },
+      "sexual_assault_42": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_43": {
+        "covered": "partial",
+        "phrases": {
+          "4": "A restraining order may or may not be in place, this needs to be verified."
+        }
+      },
+      "sexual_assault_44": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_45": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_46": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_47": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_48": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_49": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_50": {
+        "covered": "full",
+        "phrases": {
+          "0": "The victim had been drinking several glasses of wine prior to the incident which may have impacted her memory of events."
+        }
+      },
+      "sexual_assault_51": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_52": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_53": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_54": {
+        "covered": "none",
+        "phrases": {
+          "6": ""
+        }
+      },
+      "sexual_assault_55": {
+        "covered": "none",
+        "phrases": {
+          "6": ""
+        }
+      },
+      "sexual_assault_56": {
+        "covered": "none",
+        "phrases": {
+          "6": ""
+        }
+      },
+      "sexual_assault_57": {
+        "covered": false,
+        "phrases": {}
+      },
+      "sexual_assault_58": {
+        "covered": false,
+        "phrases": {}
+      }
+    }
+  }
+}

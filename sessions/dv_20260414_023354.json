@@ -1,0 +1,1119 @@
+{
+  "session_id": "dv_20260414_023354",
+  "timestamp": "2026-04-14T02:33:54.006668",
+  "metadata": {
+    "crime_type": "Domestic Violence",
+    "interviewee_name": "Leila Maria Rodriguez",
+    "interviewee_role": "victim",
+    "dispatch_line": "Domestic disturbance reported at 1456 Oakwood Drive, Apartment 3B, in the city of Riverton, Illinois, with a female yelling for help"
+  },
+  "scenario": {
+    "crime_type": "Domestic Violence",
+    "interviewee_role": "victim",
+    "interviewee_name": "Leila Maria Rodriguez",
+    "dispatch_line": "Domestic disturbance reported at 1456 Oakwood Drive, Apartment 3B, in the city of Riverton, Illinois, with a female yelling for help",
+    "facts": {
+      "domestic_violence_01": "No",
+      "domestic_violence_02": "Yes",
+      "domestic_violence_03": "Yes",
+      "domestic_violence_04": "Yes",
+      "domestic_violence_05": "Priority response assigned, two officers responded to the scene at 1456 Oakwood Drive, Apartment 3B, Riverton, Illinois",
+      "domestic_violence_06": "Yes, information about obtaining an order of protection was provided to the victim, Ms. Leila Maria Rodriguez",
+      "domestic_violence_07": "Time of incident: 09:45, Time of dispatch: 09:50, Time of arrival: 10:05",
+      "domestic_violence_08": "Yes, information about local service providers was provided to the victim",
+      "domestic_violence_09": "Yes, the elements of the crime(s) articulated meet state and/or federal laws that address domestic violence",
+      "domestic_violence_10": "Yes, a threat/risk assessment tool was used with the victim",
+      "domestic_violence_11": "Upon approach, officers observed a broken window, and the victim, Ms. Leila Maria Rodriguez, was visibly shaken and had a bruise on her left cheek",
+      "domestic_violence_12": "Yes, a valid protection order is in place, issued on February 10, 2023, by the Tarrant County Court",
+      "domestic_violence_13": "Yes, the scene is concisely described and diagramed in the report",
+      "domestic_violence_14": "Yes, photos were taken, and details were recorded, including a photo of the broken window and the victim's injury",
+      "domestic_violence_15": "The parties are identified as intimate partners, Ms. Leila Maria Rodriguez and Mr. Carlos Ramirez, who have been in a relationship for 5 years",
+      "domestic_violence_16": "The history of the relationship includes frequent verbal altercations, with 3 incidents of physical violence in the past year, including an incident on January 15, 2023, where Mr. Ramirez threatened Ms. Rodriguez with a knife",
+      "domestic_violence_17": "Yes, all witnesses were interviewed and documented",
+      "domestic_violence_18": "Yes, an arrest was made, and Mr. Carlos Ramirez was taken into custody",
+      "domestic_violence_19": "Yes, there were two children on the scene, ages 7 and 9, who were unharmed and are currently with a family member",
+      "domestic_violence_20": "Yes, information about previous incidents, including a police report from January 15, 2023, was documented",
+      "domestic_violence_21": "Yes, a kitchen knife was used as a weapon and is being held as evidence",
+      "domestic_violence_22": "The emotional state of the victim, Ms. Leila Maria Rodriguez, was anxious and fearful, with visible signs of distress",
+      "domestic_violence_23": "The emotional state of the suspect, Mr. Carlos Ramirez, was calm but agitated, with visible signs of anger",
+      "domestic_violence_24": "Evidence collected includes a kitchen knife, witness statements, photos of the broken window and the victim's injury, and a copy of the protection order",
+      "domestic_violence_25": "Yes, a threat/risk assessment tool was used with the suspect, Mr. Carlos Ramirez, and it indicated a high risk of future violence",
+      "domestic_violence_26": "Yes, evidence of fear is articulated in the report, as the victim, Ms. Leila Maria Rodriguez, stated she was in fear for her life",
+      "domestic_violence_27": "Yes, all threats have been clearly documented, including the threat made by Mr. Ramirez on January 15, 2023, when he threatened Ms. Rodriguez with a knife",
+      "domestic_violence_28": "Not applicable, as the suspect was on the scene when officers arrived",
+      "domestic_violence_29": "Yes, the use of coercion and/or force is articulated in the report, as the victim stated that Mr. Ramirez used physical force to break the window and intimidate her",
+      "domestic_violence_30": "Yes, all injuries (visible and non-visible) have been documented, including the bruise on the victim's left cheek and her complaint of pain",
+      "domestic_violence_31": "The injuries were new, as they occurred during the incident on the day of the report",
+      "domestic_violence_32": "Yes, there was property damage, as the suspect broke a window at the residence",
+      "domestic_violence_33": "Yes, stalking behaviors are identified, as the victim reported that Mr. Ramirez had been following her and showing up at her workplace uninvited",
+      "domestic_violence_34": "Yes, the officer inquired about possible strangulation, and the victim reported that Mr. Ramirez had attempted to strangle her in the past",
+      "domestic_violence_35": "No, the victim did not report being strangled during this incident",
+      "domestic_violence_36": "Yes, the victim requested medical attention for her injury and was transported to the hospital by EMS",
+      "domestic_violence_37": "No, the victim did not report sexual violence",
+      "domestic_violence_38": "Yes, all spontaneous statements were captured, including the victim's statement that Mr. Ramirez had been threatening her and the suspect's statement that he was 'just trying to talk to her'",
+      "domestic_violence_39": "Yes, the officer asked about firearms, and the victim reported that Mr. Ramirez has access to a handgun at his residence",
+      "domestic_violence_40": "No, the suspect did not use firearms during the incident",
+      "domestic_violence_41": "Yes, the suspect made threats to use firearms in the past, according to the victim's statement",
+      "domestic_violence_42": "Yes, the suspect has access to firearms, as reported by the victim",
+      "domestic_violence_43": "Yes, the victim expressed fear about the suspect's access to firearms, stating that she is afraid he will use them to harm her",
+      "domestic_violence_44": "No, firearms were not confiscated at the scene, as they were located at a different address, and a search warrant is pending to confiscate them"
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "content": "Hi"
+    },
+    {
+      "role": "assistant",
+      "content": "*nervous and shaken* Oh, hi... thank you for coming. I'm still trying to process everything that just happened. *takes a deep breath* It's all been so overwhelming. *looks around nervously* Can we... can we talk about what happened? I'm not sure where to start. *fidgets with hands*"
+    }
+  ],
+  "coverage_flags": {
+    "domestic_violence_01": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_02": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_03": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_04": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_05": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_06": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_07": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_08": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_09": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_10": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_11": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not provide any meaningful information about the scene or the incident."
+        }
+      }
+    },
+    "domestic_violence_12": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_13": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_14": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_15": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not provide any information about the relationship between the parties."
+        }
+      }
+    },
+    "domestic_violence_16": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_17": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_18": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_19": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_20": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_21": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_22": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not provide any information about the emotional state of the victim."
+        }
+      }
+    },
+    "domestic_violence_23": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not provide any information about the emotional state of the suspect."
+        }
+      }
+    },
+    "domestic_violence_24": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_25": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_26": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_27": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_28": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_29": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_30": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_31": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_32": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_33": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_34": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_35": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_36": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hi",
+          "coverage": "none",
+          "reasoning": "The officer's greeting does not provide any information about the victim's need for medical attention."
+        }
+      }
+    },
+    "domestic_violence_37": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_38": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_39": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_40": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_41": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_42": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_43": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_44": {
+      "covered": false,
+      "messages": {}
+    }
+  },
+  "narrative": "Stuff happened. It was bad.",
+  "narrative_coverage": {
+    "domestic_violence_01": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_02": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_03": {
+      "covered": "partial",
+      "phrases": {
+        "0": "Stuff happened"
+      }
+    },
+    "domestic_violence_04": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_05": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_06": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_07": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_08": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_09": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_11": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_12": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_13": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_14": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_15": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_16": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_17": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_18": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_19": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_20": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_21": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_22": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_23": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_24": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_25": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_26": {
+      "covered": "partial",
+      "phrases": {
+        "0": "It was bad"
+      }
+    },
+    "domestic_violence_27": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_28": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_29": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_30": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_31": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_32": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_33": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_34": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_35": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_36": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_37": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_38": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_39": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_40": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_41": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_42": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_43": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_44": {
+      "covered": false,
+      "phrases": {}
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "domestic_violence_01",
+        "element": "Is this individual prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_02",
+        "element": "Is this individual prohibited from possessing firearms due to a qualifying order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_03",
+        "element": "Does the report include all needed information",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "Stuff happened"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "domestic_violence_04",
+        "element": "Did the officer assist the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_05",
+        "element": "How was the case received",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_06",
+        "element": "Was information provided about obtaining an order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_07",
+        "element": "Is the time of the call recorded (including time of incident, time of dispatch, time of arrival)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_08",
+        "element": "Was information provided to the victim about local service providers",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_09",
+        "element": "Are the elements of the crime(s) articulated to meet state and/or federal laws that address domestic violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_10",
+        "element": "Was a threat/risk assessment tool used with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_11",
+        "element": "What were the observations upon approach",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not provide any meaningful information about the scene or the incident."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_12",
+        "element": "Is there a valid protection order in place",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_13",
+        "element": "Is the scene concisely described/diagramed",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_14",
+        "element": "Were photos taken and details recorded",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_15",
+        "element": "Is the relationship of the parties identified",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not provide any information about the relationship between the parties."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_16",
+        "element": "What is the history of the relationship (include frequency of any violence, intimidation, and threats)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_17",
+        "element": "Were all witnesses interviewed and documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_18",
+        "element": "Was an arrest made",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_19",
+        "element": "Were there children on the scene",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_20",
+        "element": "Was information about previous incidents documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_21",
+        "element": "Were weapons/objects used",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_22",
+        "element": "What was the emotional state of the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not provide any information about the emotional state of the victim."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_23",
+        "element": "What was the emotional state of the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not provide any information about the emotional state of the suspect."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_24",
+        "element": "What evidence was collected",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_25",
+        "element": "Was a threat/risk assessment tool used with the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_26",
+        "element": "Is evidence of fear articulated in the report",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "It was bad"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "domestic_violence_27",
+        "element": "Have all threats been clearly documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_28",
+        "element": "Was the proper protocol followed if the suspect was not on the scene",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_29",
+        "element": "Is the use of coercion and/or force articulated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_30",
+        "element": "Have all injuries (visible and non-visible) been documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_31",
+        "element": "Were injuries existing or new",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_32",
+        "element": "Was there any property damage, theft, or burglary",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_33",
+        "element": "Are stalking behaviors identified",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_34",
+        "element": "Did the officer inquire about possible strangulation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_35",
+        "element": "Did the victim report being strangled",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_36",
+        "element": "Did the victim request/need medical attention",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi",
+            "coverage": "none",
+            "reasoning": "The officer's greeting does not provide any information about the victim's need for medical attention."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_37",
+        "element": "Did the victim report sexual violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_38",
+        "element": "Were all spontaneous statements captured",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_39",
+        "element": "Did the officer ask about firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_40",
+        "element": "Did the suspect use firearms during the incident",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_41",
+        "element": "Did the suspect make threats to use firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_42",
+        "element": "Does the suspect have access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_43",
+        "element": "Did the victim express fear about the suspect's access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_44",
+        "element": "Were firearms/weapons confiscated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      }
+    ],
+    "contradictions_interview": [],
+    "contradictions_narrative": [],
+    "grammar": [],
+    "style": [
+      {
+        "chunk": 0,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "Stuff happened",
+        "suggestion": "I observed the incident occur"
+      },
+      {
+        "chunk": 0,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "It was bad",
+        "suggestion": "The incident resulted in damage to property and injury to individuals, as evidenced by broken glass and witness statements"
+      },
+      {
+        "chunk": 0,
+        "rule": "10",
+        "error_type": "chronological order",
+        "excerpt": "Stuff happened. It was bad",
+        "suggestion": "I responded to the incident at [time] and observed [specific details in chronological order]"
+      },
+      {
+        "chunk": 0,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "Stuff happened",
+        "suggestion": "A specific incident occurred, involving [details such as people, vehicles, or property]"
+      },
+      {
+        "chunk": 0,
+        "rule": "11",
+        "error_type": "lack of basic questions",
+        "excerpt": "Stuff happened. It was bad",
+        "suggestion": "I responded to the incident at [location] on [date] at [time]. The incident involved [who, what, where, when, why, and how]"
+      }
+    ],
+    "narrative_coverage": {
+      "domestic_violence_01": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_02": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_03": {
+        "covered": "partial",
+        "phrases": {
+          "0": "Stuff happened"
+        }
+      },
+      "domestic_violence_04": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_05": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_06": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_07": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_08": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_09": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_11": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_12": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_13": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_14": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_15": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_16": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_17": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_18": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_19": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_20": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_21": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_22": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_23": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_24": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_25": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_26": {
+        "covered": "partial",
+        "phrases": {
+          "0": "It was bad"
+        }
+      },
+      "domestic_violence_27": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_28": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_29": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_30": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_31": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_32": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_33": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_34": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_35": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_36": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_37": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_38": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_39": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_40": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_41": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_42": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_43": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_44": {
+        "covered": false,
+        "phrases": {}
+      }
+    }
+  }
+}

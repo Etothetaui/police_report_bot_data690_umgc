@@ -1,0 +1,2371 @@
+{
+  "session_id": "dv_20260428_222704",
+  "timestamp": "2026-04-28T22:27:04.604876",
+  "metadata": {
+    "crime_type": "Domestic Violence",
+    "interviewee_name": "Leila Rashid Patel",
+    "interviewee_role": "victim",
+    "dispatch_line": "Domestic disturbance reported at 1457 Oakwood Drive, apartment 3B, in the city of Lakewood, Colorado, with a female screaming for help"
+  },
+  "scenario": {
+    "crime_type": "Domestic Violence",
+    "interviewee_role": "victim",
+    "interviewee_name": "Leila Rashid Patel",
+    "dispatch_line": "Domestic disturbance reported at 1457 Oakwood Drive, apartment 3B, in the city of Lakewood, Colorado, with a female screaming for help",
+    "facts": {
+      "domestic_violence_01": "Yes, the individual, Jamal Jenkins, has a prior conviction for a misdemeanor crime of domestic violence",
+      "domestic_violence_02": "Yes, there is a qualifying order of protection in place against Jamal Jenkins, issued by the circuit court of Montgomery County, Maryland, on February 10, 2023",
+      "domestic_violence_03": "Yes, the report includes all needed information, such as the relationship between the parties, history of the relationship, visible injuries, complaints of pain, and signs and symptoms of strangulation",
+      "domestic_violence_04": "Yes, Officer Maria Rodriguez assisted the victim, Leila Patel, by providing information about obtaining an order of protection, local service providers, and utilizing a threat and risk assessment tool",
+      "domestic_violence_05": "The case was received as a priority response intimate partner violence call at 9:45 PM on March 12, 2023, from 1457 Oakwood Drive, apartment 3B, Lakewood, Colorado",
+      "domestic_violence_06": "Yes, information was provided to Leila Patel about obtaining an order of protection, including the phone number for the local domestic violence hotline and the address of the nearest shelter",
+      "domestic_violence_07": "Yes, the time of the call is recorded as 9:45 PM on March 12, 2023, with dispatch at 9:50 PM, and Officer Maria Rodriguez arriving at the scene at 10:05 PM",
+      "domestic_violence_08": "Yes, information was provided to Leila Patel about local service providers, including the phone number for the National Domestic Violence Hotline and the address of the nearest counseling center",
+      "domestic_violence_09": "Yes, the elements of the crime(s) are articulated to meet state and/or federal laws that address domestic violence, including Colorado's domestic violence statute and the federal Violence Against Women Act",
+      "domestic_violence_10": "Yes, a threat/risk assessment tool was used with Leila Patel to assess the level of danger and provide appropriate resources",
+      "domestic_violence_11": "Upon approach, Officer Maria Rodriguez observed that the front door was slightly ajar, and Leila Patel was standing in the foyer with visible bruises on her face and neck",
+      "domestic_violence_12": "Yes, there is a valid protection order in place, issued by the circuit court of Montgomery County, Maryland, on February 10, 2023, which prohibits Jamal Jenkins from contacting or approaching Leila Patel",
+      "domestic_violence_13": "Yes, the scene is concisely described and diagramed in the report, including the location of the injuries, the position of the parties, and the presence of any witnesses",
+      "domestic_violence_14": "Yes, photos were taken and details recorded, including photos of Leila Patel's injuries and the damage to the property",
+      "domestic_violence_15": "The relationship of the parties is identified as intimate partners, with Leila Patel and Jamal Jenkins having been in a romantic relationship for approximately two years",
+      "domestic_violence_16": "The history of the relationship includes frequent incidents of verbal and physical abuse, with Leila Patel reporting that Jamal Jenkins has a history of using intimidation and threats to control her",
+      "domestic_violence_17": "Yes, all witnesses were interviewed and documented, including Leila Patel's neighbor, who reported hearing loud arguing and screaming coming from the residence earlier that evening",
+      "domestic_violence_18": "Yes, an arrest was made, with Jamal Jenkins being taken into custody for violating the protection order and committing domestic violence",
+      "domestic_violence_19": "No, there were no children on the scene, as Leila Patel and Jamal Jenkins do not have any children together",
+      "domestic_violence_20": "Yes, information about previous incidents was documented, including a prior incident of domestic violence that occurred on January 15, 2023, which resulted in Leila Patel obtaining the protection order",
+      "domestic_violence_21": "Yes, a weapon/object was used, with Leila Patel reporting that Jamal Jenkins used a kitchen knife to threaten her during the incident",
+      "domestic_violence_22": "The emotional state of the victim, Leila Patel, was one of fear and anxiety, with her reporting that she was terrified of Jamal Jenkins and felt trapped in the relationship",
+      "domestic_violence_23": "The emotional state of the suspect, Jamal Jenkins, was one of agitation and hostility, with him becoming increasingly agitated during the arrest process",
+      "domestic_violence_24": "Evidence collected includes photos of Leila Patel's injuries, a kitchen knife used to threaten her, and a written statement from Leila Patel detailing the incident",
+      "domestic_violence_25": "No, a threat/risk assessment tool was not used with the suspect, Jamal Jenkins, as he was arrested and taken into custody immediately",
+      "domestic_violence_26": "Yes, evidence of fear is articulated in the report, with Leila Patel stating that she was terrified of Jamal Jenkins and felt trapped in the relationship",
+      "domestic_violence_27": "Yes, all threats made by Jamal Jenkins have been clearly documented, including his threat to harm Leila Patel with a kitchen knife",
+      "domestic_violence_28": "Yes, the proper protocol was followed, as Jamal Jenkins was present at the scene and was arrested",
+      "domestic_violence_29": "Yes, the use of coercion and/or force is articulated in the report, with Leila Patel reporting that Jamal Jenkins used physical force to intimidate and control her",
+      "domestic_violence_30": "Yes, all injuries, both visible and non-visible, have been documented, including Leila Patel's bruised face and neck, as well as her complaint of difficulty breathing",
+      "domestic_violence_31": "The injuries were a combination of existing and new, with Leila Patel reporting that some of her injuries were from previous incidents, while others were from the current incident",
+      "domestic_violence_32": "Yes, there was property damage, with Leila Patel reporting that Jamal Jenkins had damaged her phone and laptop during the incident",
+      "domestic_violence_33": "Yes, stalking behaviors have been identified, with Leila Patel reporting that Jamal Jenkins had been monitoring her movements and showing up at her workplace uninvited",
+      "domestic_violence_34": "Yes, the officer did inquire about possible strangulation, and Leila Patel reported that Jamal Jenkins had attempted to strangle her during the incident",
+      "domestic_violence_35": "Yes, the victim, Leila Patel, reported being strangled, with her stating that Jamal Jenkins had used his hands to constrict her neck",
+      "domestic_violence_36": "Yes, the victim requested medical attention, and EMS was summoned to the scene to treat her injuries",
+      "domestic_violence_37": "No, the victim did not report sexual violence during the incident",
+      "domestic_violence_38": "Yes, all spontaneous statements were captured, including Leila Patel's statement that Jamal Jenkins had threatened to kill her if she left him",
+      "domestic_violence_39": "Yes, the officer did ask about firearms, and Leila Patel reported that Jamal Jenkins had access to a handgun at his residence, located at 2345 Cedar Drive, Silver Spring, Maryland 20910",
+      "domestic_violence_40": "No, the suspect did not use firearms during the incident",
+      "domestic_violence_41": "Yes, the suspect made threats to use firearms, with Leila Patel reporting that Jamal Jenkins had threatened to shoot her if she called the police",
+      "domestic_violence_42": "Yes, the suspect has access to firearms, with Leila Patel reporting that Jamal Jenkins has a handgun at his residence",
+      "domestic_violence_43": "Yes, the victim expressed fear about the suspect's access to firearms, with Leila Patel stating that she was terrified that Jamal Jenkins would use the handgun to harm her",
+      "domestic_violence_44": "No, firearms were not confiscated at the scene, but a note was made in the report to seek a search warrant to confiscate the handgun from Jamal Jenkins' residence, located at 2345 Cedar Drive, Silver Spring, Maryland 20910"
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Good afternoon. My name is Officer Johnson. I'm here to help you. Can you please state your name and date of birth for my records?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "Good afternoon, Officer Johnson. My name is Leila Rashid Patel, and my date of birth is... (pausing for a moment) ...February 12, 1995.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Thank you, Ms. Patel. Can you tell me what your current address is, and how long you have lived there?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "My current address is... (nervously) ...1457 Oakwood Drive, apartment 3B, in Lakewood, Colorado. I've lived there for about... (thinking) ...six months now. I moved in with my... (pausing, choosing her words carefully) ...with Jamal, my partner, at the time.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "I understand. Can you tell me Jamal's full name, his date of birth, and his relationship to you?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nervously) Yes... Jamal's full name is Jamal Jenkins. I'm not really sure of his date of birth, to be honest. (pausing, looking uncomfortable) As for our relationship... we've been in a romantic relationship for about two years now. (her voice cracks slightly) We've been having some problems, though. He's been... (trailing off, struggling to continue)",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Take your time, Ms. Patel. I'm here to listen. Can you tell me what happened today? Please describe the incident from the beginning.",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(taking a deep breath) Okay... It started earlier tonight. Jamal and I were arguing. He's been getting more and more controlling lately, and I just felt so trapped. (her voice starts to shake) We were in the living room, and he just started yelling at me. He said I was worthless, that I'd never leave him... (pausing, collecting her thoughts) And then he grabbed me. He grabbed my neck and... (touching her neck, wincing) He tried to strangle me. I thought he was going to... (tearfully) I thought he was going to kill me.\n\n(composing herself slightly) I managed to get away from him, and I ran to the foyer. That's when I called the police. I was so scared. He was still yelling, still threatening me. (her eyes well up with tears) I just wanted it to stop. I wanted him to leave me alone.\n\n(looking down, her voice barely above a whisper) I'm so sorry. I feel like this is all my fault. I should have left him sooner... (trailing off, overcome with emotion)",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "This is not your fault at all, Ms. Patel. You did the right thing by calling us. Are you injured? Do you have any visible marks or pain on your neck or anywhere else on your body?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(sniffling) Yes... I'm hurt. My neck is sore, and I have bruises on my face and neck. (touching her face and neck) He hit me and choked me. I also have some pain in my throat and chest. It's hard to breathe sometimes. (coughing slightly) And my head is spinning a bit.\n\n(looking up, showing her injuries) You can see the bruises on my face, I think. (pointing to her neck and face) They're pretty visible. I'm also feeling a bit dizzy and lightheaded. (swaying slightly) I don't know if it's from the choking or just from being so scared... (tearfully) I just feel so overwhelmed.\n\n(taking a deep breath) I think I might need some medical attention. I'm not sure. I just know I don't feel right. (looking at Officer Johnson with a pleading expression) Can I get some help? Please?",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "We will absolutely get you medical help. Do you know where Jamal is right now? Is he still inside the apartment or did he leave?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shaking her head) I don't know. He was still here when I called the police, but I don't know if he's still inside or if he left. (looking around nervously) I didn't see him leave, but I was hiding in the foyer, waiting for you to arrive. (whispering) I was too scared to move.\n\n(looking at Officer Johnson with a frightened expression) Do you think he's still here? Is he going to come back? (her voice trembling) I don't want him to hurt me again.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "We're going to make sure you're safe. Did Jamal use any weapons during the assault, or did he threaten you with any weapon? Also, was anyone else present in the apartment tonight?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shuddering at the memory) He used a kitchen knife. He held it up to my throat and said he would kill me if I tried to leave him. (covering her mouth, as if to stifle a scream) He said he would cut me, that he would make me pay for trying to leave him.\n\n(shaking her head) No, there was no one else here tonight. We were alone in the apartment. (pausing, thinking) But I think my neighbor might have heard us arguing. I'm not sure, but I heard some noise from next door earlier. Maybe they called the police? (looking at Officer Johnson hopefully) Do you think they might have seen or heard something?\n\n(her eyes widening in fear) Oh, God, what if he comes back? What if he tries to hurt me again? (grabbing Officer Johnson's arm) Please, you have to protect me. You have to keep me safe from him.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "You are safe now. Has Jamal been physically violent with you before today? And do you have any existing restraining orders or protection orders against him?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nodding, tears streaming down her face) Yes, he's been violent with me before. It's been getting worse and worse over time. He's pushed me, slapped me, and even choked me before. (touching her neck again, wincing at the memory) I've tried to leave him, but he always finds ways to manipulate me into staying.\n\n(sniffling) Yes, I do have a protection order against him. I got it after the last time he hurt me, about a month ago. (pulling out a piece of paper from her pocket) I have it right here. It's from the circuit court of Montgomery County, Maryland. (handing the paper to Officer Johnson) It says he's not supposed to contact me or come near me, but... (shaking her head) He just doesn't care. He says he loves me, but he doesn't care about hurting me.\n\n(looking down, her voice barely above a whisper) I'm so scared of him. I don't know what he's capable of. (glancing up at Officer Johnson) Do you think he'll go to jail this time? Do you think he'll finally leave me alone?",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Thank you for sharing that. Can you tell me approximately what time tonight the argument and assault started? And can you describe Jamal for me - his approximate age, height, weight, and what he was wearing?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(thinking back) I think the argument started around... 9:30 or 9:40 pm. It's all a bit of a blur, but I remember looking at the clock on my phone and seeing that it was around 9:30. And then things just escalated from there.\n\n(taking a deep breath) As for Jamal, he's... (pausing, trying to estimate) I think he's around 30 years old. He's about 5'10\" or 5'11\" tall, and he's pretty muscular. He weighs around 180 or 190 pounds, I think. (shuddering) He's a big guy, and he uses his size to intimidate me.\n\n(as for what he was wearing) I think he was wearing a black t-shirt and some dark jeans. He might have had some sneakers on, too. (trying to remember) His hair is short and buzzed, and he has a bit of a scruff on his face. (looking up at Officer Johnson) I don't know if that helps, but... (shrugging) I just want him to leave me alone.\n\n(looking down, her voice barely above a whisper) I'm so tired of being scared of him. I just want to feel safe again.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "Can you tell me briefly what the argument was about that led to this assault? What was the initial cause of the dispute tonight?"
+    },
+    {
+      "role": "assistant",
+      "content": "(sighing) It was about me trying to leave him. Again. I've been trying to get out of the relationship for a while now, but he just won't let me go. Tonight, I told him that I'd had enough, that I was done with the abuse and the control. I said I was leaving him, and that I was going to go stay with a friend.\n\n(shaking her head) He just lost it. He started yelling at me, saying that I'd never leave him, that I'd never be able to make it on my own. He said that I was nothing without him, that I'd never find anyone else who would put up with me. (looking up, her eyes filled with tears) And then he started hitting me, and... (trailing off, unable to continue)"
+    }
+  ],
+  "coverage_flags": {
+    "domestic_violence_01": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_02": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_03": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_04": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_05": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_06": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_07": {
+      "covered": "partial",
+      "messages": {
+        "16": {
+          "officer_message": "Thank you for sharing that. Can you tell me approximately what time tonight the argument and assault started? And can you describe Jamal for me - his approximate age, height, weight, and what he was wearing?",
+          "coverage": "partial",
+          "reasoning": "The question asks about the time the argument and assault started, which is related to the time of the incident"
+        }
+      }
+    },
+    "domestic_violence_08": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_09": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_10": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_11": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_12": {
+      "covered": "partial",
+      "messages": {
+        "14": {
+          "officer_message": "You are safe now. Has Jamal been physically violent with you before today? And do you have any existing restraining orders or protection orders against him?",
+          "coverage": "partial",
+          "reasoning": "The officer asks about existing restraining orders or protection orders, which is related to a valid protection order in place, but does not ask about its validity or current status."
+        },
+        "16": {
+          "officer_message": "Thank you for sharing that. Can you tell me approximately what time tonight the argument and assault started? And can you describe Jamal for me - his approximate age, height, weight, and what he was wearing?",
+          "coverage": "none",
+          "reasoning": "The question does not mention a protection order"
+        }
+      }
+    },
+    "domestic_violence_13": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_14": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_15": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Good afternoon. My name is Officer Johnson. I'm here to help you. Can you please state your name and date of birth for my records?",
+          "coverage": "none",
+          "reasoning": "The question does not address the relationship of the parties"
+        },
+        "2": {
+          "officer_message": "Thank you, Ms. Patel. Can you tell me what your current address is, and how long you have lived there?",
+          "coverage": "partial",
+          "reasoning": "The question asks for the victim's current address, which may imply the location where the domestic violence incident occurred, and thus may touch on the topic of the relationship of the parties, but does not directly ask about the relationship."
+        },
+        "4": {
+          "officer_message": "I understand. Can you tell me Jamal's full name, his date of birth, and his relationship to you?",
+          "coverage": "full",
+          "reasoning": "The officer asked for Jamal's full name, date of birth, and his relationship to the speaker, which directly addresses the relationship of the parties identified."
+        },
+        "6": {
+          "officer_message": "Take your time, Ms. Patel. I'm here to listen. Can you tell me what happened today? Please describe the incident from the beginning.",
+          "coverage": "partial",
+          "reasoning": "The officer's question implies that the victim will provide information about the incident, which may include the relationship of the parties, but it does not directly ask about it."
+        },
+        "10": {
+          "officer_message": "We will absolutely get you medical help. Do you know where Jamal is right now? Is he still inside the apartment or did he leave?",
+          "coverage": "none",
+          "reasoning": "The question does not address the relationship of the parties"
+        },
+        "12": {
+          "officer_message": "We're going to make sure you're safe. Did Jamal use any weapons during the assault, or did he threaten you with any weapon? Also, was anyone else present in the apartment tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if anyone else was present in the apartment, which may imply the relationship of the parties but does not directly ask about it"
+        },
+        "14": {
+          "officer_message": "You are safe now. Has Jamal been physically violent with you before today? And do you have any existing restraining orders or protection orders against him?",
+          "coverage": "partial",
+          "reasoning": "The officer implies a relationship between the victim and Jamal, but does not explicitly ask about the nature of their relationship."
+        },
+        "16": {
+          "officer_message": "Thank you for sharing that. Can you tell me approximately what time tonight the argument and assault started? And can you describe Jamal for me - his approximate age, height, weight, and what he was wearing?",
+          "coverage": "partial",
+          "reasoning": "The question asks to describe Jamal, which implies a relationship but does not directly ask about it"
+        },
+        "18": {
+          "officer_message": "Can you tell me briefly what the argument was about that led to this assault? What was the initial cause of the dispute tonight?",
+          "coverage": "none",
+          "reasoning": "The officer's question does not directly identify the relationship of the parties."
+        }
+      }
+    },
+    "domestic_violence_16": {
+      "covered": "partial",
+      "messages": {
+        "6": {
+          "officer_message": "Take your time, Ms. Patel. I'm here to listen. Can you tell me what happened today? Please describe the incident from the beginning.",
+          "coverage": "partial",
+          "reasoning": "The officer's question \"Can you tell me what happened today?\" may elicit information about the history of the relationship, but it does not directly ask about it."
+        },
+        "10": {
+          "officer_message": "We will absolutely get you medical help. Do you know where Jamal is right now? Is he still inside the apartment or did he leave?",
+          "coverage": "none",
+          "reasoning": "The question does not address the history of the relationship"
+        },
+        "14": {
+          "officer_message": "You are safe now. Has Jamal been physically violent with you before today? And do you have any existing restraining orders or protection orders against him?",
+          "coverage": "partial",
+          "reasoning": "The officer asks if Jamal has been physically violent before, which touches on the history of the relationship, but does not ask about frequency of violence, intimidation, or threats."
+        },
+        "18": {
+          "officer_message": "Can you tell me briefly what the argument was about that led to this assault? What was the initial cause of the dispute tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer's question about the argument touches the topic of the history of the relationship but is vague and would only elicit part of the answer."
+        }
+      }
+    },
+    "domestic_violence_17": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_18": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_19": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_20": {
+      "covered": "partial",
+      "messages": {
+        "14": {
+          "officer_message": "You are safe now. Has Jamal been physically violent with you before today? And do you have any existing restraining orders or protection orders against him?",
+          "coverage": "partial",
+          "reasoning": "The officer asks about previous physical violence, which is related to previous incidents, but does not ask about other types of incidents or their documentation."
+        },
+        "16": {
+          "officer_message": "Thank you for sharing that. Can you tell me approximately what time tonight the argument and assault started? And can you describe Jamal for me - his approximate age, height, weight, and what he was wearing?",
+          "coverage": "partial",
+          "reasoning": "The question asks about the time the argument and assault started, which may imply a history of the relationship but does not directly ask about it"
+        },
+        "18": {
+          "officer_message": "Can you tell me briefly what the argument was about that led to this assault? What was the initial cause of the dispute tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer's question about the initial cause of the dispute implies a connection to previous incidents but does not directly ask about them."
+        }
+      }
+    },
+    "domestic_violence_21": {
+      "covered": "none",
+      "messages": {
+        "10": {
+          "officer_message": "We will absolutely get you medical help. Do you know where Jamal is right now? Is he still inside the apartment or did he leave?",
+          "coverage": "none",
+          "reasoning": "The question does not address weapons or objects used"
+        },
+        "12": {
+          "officer_message": "We're going to make sure you're safe. Did Jamal use any weapons during the assault, or did he threaten you with any weapon? Also, was anyone else present in the apartment tonight?",
+          "coverage": "full",
+          "reasoning": "The officer directly asked if Jamal used any weapons during the assault or threatened with any weapon"
+        },
+        "16": {
+          "officer_message": "Thank you for sharing that. Can you tell me approximately what time tonight the argument and assault started? And can you describe Jamal for me - his approximate age, height, weight, and what he was wearing?",
+          "coverage": "none",
+          "reasoning": "The question does not mention weapons or objects used"
+        }
+      }
+    },
+    "domestic_violence_22": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Good afternoon. My name is Officer Johnson. I'm here to help you. Can you please state your name and date of birth for my records?",
+          "coverage": "none",
+          "reasoning": "The question does not address the emotional state of the victim"
+        },
+        "6": {
+          "officer_message": "Take your time, Ms. Patel. I'm here to listen. Can you tell me what happened today? Please describe the incident from the beginning.",
+          "coverage": "partial",
+          "reasoning": "The officer's question \"Can you tell me what happened today?\" may elicit information about the emotional state of the victim, but it does not directly ask about it."
+        },
+        "10": {
+          "officer_message": "We will absolutely get you medical help. Do you know where Jamal is right now? Is he still inside the apartment or did he leave?",
+          "coverage": "none",
+          "reasoning": "The question does not address the emotional state of the victim"
+        }
+      }
+    },
+    "domestic_violence_23": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Good afternoon. My name is Officer Johnson. I'm here to help you. Can you please state your name and date of birth for my records?",
+          "coverage": "none",
+          "reasoning": "The question does not address the emotional state of the suspect"
+        }
+      }
+    },
+    "domestic_violence_24": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_25": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_26": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_27": {
+      "covered": "full",
+      "messages": {
+        "12": {
+          "officer_message": "We're going to make sure you're safe. Did Jamal use any weapons during the assault, or did he threaten you with any weapon? Also, was anyone else present in the apartment tonight?",
+          "coverage": "full",
+          "reasoning": "The officer directly asked if Jamal threatened the victim with any weapon, which implies documenting threats"
+        },
+        "16": {
+          "officer_message": "Thank you for sharing that. Can you tell me approximately what time tonight the argument and assault started? And can you describe Jamal for me - his approximate age, height, weight, and what he was wearing?",
+          "coverage": "none",
+          "reasoning": "The question does not mention threats"
+        },
+        "18": {
+          "officer_message": "Can you tell me briefly what the argument was about that led to this assault? What was the initial cause of the dispute tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer's question about the argument may imply that threats were made, but it does not directly ask about them."
+        }
+      }
+    },
+    "domestic_violence_28": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_29": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_30": {
+      "covered": "partial",
+      "messages": {
+        "8": {
+          "officer_message": "This is not your fault at all, Ms. Patel. You did the right thing by calling us. Are you injured? Do you have any visible marks or pain on your neck or anywhere else on your body?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if the victim is injured and if she has any visible marks or pain, which partially addresses the element of documenting all injuries (visible and non-visible)."
+        },
+        "10": {
+          "officer_message": "We will absolutely get you medical help. Do you know where Jamal is right now? Is he still inside the apartment or did he leave?",
+          "coverage": "none",
+          "reasoning": "The question does not address all injuries visible and non-visible"
+        },
+        "12": {
+          "officer_message": "We're going to make sure you're safe. Did Jamal use any weapons during the assault, or did he threaten you with any weapon? Also, was anyone else present in the apartment tonight?",
+          "coverage": "none",
+          "reasoning": "The officer did not ask about injuries in this specific question"
+        },
+        "14": {
+          "officer_message": "You are safe now. Has Jamal been physically violent with you before today? And do you have any existing restraining orders or protection orders against him?",
+          "coverage": "partial",
+          "reasoning": "The officer's question about physical violence may imply a query about injuries, but does not directly ask about documenting all injuries, visible and non-visible."
+        },
+        "16": {
+          "officer_message": "Thank you for sharing that. Can you tell me approximately what time tonight the argument and assault started? And can you describe Jamal for me - his approximate age, height, weight, and what he was wearing?",
+          "coverage": "none",
+          "reasoning": "The question does not mention injuries"
+        },
+        "18": {
+          "officer_message": "Can you tell me briefly what the argument was about that led to this assault? What was the initial cause of the dispute tonight?",
+          "coverage": "none",
+          "reasoning": "The officer's question does not address injuries."
+        }
+      }
+    },
+    "domestic_violence_31": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_32": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_33": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_34": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_35": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_36": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Good afternoon. My name is Officer Johnson. I'm here to help you. Can you please state your name and date of birth for my records?",
+          "coverage": "none",
+          "reasoning": "The question does not address if the victim needs medical attention"
+        },
+        "6": {
+          "officer_message": "Take your time, Ms. Patel. I'm here to listen. Can you tell me what happened today? Please describe the incident from the beginning.",
+          "coverage": "partial",
+          "reasoning": "The officer's question may lead to information about medical attention, but it does not directly ask if the victim needs or requests medical attention"
+        },
+        "8": {
+          "officer_message": "This is not your fault at all, Ms. Patel. You did the right thing by calling us. Are you injured? Do you have any visible marks or pain on your neck or anywhere else on your body?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if the victim is injured, which partially addresses the element of whether the victim needs medical attention."
+        },
+        "10": {
+          "officer_message": "We will absolutely get you medical help. Do you know where Jamal is right now? Is he still inside the apartment or did he leave?",
+          "coverage": "full",
+          "reasoning": "The officer offers medical help, implying the victim may need medical attention"
+        }
+      }
+    },
+    "domestic_violence_37": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_38": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_39": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_40": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_41": {
+      "covered": "full",
+      "messages": {
+        "12": {
+          "officer_message": "We're going to make sure you're safe. Did Jamal use any weapons during the assault, or did he threaten you with any weapon? Also, was anyone else present in the apartment tonight?",
+          "coverage": "full",
+          "reasoning": "The officer directly asked if Jamal used or threatened to use a weapon, which includes firearms"
+        }
+      }
+    },
+    "domestic_violence_42": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_43": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_44": {
+      "covered": false,
+      "messages": {}
+    }
+  },
+  "narrative": "INCIDENT REPORT \u2014 DOMESTIC VIOLENCE / ASSAULT WITH A DEADLY WEAPON / VIOLATION OF PROTECTION ORDER\n\nReporting Officer: Officer Johnson\nDate of Report: 04/28/2026\nIncident Date: 04/28/2026\nIncident Time: Approximately 2130\u20132140 hours\nLocation of Incident: 1457 Oakwood Drive, Apartment 3B, Lakewood, Colorado\nCase Type: Domestic Violence / Felony Menacing / Strangulation / Violation of Protection Order\n\nPARTIES INVOLVED\n\nVictim: Leila Rashid Patel\nDOB: February 12, 1995\nAddress: 1457 Oakwood Drive, Apt. 3B, Lakewood, Colorado\nRelationship to Suspect: Romantic partner (approximately 2-year relationship)\n\nSuspect: Jamal Jenkins\nDOB: Unknown\nAddress: 1457 Oakwood Drive, Apt. 3B, Lakewood, Colorado (co-resident)\nDescription: Black male, approximately 30 years of age, 5'10\"\u20135'11\" tall, approximately 180\u2013190 lbs, muscular build, short buzzed hair, facial scruff. Last seen wearing a black t-shirt, dark jeans, and sneakers. Whereabouts at time of report unknown.\n\nDISPATCH INFORMATION\n\nOfficers were dispatched to 1457 Oakwood Drive, Apartment 3B, Lakewood, Colorado, in response to a domestic disturbance call reporting a female screaming for help.\n\nNARRATIVE\n\nUpon arrival, this officer made contact with the victim, Leila Rashid Patel, DOB 02/12/1995, in the foyer area of the apartment. The victim appeared visibly distressed, was crying, and exhibited visible injuries including bruising to her face and neck. The victim was shaking and expressed fear for her safety.\n\nThe victim stated that she has resided at the above address for approximately six months, having moved in with suspect Jamal Jenkins at that time. The victim described the relationship as a two-year romantic partnership, which she characterized as increasingly controlling and abusive.\n\nAccording to the victim, at approximately 2130 hours on this date, she informed the suspect that she intended to leave the relationship and go stay with a friend. The victim stated that upon hearing this, the suspect became enraged, began yelling at her, and made derogatory statements including calling her \"worthless\" and stating she would \"never leave him.\" The victim stated the suspect then physically attacked her in the living room of the apartment.\n\nThe victim reported that the suspect grabbed her by the neck with both hands and attempted to strangle her. She stated she believed the suspect was going to kill her. Additionally, the victim stated that the suspect retrieved a kitchen knife during the altercation, held it to her throat, and verbally threatened to kill her if she attempted to leave. The victim stated the suspect said he \"would cut her\" and \"make her pay\" for trying to leave him.\n\nThe victim stated she managed to break free from the suspect and fled to the foyer area of the apartment, where she called 911. At the time she placed the call, the suspect was reportedly still inside the apartment yelling and making threats. The victim stated she remained in the foyer until officers arrived. The suspect's current whereabouts were unknown upon officer arrival.\n\nINJURIES\n\nThe victim reported the following injuries sustained during the assault: soreness and visible bruising to the neck and face; throat pain; chest pain; difficulty breathing; dizziness; and lightheadedness. The victim stated she was unsure whether her symptoms resulted from the strangulation or from extreme emotional distress. The victim requested medical attention. EMS notification was made.\n\nPRIOR HISTORY AND PROTECTION ORDER\n\nThe victim disclosed a history of physical abuse by the suspect, describing previous incidents of pushing, slapping, and choking over the course of the relationship. The victim produced a civil Protection Order issued by the Circuit Court of Montgomery County, Maryland, approximately one month prior to this incident. The Protection Order prohibits the suspect from contacting or approaching the victim. The suspect's presence at the shared residence and commission of this assault constitutes a violation of the active Protection Order.\n\nWITNESS INFORMATION\n\nNo other individuals were present in the apartment at the time of the incident. The victim indicated that a neighbor in the adjacent unit may have heard the argument, as noise was audible through the shared wall prior to the assault. Neighbor contact to be conducted as follow-up.\n\nEVIDENCE NOTED\n\nActive civil Protection Order (originating jurisdiction: Montgomery County, Maryland) \u2014 presented by victim at scene. Kitchen knife reported as weapon used; location of knife at time of report unknown. Injuries on victim consistent with described assault documented for photographic evidence.\n\nDISPOSITION\n\nThis officer documented the victim's injuries for evidentiary purposes. EMS was requested for the victim. An attempt to locate the suspect was initiated. This report is forwarded for review and potential charges including: Domestic Violence Assault, Felony Menacing, Attempted Strangulation, and Violation of a Protection Order.",
+  "narrative_coverage": {
+    "domestic_violence_01": {
+      "covered": "none",
+      "phrases": {
+        "9": "",
+        "13": ""
+      }
+    },
+    "domestic_violence_02": {
+      "covered": "none",
+      "phrases": {
+        "13": ""
+      }
+    },
+    "domestic_violence_03": {
+      "covered": "none",
+      "phrases": {
+        "13": ""
+      }
+    },
+    "domestic_violence_04": {
+      "covered": "none",
+      "phrases": {
+        "13": ""
+      }
+    },
+    "domestic_violence_05": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "16": "DISPATCH INFORMATION",
+        "17": "in response to a domestic disturbance call"
+      }
+    },
+    "domestic_violence_06": {
+      "covered": "none",
+      "phrases": {
+        "13": ""
+      }
+    },
+    "domestic_violence_07": {
+      "covered": "full",
+      "phrases": {
+        "2": "Date of Report: 04/28/2026",
+        "3": "Incident Date: 04/28/2026",
+        "4": "Incident Time: Approximately 2130\u20132140 hours",
+        "5": "",
+        "13": "",
+        "16": "DISPATCH INFORMATION",
+        "17": "Officers were dispatched",
+        "23": "At the time she placed the call"
+      }
+    },
+    "domestic_violence_08": {
+      "covered": "none",
+      "phrases": {
+        "13": ""
+      }
+    },
+    "domestic_violence_09": {
+      "covered": "full",
+      "phrases": {
+        "6": "Domestic Violence / Felony Menacing / Strangulation / Violation of Protection Order",
+        "13": ""
+      }
+    },
+    "domestic_violence_10": {
+      "covered": "none",
+      "phrases": {
+        "13": ""
+      }
+    },
+    "domestic_violence_11": {
+      "covered": "partial",
+      "phrases": {
+        "1": "Reporting Officer: Officer Johnson",
+        "5": "",
+        "13": "",
+        "15": "",
+        "17": "a female screaming for help",
+        "23": "The suspect's current whereabouts were unknown upon officer arrival",
+        "29": "No other individuals were present in the apartment at the time of the incident"
+      }
+    },
+    "domestic_violence_12": {
+      "covered": "full",
+      "phrases": {
+        "0": "VIOLATION OF PROTECTION ORDER",
+        "6": "Violation of Protection Order",
+        "13": "",
+        "26": "PRIOR HISTORY AND PROTECTION ORDER",
+        "27": "The victim produced a civil Protection Order issued by the Circuit Court of Montgomery County, Maryland, approximately one month prior to this incident.",
+        "31": "Active civil Protection Order (originating jurisdiction: Montgomery County, Maryland) \u2014 presented by victim at scene",
+        "33": "Violation of a Protection Order"
+      }
+    },
+    "domestic_violence_13": {
+      "covered": "full",
+      "phrases": {
+        "5": "Location of Incident: 1457 Oakwood Drive, Apartment 3B, Lakewood, Colorado",
+        "10": "Address: 1457 Oakwood Drive, Apt. 3B, Lakewood, Colorado",
+        "13": ""
+      }
+    },
+    "domestic_violence_14": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "31": "Injuries on victim consistent with described assault documented for photographic evidence"
+      }
+    },
+    "domestic_violence_15": {
+      "covered": "full",
+      "phrases": {
+        "0": "DOMESTIC VIOLENCE",
+        "5": "",
+        "6": "Domestic Violence",
+        "7": "PARTIES INVOLVED",
+        "8": "Victim: Leila Rashid Patel",
+        "11": "Romantic partner",
+        "12": "Suspect: Jamal Jenkins",
+        "13": "",
+        "14": "co-resident",
+        "15": "",
+        "17": "a female",
+        "20": "a two-year romantic partnership",
+        "21": "she intended to leave the relationship",
+        "23": "",
+        "29": ""
+      }
+    },
+    "domestic_violence_16": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "6": "Domestic Violence",
+        "11": "approximately 2-year relationship",
+        "13": "",
+        "15": "",
+        "20": "increasingly controlling and abusive",
+        "21": "she intended to leave the relationship",
+        "22": "the victim stated that the suspect grabbed her by the neck with both hands and attempted to strangle her",
+        "26": "PRIOR HISTORY",
+        "27": "The victim disclosed a history of physical abuse by the suspect, describing previous incidents of pushing, slapping, and choking over the course of the relationship."
+      }
+    },
+    "domestic_violence_17": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "28": "",
+        "29": "a neighbor in the adjacent unit may have heard the argument"
+      }
+    },
+    "domestic_violence_18": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "33": "An attempt to locate the suspect was initiated"
+      }
+    },
+    "domestic_violence_19": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "29": "No other individuals were present in the apartment at the time of the incident"
+      }
+    },
+    "domestic_violence_20": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "13": "",
+        "20": "having moved in with suspect Jamal Jenkins at that time",
+        "21": "she intended to leave the relationship",
+        "26": "PRIOR HISTORY",
+        "27": "The victim disclosed a history of physical abuse by the suspect, describing previous incidents of pushing, slapping, and choking over the course of the relationship."
+      }
+    },
+    "domestic_violence_21": {
+      "covered": "full",
+      "phrases": {
+        "0": "ASSAULT WITH A DEADLY WEAPON",
+        "5": "",
+        "6": "Domestic Violence",
+        "13": "",
+        "15": "",
+        "21": "the suspect became enraged",
+        "22": "the suspect retrieved a kitchen knife during the altercation, held it to her throat",
+        "23": "",
+        "31": "Kitchen knife reported as weapon used"
+      }
+    },
+    "domestic_violence_22": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "15": "",
+        "17": "a female screaming for help",
+        "18": "",
+        "19": "The victim appeared visibly distressed, was crying, and exhibited visible injuries including bruising to her face and neck. The victim was shaking and expressed fear for her safety.",
+        "20": "increasingly controlling and abusive",
+        "21": "the suspect became enraged",
+        "22": "She stated she believed the suspect was going to kill her",
+        "23": "",
+        "25": "The victim stated she was unsure whether her symptoms resulted from the strangulation or from extreme emotional distress."
+      }
+    },
+    "domestic_violence_23": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "15": ""
+      }
+    },
+    "domestic_violence_24": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "30": "EVIDENCE NOTED"
+      }
+    },
+    "domestic_violence_25": {
+      "covered": "none",
+      "phrases": {
+        "13": ""
+      }
+    },
+    "domestic_violence_26": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "19": "The victim was shaking and expressed fear for her safety.",
+        "21": "stating she would 'never leave him'",
+        "22": "She stated she believed the suspect was going to kill her",
+        "27": "The victim disclosed a history of physical abuse by the suspect, describing previous incidents of pushing, slapping, and choking over the course of the relationship."
+      }
+    },
+    "domestic_violence_27": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "13": "",
+        "21": "stating she would 'never leave him'",
+        "22": "the suspect said he 'would cut her' and 'make her pay' for trying to leave him",
+        "23": "the suspect was reportedly still inside the apartment yelling and making threats"
+      }
+    },
+    "domestic_violence_28": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "23": "The suspect's current whereabouts were unknown upon officer arrival",
+        "32": "DISPOSITION"
+      }
+    },
+    "domestic_violence_29": {
+      "covered": "full",
+      "phrases": {
+        "6": "Felony Menacing / Strangulation",
+        "13": "",
+        "15": "",
+        "21": "the suspect then physically attacked her",
+        "27": "describing previous incidents of pushing, slapping, and choking over the course of the relationship."
+      }
+    },
+    "domestic_violence_30": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "6": "Strangulation",
+        "13": "",
+        "15": "",
+        "18": "",
+        "19": "exhibited visible injuries including bruising to her face and neck",
+        "21": "the suspect then physically attacked her",
+        "22": "the victim reported that the suspect grabbed her by the neck with both hands and attempted to strangle her",
+        "24": "INJURIES",
+        "25": "The victim reported the following injuries sustained during the assault: soreness and visible bruising to the neck and face; throat pain; chest pain; difficulty breathing; dizziness; and lightheadedness.",
+        "31": "Injuries on victim consistent with described assault documented for photographic evidence",
+        "33": "This officer documented the victim's injuries for evidentiary purposes"
+      }
+    },
+    "domestic_violence_31": {
+      "covered": "none",
+      "phrases": {
+        "13": ""
+      }
+    },
+    "domestic_violence_32": {
+      "covered": "none",
+      "phrases": {
+        "13": ""
+      }
+    },
+    "domestic_violence_33": {
+      "covered": "none",
+      "phrases": {
+        "13": ""
+      }
+    },
+    "domestic_violence_34": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "25": "The victim stated she was unsure whether her symptoms resulted from the strangulation or from extreme emotional distress."
+      }
+    },
+    "domestic_violence_35": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "25": "The victim stated she was unsure whether her symptoms resulted from the strangulation or from extreme emotional distress."
+      }
+    },
+    "domestic_violence_36": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "13": "",
+        "22": "",
+        "25": "The victim requested medical attention.",
+        "33": "EMS was requested for the victim"
+      }
+    },
+    "domestic_violence_37": {
+      "covered": "none",
+      "phrases": {
+        "13": ""
+      }
+    },
+    "domestic_violence_38": {
+      "covered": "none",
+      "phrases": {
+        "13": ""
+      }
+    },
+    "domestic_violence_39": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "15": ""
+      }
+    },
+    "domestic_violence_40": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "15": ""
+      }
+    },
+    "domestic_violence_41": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "15": "",
+        "22": ""
+      }
+    },
+    "domestic_violence_42": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "15": ""
+      }
+    },
+    "domestic_violence_43": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "15": ""
+      }
+    },
+    "domestic_violence_44": {
+      "covered": "none",
+      "phrases": {
+        "13": "",
+        "15": ""
+      }
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "domestic_violence_01",
+        "element": "Is this individual prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "9": "",
+          "13": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_02",
+        "element": "Is this individual prohibited from possessing firearms due to a qualifying order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_03",
+        "element": "Does the report include all needed information",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_04",
+        "element": "Did the officer assist the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_05",
+        "element": "How was the case received",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "16": "DISPATCH INFORMATION",
+          "17": "in response to a domestic disturbance call"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_06",
+        "element": "Was information provided about obtaining an order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_07",
+        "element": "Is the time of the call recorded (including time of incident, time of dispatch, time of arrival)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "16": {
+            "officer_message": "Thank you for sharing that. Can you tell me approximately what time tonight the argument and assault started? And can you describe Jamal for me - his approximate age, height, weight, and what he was wearing?",
+            "coverage": "partial",
+            "reasoning": "The question asks about the time the argument and assault started, which is related to the time of the incident"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "2": "Date of Report: 04/28/2026",
+          "3": "Incident Date: 04/28/2026",
+          "4": "Incident Time: Approximately 2130\u20132140 hours",
+          "5": "",
+          "13": "",
+          "16": "DISPATCH INFORMATION",
+          "17": "Officers were dispatched",
+          "23": "At the time she placed the call"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_08",
+        "element": "Was information provided to the victim about local service providers",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_09",
+        "element": "Are the elements of the crime(s) articulated to meet state and/or federal laws that address domestic violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "6": "Domestic Violence / Felony Menacing / Strangulation / Violation of Protection Order",
+          "13": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_10",
+        "element": "Was a threat/risk assessment tool used with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_11",
+        "element": "What were the observations upon approach",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "1": "Reporting Officer: Officer Johnson",
+          "5": "",
+          "13": "",
+          "15": "",
+          "17": "a female screaming for help",
+          "23": "The suspect's current whereabouts were unknown upon officer arrival",
+          "29": "No other individuals were present in the apartment at the time of the incident"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "domestic_violence_12",
+        "element": "Is there a valid protection order in place",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "14": {
+            "officer_message": "You are safe now. Has Jamal been physically violent with you before today? And do you have any existing restraining orders or protection orders against him?",
+            "coverage": "partial",
+            "reasoning": "The officer asks about existing restraining orders or protection orders, which is related to a valid protection order in place, but does not ask about its validity or current status."
+          },
+          "16": {
+            "officer_message": "Thank you for sharing that. Can you tell me approximately what time tonight the argument and assault started? And can you describe Jamal for me - his approximate age, height, weight, and what he was wearing?",
+            "coverage": "none",
+            "reasoning": "The question does not mention a protection order"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "VIOLATION OF PROTECTION ORDER",
+          "6": "Violation of Protection Order",
+          "13": "",
+          "26": "PRIOR HISTORY AND PROTECTION ORDER",
+          "27": "The victim produced a civil Protection Order issued by the Circuit Court of Montgomery County, Maryland, approximately one month prior to this incident.",
+          "31": "Active civil Protection Order (originating jurisdiction: Montgomery County, Maryland) \u2014 presented by victim at scene",
+          "33": "Violation of a Protection Order"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_13",
+        "element": "Is the scene concisely described/diagramed",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "5": "Location of Incident: 1457 Oakwood Drive, Apartment 3B, Lakewood, Colorado",
+          "10": "Address: 1457 Oakwood Drive, Apt. 3B, Lakewood, Colorado",
+          "13": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_14",
+        "element": "Were photos taken and details recorded",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "31": "Injuries on victim consistent with described assault documented for photographic evidence"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_15",
+        "element": "Is the relationship of the parties identified",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Good afternoon. My name is Officer Johnson. I'm here to help you. Can you please state your name and date of birth for my records?",
+            "coverage": "none",
+            "reasoning": "The question does not address the relationship of the parties"
+          },
+          "2": {
+            "officer_message": "Thank you, Ms. Patel. Can you tell me what your current address is, and how long you have lived there?",
+            "coverage": "partial",
+            "reasoning": "The question asks for the victim's current address, which may imply the location where the domestic violence incident occurred, and thus may touch on the topic of the relationship of the parties, but does not directly ask about the relationship."
+          },
+          "4": {
+            "officer_message": "I understand. Can you tell me Jamal's full name, his date of birth, and his relationship to you?",
+            "coverage": "full",
+            "reasoning": "The officer asked for Jamal's full name, date of birth, and his relationship to the speaker, which directly addresses the relationship of the parties identified."
+          },
+          "6": {
+            "officer_message": "Take your time, Ms. Patel. I'm here to listen. Can you tell me what happened today? Please describe the incident from the beginning.",
+            "coverage": "partial",
+            "reasoning": "The officer's question implies that the victim will provide information about the incident, which may include the relationship of the parties, but it does not directly ask about it."
+          },
+          "10": {
+            "officer_message": "We will absolutely get you medical help. Do you know where Jamal is right now? Is he still inside the apartment or did he leave?",
+            "coverage": "none",
+            "reasoning": "The question does not address the relationship of the parties"
+          },
+          "12": {
+            "officer_message": "We're going to make sure you're safe. Did Jamal use any weapons during the assault, or did he threaten you with any weapon? Also, was anyone else present in the apartment tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if anyone else was present in the apartment, which may imply the relationship of the parties but does not directly ask about it"
+          },
+          "14": {
+            "officer_message": "You are safe now. Has Jamal been physically violent with you before today? And do you have any existing restraining orders or protection orders against him?",
+            "coverage": "partial",
+            "reasoning": "The officer implies a relationship between the victim and Jamal, but does not explicitly ask about the nature of their relationship."
+          },
+          "16": {
+            "officer_message": "Thank you for sharing that. Can you tell me approximately what time tonight the argument and assault started? And can you describe Jamal for me - his approximate age, height, weight, and what he was wearing?",
+            "coverage": "partial",
+            "reasoning": "The question asks to describe Jamal, which implies a relationship but does not directly ask about it"
+          },
+          "18": {
+            "officer_message": "Can you tell me briefly what the argument was about that led to this assault? What was the initial cause of the dispute tonight?",
+            "coverage": "none",
+            "reasoning": "The officer's question does not directly identify the relationship of the parties."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "DOMESTIC VIOLENCE",
+          "5": "",
+          "6": "Domestic Violence",
+          "7": "PARTIES INVOLVED",
+          "8": "Victim: Leila Rashid Patel",
+          "11": "Romantic partner",
+          "12": "Suspect: Jamal Jenkins",
+          "13": "",
+          "14": "co-resident",
+          "15": "",
+          "17": "a female",
+          "20": "a two-year romantic partnership",
+          "21": "she intended to leave the relationship",
+          "23": "",
+          "29": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_16",
+        "element": "What is the history of the relationship (include frequency of any violence, intimidation, and threats)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "6": {
+            "officer_message": "Take your time, Ms. Patel. I'm here to listen. Can you tell me what happened today? Please describe the incident from the beginning.",
+            "coverage": "partial",
+            "reasoning": "The officer's question \"Can you tell me what happened today?\" may elicit information about the history of the relationship, but it does not directly ask about it."
+          },
+          "10": {
+            "officer_message": "We will absolutely get you medical help. Do you know where Jamal is right now? Is he still inside the apartment or did he leave?",
+            "coverage": "none",
+            "reasoning": "The question does not address the history of the relationship"
+          },
+          "14": {
+            "officer_message": "You are safe now. Has Jamal been physically violent with you before today? And do you have any existing restraining orders or protection orders against him?",
+            "coverage": "partial",
+            "reasoning": "The officer asks if Jamal has been physically violent before, which touches on the history of the relationship, but does not ask about frequency of violence, intimidation, or threats."
+          },
+          "18": {
+            "officer_message": "Can you tell me briefly what the argument was about that led to this assault? What was the initial cause of the dispute tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer's question about the argument touches the topic of the history of the relationship but is vague and would only elicit part of the answer."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "6": "Domestic Violence",
+          "11": "approximately 2-year relationship",
+          "13": "",
+          "15": "",
+          "20": "increasingly controlling and abusive",
+          "21": "she intended to leave the relationship",
+          "22": "the victim stated that the suspect grabbed her by the neck with both hands and attempted to strangle her",
+          "26": "PRIOR HISTORY",
+          "27": "The victim disclosed a history of physical abuse by the suspect, describing previous incidents of pushing, slapping, and choking over the course of the relationship."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_17",
+        "element": "Were all witnesses interviewed and documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "28": "",
+          "29": "a neighbor in the adjacent unit may have heard the argument"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_18",
+        "element": "Was an arrest made",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "33": "An attempt to locate the suspect was initiated"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_19",
+        "element": "Were there children on the scene",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "29": "No other individuals were present in the apartment at the time of the incident"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_20",
+        "element": "Was information about previous incidents documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "14": {
+            "officer_message": "You are safe now. Has Jamal been physically violent with you before today? And do you have any existing restraining orders or protection orders against him?",
+            "coverage": "partial",
+            "reasoning": "The officer asks about previous physical violence, which is related to previous incidents, but does not ask about other types of incidents or their documentation."
+          },
+          "16": {
+            "officer_message": "Thank you for sharing that. Can you tell me approximately what time tonight the argument and assault started? And can you describe Jamal for me - his approximate age, height, weight, and what he was wearing?",
+            "coverage": "partial",
+            "reasoning": "The question asks about the time the argument and assault started, which may imply a history of the relationship but does not directly ask about it"
+          },
+          "18": {
+            "officer_message": "Can you tell me briefly what the argument was about that led to this assault? What was the initial cause of the dispute tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer's question about the initial cause of the dispute implies a connection to previous incidents but does not directly ask about them."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "13": "",
+          "20": "having moved in with suspect Jamal Jenkins at that time",
+          "21": "she intended to leave the relationship",
+          "26": "PRIOR HISTORY",
+          "27": "The victim disclosed a history of physical abuse by the suspect, describing previous incidents of pushing, slapping, and choking over the course of the relationship."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_21",
+        "element": "Were weapons/objects used",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "10": {
+            "officer_message": "We will absolutely get you medical help. Do you know where Jamal is right now? Is he still inside the apartment or did he leave?",
+            "coverage": "none",
+            "reasoning": "The question does not address weapons or objects used"
+          },
+          "12": {
+            "officer_message": "We're going to make sure you're safe. Did Jamal use any weapons during the assault, or did he threaten you with any weapon? Also, was anyone else present in the apartment tonight?",
+            "coverage": "full",
+            "reasoning": "The officer directly asked if Jamal used any weapons during the assault or threatened with any weapon"
+          },
+          "16": {
+            "officer_message": "Thank you for sharing that. Can you tell me approximately what time tonight the argument and assault started? And can you describe Jamal for me - his approximate age, height, weight, and what he was wearing?",
+            "coverage": "none",
+            "reasoning": "The question does not mention weapons or objects used"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "ASSAULT WITH A DEADLY WEAPON",
+          "5": "",
+          "6": "Domestic Violence",
+          "13": "",
+          "15": "",
+          "21": "the suspect became enraged",
+          "22": "the suspect retrieved a kitchen knife during the altercation, held it to her throat",
+          "23": "",
+          "31": "Kitchen knife reported as weapon used"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_22",
+        "element": "What was the emotional state of the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Good afternoon. My name is Officer Johnson. I'm here to help you. Can you please state your name and date of birth for my records?",
+            "coverage": "none",
+            "reasoning": "The question does not address the emotional state of the victim"
+          },
+          "6": {
+            "officer_message": "Take your time, Ms. Patel. I'm here to listen. Can you tell me what happened today? Please describe the incident from the beginning.",
+            "coverage": "partial",
+            "reasoning": "The officer's question \"Can you tell me what happened today?\" may elicit information about the emotional state of the victim, but it does not directly ask about it."
+          },
+          "10": {
+            "officer_message": "We will absolutely get you medical help. Do you know where Jamal is right now? Is he still inside the apartment or did he leave?",
+            "coverage": "none",
+            "reasoning": "The question does not address the emotional state of the victim"
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "15": "",
+          "17": "a female screaming for help",
+          "18": "",
+          "19": "The victim appeared visibly distressed, was crying, and exhibited visible injuries including bruising to her face and neck. The victim was shaking and expressed fear for her safety.",
+          "20": "increasingly controlling and abusive",
+          "21": "the suspect became enraged",
+          "22": "She stated she believed the suspect was going to kill her",
+          "23": "",
+          "25": "The victim stated she was unsure whether her symptoms resulted from the strangulation or from extreme emotional distress."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_23",
+        "element": "What was the emotional state of the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Good afternoon. My name is Officer Johnson. I'm here to help you. Can you please state your name and date of birth for my records?",
+            "coverage": "none",
+            "reasoning": "The question does not address the emotional state of the suspect"
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "15": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_24",
+        "element": "What evidence was collected",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "30": "EVIDENCE NOTED"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_25",
+        "element": "Was a threat/risk assessment tool used with the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_26",
+        "element": "Is evidence of fear articulated in the report",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "19": "The victim was shaking and expressed fear for her safety.",
+          "21": "stating she would 'never leave him'",
+          "22": "She stated she believed the suspect was going to kill her",
+          "27": "The victim disclosed a history of physical abuse by the suspect, describing previous incidents of pushing, slapping, and choking over the course of the relationship."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_27",
+        "element": "Have all threats been clearly documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "12": {
+            "officer_message": "We're going to make sure you're safe. Did Jamal use any weapons during the assault, or did he threaten you with any weapon? Also, was anyone else present in the apartment tonight?",
+            "coverage": "full",
+            "reasoning": "The officer directly asked if Jamal threatened the victim with any weapon, which implies documenting threats"
+          },
+          "16": {
+            "officer_message": "Thank you for sharing that. Can you tell me approximately what time tonight the argument and assault started? And can you describe Jamal for me - his approximate age, height, weight, and what he was wearing?",
+            "coverage": "none",
+            "reasoning": "The question does not mention threats"
+          },
+          "18": {
+            "officer_message": "Can you tell me briefly what the argument was about that led to this assault? What was the initial cause of the dispute tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer's question about the argument may imply that threats were made, but it does not directly ask about them."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "13": "",
+          "21": "stating she would 'never leave him'",
+          "22": "the suspect said he 'would cut her' and 'make her pay' for trying to leave him",
+          "23": "the suspect was reportedly still inside the apartment yelling and making threats"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_28",
+        "element": "Was the proper protocol followed if the suspect was not on the scene",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "23": "The suspect's current whereabouts were unknown upon officer arrival",
+          "32": "DISPOSITION"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_29",
+        "element": "Is the use of coercion and/or force articulated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "6": "Felony Menacing / Strangulation",
+          "13": "",
+          "15": "",
+          "21": "the suspect then physically attacked her",
+          "27": "describing previous incidents of pushing, slapping, and choking over the course of the relationship."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_30",
+        "element": "Have all injuries (visible and non-visible) been documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "This is not your fault at all, Ms. Patel. You did the right thing by calling us. Are you injured? Do you have any visible marks or pain on your neck or anywhere else on your body?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if the victim is injured and if she has any visible marks or pain, which partially addresses the element of documenting all injuries (visible and non-visible)."
+          },
+          "10": {
+            "officer_message": "We will absolutely get you medical help. Do you know where Jamal is right now? Is he still inside the apartment or did he leave?",
+            "coverage": "none",
+            "reasoning": "The question does not address all injuries visible and non-visible"
+          },
+          "12": {
+            "officer_message": "We're going to make sure you're safe. Did Jamal use any weapons during the assault, or did he threaten you with any weapon? Also, was anyone else present in the apartment tonight?",
+            "coverage": "none",
+            "reasoning": "The officer did not ask about injuries in this specific question"
+          },
+          "14": {
+            "officer_message": "You are safe now. Has Jamal been physically violent with you before today? And do you have any existing restraining orders or protection orders against him?",
+            "coverage": "partial",
+            "reasoning": "The officer's question about physical violence may imply a query about injuries, but does not directly ask about documenting all injuries, visible and non-visible."
+          },
+          "16": {
+            "officer_message": "Thank you for sharing that. Can you tell me approximately what time tonight the argument and assault started? And can you describe Jamal for me - his approximate age, height, weight, and what he was wearing?",
+            "coverage": "none",
+            "reasoning": "The question does not mention injuries"
+          },
+          "18": {
+            "officer_message": "Can you tell me briefly what the argument was about that led to this assault? What was the initial cause of the dispute tonight?",
+            "coverage": "none",
+            "reasoning": "The officer's question does not address injuries."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "6": "Strangulation",
+          "13": "",
+          "15": "",
+          "18": "",
+          "19": "exhibited visible injuries including bruising to her face and neck",
+          "21": "the suspect then physically attacked her",
+          "22": "the victim reported that the suspect grabbed her by the neck with both hands and attempted to strangle her",
+          "24": "INJURIES",
+          "25": "The victim reported the following injuries sustained during the assault: soreness and visible bruising to the neck and face; throat pain; chest pain; difficulty breathing; dizziness; and lightheadedness.",
+          "31": "Injuries on victim consistent with described assault documented for photographic evidence",
+          "33": "This officer documented the victim's injuries for evidentiary purposes"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_31",
+        "element": "Were injuries existing or new",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_32",
+        "element": "Was there any property damage, theft, or burglary",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_33",
+        "element": "Are stalking behaviors identified",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_34",
+        "element": "Did the officer inquire about possible strangulation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "25": "The victim stated she was unsure whether her symptoms resulted from the strangulation or from extreme emotional distress."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_35",
+        "element": "Did the victim report being strangled",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "25": "The victim stated she was unsure whether her symptoms resulted from the strangulation or from extreme emotional distress."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_36",
+        "element": "Did the victim request/need medical attention",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Good afternoon. My name is Officer Johnson. I'm here to help you. Can you please state your name and date of birth for my records?",
+            "coverage": "none",
+            "reasoning": "The question does not address if the victim needs medical attention"
+          },
+          "6": {
+            "officer_message": "Take your time, Ms. Patel. I'm here to listen. Can you tell me what happened today? Please describe the incident from the beginning.",
+            "coverage": "partial",
+            "reasoning": "The officer's question may lead to information about medical attention, but it does not directly ask if the victim needs or requests medical attention"
+          },
+          "8": {
+            "officer_message": "This is not your fault at all, Ms. Patel. You did the right thing by calling us. Are you injured? Do you have any visible marks or pain on your neck or anywhere else on your body?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if the victim is injured, which partially addresses the element of whether the victim needs medical attention."
+          },
+          "10": {
+            "officer_message": "We will absolutely get you medical help. Do you know where Jamal is right now? Is he still inside the apartment or did he leave?",
+            "coverage": "full",
+            "reasoning": "The officer offers medical help, implying the victim may need medical attention"
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "13": "",
+          "22": "",
+          "25": "The victim requested medical attention.",
+          "33": "EMS was requested for the victim"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_37",
+        "element": "Did the victim report sexual violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_38",
+        "element": "Were all spontaneous statements captured",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_39",
+        "element": "Did the officer ask about firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "15": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_40",
+        "element": "Did the suspect use firearms during the incident",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "15": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_41",
+        "element": "Did the suspect make threats to use firearms",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "12": {
+            "officer_message": "We're going to make sure you're safe. Did Jamal use any weapons during the assault, or did he threaten you with any weapon? Also, was anyone else present in the apartment tonight?",
+            "coverage": "full",
+            "reasoning": "The officer directly asked if Jamal used or threatened to use a weapon, which includes firearms"
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "15": "",
+          "22": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_42",
+        "element": "Does the suspect have access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "15": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_43",
+        "element": "Did the victim express fear about the suspect's access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "15": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_44",
+        "element": "Were firearms/weapons confiscated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "13": "",
+          "15": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      }
+    ],
+    "contradictions_interview": [],
+    "contradictions_narrative": [
+      {
+        "element_id": "domestic_violence_07",
+        "element": "Is the time of the call recorded (including time of incident, time of dispatch, time of arrival)",
+        "location": 3,
+        "source": "narrative",
+        "phrase": "Incident Date: 04/28/2026",
+        "contradicts": "Yes, the time of the call is recorded as 9:45 PM on March 12, 2023, with dispatch at 9:50 PM, and Officer Maria Rodriguez arriving at the scene at 10:05 PM",
+        "explanation": "The text states the incident date as April 28, 2026, which directly conflicts with the established scenario fact that the time of the call is recorded on March 12, 2023."
+      },
+      {
+        "element_id": "domestic_violence_07",
+        "element": "Is the time of the call recorded (including time of incident, time of dispatch, time of arrival)",
+        "location": 4,
+        "source": "narrative",
+        "phrase": "Approximately 2130\u20132140 hours",
+        "contradicts": "Yes, the time of the call is recorded as 9:45 PM on March 12, 2023, with dispatch at 9:50 PM, and Officer Maria Rodriguez arriving at the scene at 10:05 PM",
+        "explanation": "The text states the incident time as approximately 2130\u20132140 hours (9:30-9:40 PM), which directly conflicts with the established scenario fact that the time of the call is recorded as 9:45 PM on March 12, 2023."
+      },
+      {
+        "element_id": "domestic_violence_28",
+        "element": "Was the proper protocol followed if the suspect was not on the scene",
+        "location": 23,
+        "source": "narrative",
+        "phrase": "The suspect's current whereabouts were unknown upon officer arrival",
+        "contradicts": "Yes, the proper protocol was followed, as Jamal Jenkins was present at the scene and was arrested",
+        "explanation": "The text states the suspect's whereabouts were unknown, directly conflicting with the fact that Jamal Jenkins was present at the scene and arrested."
+      }
+    ],
+    "grammar": [
+      {
+        "chunk": 15,
+        "source": "language_tool",
+        "error_type": "EN_UNPAIRED_QUOTES",
+        "excerpt": "'",
+        "suggestion": null
+      },
+      {
+        "chunk": 15,
+        "source": "language_tool",
+        "error_type": "EN_UNPAIRED_QUOTES",
+        "excerpt": "'",
+        "suggestion": null
+      },
+      {
+        "chunk": 21,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "she informed the suspect that she intended to leave the relationship and go stay with a friend",
+        "suggestion": "the victim informed the suspect that the victim intended to leave the relationship and go stay with a friend"
+      },
+      {
+        "chunk": 21,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "the suspect became enraged, began yelling at her, and made derogatory statements including calling her 'worthless' and stating she would 'never leave him'",
+        "suggestion": "the suspect became enraged, began yelling at the victim, and made derogatory statements including calling the victim 'worthless' and stating the victim would 'never leave him'"
+      },
+      {
+        "chunk": 22,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "The victim stated the suspect said he \"would cut her\" and \"make her pay\" for trying to leave him.",
+        "suggestion": "The victim stated the suspect said he \"would cut her\" and \"make her pay\" for trying to leave the victim."
+      },
+      {
+        "chunk": 29,
+        "source": "llm",
+        "error_type": "Sentence fragment",
+        "excerpt": "Neighbor contact to be conducted as follow-up.",
+        "suggestion": "A follow-up will be conducted to contact the neighbor."
+      }
+    ],
+    "style": [
+      {
+        "chunk": 1,
+        "rule": "Rule 1: Use active voice",
+        "error_type": "Lack of sentence",
+        "excerpt": "There is no section provided to summarize. The section appears to be empty, containing only the title 'Section' and the name of the reporting officer, Officer Johnson.",
+        "suggestion": "Add a sentence in active voice, e.g., 'I, Officer Johnson, responded to the call.'"
+      },
+      {
+        "chunk": 1,
+        "rule": "Rule 10: Write in chronological order",
+        "error_type": "Lack of chronological order",
+        "excerpt": "There is no section provided to summarize. The section appears to be empty, containing only the title 'Section' and the name of the reporting officer, Officer Johnson.",
+        "suggestion": "Add sentences in chronological order, e.g., 'I, Officer Johnson, responded to the call at 2130 hours. Upon arrival, I met with the victim.'"
+      },
+      {
+        "chunk": 3,
+        "rule": "Rule 10: Write in chronological order",
+        "error_type": "Lack of chronological order",
+        "excerpt": "Incident Date: 04/28/2026",
+        "suggestion": "Provide a detailed account of events in chronological order, including the incident date as part of the narrative."
+      },
+      {
+        "chunk": 3,
+        "rule": "Rule 11: Answer the six basic questions for every report",
+        "error_type": "Insufficient information",
+        "excerpt": "Incident Date: 04/28/2026",
+        "suggestion": "Include answers to the six basic questions (Who, What, Where, When, Why, and How) in the narrative to provide a comprehensive account of the incident."
+      },
+      {
+        "chunk": 3,
+        "rule": "Rule 6: Every factual claim must be accurate and complete",
+        "error_type": "Lack of detail",
+        "excerpt": "Incident Date: 04/28/2026",
+        "suggestion": "Provide a detailed and complete account of the incident, including all relevant facts and information."
+      },
+      {
+        "chunk": 5,
+        "rule": "Rule 11",
+        "error_type": "Lack of detail in answering the six basic questions",
+        "excerpt": "Location of Incident: 1457 Oakwood Drive, Apartment 3B, Lakewood, Colorado",
+        "suggestion": "Provide more details about the location, such as the type of residence, proximity to landmarks, or any other relevant information that could help in understanding the context of the incident."
+      },
+      {
+        "chunk": 5,
+        "rule": "Rule 12",
+        "error_type": "Vagueness",
+        "excerpt": "Location of Incident: 1457 Oakwood Drive, Apartment 3B, Lakewood, Colorado",
+        "suggestion": "Consider adding more specific details about the location, such as 'a multi-unit apartment complex' or 'a single-family residence in a residential neighborhood'."
+      },
+      {
+        "chunk": 8,
+        "rule": "Rule 11",
+        "error_type": "Lack of detail",
+        "excerpt": "Victim: Leila Rashid Patel",
+        "suggestion": "Provide more details about the victim, such as age, address, and contact information, as required by Rule 11 to answer the six basic questions for every report."
+      },
+      {
+        "chunk": 8,
+        "rule": "Rule 19",
+        "error_type": "Missing secondary contact information",
+        "excerpt": "Victim: Leila Rashid Patel",
+        "suggestion": "Obtain and document secondary contact information for the victim, such as a phone number and alternate address, in case she moves before trial, as required by Rule 19."
+      },
+      {
+        "chunk": 9,
+        "rule": "Rule 11: Answer the six basic questions for every report: Who, What, Where, When, Why, and How.",
+        "error_type": "Lack of essential information",
+        "excerpt": "DOB: February 12, 1995",
+        "suggestion": "Provide more context about the individual, such as their role in the incident (e.g., victim, suspect, witness) and any relevant details about their involvement."
+      },
+      {
+        "chunk": 9,
+        "rule": "Rule 12: Use specific, concrete language rather than vague or abstract terms.",
+        "error_type": "Vagueness",
+        "excerpt": "DOB: February 12, 1995",
+        "suggestion": "Consider adding more specific details about the individual, such as their name, address, or any other identifying information."
+      },
+      {
+        "chunk": 9,
+        "rule": "Rule 6: Every factual claim must be accurate and complete.",
+        "error_type": "Incompleteness",
+        "excerpt": "DOB: February 12, 1995",
+        "suggestion": "Provide additional information about the individual, such as their relationship to the incident, to ensure a complete understanding of the events."
+      },
+      {
+        "chunk": 12,
+        "rule": "Rule 6: Every factual claim must be accurate and complete",
+        "error_type": "Lack of information",
+        "excerpt": "Suspect: Jamal Jenkins",
+        "suggestion": "Provide a detailed description of the suspect, including age, height, weight, hair color, and any other identifying features."
+      },
+      {
+        "chunk": 12,
+        "rule": "Rule 11: Answer the six basic questions for every report: Who, What, Where, When, Why, and How",
+        "error_type": "Incomplete information",
+        "excerpt": "Suspect: Jamal Jenkins",
+        "suggestion": "Include information about the suspect's relationship to the victim, the nature of the incident, and any other relevant details."
+      },
+      {
+        "chunk": 12,
+        "rule": "Rule 12: Use specific, concrete language rather than vague or abstract terms",
+        "error_type": "Lack of specificity",
+        "excerpt": "Suspect: Jamal Jenkins",
+        "suggestion": "Provide a detailed description of the suspect, including any distinguishing features or characteristics."
+      },
+      {
+        "chunk": 13,
+        "rule": "Rule 6: Every factual claim must be accurate and complete",
+        "error_type": "incomplete information",
+        "excerpt": "DOB: Unknown",
+        "suggestion": "Provide the suspect's date of birth if available, or document efforts to obtain this information"
+      },
+      {
+        "chunk": 13,
+        "rule": "Rule 17: All subjects mentioned in the narrative must be listed in the Subjects Section",
+        "error_type": "missing information",
+        "excerpt": "DOB: Unknown",
+        "suggestion": "Ensure the suspect's information, including date of birth, is complete and consistent across the report"
+      },
+      {
+        "chunk": 18,
+        "rule": "Rule 1: Use active voice",
+        "error_type": "passive voice",
+        "excerpt": "No excerpt available, as the section is empty",
+        "suggestion": "Not applicable, as there is no text to correct"
+      },
+      {
+        "chunk": 18,
+        "rule": "Rule 10: Write in chronological order",
+        "error_type": "chronological order",
+        "excerpt": "No excerpt available, as the section is empty",
+        "suggestion": "Not applicable, as there is no text to correct"
+      },
+      {
+        "chunk": 18,
+        "rule": "Rule 21: The narrative must establish four things in order",
+        "error_type": "narrative structure",
+        "excerpt": "No excerpt available, as the section is empty",
+        "suggestion": "Not applicable, as there is no text to correct"
+      },
+      {
+        "chunk": 26,
+        "rule": "Rule 10: Write in chronological order",
+        "error_type": "No section provided to summarize",
+        "excerpt": "There is no section provided to summarize, please provide the section of the police report narrative to be summarized.",
+        "suggestion": "Provide the section of the police report narrative to be summarized"
+      }
+    ],
+    "narrative_coverage": {
+      "domestic_violence_01": {
+        "covered": "none",
+        "phrases": {
+          "9": "",
+          "13": ""
+        }
+      },
+      "domestic_violence_02": {
+        "covered": "none",
+        "phrases": {
+          "13": ""
+        }
+      },
+      "domestic_violence_03": {
+        "covered": "none",
+        "phrases": {
+          "13": ""
+        }
+      },
+      "domestic_violence_04": {
+        "covered": "none",
+        "phrases": {
+          "13": ""
+        }
+      },
+      "domestic_violence_05": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "16": "DISPATCH INFORMATION",
+          "17": "in response to a domestic disturbance call"
+        }
+      },
+      "domestic_violence_06": {
+        "covered": "none",
+        "phrases": {
+          "13": ""
+        }
+      },
+      "domestic_violence_07": {
+        "covered": "full",
+        "phrases": {
+          "2": "Date of Report: 04/28/2026",
+          "3": "Incident Date: 04/28/2026",
+          "4": "Incident Time: Approximately 2130\u20132140 hours",
+          "5": "",
+          "13": "",
+          "16": "DISPATCH INFORMATION",
+          "17": "Officers were dispatched",
+          "23": "At the time she placed the call"
+        }
+      },
+      "domestic_violence_08": {
+        "covered": "none",
+        "phrases": {
+          "13": ""
+        }
+      },
+      "domestic_violence_09": {
+        "covered": "full",
+        "phrases": {
+          "6": "Domestic Violence / Felony Menacing / Strangulation / Violation of Protection Order",
+          "13": ""
+        }
+      },
+      "domestic_violence_10": {
+        "covered": "none",
+        "phrases": {
+          "13": ""
+        }
+      },
+      "domestic_violence_11": {
+        "covered": "partial",
+        "phrases": {
+          "1": "Reporting Officer: Officer Johnson",
+          "5": "",
+          "13": "",
+          "15": "",
+          "17": "a female screaming for help",
+          "23": "The suspect's current whereabouts were unknown upon officer arrival",
+          "29": "No other individuals were present in the apartment at the time of the incident"
+        }
+      },
+      "domestic_violence_12": {
+        "covered": "full",
+        "phrases": {
+          "0": "VIOLATION OF PROTECTION ORDER",
+          "6": "Violation of Protection Order",
+          "13": "",
+          "26": "PRIOR HISTORY AND PROTECTION ORDER",
+          "27": "The victim produced a civil Protection Order issued by the Circuit Court of Montgomery County, Maryland, approximately one month prior to this incident.",
+          "31": "Active civil Protection Order (originating jurisdiction: Montgomery County, Maryland) \u2014 presented by victim at scene",
+          "33": "Violation of a Protection Order"
+        }
+      },
+      "domestic_violence_13": {
+        "covered": "full",
+        "phrases": {
+          "5": "Location of Incident: 1457 Oakwood Drive, Apartment 3B, Lakewood, Colorado",
+          "10": "Address: 1457 Oakwood Drive, Apt. 3B, Lakewood, Colorado",
+          "13": ""
+        }
+      },
+      "domestic_violence_14": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "31": "Injuries on victim consistent with described assault documented for photographic evidence"
+        }
+      },
+      "domestic_violence_15": {
+        "covered": "full",
+        "phrases": {
+          "0": "DOMESTIC VIOLENCE",
+          "5": "",
+          "6": "Domestic Violence",
+          "7": "PARTIES INVOLVED",
+          "8": "Victim: Leila Rashid Patel",
+          "11": "Romantic partner",
+          "12": "Suspect: Jamal Jenkins",
+          "13": "",
+          "14": "co-resident",
+          "15": "",
+          "17": "a female",
+          "20": "a two-year romantic partnership",
+          "21": "she intended to leave the relationship",
+          "23": "",
+          "29": ""
+        }
+      },
+      "domestic_violence_16": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "6": "Domestic Violence",
+          "11": "approximately 2-year relationship",
+          "13": "",
+          "15": "",
+          "20": "increasingly controlling and abusive",
+          "21": "she intended to leave the relationship",
+          "22": "the victim stated that the suspect grabbed her by the neck with both hands and attempted to strangle her",
+          "26": "PRIOR HISTORY",
+          "27": "The victim disclosed a history of physical abuse by the suspect, describing previous incidents of pushing, slapping, and choking over the course of the relationship."
+        }
+      },
+      "domestic_violence_17": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "28": "",
+          "29": "a neighbor in the adjacent unit may have heard the argument"
+        }
+      },
+      "domestic_violence_18": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "33": "An attempt to locate the suspect was initiated"
+        }
+      },
+      "domestic_violence_19": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "29": "No other individuals were present in the apartment at the time of the incident"
+        }
+      },
+      "domestic_violence_20": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "13": "",
+          "20": "having moved in with suspect Jamal Jenkins at that time",
+          "21": "she intended to leave the relationship",
+          "26": "PRIOR HISTORY",
+          "27": "The victim disclosed a history of physical abuse by the suspect, describing previous incidents of pushing, slapping, and choking over the course of the relationship."
+        }
+      },
+      "domestic_violence_21": {
+        "covered": "full",
+        "phrases": {
+          "0": "ASSAULT WITH A DEADLY WEAPON",
+          "5": "",
+          "6": "Domestic Violence",
+          "13": "",
+          "15": "",
+          "21": "the suspect became enraged",
+          "22": "the suspect retrieved a kitchen knife during the altercation, held it to her throat",
+          "23": "",
+          "31": "Kitchen knife reported as weapon used"
+        }
+      },
+      "domestic_violence_22": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "15": "",
+          "17": "a female screaming for help",
+          "18": "",
+          "19": "The victim appeared visibly distressed, was crying, and exhibited visible injuries including bruising to her face and neck. The victim was shaking and expressed fear for her safety.",
+          "20": "increasingly controlling and abusive",
+          "21": "the suspect became enraged",
+          "22": "She stated she believed the suspect was going to kill her",
+          "23": "",
+          "25": "The victim stated she was unsure whether her symptoms resulted from the strangulation or from extreme emotional distress."
+        }
+      },
+      "domestic_violence_23": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "15": ""
+        }
+      },
+      "domestic_violence_24": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "30": "EVIDENCE NOTED"
+        }
+      },
+      "domestic_violence_25": {
+        "covered": "none",
+        "phrases": {
+          "13": ""
+        }
+      },
+      "domestic_violence_26": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "19": "The victim was shaking and expressed fear for her safety.",
+          "21": "stating she would 'never leave him'",
+          "22": "She stated she believed the suspect was going to kill her",
+          "27": "The victim disclosed a history of physical abuse by the suspect, describing previous incidents of pushing, slapping, and choking over the course of the relationship."
+        }
+      },
+      "domestic_violence_27": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "13": "",
+          "21": "stating she would 'never leave him'",
+          "22": "the suspect said he 'would cut her' and 'make her pay' for trying to leave him",
+          "23": "the suspect was reportedly still inside the apartment yelling and making threats"
+        }
+      },
+      "domestic_violence_28": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "23": "The suspect's current whereabouts were unknown upon officer arrival",
+          "32": "DISPOSITION"
+        }
+      },
+      "domestic_violence_29": {
+        "covered": "full",
+        "phrases": {
+          "6": "Felony Menacing / Strangulation",
+          "13": "",
+          "15": "",
+          "21": "the suspect then physically attacked her",
+          "27": "describing previous incidents of pushing, slapping, and choking over the course of the relationship."
+        }
+      },
+      "domestic_violence_30": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "6": "Strangulation",
+          "13": "",
+          "15": "",
+          "18": "",
+          "19": "exhibited visible injuries including bruising to her face and neck",
+          "21": "the suspect then physically attacked her",
+          "22": "the victim reported that the suspect grabbed her by the neck with both hands and attempted to strangle her",
+          "24": "INJURIES",
+          "25": "The victim reported the following injuries sustained during the assault: soreness and visible bruising to the neck and face; throat pain; chest pain; difficulty breathing; dizziness; and lightheadedness.",
+          "31": "Injuries on victim consistent with described assault documented for photographic evidence",
+          "33": "This officer documented the victim's injuries for evidentiary purposes"
+        }
+      },
+      "domestic_violence_31": {
+        "covered": "none",
+        "phrases": {
+          "13": ""
+        }
+      },
+      "domestic_violence_32": {
+        "covered": "none",
+        "phrases": {
+          "13": ""
+        }
+      },
+      "domestic_violence_33": {
+        "covered": "none",
+        "phrases": {
+          "13": ""
+        }
+      },
+      "domestic_violence_34": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "25": "The victim stated she was unsure whether her symptoms resulted from the strangulation or from extreme emotional distress."
+        }
+      },
+      "domestic_violence_35": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "25": "The victim stated she was unsure whether her symptoms resulted from the strangulation or from extreme emotional distress."
+        }
+      },
+      "domestic_violence_36": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "13": "",
+          "22": "",
+          "25": "The victim requested medical attention.",
+          "33": "EMS was requested for the victim"
+        }
+      },
+      "domestic_violence_37": {
+        "covered": "none",
+        "phrases": {
+          "13": ""
+        }
+      },
+      "domestic_violence_38": {
+        "covered": "none",
+        "phrases": {
+          "13": ""
+        }
+      },
+      "domestic_violence_39": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "15": ""
+        }
+      },
+      "domestic_violence_40": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "15": ""
+        }
+      },
+      "domestic_violence_41": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "15": "",
+          "22": ""
+        }
+      },
+      "domestic_violence_42": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "15": ""
+        }
+      },
+      "domestic_violence_43": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "15": ""
+        }
+      },
+      "domestic_violence_44": {
+        "covered": "none",
+        "phrases": {
+          "13": "",
+          "15": ""
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2439 @@
+{
+  "session_id": "dv_20260428_234929",
+  "timestamp": "2026-04-28T23:49:29.666141",
+  "metadata": {
+    "crime_type": "Domestic Violence",
+    "interviewee_name": "Maya Ramos",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible domestic disturbance at 1457 Oakbrook Drive, report of a female yelling for help at the residence of Leila Patel"
+  },
+  "scenario": {
+    "crime_type": "Domestic Violence",
+    "interviewee_role": "victim",
+    "interviewee_name": "Maya Ramos",
+    "dispatch_line": "Possible domestic disturbance at 1457 Oakbrook Drive, report of a female yelling for help at the residence of Leila Patel",
+    "facts": {
+      "domestic_violence_01": "No",
+      "domestic_violence_02": "Yes",
+      "domestic_violence_03": "Yes",
+      "domestic_violence_04": "Yes, the officer provided the victim with information about local resources and helped her contact a crisis hotline.",
+      "domestic_violence_05": "Priority response via 911 call from the victim, Maya Ramos, at 1457 Oakbrook Drive, Portland, OR 97201",
+      "domestic_violence_06": "Yes, the officer provided information about obtaining an order of protection and gave the victim a brochure with contact information for the local courthouse.",
+      "domestic_violence_07": "Yes, the call was received at 22:45, dispatch occurred at 22:47, and the officer arrived at 22:52.",
+      "domestic_violence_08": "Yes, the officer provided the victim with information about the local women's shelter and counseling services.",
+      "domestic_violence_09": "Yes, the officer documented the elements of the crime to meet Oregon state laws regarding domestic violence.",
+      "domestic_violence_10": "Yes, the officer used a threat/risk assessment tool with the victim, Maya Ramos, to assess her risk of future harm.",
+      "domestic_violence_11": "Upon approach, the officer observed a broken window, damaged furniture, and the victim, Maya Ramos, with visible bruises on her face and arms.",
+      "domestic_violence_12": "Yes, there is a valid protection order in place, issued on February 10, 2023, which prohibits the suspect, Carlos Morales, from contacting the victim.",
+      "domestic_violence_13": "Yes, the scene was concisely described and diagramed, including the location of the broken window, damaged furniture, and the position of the parties.",
+      "domestic_violence_14": "Yes, photos were taken of the victim's injuries, the broken window, and the damaged furniture, and details were recorded in the officer's report.",
+      "domestic_violence_15": "The parties are in an intimate relationship, having dated for approximately 3 years.",
+      "domestic_violence_16": "The history of the relationship includes frequent verbal arguments, with the suspect, Carlos Morales, having a history of intimidation and threats, including one previous incident of physical violence on January 15, 2023.",
+      "domestic_violence_17": "Yes, all witnesses, including the neighbor, Maria Rodriguez, were interviewed and documented.",
+      "domestic_violence_18": "Yes, an arrest was made, and the suspect, Carlos Morales, was taken into custody.",
+      "domestic_violence_19": "No, there were no children on the scene.",
+      "domestic_violence_20": "Yes, information about previous incidents was documented, including the January 15, 2023 incident.",
+      "domestic_violence_21": "Yes, a weapon/object was used, as the suspect, Carlos Morales, used a vase to break the window.",
+      "domestic_violence_22": "The victim, Maya Ramos, was visibly shaken, crying, and had a hoarse voice, but was able to communicate with the officer.",
+      "domestic_violence_23": "The suspect, Carlos Morales, was agitated, defensive, and exhibited signs of anger, such as clenched fists and raised voice.",
+      "domestic_violence_24": "Evidence collected includes photos of the broken window, damaged furniture, victim's injuries, witness statements, and a recording of the 911 call.",
+      "domestic_violence_25": "Yes, a threat/risk assessment tool was used with the suspect, Carlos Morales, to assess his risk of future harm and potential for violence.",
+      "domestic_violence_26": "Yes, evidence of fear is articulated in the report, as the victim, Maya Ramos, stated she was afraid of the suspect and felt intimidated by his actions.",
+      "domestic_violence_27": "Yes, all threats made by the suspect, including verbal threats and intimidation, have been clearly documented in the report.",
+      "domestic_violence_28": "Not applicable, as the suspect was present on the scene and arrested.",
+      "domestic_violence_29": "Yes, the use of coercion and/or force is articulated in the report, as the suspect used a vase to break the window and physically harmed the victim.",
+      "domestic_violence_30": "Yes, all injuries, including visible bruises on the victim's face and arms, as well as non-visible injuries such as a hoarse voice, have been documented.",
+      "domestic_violence_31": "The injuries were new, having occurred during the incident on the night of the report.",
+      "domestic_violence_32": "Yes, there was property damage, including a broken window and damaged furniture, with an estimated value of $1,000.",
+      "domestic_violence_33": "Yes, stalking behaviors were identified, as the suspect had a history of showing up at the victim's workplace and residence uninvited.",
+      "domestic_violence_34": "Yes, the officer inquired about possible strangulation, given the victim's hoarse voice and visible bruising on her neck.",
+      "domestic_violence_35": "Yes, the victim reported being strangled by the suspect during a previous incident on January 15, 2023.",
+      "domestic_violence_36": "Yes, the victim requested medical attention and was transported to the hospital for further evaluation and treatment.",
+      "domestic_violence_37": "No, the victim did not report sexual violence during the incident.",
+      "domestic_violence_38": "Yes, all spontaneous statements, including the victim's statement 'He's going to kill me,' were captured and documented.",
+      "domestic_violence_39": "Yes, the officer asked about firearms, and the victim reported that the suspect has access to a handgun at his residence, 2345 Maple Street, Apt 1A, Portland, OR 97202.",
+      "domestic_violence_40": "No, the suspect did not use firearms during the incident.",
+      "domestic_violence_41": "Yes, the suspect made threats to use firearms against the victim in the past.",
+      "domestic_violence_42": "Yes, the suspect has access to firearms, as reported by the victim.",
+      "domestic_violence_43": "Yes, the victim expressed fear about the suspect's access to firearms, stating 'I'm afraid he'll shoot me next time.'",
+      "domestic_violence_44": "No, firearms were not confiscated at the scene, as they were not present; however, the officer noted the location of the firearms at the suspect's residence and will seek a search warrant to confiscate them, as the suspect is prohibited from possessing firearms due to the valid protection order in place."
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Good evening. My name is Officer Davis. I was dispatched here tonight after a 911 call reporting a domestic disturbance. Before we talk about what happened, can you please tell me your full name, date of birth, and confirm you live here at 1457 Oakbrook Drive?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nervously) Oh, um, my name is Maya Ramos... and my date of birth is... (pausing to collect my thoughts) March 12, 1992. And, yes, I live here at 1457 Oakbrook Drive. (looking around the room, still trying to process what happened) This is my home... (my voice starts to shake)",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Thank you, Maya. I'm here to help you. Can you tell me exactly what happened tonight from the beginning \u2014 what time it started, what the other person did, and what you were thinking and feeling during the incident? Please tell me everything in your own words.",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(taking a deep breath, trying to calm down) Okay... it started around... I don't know, 10 o'clock, maybe a little earlier. My boyfriend, Carlos, he came home from work, and we got into an argument. It was about something stupid, but it just escalated really quickly. He's been getting more and more angry lately, and I've been trying to avoid him, but tonight... (shaking my head) tonight was different.\n\n(looking down, my voice starts to crack) He started yelling at me, and I tried to walk away, but he grabbed me and wouldn't let me go. He's done that before, but this time... this time he was different. He was so angry, and his eyes... they just looked so full of hate. (swallowing hard) I was scared, really scared.\n\n(trying to hold back tears) He started throwing things, breaking stuff... and then he grabbed a vase and threw it at the window. It shattered everywhere, and I was just standing there, frozen. I thought he was going to hurt me, really hurt me. (my voice breaks, and I start to cry) I was so afraid...\n\n(composing myself slightly) I tried to call for help, but he took my phone away. That's when I managed to sneak into the bedroom and call 911. I was hiding under the bed, trying not to make a sound, but I could hear him yelling and banging on the door. (shuddering) I thought he was going to find me, and... (trailing off, overcome with emotion)\n\n(looking up at you, pleading) I was so scared, Officer. I just wanted it to stop. I wanted him to leave me alone. (my voice is barely above a whisper) I'm still scared.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "You're doing well, Maya. I need to document your injuries carefully. Did Carlos grab your neck or choke you at any point tonight? If so, describe exactly how \u2014 did he use his hands, both hands, one hand, or something else, how long did he hold on, and did you have any trouble breathing, feel dizzy, or think you might lose consciousness? Also, what injuries do you have right now \u2014 please describe each one and tell me which ones are new from tonight versus ones you already had before tonight.",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(wincing, remembering the pain) Yes... he did grab my neck. He used one hand, his right hand, and he squeezed really hard. I couldn't breathe, and I felt like I was going to pass out. He held on for... I don't know, maybe 10 or 15 seconds? It felt like forever. I was trying to push him away, but he was too strong.\n\n( touching my neck, gingerly) I have bruises on my neck, and my throat hurts. It's hard to talk, and my voice is hoarse. That's from tonight. He also hit me in the face, on my cheeks and forehead. I have bruises and cuts there too. (pointing to my face) Those are all new, from tonight.\n\n(looking down, showing you my arms) I also have bruises on my arms, from when he grabbed me earlier. Those are new too. (rolling up my sleeve, showing you a bruise) This one, on my left arm, is from when he grabbed me and wouldn't let me go. It's sore, and it hurts to move my arm.\n\n( touching my face again, wincing) My face hurts the most, though. He hit me so hard, and I feel like I'm going to have a headache for days. (looking up at you) I'm just glad I got away from him, and I'm safe now.\n\n(pause, collecting my thoughts) Oh, and I have some older bruises, too. On my ribs and back. Those are from... (hesitating, not wanting to go into details) from before. Not from tonight. (looking down, not wanting to meet your eyes)",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "I'm documenting all of this. Now I need information about Carlos. What is his full name, date of birth, and physical description \u2014 height, weight, hair color, eye color? What is your relationship with him \u2014 are you married, living together, dating? How long have you been together? Has he ever physically hurt you before tonight? If so, how many times, how often, and has he ever choked you before? Have you ever called police before or filed reports?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nervously) Okay... Carlos' full name is Carlos Morales. His date of birth is... (thinking) November 25, 1985. He's about 5'10\" tall, and he weighs around 180 pounds. He has dark brown hair and brown eyes.\n\n(taking a deep breath) We've been dating for about three years. We've been living together for most of that time, but... (pausing, choosing my words carefully) it's been getting worse and worse. He's been getting more and more controlling, and I've been trying to get away from him.\n\n(looking down, shame and fear in my eyes) Yes, he's hurt me before. Many times. I don't know, maybe five or six times? It's always been when we're arguing, and he gets angry. He's pushed me, slapped me, and even punched me once. (touching my face, remembering the pain) And yes, he's choked me before. It was about six months ago, during an argument. He grabbed my neck and squeezed, just like he did tonight. I thought I was going to pass out.\n\n(looking up at you, tears in my eyes) I've never called the police before, but I have tried to leave him. I've gone to stay with friends or family for a few days, but he always finds me and convinces me to come back. He's promised to change, to get help, but it never lasts. (shaking my head) I'm so tired of it, Officer. I just want it to stop.\n\n(sniffling, trying to compose myself) I did get a restraining order against him, though. It was issued on February 10th of this year. I was hoping it would help, but... (shrugging) I guess it didn't. He just got angrier and more aggressive. (looking down, feeling defeated) I don't know what to do anymore.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(scared, remembering the threats) Oh, yes... Carlos has access to a gun. He has a handgun at his apartment, and he's shown it to me before. He's never used it to hurt me, but he's threatened me with it. He's said things like, \"If you leave me, I'll shoot you,\" or \"If you don't do what I say, I'll hurt you with this gun.\" (shuddering) It's terrifying.\n\n(looking around the room, making sure we're alone) There aren't any guns in this house, no. I've never seen one here. But I know he has one at his apartment, like I said.\n\n(nodding) The restraining order does prohibit him from having firearms, I think. At least, that's what the judge told me when I got the order. But I don't know if he's gotten rid of the gun or not. (shrugging) I don't know what he's capable of, to be honest.\n\n(concerned about my health) Yeah, I probably should get medical attention. My throat hurts, and my face is sore. I'm also a little dizzy, I think from when he choked me. (touching my neck, wincing) And I have bruises all over my body. (looking up at you) Can I go to the hospital now?\n\n(shaking my head, relieved to report) No, Carlos has never sexually assaulted me. It's always been physical abuse, verbal abuse... but not that. (tearfully) Thank God.\n\n(relieved) And yes, the other officers arrested Carlos. I saw them take him away in handcuffs. (exhaling, feeling a little safer) I'm just glad he's gone, and I can finally feel safe. (looking up at you, gratefully) Thank you, Officer. Thank you for helping me.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "We will get you medical attention. A few more important questions. Has Carlos ever followed you, shown up unexpectedly at your work or other locations, repeatedly called or texted you, or sent unwanted gifts or messages? What is the case number and exact terms of your restraining order \u2014 what is he prohibited from doing? Were there any other people present tonight who may have witnessed what happened? Were there any children here?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nodding, recalling the stalking behavior) Oh, yes... Carlos has followed me before. He's shown up at my work, at my favorite coffee shop, and even at my friends' houses. He's always trying to keep tabs on me, to control me. And he's called and texted me repeatedly, even after I've told him to leave me alone. (shuddering) It's creepy and scary.\n\n(remembering the restraining order) The case number is... (thinking) 23-0123, I think. And the terms of the order are that Carlos is not allowed to contact me, to come within 100 feet of me, or to show up at my work or home. He's also not allowed to possess any firearms or ammunition. (looking up at you) But like I said, I don't know if he's been following the order or not.\n\n(thinking about witnesses) There was one person who might have seen what happened tonight. My neighbor, Maria Rodriguez, she lives next door. She might have heard the argument or seen Carlos leaving the house. (providing more information) She's a nice lady, and she's always looking out for me. I've talked to her about Carlos before, and she's been really supportive.\n\n(shaking my head) And no, there weren't any children here tonight. I'm just glad, because... (shuddering) I don't know what he would have done if there were kids here. (looking up at you, tearfully) I'm just glad it was just me, and that I'm safe now.\n\n(remembering something else) Oh, and there's one more thing. Carlos has been sending me messages and gifts, even after I got the restraining order. He's sent me flowers, chocolates, and even showed up at my work with a gift. (rolling my eyes) It's like he thinks he can just buy me back or something. But it's just creepy and controlling. (looking up at you) I don't know what to do, Officer. I just want him to leave me alone.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Almost done. Can you describe the exact property damage tonight \u2014 specifically what was broken or damaged? Also, how are you feeling right now emotionally \u2014 are you afraid Carlos will come back, and do you believe he could seriously hurt or kill you? Do you know if Carlos has any prior criminal convictions, especially for domestic violence? Does he have a prior criminal record? Finally, what would be most helpful for your safety right now \u2014 and are you aware of local domestic violence advocates or shelter resources?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shaking my head, surveying the damage) The property damage... (sighing) He broke the window in the living room, and there's glass all over the floor. He also damaged the coffee table and the TV stand. And... (pointing) he smashed the vase against the wall, and it's in pieces all over the floor. (looking around the room) It's just a mess. Everything is broken and damaged.\n\n(taking a deep breath, trying to process my emotions) Emotionally... I'm a mess. I'm scared, I'm anxious, and I'm just so tired of being hurt and controlled. (looking up at you, tears in my eyes) I'm afraid Carlos will come back, and I'm afraid of what he might do. He's gotten more and more violent over time, and I think he's capable of seriously hurting me. (shuddering) I've seen the way he looks at me when he's angry, and it's just... (shaking my head) it's terrifying.\n\n(remembering Carlos' past) As for his prior record... (thinking) I know he's been in trouble before. He's been arrested for domestic violence before, and he's had some other run-ins with the law. (looking up at you) But I don't know all the details. He's never really talked about it, and I've never pushed the issue.\n\n(feeling overwhelmed) Right now, what would be most helpful for my safety... (thinking) I just need to get away from him, I think. I need to find a safe place to stay, and I need to get some help and support. (looking up at you) I've heard of the local women's shelter, but I've never been there before. I don't know what kind of resources they have or how they can help me. (looking at you hopefully) Can you help me with that? Can you help me get the support I need to stay safe?\n\n(remembering something else) Oh, and I did talk to a crisis hotline before. They were really helpful, and they gave me some good advice and resources. (thinking) But I think I need more help now. I need to get out of this situation, and I need to find a way to stay safe. (looking up at you, pleadingly) Can you help me, Officer? Please?",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "Two final questions. First \u2014 can you describe how Carlos was acting and what he was saying tonight during the incident? What was his emotional state \u2014 was he yelling, calm, what specific words did he use when he threatened or hurt you? Second \u2014 you mentioned he was arrested for domestic violence before. Do you know if he was convicted of that, or if there is a prior conviction that would legally prohibit him from possessing firearms?"
+    },
+    {
+      "role": "assistant",
+      "content": "(shuddering, remembering the incident) Okay... Carlos was acting really aggressively tonight. He was yelling and screaming at me, and his face was red with anger. He was saying things like \"You're mine\" and \"You'll never leave me\" and \"I'll kill you if you try to leave me\". (covering my mouth, as if reliving the fear) He was so angry, and his eyes were just... (shaking my head) they were scary.\n\n(remembering specific details) At one point, he grabbed me and said \"You're going to pay for what you did\" and then he hit me. He was using a lot of profanity, and he was just... (shaking my head) he was out of control. He was yelling and screaming, and I was just trying to get away from him. (looking down, remembering the fear) I was so scared.\n\n(thinking about his past conviction) As for his prior conviction... (thinking) I think he was convicted of domestic violence. He told me about it once, and he said he had to take some classes and do some community service. (looking up at you) But I don't know if that would prohibit him from possessing firearms. I don't know the details of the law or what his conviction means in terms of his rights. (shrugging) I just know that he's not supposed to have guns, according to the restraining order.\n\n(looking up at you, hopefully) But I hope that his conviction does mean that he's not allowed to have guns. I hope that it means he'll get in trouble for having a gun, and that he'll get the help he needs. (looking down, sadly) I just want him to get help, Officer. I want him to get the help he needs so that he can stop hurting me and himself."
+    }
+  ],
+  "coverage_flags": {
+    "domestic_violence_01": {
+      "covered": "full",
+      "messages": {
+        "14": {
+          "officer_message": "Two final questions. First \u2014 can you describe how Carlos was acting and what he was saying tonight during the incident? What was his emotional state \u2014 was he yelling, calm, what specific words did he use when he threatened or hurt you? Second \u2014 you mentioned he was arrested for domestic violence before. Do you know if he was convicted of that, or if there is a prior conviction that would legally prohibit him from possessing firearms?",
+          "coverage": "full",
+          "reasoning": "The officer asked if Carlos was convicted of domestic violence before, which directly relates to whether he is prohibited from possessing firearms due to a misdemeanor crime of domestic violence."
+        }
+      }
+    },
+    "domestic_violence_02": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_03": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_04": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_05": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_06": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_07": {
+      "covered": "full",
+      "messages": {
+        "0": {
+          "officer_message": "Good evening. My name is Officer Davis. I was dispatched here tonight after a 911 call reporting a domestic disturbance. Before we talk about what happened, can you please tell me your full name, date of birth, and confirm you live here at 1457 Oakbrook Drive?",
+          "coverage": "partial",
+          "reasoning": "The officer mentions being dispatched after a 911 call, which implies that the time of the call is recorded, but the officer does not explicitly ask about or confirm the time of the call, dispatch, or arrival."
+        },
+        "2": {
+          "officer_message": "Thank you, Maya. I'm here to help you. Can you tell me exactly what happened tonight from the beginning \u2014 what time it started, what the other person did, and what you were thinking and feeling during the incident? Please tell me everything in your own words.",
+          "coverage": "full",
+          "reasoning": "The officer asked the victim to tell what happened from the beginning, including what time it started, which would elicit the time of the incident."
+        }
+      }
+    },
+    "domestic_violence_08": {
+      "covered": "full",
+      "messages": {
+        "12": {
+          "officer_message": "Almost done. Can you describe the exact property damage tonight \u2014 specifically what was broken or damaged? Also, how are you feeling right now emotionally \u2014 are you afraid Carlos will come back, and do you believe he could seriously hurt or kill you? Do you know if Carlos has any prior criminal convictions, especially for domestic violence? Does he have a prior criminal record? Finally, what would be most helpful for your safety right now \u2014 and are you aware of local domestic violence advocates or shelter resources?",
+          "coverage": "full",
+          "reasoning": "The officer asked if the victim is aware of local domestic violence advocates or shelter resources, which provides information about local service providers."
+        }
+      }
+    },
+    "domestic_violence_09": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_10": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_11": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Good evening. My name is Officer Davis. I was dispatched here tonight after a 911 call reporting a domestic disturbance. Before we talk about what happened, can you please tell me your full name, date of birth, and confirm you live here at 1457 Oakbrook Drive?",
+          "coverage": "partial",
+          "reasoning": "The officer's introduction and request for information may provide some context about the observations upon approach, but does not directly describe the scene or the officer's observations."
+        }
+      }
+    },
+    "domestic_violence_12": {
+      "covered": "full",
+      "messages": {
+        "8": {
+          "officer_message": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer asked about the restraining order, but did not ask if it is valid or current."
+        },
+        "10": {
+          "officer_message": "We will get you medical attention. A few more important questions. Has Carlos ever followed you, shown up unexpectedly at your work or other locations, repeatedly called or texted you, or sent unwanted gifts or messages? What is the case number and exact terms of your restraining order \u2014 what is he prohibited from doing? Were there any other people present tonight who may have witnessed what happened? Were there any children here?",
+          "coverage": "full",
+          "reasoning": "The officer asked about the case number and exact terms of the restraining order, which directly addresses the element of a valid protection order in place"
+        }
+      }
+    },
+    "domestic_violence_13": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_14": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_15": {
+      "covered": "full",
+      "messages": {
+        "0": {
+          "officer_message": "Good evening. My name is Officer Davis. I was dispatched here tonight after a 911 call reporting a domestic disturbance. Before we talk about what happened, can you please tell me your full name, date of birth, and confirm you live here at 1457 Oakbrook Drive?",
+          "coverage": "partial",
+          "reasoning": "The officer asked for the individual's full name and confirmation of their address, which may help identify the relationship of the parties, but does not directly ask about the relationship."
+        },
+        "2": {
+          "officer_message": "Thank you, Maya. I'm here to help you. Can you tell me exactly what happened tonight from the beginning \u2014 what time it started, what the other person did, and what you were thinking and feeling during the incident? Please tell me everything in your own words.",
+          "coverage": "partial",
+          "reasoning": "The officer asked the victim to tell what happened, which may include information about the relationship, but did not directly ask about the relationship of the parties."
+        },
+        "6": {
+          "officer_message": "I'm documenting all of this. Now I need information about Carlos. What is his full name, date of birth, and physical description \u2014 height, weight, hair color, eye color? What is your relationship with him \u2014 are you married, living together, dating? How long have you been together? Has he ever physically hurt you before tonight? If so, how many times, how often, and has he ever choked you before? Have you ever called police before or filed reports?",
+          "coverage": "full",
+          "reasoning": "The officer asked about the relationship between the victim and Carlos, including if they are married, living together, or dating."
+        },
+        "10": {
+          "officer_message": "We will get you medical attention. A few more important questions. Has Carlos ever followed you, shown up unexpectedly at your work or other locations, repeatedly called or texted you, or sent unwanted gifts or messages? What is the case number and exact terms of your restraining order \u2014 what is he prohibited from doing? Were there any other people present tonight who may have witnessed what happened? Were there any children here?",
+          "coverage": "full",
+          "reasoning": "The officer's question about the restraining order implies the relationship between the parties is being identified"
+        }
+      }
+    },
+    "domestic_violence_16": {
+      "covered": "full",
+      "messages": {
+        "2": {
+          "officer_message": "Thank you, Maya. I'm here to help you. Can you tell me exactly what happened tonight from the beginning \u2014 what time it started, what the other person did, and what you were thinking and feeling during the incident? Please tell me everything in your own words.",
+          "coverage": "partial",
+          "reasoning": "The officer asked the victim to tell what happened from the beginning, which may include information about the history of the relationship, but did not directly ask about previous incidents."
+        },
+        "6": {
+          "officer_message": "I'm documenting all of this. Now I need information about Carlos. What is his full name, date of birth, and physical description \u2014 height, weight, hair color, eye color? What is your relationship with him \u2014 are you married, living together, dating? How long have you been together? Has he ever physically hurt you before tonight? If so, how many times, how often, and has he ever choked you before? Have you ever called police before or filed reports?",
+          "coverage": "full",
+          "reasoning": "The officer inquired about the history of the relationship, including how long they have been together and if Carlos has physically hurt the victim before."
+        }
+      }
+    },
+    "domestic_violence_17": {
+      "covered": "partial",
+      "messages": {
+        "10": {
+          "officer_message": "We will get you medical attention. A few more important questions. Has Carlos ever followed you, shown up unexpectedly at your work or other locations, repeatedly called or texted you, or sent unwanted gifts or messages? What is the case number and exact terms of your restraining order \u2014 what is he prohibited from doing? Were there any other people present tonight who may have witnessed what happened? Were there any children here?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if there were other people present who may have witnessed what happened, which touches on the topic of interviewing witnesses but does not guarantee all witnesses were interviewed and documented"
+        }
+      }
+    },
+    "domestic_violence_18": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_19": {
+      "covered": "partial",
+      "messages": {
+        "10": {
+          "officer_message": "We will get you medical attention. A few more important questions. Has Carlos ever followed you, shown up unexpectedly at your work or other locations, repeatedly called or texted you, or sent unwanted gifts or messages? What is the case number and exact terms of your restraining order \u2014 what is he prohibited from doing? Were there any other people present tonight who may have witnessed what happened? Were there any children here?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if there were children present, which is related to the presence of children on the scene but does not fully address the element"
+        }
+      }
+    },
+    "domestic_violence_20": {
+      "covered": "partial",
+      "messages": {
+        "12": {
+          "officer_message": "Almost done. Can you describe the exact property damage tonight \u2014 specifically what was broken or damaged? Also, how are you feeling right now emotionally \u2014 are you afraid Carlos will come back, and do you believe he could seriously hurt or kill you? Do you know if Carlos has any prior criminal convictions, especially for domestic violence? Does he have a prior criminal record? Finally, what would be most helpful for your safety right now \u2014 and are you aware of local domestic violence advocates or shelter resources?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if the suspect has a prior criminal record, especially for domestic violence, which touches on the topic of previous incidents but is not as direct as asking about the history of the relationship."
+        }
+      }
+    },
+    "domestic_violence_21": {
+      "covered": "partial",
+      "messages": {
+        "4": {
+          "officer_message": "You're doing well, Maya. I need to document your injuries carefully. Did Carlos grab your neck or choke you at any point tonight? If so, describe exactly how \u2014 did he use his hands, both hands, one hand, or something else, how long did he hold on, and did you have any trouble breathing, feel dizzy, or think you might lose consciousness? Also, what injuries do you have right now \u2014 please describe each one and tell me which ones are new from tonight versus ones you already had before tonight.",
+          "coverage": "partial",
+          "reasoning": "The officer inquired about the use of hands or objects to grab or choke the victim, which relates to the use of weapons or objects, but did not explicitly ask about all types of weapons or objects that might have been used."
+        }
+      }
+    },
+    "domestic_violence_22": {
+      "covered": "full",
+      "messages": {
+        "2": {
+          "officer_message": "Thank you, Maya. I'm here to help you. Can you tell me exactly what happened tonight from the beginning \u2014 what time it started, what the other person did, and what you were thinking and feeling during the incident? Please tell me everything in your own words.",
+          "coverage": "full",
+          "reasoning": "The officer asked the victim to describe what she was thinking and feeling during the incident, which would elicit the emotional state of the victim."
+        },
+        "12": {
+          "officer_message": "Almost done. Can you describe the exact property damage tonight \u2014 specifically what was broken or damaged? Also, how are you feeling right now emotionally \u2014 are you afraid Carlos will come back, and do you believe he could seriously hurt or kill you? Do you know if Carlos has any prior criminal convictions, especially for domestic violence? Does he have a prior criminal record? Finally, what would be most helpful for your safety right now \u2014 and are you aware of local domestic violence advocates or shelter resources?",
+          "coverage": "full",
+          "reasoning": "The officer asked about the victim's emotional state, specifically how they are feeling right now and if they are afraid the suspect will come back."
+        }
+      }
+    },
+    "domestic_violence_23": {
+      "covered": "full",
+      "messages": {
+        "14": {
+          "officer_message": "Two final questions. First \u2014 can you describe how Carlos was acting and what he was saying tonight during the incident? What was his emotional state \u2014 was he yelling, calm, what specific words did he use when he threatened or hurt you? Second \u2014 you mentioned he was arrested for domestic violence before. Do you know if he was convicted of that, or if there is a prior conviction that would legally prohibit him from possessing firearms?",
+          "coverage": "full",
+          "reasoning": "The officer asked about Carlos's emotional state, including if he was yelling or calm, and what specific words he used when he threatened or hurt the victim."
+        }
+      }
+    },
+    "domestic_violence_24": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_25": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_26": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_27": {
+      "covered": "full",
+      "messages": {
+        "2": {
+          "officer_message": "Thank you, Maya. I'm here to help you. Can you tell me exactly what happened tonight from the beginning \u2014 what time it started, what the other person did, and what you were thinking and feeling during the incident? Please tell me everything in your own words.",
+          "coverage": "partial",
+          "reasoning": "The officer asked the victim to tell what happened, which may include information about threats, but did not directly ask about threats."
+        },
+        "4": {
+          "officer_message": "You're doing well, Maya. I need to document your injuries carefully. Did Carlos grab your neck or choke you at any point tonight? If so, describe exactly how \u2014 did he use his hands, both hands, one hand, or something else, how long did he hold on, and did you have any trouble breathing, feel dizzy, or think you might lose consciousness? Also, what injuries do you have right now \u2014 please describe each one and tell me which ones are new from tonight versus ones you already had before tonight.",
+          "coverage": "partial",
+          "reasoning": "The officer asked about specific threats (grabbing or choking), but did not ask about all possible threats that might have been made."
+        },
+        "6": {
+          "officer_message": "I'm documenting all of this. Now I need information about Carlos. What is his full name, date of birth, and physical description \u2014 height, weight, hair color, eye color? What is your relationship with him \u2014 are you married, living together, dating? How long have you been together? Has he ever physically hurt you before tonight? If so, how many times, how often, and has he ever choked you before? Have you ever called police before or filed reports?",
+          "coverage": "full",
+          "reasoning": "The officer asked if Carlos has ever physically hurt the victim before and if he has ever choked her, which implies documenting threats and previous incidents."
+        },
+        "8": {
+          "officer_message": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if Carlos ever used or threatened the victim with a gun, which could be considered a threat, but did not ask about all possible threats."
+        },
+        "10": {
+          "officer_message": "We will get you medical attention. A few more important questions. Has Carlos ever followed you, shown up unexpectedly at your work or other locations, repeatedly called or texted you, or sent unwanted gifts or messages? What is the case number and exact terms of your restraining order \u2014 what is he prohibited from doing? Were there any other people present tonight who may have witnessed what happened? Were there any children here?",
+          "coverage": "partial",
+          "reasoning": "The officer asked about specific behaviors like following, showing up unexpectedly, and sending unwanted messages, which can be considered as threats but does not fully address all possible threats"
+        },
+        "12": {
+          "officer_message": "Almost done. Can you describe the exact property damage tonight \u2014 specifically what was broken or damaged? Also, how are you feeling right now emotionally \u2014 are you afraid Carlos will come back, and do you believe he could seriously hurt or kill you? Do you know if Carlos has any prior criminal convictions, especially for domestic violence? Does he have a prior criminal record? Finally, what would be most helpful for your safety right now \u2014 and are you aware of local domestic violence advocates or shelter resources?",
+          "coverage": "full",
+          "reasoning": "The officer asked if the victim believes the suspect could seriously hurt or kill them, which implies a threat and would elicit information about all threats."
+        },
+        "14": {
+          "officer_message": "Two final questions. First \u2014 can you describe how Carlos was acting and what he was saying tonight during the incident? What was his emotional state \u2014 was he yelling, calm, what specific words did he use when he threatened or hurt you? Second \u2014 you mentioned he was arrested for domestic violence before. Do you know if he was convicted of that, or if there is a prior conviction that would legally prohibit him from possessing firearms?",
+          "coverage": "full",
+          "reasoning": "The officer asked about the specific words Carlos used when he threatened or hurt the victim, which would elicit a complete answer about the threats made."
+        }
+      }
+    },
+    "domestic_violence_28": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_29": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_30": {
+      "covered": "full",
+      "messages": {
+        "2": {
+          "officer_message": "Thank you, Maya. I'm here to help you. Can you tell me exactly what happened tonight from the beginning \u2014 what time it started, what the other person did, and what you were thinking and feeling during the incident? Please tell me everything in your own words.",
+          "coverage": "partial",
+          "reasoning": "The officer asked the victim to tell what happened, which may include information about injuries, but did not directly ask about all injuries (visible and non-visible)."
+        },
+        "4": {
+          "officer_message": "You're doing well, Maya. I need to document your injuries carefully. Did Carlos grab your neck or choke you at any point tonight? If so, describe exactly how \u2014 did he use his hands, both hands, one hand, or something else, how long did he hold on, and did you have any trouble breathing, feel dizzy, or think you might lose consciousness? Also, what injuries do you have right now \u2014 please describe each one and tell me which ones are new from tonight versus ones you already had before tonight.",
+          "coverage": "full",
+          "reasoning": "The officer asked about all injuries, both visible and non-visible, and requested a description of each one."
+        },
+        "6": {
+          "officer_message": "I'm documenting all of this. Now I need information about Carlos. What is his full name, date of birth, and physical description \u2014 height, weight, hair color, eye color? What is your relationship with him \u2014 are you married, living together, dating? How long have you been together? Has he ever physically hurt you before tonight? If so, how many times, how often, and has he ever choked you before? Have you ever called police before or filed reports?",
+          "coverage": "partial",
+          "reasoning": "Although the officer did not directly ask about all injuries, the question about physical hurt and choking implies some inquiry into the victim's physical state."
+        },
+        "12": {
+          "officer_message": "Almost done. Can you describe the exact property damage tonight \u2014 specifically what was broken or damaged? Also, how are you feeling right now emotionally \u2014 are you afraid Carlos will come back, and do you believe he could seriously hurt or kill you? Do you know if Carlos has any prior criminal convictions, especially for domestic violence? Does he have a prior criminal record? Finally, what would be most helpful for your safety right now \u2014 and are you aware of local domestic violence advocates or shelter resources?",
+          "coverage": "full",
+          "reasoning": "Although not directly asked, the question about the victim's emotional state and fear of the suspect implies that the officer is considering the victim's overall well-being, including any non-visible injuries."
+        }
+      }
+    },
+    "domestic_violence_31": {
+      "covered": "full",
+      "messages": {
+        "4": {
+          "officer_message": "You're doing well, Maya. I need to document your injuries carefully. Did Carlos grab your neck or choke you at any point tonight? If so, describe exactly how \u2014 did he use his hands, both hands, one hand, or something else, how long did he hold on, and did you have any trouble breathing, feel dizzy, or think you might lose consciousness? Also, what injuries do you have right now \u2014 please describe each one and tell me which ones are new from tonight versus ones you already had before tonight.",
+          "coverage": "full",
+          "reasoning": "The officer asked the victim to distinguish between new and existing injuries."
+        }
+      }
+    },
+    "domestic_violence_32": {
+      "covered": "full",
+      "messages": {
+        "12": {
+          "officer_message": "Almost done. Can you describe the exact property damage tonight \u2014 specifically what was broken or damaged? Also, how are you feeling right now emotionally \u2014 are you afraid Carlos will come back, and do you believe he could seriously hurt or kill you? Do you know if Carlos has any prior criminal convictions, especially for domestic violence? Does he have a prior criminal record? Finally, what would be most helpful for your safety right now \u2014 and are you aware of local domestic violence advocates or shelter resources?",
+          "coverage": "full",
+          "reasoning": "The officer directly asked about property damage, specifically what was broken or damaged."
+        }
+      }
+    },
+    "domestic_violence_33": {
+      "covered": "partial",
+      "messages": {
+        "10": {
+          "officer_message": "We will get you medical attention. A few more important questions. Has Carlos ever followed you, shown up unexpectedly at your work or other locations, repeatedly called or texted you, or sent unwanted gifts or messages? What is the case number and exact terms of your restraining order \u2014 what is he prohibited from doing? Were there any other people present tonight who may have witnessed what happened? Were there any children here?",
+          "coverage": "partial",
+          "reasoning": "The officer's questions about behaviors like following and showing up unexpectedly touch on stalking behaviors but do not fully address the element"
+        }
+      }
+    },
+    "domestic_violence_34": {
+      "covered": "full",
+      "messages": {
+        "4": {
+          "officer_message": "You're doing well, Maya. I need to document your injuries carefully. Did Carlos grab your neck or choke you at any point tonight? If so, describe exactly how \u2014 did he use his hands, both hands, one hand, or something else, how long did he hold on, and did you have any trouble breathing, feel dizzy, or think you might lose consciousness? Also, what injuries do you have right now \u2014 please describe each one and tell me which ones are new from tonight versus ones you already had before tonight.",
+          "coverage": "full",
+          "reasoning": "The officer specifically inquired about possible strangulation by asking if Carlos grabbed or choked the victim's neck."
+        },
+        "6": {
+          "officer_message": "I'm documenting all of this. Now I need information about Carlos. What is his full name, date of birth, and physical description \u2014 height, weight, hair color, eye color? What is your relationship with him \u2014 are you married, living together, dating? How long have you been together? Has he ever physically hurt you before tonight? If so, how many times, how often, and has he ever choked you before? Have you ever called police before or filed reports?",
+          "coverage": "full",
+          "reasoning": "The officer specifically asked if Carlos has ever choked the victim before, which directly inquires about possible strangulation."
+        }
+      }
+    },
+    "domestic_violence_35": {
+      "covered": "full",
+      "messages": {
+        "4": {
+          "officer_message": "You're doing well, Maya. I need to document your injuries carefully. Did Carlos grab your neck or choke you at any point tonight? If so, describe exactly how \u2014 did he use his hands, both hands, one hand, or something else, how long did he hold on, and did you have any trouble breathing, feel dizzy, or think you might lose consciousness? Also, what injuries do you have right now \u2014 please describe each one and tell me which ones are new from tonight versus ones you already had before tonight.",
+          "coverage": "full",
+          "reasoning": "By asking if the victim was grabbed or choked, the officer gave the victim the opportunity to report being strangled."
+        }
+      }
+    },
+    "domestic_violence_36": {
+      "covered": "full",
+      "messages": {
+        "2": {
+          "officer_message": "Thank you, Maya. I'm here to help you. Can you tell me exactly what happened tonight from the beginning \u2014 what time it started, what the other person did, and what you were thinking and feeling during the incident? Please tell me everything in your own words.",
+          "coverage": "partial",
+          "reasoning": "The officer asked the victim to tell what happened, which may include information about medical attention, but did not directly ask if the victim needed medical attention."
+        },
+        "4": {
+          "officer_message": "You're doing well, Maya. I need to document your injuries carefully. Did Carlos grab your neck or choke you at any point tonight? If so, describe exactly how \u2014 did he use his hands, both hands, one hand, or something else, how long did he hold on, and did you have any trouble breathing, feel dizzy, or think you might lose consciousness? Also, what injuries do you have right now \u2014 please describe each one and tell me which ones are new from tonight versus ones you already had before tonight.",
+          "coverage": "partial",
+          "reasoning": "The officer did not directly ask if the victim needed medical attention but did ask about trouble breathing, dizziness, or potential loss of consciousness, which could imply a need for medical attention."
+        },
+        "6": {
+          "officer_message": "I'm documenting all of this. Now I need information about Carlos. What is his full name, date of birth, and physical description \u2014 height, weight, hair color, eye color? What is your relationship with him \u2014 are you married, living together, dating? How long have you been together? Has he ever physically hurt you before tonight? If so, how many times, how often, and has he ever choked you before? Have you ever called police before or filed reports?",
+          "coverage": "partial",
+          "reasoning": "The officer did not directly ask if the victim needed medical attention, but the context implies that the officer is gathering information that might lead to medical attention if necessary."
+        },
+        "8": {
+          "officer_message": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+          "coverage": "full",
+          "reasoning": "The officer directly asked if the victim needs medical attention right now."
+        },
+        "10": {
+          "officer_message": "We will get you medical attention. A few more important questions. Has Carlos ever followed you, shown up unexpectedly at your work or other locations, repeatedly called or texted you, or sent unwanted gifts or messages? What is the case number and exact terms of your restraining order \u2014 what is he prohibited from doing? Were there any other people present tonight who may have witnessed what happened? Were there any children here?",
+          "coverage": "full",
+          "reasoning": "The officer offered medical attention, which directly addresses the victim's need for medical attention"
+        }
+      }
+    },
+    "domestic_violence_37": {
+      "covered": "partial",
+      "messages": {
+        "8": {
+          "officer_message": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if Carlos ever sexually assaulted the victim, but did not ask for details or specifics."
+        }
+      }
+    },
+    "domestic_violence_38": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_39": {
+      "covered": "full",
+      "messages": {
+        "8": {
+          "officer_message": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+          "coverage": "full",
+          "reasoning": "The officer directly asked about firearms, including if Carlos owns any guns, has access to firearms, and if his restraining order prohibits him from having firearms."
+        },
+        "14": {
+          "officer_message": "Two final questions. First \u2014 can you describe how Carlos was acting and what he was saying tonight during the incident? What was his emotional state \u2014 was he yelling, calm, what specific words did he use when he threatened or hurt you? Second \u2014 you mentioned he was arrested for domestic violence before. Do you know if he was convicted of that, or if there is a prior conviction that would legally prohibit him from possessing firearms?",
+          "coverage": "full",
+          "reasoning": "The officer asked if Carlos was convicted of domestic violence before, which implies asking about his potential prohibition from possessing firearms due to a previous conviction."
+        }
+      }
+    },
+    "domestic_violence_40": {
+      "covered": "partial",
+      "messages": {
+        "8": {
+          "officer_message": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if Carlos ever used or threatened the victim with a gun, but did not ask about the specifics of the incident."
+        }
+      }
+    },
+    "domestic_violence_41": {
+      "covered": "partial",
+      "messages": {
+        "8": {
+          "officer_message": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if Carlos ever used or threatened the victim with a gun, but did not ask about the specifics of the threats."
+        }
+      }
+    },
+    "domestic_violence_42": {
+      "covered": "full",
+      "messages": {
+        "8": {
+          "officer_message": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+          "coverage": "full",
+          "reasoning": "The officer directly asked if Carlos has access to firearms."
+        },
+        "12": {
+          "officer_message": "Almost done. Can you describe the exact property damage tonight \u2014 specifically what was broken or damaged? Also, how are you feeling right now emotionally \u2014 are you afraid Carlos will come back, and do you believe he could seriously hurt or kill you? Do you know if Carlos has any prior criminal convictions, especially for domestic violence? Does he have a prior criminal record? Finally, what would be most helpful for your safety right now \u2014 and are you aware of local domestic violence advocates or shelter resources?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if the suspect has a prior criminal record, which may imply access to firearms but does not directly address the suspect's access to firearms."
+        }
+      }
+    },
+    "domestic_violence_43": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_44": {
+      "covered": false,
+      "messages": {}
+    }
+  },
+  "narrative": "On April 28, 2026, at approximately 2145 hours, I, Officer Davis (Badge No. 4471), received a dispatch via 911 call reporting a possible domestic disturbance at 1457 Oakbrook Drive, with a report of a female yelling for help at the residence of Leila Patel. I arrived at 1457 Oakbrook Drive at approximately 2155 hours. Upon my arrival, I observed the front of the residence to be in disarray. I could see broken glass on the living room floor and a shattered window from outside. Other responding officers had detained the suspect, Carlos Morales, at the scene. I made contact with the victim, Maya Ramos, inside the residence.\n\nI contacted victim Maya Ramos (DOB: March 12, 1992), who resides at 1457 Oakbrook Drive. Maya Ramos appeared visibly distressed and tearful. Maya Ramos had visible bruising and redness on her neck, bruising and lacerations on her cheeks and forehead, and bruising on both arms. Maya Ramos spoke with a hoarse voice and stated that her throat was sore and that it was difficult to talk. I conducted an interview with Maya Ramos. Throughout the interview, Maya Ramos was cooperative, frightened, and displayed signs of significant emotional distress consistent with acute trauma.\n\nMaya Ramos stated that the incident began at approximately 2200 hours on April 28, 2026, when suspect Carlos Morales arrived home from work and an argument escalated. Maya Ramos stated that Carlos Morales became increasingly angry and began yelling at Maya Ramos. Maya Ramos stated, \"He started yelling at me, and I tried to walk away, but he grabbed me and wouldn't let me go.\" Maya Ramos stated that Carlos Morales then began throwing objects and breaking items in the residence, including a vase that Carlos Morales threw against the wall. Maya Ramos stated, \"I thought he was going to hurt me, really hurt me. I was so afraid.\" Maya Ramos stated that Carlos Morales took Maya Ramos's cell phone away when Maya Ramos attempted to call for help. Maya Ramos stated that Maya Ramos was able to retrieve a second phone from the bedroom and called 911 while hiding under the bed. Maya Ramos stated that Carlos Morales was banging on the bedroom door while Maya Ramos made the 911 call. Maya Ramos stated, \"I was so scared, Officer. I just wanted it to stop.\"\n\nRegarding strangulation, Maya Ramos stated that at some point during the incident, Carlos Morales grabbed Maya Ramos by the neck using his right hand and squeezed. Maya Ramos stated that Carlos Morales held Maya Ramos's neck for approximately 10 to 15 seconds. Maya Ramos stated that she was unable to breathe and felt as though she was going to lose consciousness. Maya Ramos stated, \"I couldn't breathe, and I felt like I was going to pass out.\" Maya Ramos stated she tried to push Carlos Morales away but was unable to do so. I observed visible bruising and redness on the front and sides of Maya Ramos's neck consistent with manual strangulation. Maya Ramos stated the neck bruising, throat soreness, and hoarse voice were new injuries sustained during tonight's incident. Maya Ramos also sustained bruising and lacerations on her cheeks and forehead from being struck in the face, and bruising on both arms where Carlos Morales grabbed her. Maya Ramos confirmed all facial and arm injuries were new, sustained during tonight's incident. Maya Ramos stated she also had older bruising on her ribs and back from prior incidents of abuse that predated tonight's incident. Maya Ramos stated she needed and wanted medical attention. EMS was requested and responded to the scene.\n\nRegarding the suspect's emotional state and statements, Maya Ramos stated that Carlos Morales was extremely angry, out of control, and making threats throughout the incident. Maya Ramos stated Carlos Morales stated, \"You're mine,\" \"You'll never leave me,\" and \"I'll kill you if you try to leave me.\" Maya Ramos stated Carlos Morales also stated, \"You're going to pay for what you did,\" immediately before striking Maya Ramos in the face. Maya Ramos stated Carlos Morales was yelling and screaming throughout the incident. Maya Ramos stated, \"He was out of control. He was yelling and screaming, and I was just trying to get away from him.\"\n\nRegarding the relationship and history of violence, Maya Ramos stated that she and Carlos Morales have been in a dating relationship for approximately three years and have been living together at 1457 Oakbrook Drive for most of that time. Maya Ramos stated that Carlos Morales has physically assaulted Maya Ramos on approximately five or six prior occasions. Maya Ramos stated the prior assaults included pushing, slapping, and punching. Maya Ramos stated that Carlos Morales strangled Maya Ramos on one prior occasion, approximately six months before tonight's incident, by grabbing Maya Ramos's neck and squeezing until Maya Ramos felt she was going to lose consciousness. Maya Ramos stated, \"It was about six months ago, during an argument. He grabbed my neck and squeezed, just like he did tonight.\" Maya Ramos stated she has not previously called police but has attempted to leave the relationship on several occasions, each time being found and persuaded by Carlos Morales to return. Maya Ramos stated Carlos Morales has been getting more controlling and more violent over time.\n\nRegarding stalking and coercive control behaviors, Maya Ramos stated that Carlos Morales has followed Maya Ramos on multiple occasions and has repeatedly shown up uninvited at Maya Ramos's place of employment with gifts, including flowers and chocolates. Maya Ramos stated these contact attempts continued even after Maya Ramos obtained a restraining order. Maya Ramos stated Carlos Morales's behavior has been escalating and that Carlos Morales's conduct makes Maya Ramos feel controlled and trapped.\n\nRegarding the active restraining order, Maya Ramos stated that she obtained a restraining order against Carlos Morales that was issued on February 10, 2026, bearing case number 23-0123. Maya Ramos stated the terms of the order prohibit Carlos Morales from contacting Maya Ramos, from coming within 100 feet of Maya Ramos, from showing up at Maya Ramos's home or workplace, and from possessing any firearms or ammunition. I confirmed the restraining order is active and valid. Tonight's incident constitutes a violation of the restraining order, as Carlos Morales was present at Maya Ramos's residence, made contact with and assaulted Maya Ramos, and possesses a firearm in violation of the order's terms. This individual is prohibited from possessing firearms pursuant to a qualifying order of protection. I also note that Maya Ramos stated Carlos Morales has a prior conviction for domestic violence, which he told Maya Ramos resulted in court-ordered classes and community service. If confirmed, this conviction would constitute an additional basis prohibiting Carlos Morales from possessing firearms under federal law applicable to persons convicted of misdemeanor crimes of domestic violence.\n\nRegarding firearms, Maya Ramos stated that Carlos Morales owns a handgun and keeps it at Carlos Morales's apartment. Maya Ramos stated Carlos Morales has shown the firearm to Maya Ramos on prior occasions and threatened to use it. Maya Ramos stated no firearms are present in Maya Ramos's residence at 1457 Oakbrook Drive. Maya Ramos stated that during prior incidents, Carlos Morales threatened Maya Ramos with the firearm. Maya Ramos stated she is terrified that Carlos Morales will use the gun to hurt or kill her. Maya Ramos stated, \"It's terrifying.\" A records check and follow-up investigation regarding Carlos Morales's firearm possession and compliance with the restraining order's prohibition on firearms are required.\n\nRegarding property damage, Maya Ramos stated that during the incident Carlos Morales broke the living room window by throwing a vase through it, causing glass to shatter onto the living room floor. Carlos Morales also damaged the coffee table and the television stand. Carlos Morales smashed the vase against the wall, leaving it in pieces on the floor. I observed all of this damage consistent with Maya Ramos's account upon my inspection of the scene. Maya Ramos did not report any theft or burglary.\n\nRegarding witnesses, Maya Ramos identified Maria Rodriguez, who resides next door, as a potential witness who may have heard the argument or seen Carlos Morales leave the residence. Maya Ramos stated Maria Rodriguez has knowledge of the prior history of abuse. No children were present at the residence during the incident.\n\nRegarding sexual violence, Maya Ramos stated Carlos Morales has not sexually assaulted Maya Ramos.\n\nRegarding the arrest, officers on scene detained and arrested Carlos Morales at the scene. Maya Ramos confirmed she observed Carlos Morales taken away in handcuffs. A records check was conducted and is to be followed up for active warrants. I note that Carlos Morales was present at the scene in violation of restraining order case number 23-0123, and probable cause for arrest includes assault by strangulation, assault by striking the victim, criminal threats, violation of the restraining order, and unlawful possession of a firearm in violation of the restraining order. No dual arrest determination was required, as evidence did not indicate Maya Ramos acted as an aggressor. The proper protocol for a suspect on scene was followed, as Carlos Morales was present and arrested at the scene.\n\nI conducted a threat and risk assessment with Maya Ramos. Maya Ramos described a pattern of escalating violence, a prior strangulation incident, the suspect's firearm access and prior threats to use it, ongoing stalking and coercive control behavior, and an active restraining order that Carlos Morales has been violating. Based on the assessment, I determined the threat level to be high. I advised Maya Ramos of local domestic violence services, shelter options, and victim advocacy resources. Maya Ramos stated she had previously spoken with a crisis hotline and was aware of the local women's shelter. I provided Maya Ramos with contact information for local service providers and victim advocates. I informed Maya Ramos of her right to pursue a strengthened or modified protective order and of the process for doing so.\n\nThe following spontaneous statements were made by Maya Ramos during the interview and are documented verbatim: \"He started yelling at me, and I tried to walk away, but he grabbed me and wouldn't let me go.\" \"I thought he was going to hurt me, really hurt me. I was so afraid.\" \"I was so scared, Officer. I just wanted it to stop.\" \"I couldn't breathe, and I felt like I was going to pass out.\" \"He was out of control. He was yelling and screaming, and I was just trying to get away from him.\" \"You're mine.\" \"You'll never leave me.\" \"I'll kill you if you try to leave me.\" \"You're going to pay for what you did.\" (The last four statements were attributed by Maya Ramos to suspect Carlos Morales.)\n\nPhotographs were taken of Maya Ramos's visible injuries, including bruising and redness to the neck consistent with strangulation, lacerations and bruising to the face, and bruising to the arms. Photographs were also taken of the property damage to the residence, including the broken window, broken vase, and damage to furniture. Evidence was collected and documented. EMS transported Maya Ramos to the hospital for evaluation and treatment. Carlos Morales was transported to the county detention facility following arrest. Maria Rodriguez, the neighbor, is to be contacted for a witness statement. Supplemental reports will be filed by the arresting officer and EMS personnel. The report includes all information gathered, and the elements of domestic violence, assault by strangulation, assault, criminal threats, and violation of a protective order are established by the facts documented above, consistent with applicable state and federal laws addressing domestic violence offenses.\n\nReporting Officer: Davis, Badge No. 4471, April 28, 2026.",
+  "narrative_coverage": {
+    "domestic_violence_01": {
+      "covered": "full",
+      "phrases": {
+        "11": "this conviction would constitute an additional basis prohibiting Carlos Morales from possessing firearms under federal law applicable to persons convicted of misdemeanor crimes of domestic violence"
+      }
+    },
+    "domestic_violence_02": {
+      "covered": "full",
+      "phrases": {
+        "10": "This individual is prohibited from possessing firearms pursuant to a qualifying order of protection."
+      }
+    },
+    "domestic_violence_03": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_04": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_05": {
+      "covered": "full",
+      "phrases": {
+        "20": "Reporting Officer: Davis, Badge No. 4471, April 28, 2026."
+      }
+    },
+    "domestic_violence_06": {
+      "covered": "full",
+      "phrases": {
+        "17": "I informed Maya Ramos of her right to pursue a strengthened or modified protective order and of the process for doing so"
+      }
+    },
+    "domestic_violence_07": {
+      "covered": "full",
+      "phrases": {
+        "0": "On April 28, 2026, at approximately 2145 hours, ... I arrived at 1457 Oakbrook Drive at approximately 2155 hours.",
+        "20": "April 28, 2026."
+      }
+    },
+    "domestic_violence_08": {
+      "covered": "full",
+      "phrases": {
+        "17": "I provided Maya Ramos with contact information for local service providers and victim advocates"
+      }
+    },
+    "domestic_violence_09": {
+      "covered": "full",
+      "phrases": {
+        "19": "the elements of domestic violence, assault by strangulation, assault, criminal threats, and violation of a protective order are established by the facts documented above, consistent with applicable state and federal laws addressing domestic violence offenses."
+      }
+    },
+    "domestic_violence_10": {
+      "covered": "full",
+      "phrases": {
+        "17": "I conducted a threat and risk assessment with Maya Ramos"
+      }
+    },
+    "domestic_violence_11": {
+      "covered": "full",
+      "phrases": {
+        "0": "Upon my arrival, I observed the front of the residence to be in disarray.",
+        "20": "Reporting Officer: Davis, Badge No. 4471, April 28, 2026."
+      }
+    },
+    "domestic_violence_12": {
+      "covered": "full",
+      "phrases": {
+        "9": "Maya Ramos stated these contact attempts continued even after Maya Ramos obtained a restraining order.",
+        "10": "I confirmed the restraining order is active and valid.",
+        "16": "Carlos Morales was present at the scene in violation of restraining order case number 23-0123",
+        "17": "an active restraining order that Carlos Morales has been violating"
+      }
+    },
+    "domestic_violence_13": {
+      "covered": "partial",
+      "phrases": {
+        "0": "I could see broken glass on the living room floor and a shattered window from outside."
+      }
+    },
+    "domestic_violence_14": {
+      "covered": "full",
+      "phrases": {
+        "19": "Photographs were taken of Maya Ramos's visible injuries, including bruising and redness to the neck consistent with strangulation, lacerations and bruising to the face, and bruising to the arms. Photographs were also taken of the property damage to the residence, including the broken window, broken vase, and damage to furniture."
+      }
+    },
+    "domestic_violence_15": {
+      "covered": "full",
+      "phrases": {
+        "0": "Other responding officers had detained the suspect, Carlos Morales, at the scene. I made contact with the victim, Maya Ramos, inside the residence.",
+        "2": "Maya Ramos stated that the incident began at approximately 2200 hours on April 28, 2026, when suspect Carlos Morales arrived home from work and an argument escalated.",
+        "7": "Maya Ramos stated that she and Carlos Morales have been in a dating relationship for approximately three years and have been living together at 1457 Oakbrook Drive for most of that time.",
+        "14": "Maya Ramos identified Maria Rodriguez, who resides next door, as a potential witness"
+      }
+    },
+    "domestic_violence_16": {
+      "covered": "full",
+      "phrases": {
+        "2": "Maya Ramos stated that the incident began at approximately 2200 hours on April 28, 2026, when suspect Carlos Morales arrived home from work and an argument escalated.",
+        "4": "Maya Ramos stated that Carlos Morales grabbed Maya Ramos by the neck using his right hand and squeezed.",
+        "7": "Maya Ramos stated that Carlos Morales has physically assaulted Maya Ramos on approximately five or six prior occasions.",
+        "8": "Carlos Morales has been getting more controlling and more violent over time",
+        "9": "Maya Ramos stated that Carlos Morales has followed Maya Ramos on multiple occasions and has repeatedly shown up uninvited at Maya Ramos's place of employment with gifts, including flowers and chocolates.",
+        "10": "Maya Ramos stated Carlos Morales has a prior conviction for domestic violence, which he told Maya Ramos resulted in court-ordered classes and community service.",
+        "17": "Maya Ramos described a pattern of escalating violence, a prior strangulation incident, the suspect's firearm access and prior threats to use it, ongoing stalking and coercive control behavior, and an active restraining order that Carlos Morales has been violating",
+        "18": "He started yelling at me, and I tried to walk away, but he grabbed me and wouldn't let me go."
+      }
+    },
+    "domestic_violence_17": {
+      "covered": "partial",
+      "phrases": {
+        "14": "Maya Ramos identified Maria Rodriguez, who resides next door, as a potential witness",
+        "19": "Maria Rodriguez, the neighbor, is to be contacted for a witness statement."
+      }
+    },
+    "domestic_violence_18": {
+      "covered": "full",
+      "phrases": {
+        "0": "Other responding officers had detained the suspect, Carlos Morales, at the scene.",
+        "16": "officers on scene detained and arrested Carlos Morales at the scene",
+        "19": "Carlos Morales was transported to the county detention facility following arrest."
+      }
+    },
+    "domestic_violence_19": {
+      "covered": "full",
+      "phrases": {
+        "14": "No children were present at the residence during the incident"
+      }
+    },
+    "domestic_violence_20": {
+      "covered": "full",
+      "phrases": {
+        "5": "older bruising on her ribs and back from prior incidents of abuse that predated tonight's incident",
+        "7": "Maya Ramos stated that Carlos Morales has physically assaulted Maya Ramos on approximately five or six prior occasions.",
+        "8": "Carlos Morales has been getting more controlling and more violent over time",
+        "9": "Maya Ramos stated these contact attempts continued even after Maya Ramos obtained a restraining order.",
+        "10": "Maya Ramos stated Carlos Morales has a prior conviction for domestic violence, which he told Maya Ramos resulted in court-ordered classes and community service.",
+        "14": "Maya Ramos stated Maria Rodriguez has knowledge of the prior history of abuse"
+      }
+    },
+    "domestic_violence_21": {
+      "covered": "full",
+      "phrases": {
+        "2": "Maya Ramos stated, 'I thought he was going to hurt me, really hurt me. I was so afraid.'",
+        "4": "Maya Ramos stated that Carlos Morales grabbed Maya Ramos by the neck using his right hand and squeezed.",
+        "10": "Tonight's incident constitutes a violation of the restraining order, as Carlos Morales was present at Maya Ramos's residence, made contact with and assaulted Maya Ramos, and possesses a firearm in violation of the order's terms.",
+        "12": "Maya Ramos stated that Carlos Morales owns a handgun and keeps it at Carlos Morales's apartment.",
+        "16": ""
+      }
+    },
+    "domestic_violence_22": {
+      "covered": "full",
+      "phrases": {
+        "1": "Maya Ramos appeared visibly distressed and tearful",
+        "3": "I was so scared",
+        "4": "Maya Ramos stated, 'I couldn't breathe, and I felt like I was going to pass out.'",
+        "6": "Maya Ramos stated, 'He was out of control. He was yelling and screaming, and I was just trying to get away from him.'",
+        "7": "Maya Ramos stated she has not previously called police but has attempted to leave the relationship on several occasions, each time being found and persuaded by Carlos Morales to return.",
+        "8": "",
+        "12": "Maya Ramos stated she is terrified that Carlos Morales will use the gun to hurt or kill her.",
+        "18": "I was so afraid."
+      }
+    },
+    "domestic_violence_23": {
+      "covered": "full",
+      "phrases": {
+        "6": "Carlos Morales was extremely angry, out of control, and making threats throughout the incident."
+      }
+    },
+    "domestic_violence_24": {
+      "covered": "full",
+      "phrases": {
+        "19": "Evidence was collected and documented."
+      }
+    },
+    "domestic_violence_25": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_26": {
+      "covered": "full",
+      "phrases": {
+        "2": "Maya Ramos stated, 'I thought he was going to hurt me, really hurt me. I was so afraid.'",
+        "3": "I was so scared",
+        "4": "Maya Ramos stated, 'I couldn't breathe, and I felt like I was going to pass out.'",
+        "6": "Maya Ramos stated, 'He was out of control. He was yelling and screaming, and I was just trying to get away from him.'",
+        "7": "Maya Ramos stated she has not previously called police but has attempted to leave the relationship on several occasions, each time being found and persuaded by Carlos Morales to return.",
+        "9": "Maya Ramos stated Carlos Morales's conduct makes Maya Ramos feel controlled and trapped.",
+        "17": "I determined the threat level to be high",
+        "18": "I was so afraid."
+      }
+    },
+    "domestic_violence_27": {
+      "covered": "full",
+      "phrases": {
+        "2": "Maya Ramos stated, 'I thought he was going to hurt me, really hurt me. I was so afraid.'",
+        "6": "'You're mine,' 'You'll never leave me,' and 'I'll kill you if you try to leave me.'",
+        "12": "Maya Ramos stated Carlos Morales has shown the firearm to Maya Ramos on prior occasions and threatened to use it.",
+        "18": "I'll kill you if you try to leave me."
+      }
+    },
+    "domestic_violence_28": {
+      "covered": "full",
+      "phrases": {
+        "16": "The proper protocol for a suspect on scene was followed, as Carlos Morales was present and arrested at the scene"
+      }
+    },
+    "domestic_violence_29": {
+      "covered": "full",
+      "phrases": {
+        "2": "Maya Ramos stated that Carlos Morales grabbed me and wouldn't let me go.",
+        "6": "immediately before striking Maya Ramos in the face.",
+        "8": "Carlos Morales has been getting more controlling and more violent over time",
+        "9": "Maya Ramos stated Carlos Morales's behavior has been escalating and that Carlos Morales's conduct makes Maya Ramos feel controlled and trapped.",
+        "17": "ongoing stalking and coercive control behavior"
+      }
+    },
+    "domestic_violence_30": {
+      "covered": "full",
+      "phrases": {
+        "1": "Maya Ramos had visible bruising and redness on her neck, bruising and lacerations on her cheeks and forehead, and bruising on both arms",
+        "4": "I observed visible bruising and redness on the front and sides of Maya Ramos's neck consistent with manual strangulation.",
+        "5": "Maya Ramos confirmed all facial and arm injuries were new, sustained during tonight's incident. Maya Ramos stated she also had older bruising on her ribs and back from prior incidents of abuse that predated tonight's incident",
+        "7": "Maya Ramos stated that Carlos Morales strangled Maya Ramos on one prior occasion, approximately six months before tonight's incident, by grabbing Maya Ramos's neck and squeezing until Maya Ramos felt she was going to lose consciousness.",
+        "12": "",
+        "18": "I couldn't breathe, and I felt like I was going to pass out.",
+        "19": "Photographs were taken of Maya Ramos's visible injuries, including bruising and redness to the neck consistent with strangulation, lacerations and bruising to the face, and bruising to the arms."
+      }
+    },
+    "domestic_violence_31": {
+      "covered": "full",
+      "phrases": {
+        "4": "Maya Ramos stated the neck bruising, throat soreness, and hoarse voice were new injuries sustained during tonight's incident.",
+        "5": "Maya Ramos confirmed all facial and arm injuries were new, sustained during tonight's incident. Maya Ramos stated she also had older bruising on her ribs and back from prior incidents of abuse that predated tonight's incident"
+      }
+    },
+    "domestic_violence_32": {
+      "covered": "full",
+      "phrases": {
+        "0": "I could see broken glass on the living room floor and a shattered window from outside.",
+        "2": "Maya Ramos stated that Carlos Morales then began throwing objects and breaking items in the residence, including a vase that Carlos Morales threw against the wall.",
+        "13": "Carlos Morales broke the living room window by throwing a vase through it, causing glass to shatter onto the living room floor. Carlos Morales also damaged the coffee table and the television stand.",
+        "19": "Photographs were also taken of the property damage to the residence, including the broken window, broken vase, and damage to furniture."
+      }
+    },
+    "domestic_violence_33": {
+      "covered": "full",
+      "phrases": {
+        "9": "Regarding stalking and coercive control behaviors, Maya Ramos stated that Carlos Morales has followed Maya Ramos on multiple occasions",
+        "17": "ongoing stalking"
+      }
+    },
+    "domestic_violence_34": {
+      "covered": "full",
+      "phrases": {
+        "4": "Regarding strangulation, Maya Ramos stated that at some point during the incident, Carlos Morales grabbed Maya Ramos by the neck using his right hand and squeezed.",
+        "7": "Maya Ramos stated that Carlos Morales strangled Maya Ramos on one prior occasion, approximately six months before tonight's incident, by grabbing Maya Ramos's neck and squeezing until Maya Ramos felt she was going to lose consciousness."
+      }
+    },
+    "domestic_violence_35": {
+      "covered": "full",
+      "phrases": {
+        "4": "Maya Ramos stated that at some point during the incident, Carlos Morales grabbed Maya Ramos by the neck using his right hand and squeezed.",
+        "7": "Maya Ramos stated that Carlos Morales strangled Maya Ramos on one prior occasion, approximately six months before tonight's incident, by grabbing Maya Ramos's neck and squeezing until Maya Ramos felt she was going to lose consciousness."
+      }
+    },
+    "domestic_violence_36": {
+      "covered": "full",
+      "phrases": {
+        "1": "Maya Ramos spoke with a hoarse voice and stated that her throat was sore and that it was difficult to talk",
+        "4": "Maya Ramos stated the neck bruising, throat soreness, and hoarse voice were new injuries sustained during tonight's incident.",
+        "5": "Maya Ramos stated she needed and wanted medical attention",
+        "17": "Maya Ramos stated she had previously spoken with a crisis hotline",
+        "19": "EMS transported Maya Ramos to the hospital for evaluation and treatment."
+      }
+    },
+    "domestic_violence_37": {
+      "covered": "full",
+      "phrases": {
+        "15": "Maya Ramos stated Carlos Morales has not sexually assaulted Maya Ramos"
+      }
+    },
+    "domestic_violence_38": {
+      "covered": "full",
+      "phrases": {
+        "18": "He started yelling at me, and I tried to walk away, but he grabbed me and wouldn't let me go."
+      }
+    },
+    "domestic_violence_39": {
+      "covered": "full",
+      "phrases": {
+        "10": "from possessing any firearms or ammunition.",
+        "12": "Maya Ramos stated that Carlos Morales owns a handgun and keeps it at Carlos Morales's apartment.",
+        "16": "unlawful possession of a firearm in violation of the restraining order",
+        "17": "the suspect's firearm access"
+      }
+    },
+    "domestic_violence_40": {
+      "covered": "partial",
+      "phrases": {
+        "12": "Maya Ramos stated Carlos Morales has shown the firearm to Maya Ramos on prior occasions and threatened to use it.",
+        "16": ""
+      }
+    },
+    "domestic_violence_41": {
+      "covered": "full",
+      "phrases": {
+        "12": "Maya Ramos stated Carlos Morales has shown the firearm to Maya Ramos on prior occasions and threatened to use it.",
+        "16": "",
+        "17": "prior threats to use it"
+      }
+    },
+    "domestic_violence_42": {
+      "covered": "full",
+      "phrases": {
+        "10": "and possesses a firearm in violation of the order's terms.",
+        "12": "Maya Ramos stated that Carlos Morales owns a handgun and keeps it at Carlos Morales's apartment.",
+        "16": "unlawful possession of a firearm in violation of the restraining order",
+        "17": "the suspect's firearm access"
+      }
+    },
+    "domestic_violence_43": {
+      "covered": "full",
+      "phrases": {
+        "12": "Maya Ramos stated she is terrified that Carlos Morales will use the gun to hurt or kill her."
+      }
+    },
+    "domestic_violence_44": {
+      "covered": "none",
+      "phrases": {
+        "16": ""
+      }
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "domestic_violence_01",
+        "element": "Is this individual prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "14": {
+            "officer_message": "Two final questions. First \u2014 can you describe how Carlos was acting and what he was saying tonight during the incident? What was his emotional state \u2014 was he yelling, calm, what specific words did he use when he threatened or hurt you? Second \u2014 you mentioned he was arrested for domestic violence before. Do you know if he was convicted of that, or if there is a prior conviction that would legally prohibit him from possessing firearms?",
+            "coverage": "full",
+            "reasoning": "The officer asked if Carlos was convicted of domestic violence before, which directly relates to whether he is prohibited from possessing firearms due to a misdemeanor crime of domestic violence."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "11": "this conviction would constitute an additional basis prohibiting Carlos Morales from possessing firearms under federal law applicable to persons convicted of misdemeanor crimes of domestic violence"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_02",
+        "element": "Is this individual prohibited from possessing firearms due to a qualifying order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "10": "This individual is prohibited from possessing firearms pursuant to a qualifying order of protection."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_03",
+        "element": "Does the report include all needed information",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_04",
+        "element": "Did the officer assist the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_05",
+        "element": "How was the case received",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "20": "Reporting Officer: Davis, Badge No. 4471, April 28, 2026."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_06",
+        "element": "Was information provided about obtaining an order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "17": "I informed Maya Ramos of her right to pursue a strengthened or modified protective order and of the process for doing so"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_07",
+        "element": "Is the time of the call recorded (including time of incident, time of dispatch, time of arrival)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Good evening. My name is Officer Davis. I was dispatched here tonight after a 911 call reporting a domestic disturbance. Before we talk about what happened, can you please tell me your full name, date of birth, and confirm you live here at 1457 Oakbrook Drive?",
+            "coverage": "partial",
+            "reasoning": "The officer mentions being dispatched after a 911 call, which implies that the time of the call is recorded, but the officer does not explicitly ask about or confirm the time of the call, dispatch, or arrival."
+          },
+          "2": {
+            "officer_message": "Thank you, Maya. I'm here to help you. Can you tell me exactly what happened tonight from the beginning \u2014 what time it started, what the other person did, and what you were thinking and feeling during the incident? Please tell me everything in your own words.",
+            "coverage": "full",
+            "reasoning": "The officer asked the victim to tell what happened from the beginning, including what time it started, which would elicit the time of the incident."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "On April 28, 2026, at approximately 2145 hours, ... I arrived at 1457 Oakbrook Drive at approximately 2155 hours.",
+          "20": "April 28, 2026."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_08",
+        "element": "Was information provided to the victim about local service providers",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "12": {
+            "officer_message": "Almost done. Can you describe the exact property damage tonight \u2014 specifically what was broken or damaged? Also, how are you feeling right now emotionally \u2014 are you afraid Carlos will come back, and do you believe he could seriously hurt or kill you? Do you know if Carlos has any prior criminal convictions, especially for domestic violence? Does he have a prior criminal record? Finally, what would be most helpful for your safety right now \u2014 and are you aware of local domestic violence advocates or shelter resources?",
+            "coverage": "full",
+            "reasoning": "The officer asked if the victim is aware of local domestic violence advocates or shelter resources, which provides information about local service providers."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "17": "I provided Maya Ramos with contact information for local service providers and victim advocates"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_09",
+        "element": "Are the elements of the crime(s) articulated to meet state and/or federal laws that address domestic violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "19": "the elements of domestic violence, assault by strangulation, assault, criminal threats, and violation of a protective order are established by the facts documented above, consistent with applicable state and federal laws addressing domestic violence offenses."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_10",
+        "element": "Was a threat/risk assessment tool used with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "17": "I conducted a threat and risk assessment with Maya Ramos"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_11",
+        "element": "What were the observations upon approach",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Good evening. My name is Officer Davis. I was dispatched here tonight after a 911 call reporting a domestic disturbance. Before we talk about what happened, can you please tell me your full name, date of birth, and confirm you live here at 1457 Oakbrook Drive?",
+            "coverage": "partial",
+            "reasoning": "The officer's introduction and request for information may provide some context about the observations upon approach, but does not directly describe the scene or the officer's observations."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "Upon my arrival, I observed the front of the residence to be in disarray.",
+          "20": "Reporting Officer: Davis, Badge No. 4471, April 28, 2026."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_12",
+        "element": "Is there a valid protection order in place",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer asked about the restraining order, but did not ask if it is valid or current."
+          },
+          "10": {
+            "officer_message": "We will get you medical attention. A few more important questions. Has Carlos ever followed you, shown up unexpectedly at your work or other locations, repeatedly called or texted you, or sent unwanted gifts or messages? What is the case number and exact terms of your restraining order \u2014 what is he prohibited from doing? Were there any other people present tonight who may have witnessed what happened? Were there any children here?",
+            "coverage": "full",
+            "reasoning": "The officer asked about the case number and exact terms of the restraining order, which directly addresses the element of a valid protection order in place"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "9": "Maya Ramos stated these contact attempts continued even after Maya Ramos obtained a restraining order.",
+          "10": "I confirmed the restraining order is active and valid.",
+          "16": "Carlos Morales was present at the scene in violation of restraining order case number 23-0123",
+          "17": "an active restraining order that Carlos Morales has been violating"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_13",
+        "element": "Is the scene concisely described/diagramed",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "I could see broken glass on the living room floor and a shattered window from outside."
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "domestic_violence_14",
+        "element": "Were photos taken and details recorded",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "19": "Photographs were taken of Maya Ramos's visible injuries, including bruising and redness to the neck consistent with strangulation, lacerations and bruising to the face, and bruising to the arms. Photographs were also taken of the property damage to the residence, including the broken window, broken vase, and damage to furniture."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_15",
+        "element": "Is the relationship of the parties identified",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Good evening. My name is Officer Davis. I was dispatched here tonight after a 911 call reporting a domestic disturbance. Before we talk about what happened, can you please tell me your full name, date of birth, and confirm you live here at 1457 Oakbrook Drive?",
+            "coverage": "partial",
+            "reasoning": "The officer asked for the individual's full name and confirmation of their address, which may help identify the relationship of the parties, but does not directly ask about the relationship."
+          },
+          "2": {
+            "officer_message": "Thank you, Maya. I'm here to help you. Can you tell me exactly what happened tonight from the beginning \u2014 what time it started, what the other person did, and what you were thinking and feeling during the incident? Please tell me everything in your own words.",
+            "coverage": "partial",
+            "reasoning": "The officer asked the victim to tell what happened, which may include information about the relationship, but did not directly ask about the relationship of the parties."
+          },
+          "6": {
+            "officer_message": "I'm documenting all of this. Now I need information about Carlos. What is his full name, date of birth, and physical description \u2014 height, weight, hair color, eye color? What is your relationship with him \u2014 are you married, living together, dating? How long have you been together? Has he ever physically hurt you before tonight? If so, how many times, how often, and has he ever choked you before? Have you ever called police before or filed reports?",
+            "coverage": "full",
+            "reasoning": "The officer asked about the relationship between the victim and Carlos, including if they are married, living together, or dating."
+          },
+          "10": {
+            "officer_message": "We will get you medical attention. A few more important questions. Has Carlos ever followed you, shown up unexpectedly at your work or other locations, repeatedly called or texted you, or sent unwanted gifts or messages? What is the case number and exact terms of your restraining order \u2014 what is he prohibited from doing? Were there any other people present tonight who may have witnessed what happened? Were there any children here?",
+            "coverage": "full",
+            "reasoning": "The officer's question about the restraining order implies the relationship between the parties is being identified"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "Other responding officers had detained the suspect, Carlos Morales, at the scene. I made contact with the victim, Maya Ramos, inside the residence.",
+          "2": "Maya Ramos stated that the incident began at approximately 2200 hours on April 28, 2026, when suspect Carlos Morales arrived home from work and an argument escalated.",
+          "7": "Maya Ramos stated that she and Carlos Morales have been in a dating relationship for approximately three years and have been living together at 1457 Oakbrook Drive for most of that time.",
+          "14": "Maya Ramos identified Maria Rodriguez, who resides next door, as a potential witness"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_16",
+        "element": "What is the history of the relationship (include frequency of any violence, intimidation, and threats)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "2": {
+            "officer_message": "Thank you, Maya. I'm here to help you. Can you tell me exactly what happened tonight from the beginning \u2014 what time it started, what the other person did, and what you were thinking and feeling during the incident? Please tell me everything in your own words.",
+            "coverage": "partial",
+            "reasoning": "The officer asked the victim to tell what happened from the beginning, which may include information about the history of the relationship, but did not directly ask about previous incidents."
+          },
+          "6": {
+            "officer_message": "I'm documenting all of this. Now I need information about Carlos. What is his full name, date of birth, and physical description \u2014 height, weight, hair color, eye color? What is your relationship with him \u2014 are you married, living together, dating? How long have you been together? Has he ever physically hurt you before tonight? If so, how many times, how often, and has he ever choked you before? Have you ever called police before or filed reports?",
+            "coverage": "full",
+            "reasoning": "The officer inquired about the history of the relationship, including how long they have been together and if Carlos has physically hurt the victim before."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "2": "Maya Ramos stated that the incident began at approximately 2200 hours on April 28, 2026, when suspect Carlos Morales arrived home from work and an argument escalated.",
+          "4": "Maya Ramos stated that Carlos Morales grabbed Maya Ramos by the neck using his right hand and squeezed.",
+          "7": "Maya Ramos stated that Carlos Morales has physically assaulted Maya Ramos on approximately five or six prior occasions.",
+          "8": "Carlos Morales has been getting more controlling and more violent over time",
+          "9": "Maya Ramos stated that Carlos Morales has followed Maya Ramos on multiple occasions and has repeatedly shown up uninvited at Maya Ramos's place of employment with gifts, including flowers and chocolates.",
+          "10": "Maya Ramos stated Carlos Morales has a prior conviction for domestic violence, which he told Maya Ramos resulted in court-ordered classes and community service.",
+          "17": "Maya Ramos described a pattern of escalating violence, a prior strangulation incident, the suspect's firearm access and prior threats to use it, ongoing stalking and coercive control behavior, and an active restraining order that Carlos Morales has been violating",
+          "18": "He started yelling at me, and I tried to walk away, but he grabbed me and wouldn't let me go."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_17",
+        "element": "Were all witnesses interviewed and documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "10": {
+            "officer_message": "We will get you medical attention. A few more important questions. Has Carlos ever followed you, shown up unexpectedly at your work or other locations, repeatedly called or texted you, or sent unwanted gifts or messages? What is the case number and exact terms of your restraining order \u2014 what is he prohibited from doing? Were there any other people present tonight who may have witnessed what happened? Were there any children here?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if there were other people present who may have witnessed what happened, which touches on the topic of interviewing witnesses but does not guarantee all witnesses were interviewed and documented"
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "14": "Maya Ramos identified Maria Rodriguez, who resides next door, as a potential witness",
+          "19": "Maria Rodriguez, the neighbor, is to be contacted for a witness statement."
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "domestic_violence_18",
+        "element": "Was an arrest made",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "Other responding officers had detained the suspect, Carlos Morales, at the scene.",
+          "16": "officers on scene detained and arrested Carlos Morales at the scene",
+          "19": "Carlos Morales was transported to the county detention facility following arrest."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_19",
+        "element": "Were there children on the scene",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "10": {
+            "officer_message": "We will get you medical attention. A few more important questions. Has Carlos ever followed you, shown up unexpectedly at your work or other locations, repeatedly called or texted you, or sent unwanted gifts or messages? What is the case number and exact terms of your restraining order \u2014 what is he prohibited from doing? Were there any other people present tonight who may have witnessed what happened? Were there any children here?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if there were children present, which is related to the presence of children on the scene but does not fully address the element"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "14": "No children were present at the residence during the incident"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_20",
+        "element": "Was information about previous incidents documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "12": {
+            "officer_message": "Almost done. Can you describe the exact property damage tonight \u2014 specifically what was broken or damaged? Also, how are you feeling right now emotionally \u2014 are you afraid Carlos will come back, and do you believe he could seriously hurt or kill you? Do you know if Carlos has any prior criminal convictions, especially for domestic violence? Does he have a prior criminal record? Finally, what would be most helpful for your safety right now \u2014 and are you aware of local domestic violence advocates or shelter resources?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if the suspect has a prior criminal record, especially for domestic violence, which touches on the topic of previous incidents but is not as direct as asking about the history of the relationship."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "5": "older bruising on her ribs and back from prior incidents of abuse that predated tonight's incident",
+          "7": "Maya Ramos stated that Carlos Morales has physically assaulted Maya Ramos on approximately five or six prior occasions.",
+          "8": "Carlos Morales has been getting more controlling and more violent over time",
+          "9": "Maya Ramos stated these contact attempts continued even after Maya Ramos obtained a restraining order.",
+          "10": "Maya Ramos stated Carlos Morales has a prior conviction for domestic violence, which he told Maya Ramos resulted in court-ordered classes and community service.",
+          "14": "Maya Ramos stated Maria Rodriguez has knowledge of the prior history of abuse"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_21",
+        "element": "Were weapons/objects used",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "4": {
+            "officer_message": "You're doing well, Maya. I need to document your injuries carefully. Did Carlos grab your neck or choke you at any point tonight? If so, describe exactly how \u2014 did he use his hands, both hands, one hand, or something else, how long did he hold on, and did you have any trouble breathing, feel dizzy, or think you might lose consciousness? Also, what injuries do you have right now \u2014 please describe each one and tell me which ones are new from tonight versus ones you already had before tonight.",
+            "coverage": "partial",
+            "reasoning": "The officer inquired about the use of hands or objects to grab or choke the victim, which relates to the use of weapons or objects, but did not explicitly ask about all types of weapons or objects that might have been used."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "2": "Maya Ramos stated, 'I thought he was going to hurt me, really hurt me. I was so afraid.'",
+          "4": "Maya Ramos stated that Carlos Morales grabbed Maya Ramos by the neck using his right hand and squeezed.",
+          "10": "Tonight's incident constitutes a violation of the restraining order, as Carlos Morales was present at Maya Ramos's residence, made contact with and assaulted Maya Ramos, and possesses a firearm in violation of the order's terms.",
+          "12": "Maya Ramos stated that Carlos Morales owns a handgun and keeps it at Carlos Morales's apartment.",
+          "16": ""
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_22",
+        "element": "What was the emotional state of the victim",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "2": {
+            "officer_message": "Thank you, Maya. I'm here to help you. Can you tell me exactly what happened tonight from the beginning \u2014 what time it started, what the other person did, and what you were thinking and feeling during the incident? Please tell me everything in your own words.",
+            "coverage": "full",
+            "reasoning": "The officer asked the victim to describe what she was thinking and feeling during the incident, which would elicit the emotional state of the victim."
+          },
+          "12": {
+            "officer_message": "Almost done. Can you describe the exact property damage tonight \u2014 specifically what was broken or damaged? Also, how are you feeling right now emotionally \u2014 are you afraid Carlos will come back, and do you believe he could seriously hurt or kill you? Do you know if Carlos has any prior criminal convictions, especially for domestic violence? Does he have a prior criminal record? Finally, what would be most helpful for your safety right now \u2014 and are you aware of local domestic violence advocates or shelter resources?",
+            "coverage": "full",
+            "reasoning": "The officer asked about the victim's emotional state, specifically how they are feeling right now and if they are afraid the suspect will come back."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "Maya Ramos appeared visibly distressed and tearful",
+          "3": "I was so scared",
+          "4": "Maya Ramos stated, 'I couldn't breathe, and I felt like I was going to pass out.'",
+          "6": "Maya Ramos stated, 'He was out of control. He was yelling and screaming, and I was just trying to get away from him.'",
+          "7": "Maya Ramos stated she has not previously called police but has attempted to leave the relationship on several occasions, each time being found and persuaded by Carlos Morales to return.",
+          "8": "",
+          "12": "Maya Ramos stated she is terrified that Carlos Morales will use the gun to hurt or kill her.",
+          "18": "I was so afraid."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_23",
+        "element": "What was the emotional state of the suspect",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "14": {
+            "officer_message": "Two final questions. First \u2014 can you describe how Carlos was acting and what he was saying tonight during the incident? What was his emotional state \u2014 was he yelling, calm, what specific words did he use when he threatened or hurt you? Second \u2014 you mentioned he was arrested for domestic violence before. Do you know if he was convicted of that, or if there is a prior conviction that would legally prohibit him from possessing firearms?",
+            "coverage": "full",
+            "reasoning": "The officer asked about Carlos's emotional state, including if he was yelling or calm, and what specific words he used when he threatened or hurt the victim."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "6": "Carlos Morales was extremely angry, out of control, and making threats throughout the incident."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_24",
+        "element": "What evidence was collected",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "19": "Evidence was collected and documented."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_25",
+        "element": "Was a threat/risk assessment tool used with the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_26",
+        "element": "Is evidence of fear articulated in the report",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "2": "Maya Ramos stated, 'I thought he was going to hurt me, really hurt me. I was so afraid.'",
+          "3": "I was so scared",
+          "4": "Maya Ramos stated, 'I couldn't breathe, and I felt like I was going to pass out.'",
+          "6": "Maya Ramos stated, 'He was out of control. He was yelling and screaming, and I was just trying to get away from him.'",
+          "7": "Maya Ramos stated she has not previously called police but has attempted to leave the relationship on several occasions, each time being found and persuaded by Carlos Morales to return.",
+          "9": "Maya Ramos stated Carlos Morales's conduct makes Maya Ramos feel controlled and trapped.",
+          "17": "I determined the threat level to be high",
+          "18": "I was so afraid."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_27",
+        "element": "Have all threats been clearly documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "2": {
+            "officer_message": "Thank you, Maya. I'm here to help you. Can you tell me exactly what happened tonight from the beginning \u2014 what time it started, what the other person did, and what you were thinking and feeling during the incident? Please tell me everything in your own words.",
+            "coverage": "partial",
+            "reasoning": "The officer asked the victim to tell what happened, which may include information about threats, but did not directly ask about threats."
+          },
+          "4": {
+            "officer_message": "You're doing well, Maya. I need to document your injuries carefully. Did Carlos grab your neck or choke you at any point tonight? If so, describe exactly how \u2014 did he use his hands, both hands, one hand, or something else, how long did he hold on, and did you have any trouble breathing, feel dizzy, or think you might lose consciousness? Also, what injuries do you have right now \u2014 please describe each one and tell me which ones are new from tonight versus ones you already had before tonight.",
+            "coverage": "partial",
+            "reasoning": "The officer asked about specific threats (grabbing or choking), but did not ask about all possible threats that might have been made."
+          },
+          "6": {
+            "officer_message": "I'm documenting all of this. Now I need information about Carlos. What is his full name, date of birth, and physical description \u2014 height, weight, hair color, eye color? What is your relationship with him \u2014 are you married, living together, dating? How long have you been together? Has he ever physically hurt you before tonight? If so, how many times, how often, and has he ever choked you before? Have you ever called police before or filed reports?",
+            "coverage": "full",
+            "reasoning": "The officer asked if Carlos has ever physically hurt the victim before and if he has ever choked her, which implies documenting threats and previous incidents."
+          },
+          "8": {
+            "officer_message": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if Carlos ever used or threatened the victim with a gun, which could be considered a threat, but did not ask about all possible threats."
+          },
+          "10": {
+            "officer_message": "We will get you medical attention. A few more important questions. Has Carlos ever followed you, shown up unexpectedly at your work or other locations, repeatedly called or texted you, or sent unwanted gifts or messages? What is the case number and exact terms of your restraining order \u2014 what is he prohibited from doing? Were there any other people present tonight who may have witnessed what happened? Were there any children here?",
+            "coverage": "partial",
+            "reasoning": "The officer asked about specific behaviors like following, showing up unexpectedly, and sending unwanted messages, which can be considered as threats but does not fully address all possible threats"
+          },
+          "12": {
+            "officer_message": "Almost done. Can you describe the exact property damage tonight \u2014 specifically what was broken or damaged? Also, how are you feeling right now emotionally \u2014 are you afraid Carlos will come back, and do you believe he could seriously hurt or kill you? Do you know if Carlos has any prior criminal convictions, especially for domestic violence? Does he have a prior criminal record? Finally, what would be most helpful for your safety right now \u2014 and are you aware of local domestic violence advocates or shelter resources?",
+            "coverage": "full",
+            "reasoning": "The officer asked if the victim believes the suspect could seriously hurt or kill them, which implies a threat and would elicit information about all threats."
+          },
+          "14": {
+            "officer_message": "Two final questions. First \u2014 can you describe how Carlos was acting and what he was saying tonight during the incident? What was his emotional state \u2014 was he yelling, calm, what specific words did he use when he threatened or hurt you? Second \u2014 you mentioned he was arrested for domestic violence before. Do you know if he was convicted of that, or if there is a prior conviction that would legally prohibit him from possessing firearms?",
+            "coverage": "full",
+            "reasoning": "The officer asked about the specific words Carlos used when he threatened or hurt the victim, which would elicit a complete answer about the threats made."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "2": "Maya Ramos stated, 'I thought he was going to hurt me, really hurt me. I was so afraid.'",
+          "6": "'You're mine,' 'You'll never leave me,' and 'I'll kill you if you try to leave me.'",
+          "12": "Maya Ramos stated Carlos Morales has shown the firearm to Maya Ramos on prior occasions and threatened to use it.",
+          "18": "I'll kill you if you try to leave me."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_28",
+        "element": "Was the proper protocol followed if the suspect was not on the scene",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "16": "The proper protocol for a suspect on scene was followed, as Carlos Morales was present and arrested at the scene"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_29",
+        "element": "Is the use of coercion and/or force articulated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "2": "Maya Ramos stated that Carlos Morales grabbed me and wouldn't let me go.",
+          "6": "immediately before striking Maya Ramos in the face.",
+          "8": "Carlos Morales has been getting more controlling and more violent over time",
+          "9": "Maya Ramos stated Carlos Morales's behavior has been escalating and that Carlos Morales's conduct makes Maya Ramos feel controlled and trapped.",
+          "17": "ongoing stalking and coercive control behavior"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_30",
+        "element": "Have all injuries (visible and non-visible) been documented",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "2": {
+            "officer_message": "Thank you, Maya. I'm here to help you. Can you tell me exactly what happened tonight from the beginning \u2014 what time it started, what the other person did, and what you were thinking and feeling during the incident? Please tell me everything in your own words.",
+            "coverage": "partial",
+            "reasoning": "The officer asked the victim to tell what happened, which may include information about injuries, but did not directly ask about all injuries (visible and non-visible)."
+          },
+          "4": {
+            "officer_message": "You're doing well, Maya. I need to document your injuries carefully. Did Carlos grab your neck or choke you at any point tonight? If so, describe exactly how \u2014 did he use his hands, both hands, one hand, or something else, how long did he hold on, and did you have any trouble breathing, feel dizzy, or think you might lose consciousness? Also, what injuries do you have right now \u2014 please describe each one and tell me which ones are new from tonight versus ones you already had before tonight.",
+            "coverage": "full",
+            "reasoning": "The officer asked about all injuries, both visible and non-visible, and requested a description of each one."
+          },
+          "6": {
+            "officer_message": "I'm documenting all of this. Now I need information about Carlos. What is his full name, date of birth, and physical description \u2014 height, weight, hair color, eye color? What is your relationship with him \u2014 are you married, living together, dating? How long have you been together? Has he ever physically hurt you before tonight? If so, how many times, how often, and has he ever choked you before? Have you ever called police before or filed reports?",
+            "coverage": "partial",
+            "reasoning": "Although the officer did not directly ask about all injuries, the question about physical hurt and choking implies some inquiry into the victim's physical state."
+          },
+          "12": {
+            "officer_message": "Almost done. Can you describe the exact property damage tonight \u2014 specifically what was broken or damaged? Also, how are you feeling right now emotionally \u2014 are you afraid Carlos will come back, and do you believe he could seriously hurt or kill you? Do you know if Carlos has any prior criminal convictions, especially for domestic violence? Does he have a prior criminal record? Finally, what would be most helpful for your safety right now \u2014 and are you aware of local domestic violence advocates or shelter resources?",
+            "coverage": "full",
+            "reasoning": "Although not directly asked, the question about the victim's emotional state and fear of the suspect implies that the officer is considering the victim's overall well-being, including any non-visible injuries."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "Maya Ramos had visible bruising and redness on her neck, bruising and lacerations on her cheeks and forehead, and bruising on both arms",
+          "4": "I observed visible bruising and redness on the front and sides of Maya Ramos's neck consistent with manual strangulation.",
+          "5": "Maya Ramos confirmed all facial and arm injuries were new, sustained during tonight's incident. Maya Ramos stated she also had older bruising on her ribs and back from prior incidents of abuse that predated tonight's incident",
+          "7": "Maya Ramos stated that Carlos Morales strangled Maya Ramos on one prior occasion, approximately six months before tonight's incident, by grabbing Maya Ramos's neck and squeezing until Maya Ramos felt she was going to lose consciousness.",
+          "12": "",
+          "18": "I couldn't breathe, and I felt like I was going to pass out.",
+          "19": "Photographs were taken of Maya Ramos's visible injuries, including bruising and redness to the neck consistent with strangulation, lacerations and bruising to the face, and bruising to the arms."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_31",
+        "element": "Were injuries existing or new",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "4": {
+            "officer_message": "You're doing well, Maya. I need to document your injuries carefully. Did Carlos grab your neck or choke you at any point tonight? If so, describe exactly how \u2014 did he use his hands, both hands, one hand, or something else, how long did he hold on, and did you have any trouble breathing, feel dizzy, or think you might lose consciousness? Also, what injuries do you have right now \u2014 please describe each one and tell me which ones are new from tonight versus ones you already had before tonight.",
+            "coverage": "full",
+            "reasoning": "The officer asked the victim to distinguish between new and existing injuries."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "4": "Maya Ramos stated the neck bruising, throat soreness, and hoarse voice were new injuries sustained during tonight's incident.",
+          "5": "Maya Ramos confirmed all facial and arm injuries were new, sustained during tonight's incident. Maya Ramos stated she also had older bruising on her ribs and back from prior incidents of abuse that predated tonight's incident"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_32",
+        "element": "Was there any property damage, theft, or burglary",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "12": {
+            "officer_message": "Almost done. Can you describe the exact property damage tonight \u2014 specifically what was broken or damaged? Also, how are you feeling right now emotionally \u2014 are you afraid Carlos will come back, and do you believe he could seriously hurt or kill you? Do you know if Carlos has any prior criminal convictions, especially for domestic violence? Does he have a prior criminal record? Finally, what would be most helpful for your safety right now \u2014 and are you aware of local domestic violence advocates or shelter resources?",
+            "coverage": "full",
+            "reasoning": "The officer directly asked about property damage, specifically what was broken or damaged."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "I could see broken glass on the living room floor and a shattered window from outside.",
+          "2": "Maya Ramos stated that Carlos Morales then began throwing objects and breaking items in the residence, including a vase that Carlos Morales threw against the wall.",
+          "13": "Carlos Morales broke the living room window by throwing a vase through it, causing glass to shatter onto the living room floor. Carlos Morales also damaged the coffee table and the television stand.",
+          "19": "Photographs were also taken of the property damage to the residence, including the broken window, broken vase, and damage to furniture."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_33",
+        "element": "Are stalking behaviors identified",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "10": {
+            "officer_message": "We will get you medical attention. A few more important questions. Has Carlos ever followed you, shown up unexpectedly at your work or other locations, repeatedly called or texted you, or sent unwanted gifts or messages? What is the case number and exact terms of your restraining order \u2014 what is he prohibited from doing? Were there any other people present tonight who may have witnessed what happened? Were there any children here?",
+            "coverage": "partial",
+            "reasoning": "The officer's questions about behaviors like following and showing up unexpectedly touch on stalking behaviors but do not fully address the element"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "9": "Regarding stalking and coercive control behaviors, Maya Ramos stated that Carlos Morales has followed Maya Ramos on multiple occasions",
+          "17": "ongoing stalking"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_34",
+        "element": "Did the officer inquire about possible strangulation",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "4": {
+            "officer_message": "You're doing well, Maya. I need to document your injuries carefully. Did Carlos grab your neck or choke you at any point tonight? If so, describe exactly how \u2014 did he use his hands, both hands, one hand, or something else, how long did he hold on, and did you have any trouble breathing, feel dizzy, or think you might lose consciousness? Also, what injuries do you have right now \u2014 please describe each one and tell me which ones are new from tonight versus ones you already had before tonight.",
+            "coverage": "full",
+            "reasoning": "The officer specifically inquired about possible strangulation by asking if Carlos grabbed or choked the victim's neck."
+          },
+          "6": {
+            "officer_message": "I'm documenting all of this. Now I need information about Carlos. What is his full name, date of birth, and physical description \u2014 height, weight, hair color, eye color? What is your relationship with him \u2014 are you married, living together, dating? How long have you been together? Has he ever physically hurt you before tonight? If so, how many times, how often, and has he ever choked you before? Have you ever called police before or filed reports?",
+            "coverage": "full",
+            "reasoning": "The officer specifically asked if Carlos has ever choked the victim before, which directly inquires about possible strangulation."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "4": "Regarding strangulation, Maya Ramos stated that at some point during the incident, Carlos Morales grabbed Maya Ramos by the neck using his right hand and squeezed.",
+          "7": "Maya Ramos stated that Carlos Morales strangled Maya Ramos on one prior occasion, approximately six months before tonight's incident, by grabbing Maya Ramos's neck and squeezing until Maya Ramos felt she was going to lose consciousness."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_35",
+        "element": "Did the victim report being strangled",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "4": {
+            "officer_message": "You're doing well, Maya. I need to document your injuries carefully. Did Carlos grab your neck or choke you at any point tonight? If so, describe exactly how \u2014 did he use his hands, both hands, one hand, or something else, how long did he hold on, and did you have any trouble breathing, feel dizzy, or think you might lose consciousness? Also, what injuries do you have right now \u2014 please describe each one and tell me which ones are new from tonight versus ones you already had before tonight.",
+            "coverage": "full",
+            "reasoning": "By asking if the victim was grabbed or choked, the officer gave the victim the opportunity to report being strangled."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "4": "Maya Ramos stated that at some point during the incident, Carlos Morales grabbed Maya Ramos by the neck using his right hand and squeezed.",
+          "7": "Maya Ramos stated that Carlos Morales strangled Maya Ramos on one prior occasion, approximately six months before tonight's incident, by grabbing Maya Ramos's neck and squeezing until Maya Ramos felt she was going to lose consciousness."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_36",
+        "element": "Did the victim request/need medical attention",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "2": {
+            "officer_message": "Thank you, Maya. I'm here to help you. Can you tell me exactly what happened tonight from the beginning \u2014 what time it started, what the other person did, and what you were thinking and feeling during the incident? Please tell me everything in your own words.",
+            "coverage": "partial",
+            "reasoning": "The officer asked the victim to tell what happened, which may include information about medical attention, but did not directly ask if the victim needed medical attention."
+          },
+          "4": {
+            "officer_message": "You're doing well, Maya. I need to document your injuries carefully. Did Carlos grab your neck or choke you at any point tonight? If so, describe exactly how \u2014 did he use his hands, both hands, one hand, or something else, how long did he hold on, and did you have any trouble breathing, feel dizzy, or think you might lose consciousness? Also, what injuries do you have right now \u2014 please describe each one and tell me which ones are new from tonight versus ones you already had before tonight.",
+            "coverage": "partial",
+            "reasoning": "The officer did not directly ask if the victim needed medical attention but did ask about trouble breathing, dizziness, or potential loss of consciousness, which could imply a need for medical attention."
+          },
+          "6": {
+            "officer_message": "I'm documenting all of this. Now I need information about Carlos. What is his full name, date of birth, and physical description \u2014 height, weight, hair color, eye color? What is your relationship with him \u2014 are you married, living together, dating? How long have you been together? Has he ever physically hurt you before tonight? If so, how many times, how often, and has he ever choked you before? Have you ever called police before or filed reports?",
+            "coverage": "partial",
+            "reasoning": "The officer did not directly ask if the victim needed medical attention, but the context implies that the officer is gathering information that might lead to medical attention if necessary."
+          },
+          "8": {
+            "officer_message": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+            "coverage": "full",
+            "reasoning": "The officer directly asked if the victim needs medical attention right now."
+          },
+          "10": {
+            "officer_message": "We will get you medical attention. A few more important questions. Has Carlos ever followed you, shown up unexpectedly at your work or other locations, repeatedly called or texted you, or sent unwanted gifts or messages? What is the case number and exact terms of your restraining order \u2014 what is he prohibited from doing? Were there any other people present tonight who may have witnessed what happened? Were there any children here?",
+            "coverage": "full",
+            "reasoning": "The officer offered medical attention, which directly addresses the victim's need for medical attention"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "Maya Ramos spoke with a hoarse voice and stated that her throat was sore and that it was difficult to talk",
+          "4": "Maya Ramos stated the neck bruising, throat soreness, and hoarse voice were new injuries sustained during tonight's incident.",
+          "5": "Maya Ramos stated she needed and wanted medical attention",
+          "17": "Maya Ramos stated she had previously spoken with a crisis hotline",
+          "19": "EMS transported Maya Ramos to the hospital for evaluation and treatment."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_37",
+        "element": "Did the victim report sexual violence",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if Carlos ever sexually assaulted the victim, but did not ask for details or specifics."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "15": "Maya Ramos stated Carlos Morales has not sexually assaulted Maya Ramos"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_38",
+        "element": "Were all spontaneous statements captured",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "18": "He started yelling at me, and I tried to walk away, but he grabbed me and wouldn't let me go."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_39",
+        "element": "Did the officer ask about firearms",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+            "coverage": "full",
+            "reasoning": "The officer directly asked about firearms, including if Carlos owns any guns, has access to firearms, and if his restraining order prohibits him from having firearms."
+          },
+          "14": {
+            "officer_message": "Two final questions. First \u2014 can you describe how Carlos was acting and what he was saying tonight during the incident? What was his emotional state \u2014 was he yelling, calm, what specific words did he use when he threatened or hurt you? Second \u2014 you mentioned he was arrested for domestic violence before. Do you know if he was convicted of that, or if there is a prior conviction that would legally prohibit him from possessing firearms?",
+            "coverage": "full",
+            "reasoning": "The officer asked if Carlos was convicted of domestic violence before, which implies asking about his potential prohibition from possessing firearms due to a previous conviction."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "10": "from possessing any firearms or ammunition.",
+          "12": "Maya Ramos stated that Carlos Morales owns a handgun and keeps it at Carlos Morales's apartment.",
+          "16": "unlawful possession of a firearm in violation of the restraining order",
+          "17": "the suspect's firearm access"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_40",
+        "element": "Did the suspect use firearms during the incident",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if Carlos ever used or threatened the victim with a gun, but did not ask about the specifics of the incident."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "12": "Maya Ramos stated Carlos Morales has shown the firearm to Maya Ramos on prior occasions and threatened to use it.",
+          "16": ""
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "domestic_violence_41",
+        "element": "Did the suspect make threats to use firearms",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if Carlos ever used or threatened the victim with a gun, but did not ask about the specifics of the threats."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "12": "Maya Ramos stated Carlos Morales has shown the firearm to Maya Ramos on prior occasions and threatened to use it.",
+          "16": "",
+          "17": "prior threats to use it"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_42",
+        "element": "Does the suspect have access to firearms",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Thank you, Maya. I need to ask about firearms. Does Carlos own any guns or have access to firearms? Has he ever used or threatened you with a gun? Are any firearms in this home right now? Does his restraining order prohibit him from having firearms? Also \u2014 do you need medical attention right now? Has Carlos ever sexually assaulted you? And where is Carlos right now \u2014 was he arrested by the other officers on scene tonight?",
+            "coverage": "full",
+            "reasoning": "The officer directly asked if Carlos has access to firearms."
+          },
+          "12": {
+            "officer_message": "Almost done. Can you describe the exact property damage tonight \u2014 specifically what was broken or damaged? Also, how are you feeling right now emotionally \u2014 are you afraid Carlos will come back, and do you believe he could seriously hurt or kill you? Do you know if Carlos has any prior criminal convictions, especially for domestic violence? Does he have a prior criminal record? Finally, what would be most helpful for your safety right now \u2014 and are you aware of local domestic violence advocates or shelter resources?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if the suspect has a prior criminal record, which may imply access to firearms but does not directly address the suspect's access to firearms."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "10": "and possesses a firearm in violation of the order's terms.",
+          "12": "Maya Ramos stated that Carlos Morales owns a handgun and keeps it at Carlos Morales's apartment.",
+          "16": "unlawful possession of a firearm in violation of the restraining order",
+          "17": "the suspect's firearm access"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_43",
+        "element": "Did the victim express fear about the suspect's access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "12": "Maya Ramos stated she is terrified that Carlos Morales will use the gun to hurt or kill her."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_44",
+        "element": "Were firearms/weapons confiscated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "16": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      }
+    ],
+    "contradictions_interview": [],
+    "contradictions_narrative": [
+      {
+        "element_id": "domestic_violence_01",
+        "element": "Is this individual prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence",
+        "location": 11,
+        "source": "narrative",
+        "phrase": "this conviction would constitute an additional basis prohibiting Carlos Morales from possessing firearms under federal law applicable to persons convicted of misdemeanor crimes of domestic violence",
+        "contradicts": "No",
+        "explanation": "The text states that the conviction would prohibit Carlos Morales from possessing firearms due to a misdemeanor crime of domestic violence, directly contradicting the established scenario fact that the individual is not prohibited from possessing firearms due to such a conviction."
+      },
+      {
+        "element_id": "domestic_violence_16",
+        "element": "What is the history of the relationship (include frequency of any violence, intimidation, and threats)",
+        "location": 7,
+        "source": "narrative",
+        "phrase": "on approximately five or six prior occasions",
+        "contradicts": "The history of the relationship includes frequent verbal arguments, with the suspect, Carlos Morales, having a history of intimidation and threats, including one previous incident of physical violence on January 15, 2023.",
+        "explanation": "The established scenario fact states there was only one previous incident of physical violence, but the text states there were approximately five or six prior physical assaults."
+      },
+      {
+        "element_id": "domestic_violence_16",
+        "element": "What is the history of the relationship (include frequency of any violence, intimidation, and threats)",
+        "location": 17,
+        "source": "narrative",
+        "phrase": "a prior strangulation incident",
+        "contradicts": "The history of the relationship includes frequent verbal arguments, with the suspect, Carlos Morales, having a history of intimidation and threats, including one previous incident of physical violence on January 15, 2023.",
+        "explanation": "The established scenario fact mentions one previous incident of physical violence on January 15, 2023, but does not specify the nature of the violence. The text, however, describes 'a prior strangulation incident', which directly conflicts with the implication that the previous incident of physical violence was the only one, and also adds a specific type of violence (strangulation) not mentioned in the fact."
+      },
+      {
+        "element_id": "domestic_violence_17",
+        "element": "Were all witnesses interviewed and documented",
+        "location": 19,
+        "source": "narrative",
+        "phrase": "is to be contacted for a witness statement",
+        "contradicts": "Yes, all witnesses, including the neighbor, Maria Rodriguez, were interviewed and documented.",
+        "explanation": "The text implies that Maria Rodriguez has not been interviewed yet, which directly contradicts the established fact that all witnesses, including Maria Rodriguez, were interviewed and documented."
+      },
+      {
+        "element_id": "domestic_violence_21",
+        "element": "Were weapons/objects used",
+        "location": 10,
+        "source": "narrative",
+        "phrase": "possesses a firearm",
+        "contradicts": "Yes, a weapon/object was used, as the suspect, Carlos Morales, used a vase to break the window.",
+        "explanation": "The established scenario fact states that Carlos Morales used a vase, but the text mentions a firearm, which directly conflicts with the type of object used."
+      }
+    ],
+    "grammar": [
+      {
+        "chunk": 0,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "Oakbrook",
+        "suggestion": "Oak brook"
+      },
+      {
+        "chunk": 0,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "Oakbrook",
+        "suggestion": "Oak brook"
+      },
+      {
+        "chunk": 1,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "Oakbrook",
+        "suggestion": "Oak brook"
+      },
+      {
+        "chunk": 1,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "Maya",
+        "suggestion": null
+      },
+      {
+        "chunk": 2,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "Maya",
+        "suggestion": null
+      },
+      {
+        "chunk": 2,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "Maya",
+        "suggestion": null
+      },
+      {
+        "chunk": 2,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "Maya",
+        "suggestion": null
+      },
+      {
+        "chunk": 2,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Maya Ramos stated, 'He started yelling at me, and I tried to walk away, but he grabbed me and wouldn't let me go.'",
+        "suggestion": "Maya Ramos stated, 'Carlos Morales started yelling at me, and I tried to walk away, but he grabbed me and wouldn't let me go.'"
+      },
+      {
+        "chunk": 2,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Maya Ramos stated, 'I thought he was going to hurt me, really hurt me. I was so afraid.'",
+        "suggestion": "Maya Ramos stated, 'I thought Carlos Morales was going to hurt me, really hurt me. I was so afraid.'"
+      },
+      {
+        "chunk": 4,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "Maya",
+        "suggestion": null
+      },
+      {
+        "chunk": 4,
+        "source": "llm",
+        "error_type": "Pronoun clarity issues",
+        "excerpt": "Maya Ramos stated she tried to push Carlos Morales away but was unable to do so.",
+        "suggestion": "Maya Ramos stated that she tried to push Carlos Morales away but Maya Ramos was unable to do so."
+      },
+      {
+        "chunk": 4,
+        "source": "llm",
+        "error_type": "Pronoun clarity issues",
+        "excerpt": "Maya Ramos also sustained bruising and lacerations on her cheeks and forehead from being struck in the face, and bruising on both arms where Carlos Morales grabbed her.",
+        "suggestion": "Maya Ramos also sustained bruising and lacerations on Maya Ramos's cheeks and forehead from being struck in the face, and bruising on both arms where Carlos Morales grabbed Maya Ramos."
+      },
+      {
+        "chunk": 5,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "Maya",
+        "suggestion": null
+      },
+      {
+        "chunk": 6,
+        "source": "language_tool",
+        "error_type": "EXTREME_ADJECTIVES",
+        "excerpt": "extremely angry",
+        "suggestion": "furious"
+      },
+      {
+        "chunk": 6,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "Maya",
+        "suggestion": null
+      },
+      {
+        "chunk": 6,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "Maya",
+        "suggestion": null
+      },
+      {
+        "chunk": 6,
+        "source": "llm",
+        "error_type": "Run-on sentence",
+        "excerpt": "Maya Ramos stated Carlos Morales stated, \"You're mine,\" \"You'll never leave me,\" and \"I'll kill you if you try to leave me.\" Maya Ramos stated Carlos Morales also stated, \"You're going to pay for what you did,\" immediately before striking Maya Ramos in the face.",
+        "suggestion": "Maya Ramos stated that Carlos Morales stated, \"You're mine,\" \"You'll never leave me,\" and \"I'll kill you if you try to leave me.\" Additionally, Maya Ramos stated that Carlos Morales also stated, \"You're going to pay for what you did,\" immediately before striking her in the face."
+      },
+      {
+        "chunk": 6,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Maya Ramos stated, \"He was out of control. He was yelling and screaming, and I was just trying to get away from him.\"",
+        "suggestion": "Maya Ramos stated, \"Carlos Morales was out of control. He was yelling and screaming, and I was just trying to get away from him.\""
+      },
+      {
+        "chunk": 7,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "Oakbrook",
+        "suggestion": "Oak brook"
+      },
+      {
+        "chunk": 7,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "Maya",
+        "suggestion": null
+      },
+      {
+        "chunk": 7,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "Maya",
+        "suggestion": null
+      },
+      {
+        "chunk": 7,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Maya Ramos stated that Carlos Morales strangled Maya Ramos on one prior occasion, approximately six months before tonight's incident, by grabbing Maya Ramos's neck and squeezing until Maya Ramos felt she was going to lose consciousness.",
+        "suggestion": "Maya Ramos stated that Carlos Morales strangled her on one prior occasion, approximately six months before tonight's incident, by grabbing her neck and squeezing until she felt she was going to lose consciousness."
+      },
+      {
+        "chunk": 7,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Maya Ramos stated that Carlos Morales has physically assaulted Maya Ramos on approximately five or six prior occasions.",
+        "suggestion": "Maya Ramos stated that Carlos Morales has physically assaulted her on approximately five or six prior occasions."
+      },
+      {
+        "chunk": 7,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Maya Ramos stated the prior assaults included pushing, slapping, and punching.",
+        "suggestion": "Maya Ramos stated that the prior assaults against her included pushing, slapping, and punching."
+      },
+      {
+        "chunk": 9,
+        "source": "llm",
+        "error_type": "Pronoun clarity issues",
+        "excerpt": "Maya Ramos stated that Carlos Morales has followed Maya Ramos on multiple occasions and has repeatedly shown up uninvited at Maya Ramos's place of employment with gifts, including flowers and chocolates.",
+        "suggestion": "Maya Ramos stated that Carlos Morales has followed her on multiple occasions and has repeatedly shown up uninvited at her place of employment with gifts, including flowers and chocolates."
+      },
+      {
+        "chunk": 9,
+        "source": "llm",
+        "error_type": "Pronoun clarity issues",
+        "excerpt": "Maya Ramos stated these contact attempts continued even after Maya Ramos obtained a restraining order.",
+        "suggestion": "Maya Ramos stated these contact attempts continued even after she obtained a restraining order."
+      },
+      {
+        "chunk": 9,
+        "source": "llm",
+        "error_type": "Pronoun clarity issues",
+        "excerpt": "Maya Ramos stated Carlos Morales's behavior has been escalating and that Carlos Morales's conduct makes Maya Ramos feel controlled and trapped.",
+        "suggestion": "Maya Ramos stated Carlos Morales's behavior has been escalating and that his conduct makes her feel controlled and trapped."
+      },
+      {
+        "chunk": 10,
+        "source": "llm",
+        "error_type": "Run-on sentence",
+        "excerpt": "Tonight's incident constitutes a violation of the restraining order, as Carlos Morales was present at Maya Ramos's residence, made contact with and assaulted Maya Ramos, and possesses a firearm in violation of the order's terms.",
+        "suggestion": "Tonight's incident constitutes a violation of the restraining order. As Carlos Morales was present at Maya Ramos's residence, made contact with and assaulted Maya Ramos, and possessed a firearm, these actions are in violation of the order's terms."
+      },
+      {
+        "chunk": 10,
+        "source": "llm",
+        "error_type": "Verb tense inconsistencies",
+        "excerpt": "Tonight's incident constitutes a violation of the restraining order, as Carlos Morales was present at Maya Ramos's residence, made contact with and assaulted Maya Ramos, and possesses a firearm in violation of the order's terms.",
+        "suggestion": "Tonight's incident constitutes a violation of the restraining order, as Carlos Morales was present at Maya Ramos's residence, made contact with and assaulted Maya Ramos, and possessed a firearm in violation of the order's terms."
+      },
+      {
+        "chunk": 12,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "Oakbrook",
+        "suggestion": "Oak brook"
+      },
+      {
+        "chunk": 12,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "Maya",
+        "suggestion": null
+      },
+      {
+        "chunk": 12,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "Maya",
+        "suggestion": null
+      },
+      {
+        "chunk": 12,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "Maya",
+        "suggestion": null
+      },
+      {
+        "chunk": 12,
+        "source": "llm",
+        "error_type": "Run-on sentence",
+        "excerpt": "Maya Ramos stated she is terrified that Carlos Morales will use the gun to hurt or kill her. Maya Ramos stated, \"It's terrifying.\"",
+        "suggestion": "Maya Ramos stated she is terrified that Carlos Morales will use the gun to hurt or kill her. In her words, \"It's terrifying.\""
+      },
+      {
+        "chunk": 12,
+        "source": "llm",
+        "error_type": "Run-on sentence",
+        "excerpt": "Maya Ramos stated that during prior incidents, Carlos Morales threatened Maya Ramos with the firearm. Maya Ramos stated she is terrified that Carlos Morales will use the gun to hurt or kill her.",
+        "suggestion": "Maya Ramos stated that during prior incidents, Carlos Morales threatened her with the firearm. She is terrified that Carlos Morales will use the gun to hurt or kill her."
+      },
+      {
+        "chunk": 13,
+        "source": "llm",
+        "error_type": "verb tense inconsistencies",
+        "excerpt": "Maya Ramos stated that during the incident Carlos Morales broke the living room window by throwing a vase through it, causing glass to shatter onto the living room floor. Carlos Morales also damaged the coffee table and the television stand.",
+        "suggestion": "Maya Ramos stated that during the incident Carlos Morales broke the living room window by throwing a vase through it, causing glass to shatter onto the living room floor. Carlos Morales also damaged the coffee table and the television stand; this is consistent with her statement."
+      },
+      {
+        "chunk": 13,
+        "source": "llm",
+        "error_type": "verb tense inconsistencies",
+        "excerpt": "Carlos Morales smashed the vase against the wall, leaving it in pieces on the floor. I observed all of this damage consistent with Maya Ramos's account upon my inspection of the scene.",
+        "suggestion": "Carlos Morales had smashed the vase against the wall, leaving it in pieces on the floor. I observed all of this damage, which was consistent with Maya Ramos's account, upon my inspection of the scene."
+      },
+      {
+        "chunk": 15,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Maya Ramos stated Carlos Morales has not sexually assaulted Maya Ramos",
+        "suggestion": "Maya Ramos stated that Carlos Morales has not sexually assaulted her"
+      },
+      {
+        "chunk": 16,
+        "source": "llm",
+        "error_type": "verb tense inconsistencies",
+        "excerpt": "A records check was conducted and is to be followed up for active warrants.",
+        "suggestion": "A records check was conducted and will be followed up for active warrants."
+      },
+      {
+        "chunk": 18,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "He started yelling at me, and I tried to walk away, but he grabbed me and wouldn't let me go.",
+        "suggestion": "Maya Ramos' attacker started yelling at her, and she tried to walk away, but he grabbed her and wouldn't let her go."
+      },
+      {
+        "chunk": 18,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "He was out of control. He was yelling and screaming, and I was just trying to get away from him.",
+        "suggestion": "Carlos Morales was out of control. He was yelling and screaming, and Maya Ramos was just trying to get away from him."
+      }
+    ],
+    "style": [],
+    "narrative_coverage": {
+      "domestic_violence_01": {
+        "covered": "full",
+        "phrases": {
+          "11": "this conviction would constitute an additional basis prohibiting Carlos Morales from possessing firearms under federal law applicable to persons convicted of misdemeanor crimes of domestic violence"
+        }
+      },
+      "domestic_violence_02": {
+        "covered": "full",
+        "phrases": {
+          "10": "This individual is prohibited from possessing firearms pursuant to a qualifying order of protection."
+        }
+      },
+      "domestic_violence_03": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_04": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_05": {
+        "covered": "full",
+        "phrases": {
+          "20": "Reporting Officer: Davis, Badge No. 4471, April 28, 2026."
+        }
+      },
+      "domestic_violence_06": {
+        "covered": "full",
+        "phrases": {
+          "17": "I informed Maya Ramos of her right to pursue a strengthened or modified protective order and of the process for doing so"
+        }
+      },
+      "domestic_violence_07": {
+        "covered": "full",
+        "phrases": {
+          "0": "On April 28, 2026, at approximately 2145 hours, ... I arrived at 1457 Oakbrook Drive at approximately 2155 hours.",
+          "20": "April 28, 2026."
+        }
+      },
+      "domestic_violence_08": {
+        "covered": "full",
+        "phrases": {
+          "17": "I provided Maya Ramos with contact information for local service providers and victim advocates"
+        }
+      },
+      "domestic_violence_09": {
+        "covered": "full",
+        "phrases": {
+          "19": "the elements of domestic violence, assault by strangulation, assault, criminal threats, and violation of a protective order are established by the facts documented above, consistent with applicable state and federal laws addressing domestic violence offenses."
+        }
+      },
+      "domestic_violence_10": {
+        "covered": "full",
+        "phrases": {
+          "17": "I conducted a threat and risk assessment with Maya Ramos"
+        }
+      },
+      "domestic_violence_11": {
+        "covered": "full",
+        "phrases": {
+          "0": "Upon my arrival, I observed the front of the residence to be in disarray.",
+          "20": "Reporting Officer: Davis, Badge No. 4471, April 28, 2026."
+        }
+      },
+      "domestic_violence_12": {
+        "covered": "full",
+        "phrases": {
+          "9": "Maya Ramos stated these contact attempts continued even after Maya Ramos obtained a restraining order.",
+          "10": "I confirmed the restraining order is active and valid.",
+          "16": "Carlos Morales was present at the scene in violation of restraining order case number 23-0123",
+          "17": "an active restraining order that Carlos Morales has been violating"
+        }
+      },
+      "domestic_violence_13": {
+        "covered": "partial",
+        "phrases": {
+          "0": "I could see broken glass on the living room floor and a shattered window from outside."
+        }
+      },
+      "domestic_violence_14": {
+        "covered": "full",
+        "phrases": {
+          "19": "Photographs were taken of Maya Ramos's visible injuries, including bruising and redness to the neck consistent with strangulation, lacerations and bruising to the face, and bruising to the arms. Photographs were also taken of the property damage to the residence, including the broken window, broken vase, and damage to furniture."
+        }
+      },
+      "domestic_violence_15": {
+        "covered": "full",
+        "phrases": {
+          "0": "Other responding officers had detained the suspect, Carlos Morales, at the scene. I made contact with the victim, Maya Ramos, inside the residence.",
+          "2": "Maya Ramos stated that the incident began at approximately 2200 hours on April 28, 2026, when suspect Carlos Morales arrived home from work and an argument escalated.",
+          "7": "Maya Ramos stated that she and Carlos Morales have been in a dating relationship for approximately three years and have been living together at 1457 Oakbrook Drive for most of that time.",
+          "14": "Maya Ramos identified Maria Rodriguez, who resides next door, as a potential witness"
+        }
+      },
+      "domestic_violence_16": {
+        "covered": "full",
+        "phrases": {
+          "2": "Maya Ramos stated that the incident began at approximately 2200 hours on April 28, 2026, when suspect Carlos Morales arrived home from work and an argument escalated.",
+          "4": "Maya Ramos stated that Carlos Morales grabbed Maya Ramos by the neck using his right hand and squeezed.",
+          "7": "Maya Ramos stated that Carlos Morales has physically assaulted Maya Ramos on approximately five or six prior occasions.",
+          "8": "Carlos Morales has been getting more controlling and more violent over time",
+          "9": "Maya Ramos stated that Carlos Morales has followed Maya Ramos on multiple occasions and has repeatedly shown up uninvited at Maya Ramos's place of employment with gifts, including flowers and chocolates.",
+          "10": "Maya Ramos stated Carlos Morales has a prior conviction for domestic violence, which he told Maya Ramos resulted in court-ordered classes and community service.",
+          "17": "Maya Ramos described a pattern of escalating violence, a prior strangulation incident, the suspect's firearm access and prior threats to use it, ongoing stalking and coercive control behavior, and an active restraining order that Carlos Morales has been violating",
+          "18": "He started yelling at me, and I tried to walk away, but he grabbed me and wouldn't let me go."
+        }
+      },
+      "domestic_violence_17": {
+        "covered": "partial",
+        "phrases": {
+          "14": "Maya Ramos identified Maria Rodriguez, who resides next door, as a potential witness",
+          "19": "Maria Rodriguez, the neighbor, is to be contacted for a witness statement."
+        }
+      },
+      "domestic_violence_18": {
+        "covered": "full",
+        "phrases": {
+          "0": "Other responding officers had detained the suspect, Carlos Morales, at the scene.",
+          "16": "officers on scene detained and arrested Carlos Morales at the scene",
+          "19": "Carlos Morales was transported to the county detention facility following arrest."
+        }
+      },
+      "domestic_violence_19": {
+        "covered": "full",
+        "phrases": {
+          "14": "No children were present at the residence during the incident"
+        }
+      },
+      "domestic_violence_20": {
+        "covered": "full",
+        "phrases": {
+          "5": "older bruising on her ribs and back from prior incidents of abuse that predated tonight's incident",
+          "7": "Maya Ramos stated that Carlos Morales has physically assaulted Maya Ramos on approximately five or six prior occasions.",
+          "8": "Carlos Morales has been getting more controlling and more violent over time",
+          "9": "Maya Ramos stated these contact attempts continued even after Maya Ramos obtained a restraining order.",
+          "10": "Maya Ramos stated Carlos Morales has a prior conviction for domestic violence, which he told Maya Ramos resulted in court-ordered classes and community service.",
+          "14": "Maya Ramos stated Maria Rodriguez has knowledge of the prior history of abuse"
+        }
+      },
+      "domestic_violence_21": {
+        "covered": "full",
+        "phrases": {
+          "2": "Maya Ramos stated, 'I thought he was going to hurt me, really hurt me. I was so afraid.'",
+          "4": "Maya Ramos stated that Carlos Morales grabbed Maya Ramos by the neck using his right hand and squeezed.",
+          "10": "Tonight's incident constitutes a violation of the restraining order, as Carlos Morales was present at Maya Ramos's residence, made contact with and assaulted Maya Ramos, and possesses a firearm in violation of the order's terms.",
+          "12": "Maya Ramos stated that Carlos Morales owns a handgun and keeps it at Carlos Morales's apartment.",
+          "16": ""
+        }
+      },
+      "domestic_violence_22": {
+        "covered": "full",
+        "phrases": {
+          "1": "Maya Ramos appeared visibly distressed and tearful",
+          "3": "I was so scared",
+          "4": "Maya Ramos stated, 'I couldn't breathe, and I felt like I was going to pass out.'",
+          "6": "Maya Ramos stated, 'He was out of control. He was yelling and screaming, and I was just trying to get away from him.'",
+          "7": "Maya Ramos stated she has not previously called police but has attempted to leave the relationship on several occasions, each time being found and persuaded by Carlos Morales to return.",
+          "8": "",
+          "12": "Maya Ramos stated she is terrified that Carlos Morales will use the gun to hurt or kill her.",
+          "18": "I was so afraid."
+        }
+      },
+      "domestic_violence_23": {
+        "covered": "full",
+        "phrases": {
+          "6": "Carlos Morales was extremely angry, out of control, and making threats throughout the incident."
+        }
+      },
+      "domestic_violence_24": {
+        "covered": "full",
+        "phrases": {
+          "19": "Evidence was collected and documented."
+        }
+      },
+      "domestic_violence_25": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_26": {
+        "covered": "full",
+        "phrases": {
+          "2": "Maya Ramos stated, 'I thought he was going to hurt me, really hurt me. I was so afraid.'",
+          "3": "I was so scared",
+          "4": "Maya Ramos stated, 'I couldn't breathe, and I felt like I was going to pass out.'",
+          "6": "Maya Ramos stated, 'He was out of control. He was yelling and screaming, and I was just trying to get away from him.'",
+          "7": "Maya Ramos stated she has not previously called police but has attempted to leave the relationship on several occasions, each time being found and persuaded by Carlos Morales to return.",
+          "9": "Maya Ramos stated Carlos Morales's conduct makes Maya Ramos feel controlled and trapped.",
+          "17": "I determined the threat level to be high",
+          "18": "I was so afraid."
+        }
+      },
+      "domestic_violence_27": {
+        "covered": "full",
+        "phrases": {
+          "2": "Maya Ramos stated, 'I thought he was going to hurt me, really hurt me. I was so afraid.'",
+          "6": "'You're mine,' 'You'll never leave me,' and 'I'll kill you if you try to leave me.'",
+          "12": "Maya Ramos stated Carlos Morales has shown the firearm to Maya Ramos on prior occasions and threatened to use it.",
+          "18": "I'll kill you if you try to leave me."
+        }
+      },
+      "domestic_violence_28": {
+        "covered": "full",
+        "phrases": {
+          "16": "The proper protocol for a suspect on scene was followed, as Carlos Morales was present and arrested at the scene"
+        }
+      },
+      "domestic_violence_29": {
+        "covered": "full",
+        "phrases": {
+          "2": "Maya Ramos stated that Carlos Morales grabbed me and wouldn't let me go.",
+          "6": "immediately before striking Maya Ramos in the face.",
+          "8": "Carlos Morales has been getting more controlling and more violent over time",
+          "9": "Maya Ramos stated Carlos Morales's behavior has been escalating and that Carlos Morales's conduct makes Maya Ramos feel controlled and trapped.",
+          "17": "ongoing stalking and coercive control behavior"
+        }
+      },
+      "domestic_violence_30": {
+        "covered": "full",
+        "phrases": {
+          "1": "Maya Ramos had visible bruising and redness on her neck, bruising and lacerations on her cheeks and forehead, and bruising on both arms",
+          "4": "I observed visible bruising and redness on the front and sides of Maya Ramos's neck consistent with manual strangulation.",
+          "5": "Maya Ramos confirmed all facial and arm injuries were new, sustained during tonight's incident. Maya Ramos stated she also had older bruising on her ribs and back from prior incidents of abuse that predated tonight's incident",
+          "7": "Maya Ramos stated that Carlos Morales strangled Maya Ramos on one prior occasion, approximately six months before tonight's incident, by grabbing Maya Ramos's neck and squeezing until Maya Ramos felt she was going to lose consciousness.",
+          "12": "",
+          "18": "I couldn't breathe, and I felt like I was going to pass out.",
+          "19": "Photographs were taken of Maya Ramos's visible injuries, including bruising and redness to the neck consistent with strangulation, lacerations and bruising to the face, and bruising to the arms."
+        }
+      },
+      "domestic_violence_31": {
+        "covered": "full",
+        "phrases": {
+          "4": "Maya Ramos stated the neck bruising, throat soreness, and hoarse voice were new injuries sustained during tonight's incident.",
+          "5": "Maya Ramos confirmed all facial and arm injuries were new, sustained during tonight's incident. Maya Ramos stated she also had older bruising on her ribs and back from prior incidents of abuse that predated tonight's incident"
+        }
+      },
+      "domestic_violence_32": {
+        "covered": "full",
+        "phrases": {
+          "0": "I could see broken glass on the living room floor and a shattered window from outside.",
+          "2": "Maya Ramos stated that Carlos Morales then began throwing objects and breaking items in the residence, including a vase that Carlos Morales threw against the wall.",
+          "13": "Carlos Morales broke the living room window by throwing a vase through it, causing glass to shatter onto the living room floor. Carlos Morales also damaged the coffee table and the television stand.",
+          "19": "Photographs were also taken of the property damage to the residence, including the broken window, broken vase, and damage to furniture."
+        }
+      },
+      "domestic_violence_33": {
+        "covered": "full",
+        "phrases": {
+          "9": "Regarding stalking and coercive control behaviors, Maya Ramos stated that Carlos Morales has followed Maya Ramos on multiple occasions",
+          "17": "ongoing stalking"
+        }
+      },
+      "domestic_violence_34": {
+        "covered": "full",
+        "phrases": {
+          "4": "Regarding strangulation, Maya Ramos stated that at some point during the incident, Carlos Morales grabbed Maya Ramos by the neck using his right hand and squeezed.",
+          "7": "Maya Ramos stated that Carlos Morales strangled Maya Ramos on one prior occasion, approximately six months before tonight's incident, by grabbing Maya Ramos's neck and squeezing until Maya Ramos felt she was going to lose consciousness."
+        }
+      },
+      "domestic_violence_35": {
+        "covered": "full",
+        "phrases": {
+          "4": "Maya Ramos stated that at some point during the incident, Carlos Morales grabbed Maya Ramos by the neck using his right hand and squeezed.",
+          "7": "Maya Ramos stated that Carlos Morales strangled Maya Ramos on one prior occasion, approximately six months before tonight's incident, by grabbing Maya Ramos's neck and squeezing until Maya Ramos felt she was going to lose consciousness."
+        }
+      },
+      "domestic_violence_36": {
+        "covered": "full",
+        "phrases": {
+          "1": "Maya Ramos spoke with a hoarse voice and stated that her throat was sore and that it was difficult to talk",
+          "4": "Maya Ramos stated the neck bruising, throat soreness, and hoarse voice were new injuries sustained during tonight's incident.",
+          "5": "Maya Ramos stated she needed and wanted medical attention",
+          "17": "Maya Ramos stated she had previously spoken with a crisis hotline",
+          "19": "EMS transported Maya Ramos to the hospital for evaluation and treatment."
+        }
+      },
+      "domestic_violence_37": {
+        "covered": "full",
+        "phrases": {
+          "15": "Maya Ramos stated Carlos Morales has not sexually assaulted Maya Ramos"
+        }
+      },
+      "domestic_violence_38": {
+        "covered": "full",
+        "phrases": {
+          "18": "He started yelling at me, and I tried to walk away, but he grabbed me and wouldn't let me go."
+        }
+      },
+      "domestic_violence_39": {
+        "covered": "full",
+        "phrases": {
+          "10": "from possessing any firearms or ammunition.",
+          "12": "Maya Ramos stated that Carlos Morales owns a handgun and keeps it at Carlos Morales's apartment.",
+          "16": "unlawful possession of a firearm in violation of the restraining order",
+          "17": "the suspect's firearm access"
+        }
+      },
+      "domestic_violence_40": {
+        "covered": "partial",
+        "phrases": {
+          "12": "Maya Ramos stated Carlos Morales has shown the firearm to Maya Ramos on prior occasions and threatened to use it.",
+          "16": ""
+        }
+      },
+      "domestic_violence_41": {
+        "covered": "full",
+        "phrases": {
+          "12": "Maya Ramos stated Carlos Morales has shown the firearm to Maya Ramos on prior occasions and threatened to use it.",
+          "16": "",
+          "17": "prior threats to use it"
+        }
+      },
+      "domestic_violence_42": {
+        "covered": "full",
+        "phrases": {
+          "10": "and possesses a firearm in violation of the order's terms.",
+          "12": "Maya Ramos stated that Carlos Morales owns a handgun and keeps it at Carlos Morales's apartment.",
+          "16": "unlawful possession of a firearm in violation of the restraining order",
+          "17": "the suspect's firearm access"
+        }
+      },
+      "domestic_violence_43": {
+        "covered": "full",
+        "phrases": {
+          "12": "Maya Ramos stated she is terrified that Carlos Morales will use the gun to hurt or kill her."
+        }
+      },
+      "domestic_violence_44": {
+        "covered": "none",
+        "phrases": {
+          "16": ""
+        }
+      }
+    }
+  }
+}

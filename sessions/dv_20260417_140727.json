@@ -1,0 +1,2000 @@
+{
+  "session_id": "dv_20260417_140727",
+  "timestamp": "2026-04-17T14:07:27.378366",
+  "metadata": {
+    "crime_type": "Domestic Violence",
+    "interviewee_name": "Leila Rashid Patel",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible domestic disturbance at 1453 Oakwood Drive, apartment 3B, reported by a neighbor, Springfield, Illinois"
+  },
+  "scenario": {
+    "crime_type": "Domestic Violence",
+    "interviewee_role": "victim",
+    "interviewee_name": "Leila Rashid Patel",
+    "dispatch_line": "Possible domestic disturbance at 1453 Oakwood Drive, apartment 3B, reported by a neighbor, Springfield, Illinois",
+    "facts": {
+      "domestic_violence_01": "No",
+      "domestic_violence_02": "Yes",
+      "domestic_violence_03": "Yes",
+      "domestic_violence_04": "Yes, the officer provided assistance and support to the victim, Ms. Leila Patel, at 1453 Oakwood Drive, apartment 3B, Springfield, Illinois",
+      "domestic_violence_05": "Priority response assigned due to intimate partner violence call",
+      "domestic_violence_06": "Yes, information about obtaining an order of protection was provided to Ms. Patel",
+      "domestic_violence_07": "Yes, the time of the call is recorded: incident occurred at 21:45, dispatch at 21:50, and arrival at 22:00 on February 10, 2023",
+      "domestic_violence_08": "Yes, information about local service providers, including the Springfield Victim Assistance Program, was provided to Ms. Patel",
+      "domestic_violence_09": "Yes, the elements of the crime(s) articulated meet state and/or federal laws that address domestic violence",
+      "domestic_violence_10": "Yes, a threat/risk assessment tool was used with Ms. Patel",
+      "domestic_violence_11": "Upon approach, the officer observed a damaged front door, broken glass, and signs of a struggle at the scene",
+      "domestic_violence_12": "Yes, a valid protection order is in place, issued on January 20, 2023, prohibiting Mr. Ryan Jenkins from contacting or approaching Ms. Patel",
+      "domestic_violence_13": "Yes, the scene is concisely described and diagramed in the report, including the location of 1453 Oakwood Drive, apartment 3B, Springfield, Illinois",
+      "domestic_violence_14": "Yes, photos were taken and details recorded, including the damaged property and injuries sustained by Ms. Patel",
+      "domestic_violence_15": "The relationship of the parties is identified as intimate partners, with Ms. Patel and Mr. Jenkins having been in a romantic relationship for 3 years",
+      "domestic_violence_16": "The history of the relationship includes frequent incidents of verbal and physical abuse, with Ms. Patel reporting 5 previous incidents in the past year",
+      "domestic_violence_17": "Yes, all witnesses, including Ms. Patel's neighbor, Mr. Kaito Nakamura, were interviewed and documented",
+      "domestic_violence_18": "Yes, an arrest was made, with Mr. Jenkins being taken into custody at 23:15 on February 10, 2023",
+      "domestic_violence_19": "No, there were no children on the scene",
+      "domestic_violence_20": "Yes, information about previous incidents was documented, including the 5 previous incidents reported by Ms. Patel",
+      "domestic_violence_21": "Yes, a weapon/object was used, with Mr. Jenkins allegedly using a kitchen knife to threaten Ms. Patel",
+      "domestic_violence_22": "The emotional state of the victim, Ms. Patel, was distressed and fearful, with visible signs of anxiety and trauma",
+      "domestic_violence_23": "Agitated and defensive",
+      "domestic_violence_24": "Photos of injuries, witness statements, and physical evidence such as the kitchen knife",
+      "domestic_violence_25": "No, the threat/risk assessment tool was only used with Ms. Patel",
+      "domestic_violence_26": "Yes, Ms. Patel's fearful state is documented in the report",
+      "domestic_violence_27": "Yes, all threats made by Mr. Jenkins, including the threat to harm Ms. Patel with the kitchen knife, are documented",
+      "domestic_violence_28": "Not applicable, as the suspect was present on the scene",
+      "domestic_violence_29": "Yes, the use of coercion and force by Mr. Jenkins is articulated in the report",
+      "domestic_violence_30": "Yes, all injuries, including Ms. Patel's bruised arm and scratched face, are documented",
+      "domestic_violence_31": "Both, Ms. Patel had existing injuries from previous incidents and new injuries from the current incident",
+      "domestic_violence_32": "Yes, there was property damage, including the broken front door and glass",
+      "domestic_violence_33": "Yes, stalking behaviors such as constant phone calls and showing up at Ms. Patel's workplace are identified",
+      "domestic_violence_34": "Yes, the officer inquired about possible strangulation and Ms. Patel reported difficulty breathing and a raspy voice",
+      "domestic_violence_35": "Yes, Ms. Patel reported being strangled by Mr. Jenkins during the incident",
+      "domestic_violence_36": "Yes, Ms. Patel requested medical attention and was transported to the hospital by EMS",
+      "domestic_violence_37": "No, Ms. Patel did not report sexual violence during the incident",
+      "domestic_violence_38": "Yes, all spontaneous statements, including Ms. Patel's statement that Mr. Jenkins had been threatening her, are captured",
+      "domestic_violence_39": "Yes, the officer asked about firearms and Ms. Patel reported that Mr. Jenkins has a gun at his residence, 2345 Maple Street, Springfield, Illinois",
+      "domestic_violence_40": "No, the suspect did not use firearms during the incident",
+      "domestic_violence_41": "Yes, Mr. Jenkins made threats to use firearms against Ms. Patel in the past",
+      "domestic_violence_42": "Yes, the suspect has access to firearms, as reported by Ms. Patel",
+      "domestic_violence_43": "Yes, Ms. Patel expressed fear about Mr. Jenkins' access to firearms and the potential harm he could cause",
+      "domestic_violence_44": "No, firearms were not confiscated at the scene, but the officer noted the location of the firearms at Mr. Jenkins' residence and will seek a search warrant to confiscate them"
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Hello Ms. Patel, can you tell me what happened tonight?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shaking, trying to hold back tears) Oh, officer... it was just so scary. He came to my apartment, and he was so angry. He started yelling at me, and then he... he broke the front door. I tried to get away from him, but he grabbed me and... and he had a knife. He was waving it around, saying he was going to hurt me if I didn't do what he wanted. (sobbing) I was so afraid. I thought he was going to kill me. He's been doing this for so long, and I just can't take it anymore. (sniffling) I'm just so glad you're here now.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Who is the he you describe...who was this person who came to you're apartment?  ",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shaking, trying to compose myself) It was... it was Ryan Jenkins. He's my ex-boyfriend. We've been together for about three years, but it's been a really toxic relationship. He's been abusive to me before, but tonight was the worst it's ever been. (tearfully) He just won't leave me alone, no matter how many times I tell him I don't want to see him. He's been stalking me, showing up at my work, calling me all the time... it's just been really terrifying. (sobbing) And tonight, he just lost control. I'm just so scared of him.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "what time was it that Ryan showed up tonight? ",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(thinking, trying to remember) I think it was around... 9:45. I was just getting ready for bed, and I heard a knock at the door. At first, I didn't answer it, because I knew it was him and I didn't want to talk to him. But then he started yelling and banging on the door, and... and then he broke it. (shuddering) It was so loud and scary. I didn't know what to do. I just tried to get away from him, but he was too strong. (starting to cry again)",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "was there any anyone else in the appartment with you at the time?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shaking my head) No, I was alone. I live alone in the apartment. But... my neighbor, Mr. Nakamura, he might have heard something. He lives next door, and he's always been really kind to me. I'm sure he must have heard the noise, but I don't know if he actually saw anything. (sniffling) I hope he's okay. I was so scared, I didn't even think to check on him.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "okay, what side does he live on-what side is his apartment on? ",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(thinking) Mr. Nakamura's apartment is... right next to mine. He lives in 3A, and I live in 3B. We share a wall, so I'm sure he must have heard the commotion. (shuddering) I just hope he didn't try to intervene or anything. I wouldn't want him to get hurt because of me.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "okay, thank you.  can you describe the incident in a little bit more detail.  You described Ryan breaking the door, him having a knife, you trying to get away, and him grabbing you.  Can you give me a little more detail.  where were you when he broke the door open, what kind of knife was it, where did he grab you.  I believe you said you struggled, did he strike you, did he choke you, what did he do to you while he had a hold of you? ",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(taking a deep breath, trying to recall the details) Okay... I was in the living room, near the kitchen, when I heard him break the door. I was trying to get away from him, but he was too fast. He kicked the door open and came in, and I saw that he had a kitchen knife in his hand. It was one of my own knives, from my kitchen. He was waving it around, saying he was going to hurt me if I didn't do what he wanted.\n\nWhen he grabbed me, he grabbed my arm, just above the elbow. He was really strong, and he pulled me towards him. I tried to struggle, but he was too powerful. He spun me around and pushed me against the wall, and that's when he... he started choking me. He had his hands around my neck, and he was squeezing really hard. I couldn't breathe, and I thought I was going to pass out.\n\n(painfully) He also scratched my face, just below my eye. I don't know if it was with the knife or his fingernails, but it hurt a lot. And... and he was saying all these terrible things to me, telling me that I was his, and that I would never be able to leave him. It was just so scary.\n\n(starting to cry again) I don't know how I managed to get away from him, but I think I must have kicked him or something, because he let go of me for a second, and that's when I ran to the bedroom to call for help. I locked the door behind me and called 911, and... and then I just waited for you to arrive. (sobbing) It felt like forever.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "You said he was threatening to \"hurt you if you didn't do what he wanted.\" What words did he say...what was the threat...and what was it that he \"wanted you to do.\"  ",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shuddering at the memory) He said... he said that if I didn't come back to him, if I didn't stop trying to leave him, he would kill me. He said he would hurt me so badly that I would never be able to escape him again. He was yelling and screaming, and his eyes were so angry... it was like he wasn't even human.\n\n(whispering) He wanted me to drop the restraining order, to stop trying to keep him away from me. He wanted me to come back to him, to be with him again. He said that if I did, he would forgive me, that he would love me again. But I knew that was a lie. I knew that if I went back to him, he would just hurt me again, worse than before.\n\n(tearfully) He also said that he would hurt my family, my friends... anyone I cared about. He said that he would make sure I had no one left, that I would be all alone, and that I would have to come crawling back to him. It was just so terrifying... I felt like I was trapped, like there was no way out.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "What did he do with the kitchen knife while both hands were around your throat? ",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(gulping) Oh, god... he had the knife in his other hand, and he was... he was holding it up, just a few inches from my face. He was waving it around, and I thought for sure he was going to stab me. I was so scared, I couldn't even breathe. He was choking me with one hand, and holding the knife with the other... I thought it was all over for me.\n\n(whispering) I remember thinking, \"This is it. This is how I'm going to die.\" But then, somehow, I managed to... to struggle free, just for a second. And that's when I kicked him, and he let go of me, and I ran to the bedroom to call for help. (shuddering) It was just so close... I can still feel the knife hovering over my face, and his hands around my throat... it's just so terrifying.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "oh, okay, you said earlier that he had his hands, plural, around your throat ",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(correcting myself) Oh, I'm so sorry... I made a mistake. He had one hand around my throat, not both. He was holding the knife in his other hand, and he had one hand around my throat, choking me. I remember feeling like I was going to pass out, like I couldn't breathe at all. It was just so scary... (shuddering)",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "can you tell me more about how he happened to be using a knife from your kitchen.  It sounded like you observed him break in and that when he did, had the knife when he entered, is that not true?  did he bring the knife with him or get it out of your kitchen? ",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(realizing my earlier mistake) Oh, I'm so sorry... I think I made a mistake earlier. He didn't have the knife when he broke in. He actually went into my kitchen and got the knife from the counter. I remember seeing him walk into the kitchen, and then he came back out with the knife in his hand. It was one of my own kitchen knives... it was just so surreal, seeing him holding something that belonged to me, something that I used every day, and using it to threaten me.\n\n(shuddering) He must have grabbed it when I was trying to get away from him, when I was trying to escape. I didn't see him bring it with him when he broke in, but I did see him go into the kitchen and come back out with it. It was just so terrifying, seeing him with that knife, knowing that he was capable of using it to hurt me.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Ms. Patel, can you tell me, have you and jake ever lived together and do you have any children together?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(confused) Jake? I don't know who Jake is. I've been talking about Ryan, my ex-boyfriend. We've never lived together, and we don't have any children together. (shaking my head) I don't know who Jake is or how he's related to this situation. Can you please clarify who Jake is and why you're asking about him?",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "I meant Ryan, I'm sorry",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(relieved that the mistake was clarified) Oh, okay. No, Ryan and I never lived together. We were in a relationship for about three years, but we always maintained our own separate living spaces. And no, we don't have any children together. (shaking my head) I'm just glad that there are no children involved in this situation, it's already bad enough as it is.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "okay ms. Patel, you mentioned that there is a court ordered protective order in place against Ryan right?  Can you tell me when that expires? and do you happen to have a copy of the protective order I can see? ",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nodding) Yes, there is a court-ordered protective order in place against Ryan. It was issued on January 20, 2023. I'm not sure when it expires, but I think it's for a year or two. I'd have to check the paperwork to be sure.\n\n(getting up and going to a nearby drawer) I think I have a copy of the protective order here somewhere. (rummaging through papers) Ah, yes, here it is. (handing you the document) This is the copy I was given by the court. It says that Ryan is not allowed to contact me or come near me, and that he has to stay away from my home and workplace.\n\n(pointing to the document) See, it's all here in black and white. I've been trying to follow the order and stay safe, but it's hard when he just won't leave me alone. (sighing) I feel like I'm always looking over my shoulder, waiting for him to show up again.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "okay Ms. Patel, here is a brochure with a bunch of resources for victims of domestic violence ",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(taking the brochure and looking at it) Oh, thank you... thank you so much. I really appreciate it. (starting to tear up) It's just so nice to know that there are people and organizations out there that care and can help me.\n\n(flipping through the brochure) This looks like it has a lot of really useful information. I see that there's a hotline number I can call, and a list of local shelters and support groups. (looking up at you) Do you think... do you think I could get help with getting a safe place to stay? I don't feel safe going back to my apartment right now, and I don't know where else to go.\n\n(looking at the brochure again) And what about counseling? I think I could really use someone to talk to, someone who understands what I'm going through. (sighing) I just feel so overwhelmed and scared right now.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "here is my card.  in the side I'm an aroma therapist, do you think that would help?"
+    },
+    {
+      "role": "assistant",
+      "content": "(taking the card and looking at it) Oh, thank you... I'm not sure. I've never tried aromatherapy before, but I'm willing to try anything that might help me feel better. (smiling slightly) I've heard that it can be really helpful for stress and anxiety, and I'm definitely feeling a lot of that right now.\n\n(looking at the card again) But, I have to say, I'm not sure if I'm ready to start thinking about things like aromatherapy right now. I'm still just trying to process everything that happened and figure out what I need to do to stay safe. (sighing) I appreciate the offer, though. It's just really nice to know that you're here to help me and that you care.\n\n(putting the card in my pocket) I'll definitely keep your card and consider it, though. Maybe once I get settled and feel a little safer, I can look into it more. (smiling weakly) Thank you again for offering."
+    }
+  ],
+  "coverage_flags": {
+    "domestic_violence_01": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_02": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_03": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_04": {
+      "covered": "partial",
+      "messages": {
+        "26": {
+          "officer_message": "okay Ms. Patel, here is a brochure with a bunch of resources for victims of domestic violence ",
+          "coverage": "partial",
+          "reasoning": "The officer's action of providing a brochure with resources can be seen as a form of assistance to the victim, although it may not encompass all possible forms of assistance."
+        },
+        "28": {
+          "officer_message": "here is my card.  in the side I'm an aroma therapist, do you think that would help?",
+          "coverage": "partial",
+          "reasoning": "The officer is offering their card and suggesting aroma therapy, which implies an attempt to assist the victim, but does not directly address the level of assistance provided."
+        }
+      }
+    },
+    "domestic_violence_05": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_06": {
+      "covered": "partial",
+      "messages": {
+        "26": {
+          "officer_message": "okay Ms. Patel, here is a brochure with a bunch of resources for victims of domestic violence ",
+          "coverage": "partial",
+          "reasoning": "While the officer provided a brochure with resources, it is not explicitly stated that information about obtaining an order of protection was provided, but it is likely included in the resources."
+        }
+      }
+    },
+    "domestic_violence_07": {
+      "covered": "partial",
+      "messages": {
+        "4": {
+          "officer_message": "what time was it that Ryan showed up tonight? ",
+          "coverage": "partial",
+          "reasoning": "The question asks for the time Ryan showed up, which is related to the time of the incident, but does not explicitly ask for the time of the call, dispatch, or arrival."
+        }
+      }
+    },
+    "domestic_violence_08": {
+      "covered": "full",
+      "messages": {
+        "26": {
+          "officer_message": "okay Ms. Patel, here is a brochure with a bunch of resources for victims of domestic violence ",
+          "coverage": "full",
+          "reasoning": "The officer provided the victim with a brochure containing resources for victims of domestic violence, which directly addresses the element of providing information to the victim about local service providers."
+        }
+      }
+    },
+    "domestic_violence_09": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_10": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_11": {
+      "covered": "partial",
+      "messages": {
+        "6": {
+          "officer_message": "was there any anyone else in the appartment with you at the time?",
+          "coverage": "partial",
+          "reasoning": "The question 'was there anyone else in the apartment with you at the time?' may provide some information about the scene upon approach, but does not describe the scene in detail"
+        },
+        "8": {
+          "officer_message": "okay, what side does he live on-what side is his apartment on? ",
+          "coverage": "partial",
+          "reasoning": "The officer's question may be related to observations upon approach, but it is not a direct observation and does not fully address this element."
+        }
+      }
+    },
+    "domestic_violence_12": {
+      "covered": "full",
+      "messages": {
+        "24": {
+          "officer_message": "okay ms. Patel, you mentioned that there is a court ordered protective order in place against Ryan right?  Can you tell me when that expires? and do you happen to have a copy of the protective order I can see? ",
+          "coverage": "full",
+          "reasoning": "The officer directly asks about the existence and expiration of a court-ordered protective order, which clearly addresses the element of a valid protection order in place."
+        }
+      }
+    },
+    "domestic_violence_13": {
+      "covered": "partial",
+      "messages": {
+        "8": {
+          "officer_message": "okay, what side does he live on-what side is his apartment on? ",
+          "coverage": "partial",
+          "reasoning": "The officer's question about the apartment location may help in describing the scene, but it does not fully address the element of concisely describing or diagraming the scene."
+        }
+      }
+    },
+    "domestic_violence_14": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_15": {
+      "covered": "full",
+      "messages": {
+        "0": {
+          "officer_message": "Hello Ms. Patel, can you tell me what happened tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'can you tell me what happened tonight' may elicit information about the relationship between the parties, but it does not directly ask about their relationship."
+        },
+        "2": {
+          "officer_message": "Who is the he you describe...who was this person who came to you're apartment?  ",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'Who is the he you describe...who was this person who came to you're apartment?' implies a relationship between the victim and the person, but does not directly ask about the nature of the relationship."
+        },
+        "4": {
+          "officer_message": "what time was it that Ryan showed up tonight? ",
+          "coverage": "partial",
+          "reasoning": "The question mentions 'Ryan', which implies a relationship, but does not directly ask about the relationship of the parties."
+        },
+        "6": {
+          "officer_message": "was there any anyone else in the appartment with you at the time?",
+          "coverage": "partial",
+          "reasoning": "The question 'was there anyone else in the apartment with you at the time?' implies the presence of others, which may include the suspect or other household members, but does not directly ask about the relationship between them."
+        },
+        "8": {
+          "officer_message": "okay, what side does he live on-what side is his apartment on? ",
+          "coverage": "partial",
+          "reasoning": "The question about the apartment location may imply the living situation, but it does not directly address the relationship of the parties."
+        },
+        "10": {
+          "officer_message": "okay, thank you.  can you describe the incident in a little bit more detail.  You described Ryan breaking the door, him having a knife, you trying to get away, and him grabbing you.  Can you give me a little more detail.  where were you when he broke the door open, what kind of knife was it, where did he grab you.  I believe you said you struggled, did he strike you, did he choke you, what did he do to you while he had a hold of you? ",
+          "coverage": "partial",
+          "reasoning": "The officer asks for more detail about the incident, which may include information about the relationship, but does not directly ask about the relationship."
+        },
+        "18": {
+          "officer_message": "can you tell me more about how he happened to be using a knife from your kitchen.  It sounded like you observed him break in and that when he did, had the knife when he entered, is that not true?  did he bring the knife with him or get it out of your kitchen? ",
+          "coverage": "partial",
+          "reasoning": "The question implies a relationship between the victim and the perpetrator, as it mentions 'your kitchen', but it does not directly ask about the nature of their relationship."
+        },
+        "20": {
+          "officer_message": "Ms. Patel, can you tell me, have you and jake ever lived together and do you have any children together?",
+          "coverage": "full",
+          "reasoning": "The officer's question directly inquires about the relationship between Ms. Patel and Jake, which would elicit a complete answer about their relationship status, including whether they have lived together."
+        },
+        "22": {
+          "officer_message": "I meant Ryan, I'm sorry",
+          "coverage": "full",
+          "reasoning": "The officer's statement 'I meant Ryan, I'm sorry' implies the officer knows the individual's name and is clarifying their identity, which is related to the relationship of the parties identified"
+        }
+      }
+    },
+    "domestic_violence_16": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Hello Ms. Patel, can you tell me what happened tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer's question may lead to a discussion about the history of the relationship, but it does not specifically ask about previous incidents or the frequency of violence."
+        },
+        "4": {
+          "officer_message": "what time was it that Ryan showed up tonight? ",
+          "coverage": "partial",
+          "reasoning": "The question implies a history or previous interaction between the parties, but does not directly ask about the history of the relationship or previous incidents."
+        },
+        "12": {
+          "officer_message": "You said he was threatening to \"hurt you if you didn't do what he wanted.\" What words did he say...what was the threat...and what was it that he \"wanted you to do.\"  ",
+          "coverage": "partial",
+          "reasoning": "The officer's question about what the suspect 'wanted you to do' may touch on the history of the relationship or previous incidents, but is vague and would only elicit part of the answer."
+        },
+        "18": {
+          "officer_message": "can you tell me more about how he happened to be using a knife from your kitchen.  It sounded like you observed him break in and that when he did, had the knife when he entered, is that not true?  did he bring the knife with him or get it out of your kitchen? ",
+          "coverage": "partial",
+          "reasoning": "The question about the knife and its origin may imply a history or previous incidents, but it does not directly ask about the history of the relationship or previous incidents of violence."
+        },
+        "20": {
+          "officer_message": "Ms. Patel, can you tell me, have you and jake ever lived together and do you have any children together?",
+          "coverage": "partial",
+          "reasoning": "The officer's question about living together and having children implies a history of the relationship but does not directly ask about the frequency of violence, intimidation, or threats."
+        },
+        "24": {
+          "officer_message": "okay ms. Patel, you mentioned that there is a court ordered protective order in place against Ryan right?  Can you tell me when that expires? and do you happen to have a copy of the protective order I can see? ",
+          "coverage": "partial",
+          "reasoning": "The officer's question about the protective order implies a history of incidents leading to the order, but does not directly ask about the history of the relationship or previous incidents."
+        }
+      }
+    },
+    "domestic_violence_17": {
+      "covered": "partial",
+      "messages": {
+        "6": {
+          "officer_message": "was there any anyone else in the appartment with you at the time?",
+          "coverage": "partial",
+          "reasoning": "The question 'was there anyone else in the apartment with you at the time?' may help identify potential witnesses, but does not confirm whether they were interviewed or documented."
+        }
+      }
+    },
+    "domestic_violence_18": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_19": {
+      "covered": "partial",
+      "messages": {
+        "6": {
+          "officer_message": "was there any anyone else in the appartment with you at the time?",
+          "coverage": "partial",
+          "reasoning": "The question 'was there anyone else in the apartment with you at the time?' may help identify if there were children present, but does not directly ask about children."
+        },
+        "20": {
+          "officer_message": "Ms. Patel, can you tell me, have you and jake ever lived together and do you have any children together?",
+          "coverage": "partial",
+          "reasoning": "The officer's question about having children together implies the presence of children but does not directly ask about their presence on the scene or their well-being."
+        }
+      }
+    },
+    "domestic_violence_20": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_21": {
+      "covered": "full",
+      "messages": {
+        "10": {
+          "officer_message": "okay, thank you.  can you describe the incident in a little bit more detail.  You described Ryan breaking the door, him having a knife, you trying to get away, and him grabbing you.  Can you give me a little more detail.  where were you when he broke the door open, what kind of knife was it, where did he grab you.  I believe you said you struggled, did he strike you, did he choke you, what did he do to you while he had a hold of you? ",
+          "coverage": "full",
+          "reasoning": "The officer asks about the kind of knife used, which directly addresses the use of weapons/objects."
+        },
+        "14": {
+          "officer_message": "What did he do with the kitchen knife while both hands were around your throat? ",
+          "coverage": "full",
+          "reasoning": "The question directly asks about the use of a weapon (kitchen knife) during the incident."
+        },
+        "16": {
+          "officer_message": "oh, okay, you said earlier that he had his hands, plural, around your throat ",
+          "coverage": "full",
+          "reasoning": "The officer's statement 'he had his hands, plural, around your throat' directly implies the use of physical force and specifically mentions the action of strangulation, which is a form of physical force."
+        },
+        "18": {
+          "officer_message": "can you tell me more about how he happened to be using a knife from your kitchen.  It sounded like you observed him break in and that when he did, had the knife when he entered, is that not true?  did he bring the knife with him or get it out of your kitchen? ",
+          "coverage": "full",
+          "reasoning": "The officer's question directly addresses the use of a weapon (knife) and asks for clarification on how it was obtained, which would elicit a complete answer about the weapon used."
+        }
+      }
+    },
+    "domestic_violence_22": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Hello Ms. Patel, can you tell me what happened tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer's question may provide insight into the emotional state of the victim as they describe what happened, but it does not directly ask about their emotional state."
+        },
+        "10": {
+          "officer_message": "okay, thank you.  can you describe the incident in a little bit more detail.  You described Ryan breaking the door, him having a knife, you trying to get away, and him grabbing you.  Can you give me a little more detail.  where were you when he broke the door open, what kind of knife was it, where did he grab you.  I believe you said you struggled, did he strike you, did he choke you, what did he do to you while he had a hold of you? ",
+          "coverage": "partial",
+          "reasoning": "The officer asks about the victim's struggle and if the suspect struck or choked the victim, which may imply the victim's emotional state but does not directly ask about it."
+        },
+        "12": {
+          "officer_message": "You said he was threatening to \"hurt you if you didn't do what he wanted.\" What words did he say...what was the threat...and what was it that he \"wanted you to do.\"  ",
+          "coverage": "partial",
+          "reasoning": "The officer's question implies the emotional state of the victim by asking about the threat and the victim's actions in response, but does not directly ask about the victim's emotional state."
+        },
+        "14": {
+          "officer_message": "What did he do with the kitchen knife while both hands were around your throat? ",
+          "coverage": "partial",
+          "reasoning": "The question may elicit information about the victim's emotional state, but it is not directly asking about their emotions."
+        },
+        "22": {
+          "officer_message": "I meant Ryan, I'm sorry",
+          "coverage": "partial",
+          "reasoning": "The officer's apology may imply some emotional state or awareness of the situation, but it does not directly address the victim's emotional state"
+        }
+      }
+    },
+    "domestic_violence_23": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_24": {
+      "covered": "partial",
+      "messages": {
+        "18": {
+          "officer_message": "can you tell me more about how he happened to be using a knife from your kitchen.  It sounded like you observed him break in and that when he did, had the knife when he entered, is that not true?  did he bring the knife with him or get it out of your kitchen? ",
+          "coverage": "partial",
+          "reasoning": "The question about the knife could be considered as collecting evidence, but it is not a direct question about what evidence was collected at the scene."
+        },
+        "24": {
+          "officer_message": "okay ms. Patel, you mentioned that there is a court ordered protective order in place against Ryan right?  Can you tell me when that expires? and do you happen to have a copy of the protective order I can see? ",
+          "coverage": "partial",
+          "reasoning": "The officer asks to see a copy of the protective order, which implies collecting evidence, but does not explicitly ask about other types of evidence that might have been collected."
+        }
+      }
+    },
+    "domestic_violence_25": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_26": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_27": {
+      "covered": "full",
+      "messages": {
+        "10": {
+          "officer_message": "okay, thank you.  can you describe the incident in a little bit more detail.  You described Ryan breaking the door, him having a knife, you trying to get away, and him grabbing you.  Can you give me a little more detail.  where were you when he broke the door open, what kind of knife was it, where did he grab you.  I believe you said you struggled, did he strike you, did he choke you, what did he do to you while he had a hold of you? ",
+          "coverage": "partial",
+          "reasoning": "The officer asks about the suspect's actions during the incident, which may include threats, but does not directly ask about all threats."
+        },
+        "12": {
+          "officer_message": "You said he was threatening to \"hurt you if you didn't do what he wanted.\" What words did he say...what was the threat...and what was it that he \"wanted you to do.\"  ",
+          "coverage": "full",
+          "reasoning": "The officer's question directly asks about the threat made by the suspect, including the words used and what the victim was being threatened to do, which would elicit a complete answer about the threat."
+        },
+        "14": {
+          "officer_message": "What did he do with the kitchen knife while both hands were around your throat? ",
+          "coverage": "full",
+          "reasoning": "The question implies a threat and would elicit information about the suspect's actions, which could include threats."
+        },
+        "16": {
+          "officer_message": "oh, okay, you said earlier that he had his hands, plural, around your throat ",
+          "coverage": "full",
+          "reasoning": "The officer's statement implies a threat of physical harm, which is a form of threat, and the context suggests that the threat is being clearly documented."
+        },
+        "18": {
+          "officer_message": "can you tell me more about how he happened to be using a knife from your kitchen.  It sounded like you observed him break in and that when he did, had the knife when he entered, is that not true?  did he bring the knife with him or get it out of your kitchen? ",
+          "coverage": "partial",
+          "reasoning": "The officer's question about the knife and its use may imply a threat, but it does not directly ask about all threats made during the incident."
+        },
+        "22": {
+          "officer_message": "I meant Ryan, I'm sorry",
+          "coverage": "partial",
+          "reasoning": "The officer's statement may imply some level of threat or risk, but it does not clearly document any threats"
+        }
+      }
+    },
+    "domestic_violence_28": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_29": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_30": {
+      "covered": "full",
+      "messages": {
+        "0": {
+          "officer_message": "Hello Ms. Patel, can you tell me what happened tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer's question may lead to a discussion about injuries, but it does not specifically ask about visible or non-visible injuries."
+        },
+        "6": {
+          "officer_message": "was there any anyone else in the appartment with you at the time?",
+          "coverage": "none",
+          "reasoning": "The question does not address injuries"
+        },
+        "10": {
+          "officer_message": "okay, thank you.  can you describe the incident in a little bit more detail.  You described Ryan breaking the door, him having a knife, you trying to get away, and him grabbing you.  Can you give me a little more detail.  where were you when he broke the door open, what kind of knife was it, where did he grab you.  I believe you said you struggled, did he strike you, did he choke you, what did he do to you while he had a hold of you? ",
+          "coverage": "full",
+          "reasoning": "The officer asks if the suspect struck or choked the victim, and about the victim's struggle, which directly addresses the documentation of all injuries."
+        },
+        "14": {
+          "officer_message": "What did he do with the kitchen knife while both hands were around your throat? ",
+          "coverage": "full",
+          "reasoning": "The question implies physical contact and potential injury, which would elicit information about the victim's injuries."
+        },
+        "16": {
+          "officer_message": "oh, okay, you said earlier that he had his hands, plural, around your throat ",
+          "coverage": "full",
+          "reasoning": "The officer's focus on the physical action of strangulation implies that they are considering the potential for injury, which is part of documenting all injuries (visible and non-visible)."
+        }
+      }
+    },
+    "domestic_violence_31": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_32": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_33": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_34": {
+      "covered": "full",
+      "messages": {
+        "16": {
+          "officer_message": "oh, okay, you said earlier that he had his hands, plural, around your throat ",
+          "coverage": "full",
+          "reasoning": "The officer's statement directly inquires about possible strangulation by referencing the victim's earlier statement about the suspect's hands around their throat."
+        }
+      }
+    },
+    "domestic_violence_35": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_36": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Hello Ms. Patel, can you tell me what happened tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer's question may lead to a discussion about medical attention, but it does not specifically ask if the victim needs or requests medical attention."
+        },
+        "10": {
+          "officer_message": "okay, thank you.  can you describe the incident in a little bit more detail.  You described Ryan breaking the door, him having a knife, you trying to get away, and him grabbing you.  Can you give me a little more detail.  where were you when he broke the door open, what kind of knife was it, where did he grab you.  I believe you said you struggled, did he strike you, did he choke you, what did he do to you while he had a hold of you? ",
+          "coverage": "partial",
+          "reasoning": "The officer asks about the victim's struggle and if the suspect struck or choked the victim, which may imply the need for medical attention but does not directly ask about it."
+        },
+        "14": {
+          "officer_message": "What did he do with the kitchen knife while both hands were around your throat? ",
+          "coverage": "partial",
+          "reasoning": "The question implies potential injury, which may require medical attention, but it is not directly asking about medical attention."
+        },
+        "26": {
+          "officer_message": "okay Ms. Patel, here is a brochure with a bunch of resources for victims of domestic violence ",
+          "coverage": "partial",
+          "reasoning": "The officer's provision of resources may imply the availability of medical attention, but it does not directly address whether the victim requested or needed medical attention."
+        },
+        "28": {
+          "officer_message": "here is my card.  in the side I'm an aroma therapist, do you think that would help?",
+          "coverage": "partial",
+          "reasoning": "The officer's suggestion of aroma therapy could be related to the victim's potential need for medical attention or stress relief, but does not directly inquire about medical attention."
+        }
+      }
+    },
+    "domestic_violence_37": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_38": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_39": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_40": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_41": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_42": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_43": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_44": {
+      "covered": false,
+      "messages": {}
+    }
+  },
+  "narrative": "On February 10, 2023, at approximately 9:45 PM, officers were dispatched to Apartment 3B in response to a domestic disturbance involving threats with a weapon. Upon arrival, I interviewed the victim, Ms. Priya Patel, who appeared visibly shaken and tearful. She reported that her ex-boyfriend, Ryan Jenkins, had forcibly entered her apartment, threatened her with a knife, physically assaulted her, and made verbal threats to kill her.\n\nMs. Patel stated that she was alone in her apartment at the time of the incident. She heard loud banging and yelling at her front door, which escalated to the suspect breaking the door open. The suspect retrieved a kitchen knife from her apartment and used it to threaten her, waving it around.  Ms. Patel said when she attempted to get away from Jenkins, Jenkins grabbed her arm just above her elbow, spun her around forcing her against the wall of her living room, and began choking her with one hand while holding the knife near her face with the other threatening her.  Ms. Patel explained that somehow she was able to break free of Ryan and ran to her bedroom when she locked herself in and called 911.  Ms. Patel confirmed that there is an active protective order against Jenkins.  I lethality screening was conducted.  Ms. Patel was provide a victims' services brochure and a card for an aroma therapist.  ",
+  "narrative_coverage": {
+    "domestic_violence_01": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_02": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_03": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_04": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_05": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_06": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_07": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_08": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_09": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_11": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_12": {
+      "covered": "full",
+      "phrases": {
+        "1": "Ms. Patel confirmed that there is an active protective order against Jenkins."
+      }
+    },
+    "domestic_violence_13": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_14": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_15": {
+      "covered": "full",
+      "phrases": {
+        "0": "her ex-boyfriend, Ryan Jenkins"
+      }
+    },
+    "domestic_violence_16": {
+      "covered": "partial",
+      "phrases": {
+        "0": "her ex-boyfriend, Ryan Jenkins",
+        "1": "Ms. Patel confirmed that there is an active protective order against Jenkins."
+      }
+    },
+    "domestic_violence_17": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_18": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_19": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_20": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_21": {
+      "covered": "full",
+      "phrases": {
+        "0": "threatened her with a knife, physically assaulted her",
+        "1": "The suspect retrieved a kitchen knife from her apartment and used it to threaten her, waving it around."
+      }
+    },
+    "domestic_violence_22": {
+      "covered": "full",
+      "phrases": {
+        "0": "who appeared visibly shaken and tearful",
+        "1": "Ms. Patel stated that she was alone in her apartment at the time of the incident."
+      }
+    },
+    "domestic_violence_23": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_24": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_25": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_26": {
+      "covered": "full",
+      "phrases": {
+        "1": "The suspect retrieved a kitchen knife from her apartment and used it to threaten her, waving it around."
+      }
+    },
+    "domestic_violence_27": {
+      "covered": "full",
+      "phrases": {
+        "0": "made verbal threats to kill her",
+        "1": "The suspect retrieved a kitchen knife from her apartment and used it to threaten her, waving it around."
+      }
+    },
+    "domestic_violence_28": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_29": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_30": {
+      "covered": "partial",
+      "phrases": {
+        "0": "physically assaulted her",
+        "1": "Ms. Patel said when she attempted to get away from Jenkins, Jenkins grabbed her arm just above her elbow, spun her around forcing her against the wall of her living room, and began choking her with one hand while holding the knife near her face with the other threatening her."
+      }
+    },
+    "domestic_violence_31": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_32": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_33": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_34": {
+      "covered": "full",
+      "phrases": {
+        "1": "Ms. Patel said when she attempted to get away from Jenkins, Jenkins grabbed her arm just above her elbow, spun her around forcing her against the wall of her living room, and began choking her with one hand while holding the knife near her face with the other threatening her."
+      }
+    },
+    "domestic_violence_35": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_36": {
+      "covered": "partial",
+      "phrases": {
+        "0": "who appeared visibly shaken and tearful",
+        "1": "Ms. Patel was provide a victims' services brochure and a card for an aroma therapist."
+      }
+    },
+    "domestic_violence_37": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_38": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_39": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_40": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_41": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_42": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_43": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_44": {
+      "covered": false,
+      "phrases": {}
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "domestic_violence_01",
+        "element": "Is this individual prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_02",
+        "element": "Is this individual prohibited from possessing firearms due to a qualifying order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_03",
+        "element": "Does the report include all needed information",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_04",
+        "element": "Did the officer assist the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "26": {
+            "officer_message": "okay Ms. Patel, here is a brochure with a bunch of resources for victims of domestic violence ",
+            "coverage": "partial",
+            "reasoning": "The officer's action of providing a brochure with resources can be seen as a form of assistance to the victim, although it may not encompass all possible forms of assistance."
+          },
+          "28": {
+            "officer_message": "here is my card.  in the side I'm an aroma therapist, do you think that would help?",
+            "coverage": "partial",
+            "reasoning": "The officer is offering their card and suggesting aroma therapy, which implies an attempt to assist the victim, but does not directly address the level of assistance provided."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_05",
+        "element": "How was the case received",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_06",
+        "element": "Was information provided about obtaining an order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "26": {
+            "officer_message": "okay Ms. Patel, here is a brochure with a bunch of resources for victims of domestic violence ",
+            "coverage": "partial",
+            "reasoning": "While the officer provided a brochure with resources, it is not explicitly stated that information about obtaining an order of protection was provided, but it is likely included in the resources."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_07",
+        "element": "Is the time of the call recorded (including time of incident, time of dispatch, time of arrival)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "4": {
+            "officer_message": "what time was it that Ryan showed up tonight? ",
+            "coverage": "partial",
+            "reasoning": "The question asks for the time Ryan showed up, which is related to the time of the incident, but does not explicitly ask for the time of the call, dispatch, or arrival."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "domestic_violence_08",
+        "element": "Was information provided to the victim about local service providers",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "26": {
+            "officer_message": "okay Ms. Patel, here is a brochure with a bunch of resources for victims of domestic violence ",
+            "coverage": "full",
+            "reasoning": "The officer provided the victim with a brochure containing resources for victims of domestic violence, which directly addresses the element of providing information to the victim about local service providers."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_09",
+        "element": "Are the elements of the crime(s) articulated to meet state and/or federal laws that address domestic violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_10",
+        "element": "Was a threat/risk assessment tool used with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_11",
+        "element": "What were the observations upon approach",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "was there any anyone else in the appartment with you at the time?",
+            "coverage": "partial",
+            "reasoning": "The question 'was there anyone else in the apartment with you at the time?' may provide some information about the scene upon approach, but does not describe the scene in detail"
+          },
+          "8": {
+            "officer_message": "okay, what side does he live on-what side is his apartment on? ",
+            "coverage": "partial",
+            "reasoning": "The officer's question may be related to observations upon approach, but it is not a direct observation and does not fully address this element."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_12",
+        "element": "Is there a valid protection order in place",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "24": {
+            "officer_message": "okay ms. Patel, you mentioned that there is a court ordered protective order in place against Ryan right?  Can you tell me when that expires? and do you happen to have a copy of the protective order I can see? ",
+            "coverage": "full",
+            "reasoning": "The officer directly asks about the existence and expiration of a court-ordered protective order, which clearly addresses the element of a valid protection order in place."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "Ms. Patel confirmed that there is an active protective order against Jenkins."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_13",
+        "element": "Is the scene concisely described/diagramed",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "okay, what side does he live on-what side is his apartment on? ",
+            "coverage": "partial",
+            "reasoning": "The officer's question about the apartment location may help in describing the scene, but it does not fully address the element of concisely describing or diagraming the scene."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "domestic_violence_14",
+        "element": "Were photos taken and details recorded",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_15",
+        "element": "Is the relationship of the parties identified",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello Ms. Patel, can you tell me what happened tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'can you tell me what happened tonight' may elicit information about the relationship between the parties, but it does not directly ask about their relationship."
+          },
+          "2": {
+            "officer_message": "Who is the he you describe...who was this person who came to you're apartment?  ",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'Who is the he you describe...who was this person who came to you're apartment?' implies a relationship between the victim and the person, but does not directly ask about the nature of the relationship."
+          },
+          "4": {
+            "officer_message": "what time was it that Ryan showed up tonight? ",
+            "coverage": "partial",
+            "reasoning": "The question mentions 'Ryan', which implies a relationship, but does not directly ask about the relationship of the parties."
+          },
+          "6": {
+            "officer_message": "was there any anyone else in the appartment with you at the time?",
+            "coverage": "partial",
+            "reasoning": "The question 'was there anyone else in the apartment with you at the time?' implies the presence of others, which may include the suspect or other household members, but does not directly ask about the relationship between them."
+          },
+          "8": {
+            "officer_message": "okay, what side does he live on-what side is his apartment on? ",
+            "coverage": "partial",
+            "reasoning": "The question about the apartment location may imply the living situation, but it does not directly address the relationship of the parties."
+          },
+          "10": {
+            "officer_message": "okay, thank you.  can you describe the incident in a little bit more detail.  You described Ryan breaking the door, him having a knife, you trying to get away, and him grabbing you.  Can you give me a little more detail.  where were you when he broke the door open, what kind of knife was it, where did he grab you.  I believe you said you struggled, did he strike you, did he choke you, what did he do to you while he had a hold of you? ",
+            "coverage": "partial",
+            "reasoning": "The officer asks for more detail about the incident, which may include information about the relationship, but does not directly ask about the relationship."
+          },
+          "18": {
+            "officer_message": "can you tell me more about how he happened to be using a knife from your kitchen.  It sounded like you observed him break in and that when he did, had the knife when he entered, is that not true?  did he bring the knife with him or get it out of your kitchen? ",
+            "coverage": "partial",
+            "reasoning": "The question implies a relationship between the victim and the perpetrator, as it mentions 'your kitchen', but it does not directly ask about the nature of their relationship."
+          },
+          "20": {
+            "officer_message": "Ms. Patel, can you tell me, have you and jake ever lived together and do you have any children together?",
+            "coverage": "full",
+            "reasoning": "The officer's question directly inquires about the relationship between Ms. Patel and Jake, which would elicit a complete answer about their relationship status, including whether they have lived together."
+          },
+          "22": {
+            "officer_message": "I meant Ryan, I'm sorry",
+            "coverage": "full",
+            "reasoning": "The officer's statement 'I meant Ryan, I'm sorry' implies the officer knows the individual's name and is clarifying their identity, which is related to the relationship of the parties identified"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "her ex-boyfriend, Ryan Jenkins"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_16",
+        "element": "What is the history of the relationship (include frequency of any violence, intimidation, and threats)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello Ms. Patel, can you tell me what happened tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer's question may lead to a discussion about the history of the relationship, but it does not specifically ask about previous incidents or the frequency of violence."
+          },
+          "4": {
+            "officer_message": "what time was it that Ryan showed up tonight? ",
+            "coverage": "partial",
+            "reasoning": "The question implies a history or previous interaction between the parties, but does not directly ask about the history of the relationship or previous incidents."
+          },
+          "12": {
+            "officer_message": "You said he was threatening to \"hurt you if you didn't do what he wanted.\" What words did he say...what was the threat...and what was it that he \"wanted you to do.\"  ",
+            "coverage": "partial",
+            "reasoning": "The officer's question about what the suspect 'wanted you to do' may touch on the history of the relationship or previous incidents, but is vague and would only elicit part of the answer."
+          },
+          "18": {
+            "officer_message": "can you tell me more about how he happened to be using a knife from your kitchen.  It sounded like you observed him break in and that when he did, had the knife when he entered, is that not true?  did he bring the knife with him or get it out of your kitchen? ",
+            "coverage": "partial",
+            "reasoning": "The question about the knife and its origin may imply a history or previous incidents, but it does not directly ask about the history of the relationship or previous incidents of violence."
+          },
+          "20": {
+            "officer_message": "Ms. Patel, can you tell me, have you and jake ever lived together and do you have any children together?",
+            "coverage": "partial",
+            "reasoning": "The officer's question about living together and having children implies a history of the relationship but does not directly ask about the frequency of violence, intimidation, or threats."
+          },
+          "24": {
+            "officer_message": "okay ms. Patel, you mentioned that there is a court ordered protective order in place against Ryan right?  Can you tell me when that expires? and do you happen to have a copy of the protective order I can see? ",
+            "coverage": "partial",
+            "reasoning": "The officer's question about the protective order implies a history of incidents leading to the order, but does not directly ask about the history of the relationship or previous incidents."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "her ex-boyfriend, Ryan Jenkins",
+          "1": "Ms. Patel confirmed that there is an active protective order against Jenkins."
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "domestic_violence_17",
+        "element": "Were all witnesses interviewed and documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "6": {
+            "officer_message": "was there any anyone else in the appartment with you at the time?",
+            "coverage": "partial",
+            "reasoning": "The question 'was there anyone else in the apartment with you at the time?' may help identify potential witnesses, but does not confirm whether they were interviewed or documented."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "domestic_violence_18",
+        "element": "Was an arrest made",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_19",
+        "element": "Were there children on the scene",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "6": {
+            "officer_message": "was there any anyone else in the appartment with you at the time?",
+            "coverage": "partial",
+            "reasoning": "The question 'was there anyone else in the apartment with you at the time?' may help identify if there were children present, but does not directly ask about children."
+          },
+          "20": {
+            "officer_message": "Ms. Patel, can you tell me, have you and jake ever lived together and do you have any children together?",
+            "coverage": "partial",
+            "reasoning": "The officer's question about having children together implies the presence of children but does not directly ask about their presence on the scene or their well-being."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "domestic_violence_20",
+        "element": "Was information about previous incidents documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_21",
+        "element": "Were weapons/objects used",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "10": {
+            "officer_message": "okay, thank you.  can you describe the incident in a little bit more detail.  You described Ryan breaking the door, him having a knife, you trying to get away, and him grabbing you.  Can you give me a little more detail.  where were you when he broke the door open, what kind of knife was it, where did he grab you.  I believe you said you struggled, did he strike you, did he choke you, what did he do to you while he had a hold of you? ",
+            "coverage": "full",
+            "reasoning": "The officer asks about the kind of knife used, which directly addresses the use of weapons/objects."
+          },
+          "14": {
+            "officer_message": "What did he do with the kitchen knife while both hands were around your throat? ",
+            "coverage": "full",
+            "reasoning": "The question directly asks about the use of a weapon (kitchen knife) during the incident."
+          },
+          "16": {
+            "officer_message": "oh, okay, you said earlier that he had his hands, plural, around your throat ",
+            "coverage": "full",
+            "reasoning": "The officer's statement 'he had his hands, plural, around your throat' directly implies the use of physical force and specifically mentions the action of strangulation, which is a form of physical force."
+          },
+          "18": {
+            "officer_message": "can you tell me more about how he happened to be using a knife from your kitchen.  It sounded like you observed him break in and that when he did, had the knife when he entered, is that not true?  did he bring the knife with him or get it out of your kitchen? ",
+            "coverage": "full",
+            "reasoning": "The officer's question directly addresses the use of a weapon (knife) and asks for clarification on how it was obtained, which would elicit a complete answer about the weapon used."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "threatened her with a knife, physically assaulted her",
+          "1": "The suspect retrieved a kitchen knife from her apartment and used it to threaten her, waving it around."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_22",
+        "element": "What was the emotional state of the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello Ms. Patel, can you tell me what happened tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer's question may provide insight into the emotional state of the victim as they describe what happened, but it does not directly ask about their emotional state."
+          },
+          "10": {
+            "officer_message": "okay, thank you.  can you describe the incident in a little bit more detail.  You described Ryan breaking the door, him having a knife, you trying to get away, and him grabbing you.  Can you give me a little more detail.  where were you when he broke the door open, what kind of knife was it, where did he grab you.  I believe you said you struggled, did he strike you, did he choke you, what did he do to you while he had a hold of you? ",
+            "coverage": "partial",
+            "reasoning": "The officer asks about the victim's struggle and if the suspect struck or choked the victim, which may imply the victim's emotional state but does not directly ask about it."
+          },
+          "12": {
+            "officer_message": "You said he was threatening to \"hurt you if you didn't do what he wanted.\" What words did he say...what was the threat...and what was it that he \"wanted you to do.\"  ",
+            "coverage": "partial",
+            "reasoning": "The officer's question implies the emotional state of the victim by asking about the threat and the victim's actions in response, but does not directly ask about the victim's emotional state."
+          },
+          "14": {
+            "officer_message": "What did he do with the kitchen knife while both hands were around your throat? ",
+            "coverage": "partial",
+            "reasoning": "The question may elicit information about the victim's emotional state, but it is not directly asking about their emotions."
+          },
+          "22": {
+            "officer_message": "I meant Ryan, I'm sorry",
+            "coverage": "partial",
+            "reasoning": "The officer's apology may imply some emotional state or awareness of the situation, but it does not directly address the victim's emotional state"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "who appeared visibly shaken and tearful",
+          "1": "Ms. Patel stated that she was alone in her apartment at the time of the incident."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_23",
+        "element": "What was the emotional state of the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_24",
+        "element": "What evidence was collected",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "18": {
+            "officer_message": "can you tell me more about how he happened to be using a knife from your kitchen.  It sounded like you observed him break in and that when he did, had the knife when he entered, is that not true?  did he bring the knife with him or get it out of your kitchen? ",
+            "coverage": "partial",
+            "reasoning": "The question about the knife could be considered as collecting evidence, but it is not a direct question about what evidence was collected at the scene."
+          },
+          "24": {
+            "officer_message": "okay ms. Patel, you mentioned that there is a court ordered protective order in place against Ryan right?  Can you tell me when that expires? and do you happen to have a copy of the protective order I can see? ",
+            "coverage": "partial",
+            "reasoning": "The officer asks to see a copy of the protective order, which implies collecting evidence, but does not explicitly ask about other types of evidence that might have been collected."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_25",
+        "element": "Was a threat/risk assessment tool used with the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_26",
+        "element": "Is evidence of fear articulated in the report",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "The suspect retrieved a kitchen knife from her apartment and used it to threaten her, waving it around."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_27",
+        "element": "Have all threats been clearly documented",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "10": {
+            "officer_message": "okay, thank you.  can you describe the incident in a little bit more detail.  You described Ryan breaking the door, him having a knife, you trying to get away, and him grabbing you.  Can you give me a little more detail.  where were you when he broke the door open, what kind of knife was it, where did he grab you.  I believe you said you struggled, did he strike you, did he choke you, what did he do to you while he had a hold of you? ",
+            "coverage": "partial",
+            "reasoning": "The officer asks about the suspect's actions during the incident, which may include threats, but does not directly ask about all threats."
+          },
+          "12": {
+            "officer_message": "You said he was threatening to \"hurt you if you didn't do what he wanted.\" What words did he say...what was the threat...and what was it that he \"wanted you to do.\"  ",
+            "coverage": "full",
+            "reasoning": "The officer's question directly asks about the threat made by the suspect, including the words used and what the victim was being threatened to do, which would elicit a complete answer about the threat."
+          },
+          "14": {
+            "officer_message": "What did he do with the kitchen knife while both hands were around your throat? ",
+            "coverage": "full",
+            "reasoning": "The question implies a threat and would elicit information about the suspect's actions, which could include threats."
+          },
+          "16": {
+            "officer_message": "oh, okay, you said earlier that he had his hands, plural, around your throat ",
+            "coverage": "full",
+            "reasoning": "The officer's statement implies a threat of physical harm, which is a form of threat, and the context suggests that the threat is being clearly documented."
+          },
+          "18": {
+            "officer_message": "can you tell me more about how he happened to be using a knife from your kitchen.  It sounded like you observed him break in and that when he did, had the knife when he entered, is that not true?  did he bring the knife with him or get it out of your kitchen? ",
+            "coverage": "partial",
+            "reasoning": "The officer's question about the knife and its use may imply a threat, but it does not directly ask about all threats made during the incident."
+          },
+          "22": {
+            "officer_message": "I meant Ryan, I'm sorry",
+            "coverage": "partial",
+            "reasoning": "The officer's statement may imply some level of threat or risk, but it does not clearly document any threats"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "made verbal threats to kill her",
+          "1": "The suspect retrieved a kitchen knife from her apartment and used it to threaten her, waving it around."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_28",
+        "element": "Was the proper protocol followed if the suspect was not on the scene",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_29",
+        "element": "Is the use of coercion and/or force articulated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_30",
+        "element": "Have all injuries (visible and non-visible) been documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello Ms. Patel, can you tell me what happened tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer's question may lead to a discussion about injuries, but it does not specifically ask about visible or non-visible injuries."
+          },
+          "6": {
+            "officer_message": "was there any anyone else in the appartment with you at the time?",
+            "coverage": "none",
+            "reasoning": "The question does not address injuries"
+          },
+          "10": {
+            "officer_message": "okay, thank you.  can you describe the incident in a little bit more detail.  You described Ryan breaking the door, him having a knife, you trying to get away, and him grabbing you.  Can you give me a little more detail.  where were you when he broke the door open, what kind of knife was it, where did he grab you.  I believe you said you struggled, did he strike you, did he choke you, what did he do to you while he had a hold of you? ",
+            "coverage": "full",
+            "reasoning": "The officer asks if the suspect struck or choked the victim, and about the victim's struggle, which directly addresses the documentation of all injuries."
+          },
+          "14": {
+            "officer_message": "What did he do with the kitchen knife while both hands were around your throat? ",
+            "coverage": "full",
+            "reasoning": "The question implies physical contact and potential injury, which would elicit information about the victim's injuries."
+          },
+          "16": {
+            "officer_message": "oh, okay, you said earlier that he had his hands, plural, around your throat ",
+            "coverage": "full",
+            "reasoning": "The officer's focus on the physical action of strangulation implies that they are considering the potential for injury, which is part of documenting all injuries (visible and non-visible)."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "physically assaulted her",
+          "1": "Ms. Patel said when she attempted to get away from Jenkins, Jenkins grabbed her arm just above her elbow, spun her around forcing her against the wall of her living room, and began choking her with one hand while holding the knife near her face with the other threatening her."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "domestic_violence_31",
+        "element": "Were injuries existing or new",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_32",
+        "element": "Was there any property damage, theft, or burglary",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_33",
+        "element": "Are stalking behaviors identified",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_34",
+        "element": "Did the officer inquire about possible strangulation",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "16": {
+            "officer_message": "oh, okay, you said earlier that he had his hands, plural, around your throat ",
+            "coverage": "full",
+            "reasoning": "The officer's statement directly inquires about possible strangulation by referencing the victim's earlier statement about the suspect's hands around their throat."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "Ms. Patel said when she attempted to get away from Jenkins, Jenkins grabbed her arm just above her elbow, spun her around forcing her against the wall of her living room, and began choking her with one hand while holding the knife near her face with the other threatening her."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_35",
+        "element": "Did the victim report being strangled",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_36",
+        "element": "Did the victim request/need medical attention",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello Ms. Patel, can you tell me what happened tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer's question may lead to a discussion about medical attention, but it does not specifically ask if the victim needs or requests medical attention."
+          },
+          "10": {
+            "officer_message": "okay, thank you.  can you describe the incident in a little bit more detail.  You described Ryan breaking the door, him having a knife, you trying to get away, and him grabbing you.  Can you give me a little more detail.  where were you when he broke the door open, what kind of knife was it, where did he grab you.  I believe you said you struggled, did he strike you, did he choke you, what did he do to you while he had a hold of you? ",
+            "coverage": "partial",
+            "reasoning": "The officer asks about the victim's struggle and if the suspect struck or choked the victim, which may imply the need for medical attention but does not directly ask about it."
+          },
+          "14": {
+            "officer_message": "What did he do with the kitchen knife while both hands were around your throat? ",
+            "coverage": "partial",
+            "reasoning": "The question implies potential injury, which may require medical attention, but it is not directly asking about medical attention."
+          },
+          "26": {
+            "officer_message": "okay Ms. Patel, here is a brochure with a bunch of resources for victims of domestic violence ",
+            "coverage": "partial",
+            "reasoning": "The officer's provision of resources may imply the availability of medical attention, but it does not directly address whether the victim requested or needed medical attention."
+          },
+          "28": {
+            "officer_message": "here is my card.  in the side I'm an aroma therapist, do you think that would help?",
+            "coverage": "partial",
+            "reasoning": "The officer's suggestion of aroma therapy could be related to the victim's potential need for medical attention or stress relief, but does not directly inquire about medical attention."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "who appeared visibly shaken and tearful",
+          "1": "Ms. Patel was provide a victims' services brochure and a card for an aroma therapist."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions. Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "domestic_violence_37",
+        "element": "Did the victim report sexual violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_38",
+        "element": "Were all spontaneous statements captured",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_39",
+        "element": "Did the officer ask about firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_40",
+        "element": "Did the suspect use firearms during the incident",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_41",
+        "element": "Did the suspect make threats to use firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_42",
+        "element": "Does the suspect have access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_43",
+        "element": "Did the victim express fear about the suspect's access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_44",
+        "element": "Were firearms/weapons confiscated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      }
+    ],
+    "contradictions_interview": [
+      {
+        "element_id": "domestic_violence_21",
+        "element": "Were weapons/objects used",
+        "location": 16,
+        "source": "interview",
+        "phrase": "he had his hands, plural, around your throat",
+        "contradicts": "Yes, a weapon/object was used, with Mr. Jenkins allegedly using a kitchen knife to threaten Ms. Patel",
+        "explanation": "The established fact states that Mr. Jenkins used a kitchen knife, but the text implies a physical attack with hands, not a weapon/object."
+      }
+    ],
+    "contradictions_narrative": [
+      {
+        "element_id": "domestic_violence_15",
+        "element": "Is the relationship of the parties identified",
+        "location": 0,
+        "source": "narrative",
+        "phrase": "her ex-boyfriend, Ryan Jenkins",
+        "contradicts": "The relationship of the parties is identified as intimate partners, with Ms. Patel and Mr. Jenkins having been in a romantic relationship for 3 years",
+        "explanation": "The text states 'her ex-boyfriend, Ryan Jenkins', which directly conflicts with the established scenario fact that Ms. Patel and Mr. Jenkins have been in a romantic relationship for 3 years, as 'ex-boyfriend' implies the relationship has ended."
+      },
+      {
+        "element_id": "domestic_violence_21",
+        "element": "Were weapons/objects used",
+        "location": 1,
+        "source": "narrative",
+        "phrase": "The suspect retrieved a kitchen knife from her apartment",
+        "contradicts": "Yes, a weapon/object was used, with Mr. Jenkins allegedly using a kitchen knife to threaten Ms. Patel",
+        "explanation": "The established scenario fact states that Mr. Jenkins allegedly used a kitchen knife, but the text states that the suspect (implied to be Ms. Patel, based on 'her apartment') used the knife, directly conflicting with the fact that Mr. Jenkins was the one using the knife."
+      }
+    ],
+    "grammar": [
+      {
+        "chunk": 1,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "Ms",
+        "suggestion": null
+      },
+      {
+        "chunk": 1,
+        "source": "language_tool",
+        "error_type": "PRP_VB",
+        "excerpt": "I lethality",
+        "suggestion": null
+      },
+      {
+        "chunk": 1,
+        "source": "language_tool",
+        "error_type": "BEEN_PART_AGREEMENT",
+        "excerpt": "provide",
+        "suggestion": "provided"
+      },
+      {
+        "chunk": 1,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Ms. Patel said when she attempted to get away from Jenkins, Jenkins grabbed her arm just above her elbow, spun her around forcing her against the wall of her living room, and began choking her with one hand while holding the knife near her face with the other threatening her.",
+        "suggestion": "Ms. Patel said when she attempted to get away from Jenkins, he grabbed her arm just above her elbow, spun her around forcing her against the wall of her living room, and began choking her with one hand while holding the knife near her face with the other, threatening her."
+      },
+      {
+        "chunk": 1,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Ms. Patel explained that somehow she was able to break free of Ryan and ran to her bedroom when she locked herself in and called 911.",
+        "suggestion": "Ms. Patel explained that somehow she was able to break free of Jenkins and ran to her bedroom when she locked herself in and called 911."
+      },
+      {
+        "chunk": 1,
+        "source": "llm",
+        "error_type": "Run-on sentence",
+        "excerpt": "Ms. Patel said when she attempted to get away from Jenkins, Jenkins grabbed her arm just above her elbow, spun her around forcing her against the wall of her living room, and began choking her with one hand while holding the knife near her face with the other threatening her.",
+        "suggestion": "Ms. Patel said when she attempted to get away from Jenkins, he grabbed her arm just above her elbow, spun her around, forcing her against the wall of her living room. He then began choking her with one hand while holding the knife near her face with the other, threatening her."
+      },
+      {
+        "chunk": 1,
+        "source": "llm",
+        "error_type": "Sentence fragment",
+        "excerpt": "I lethality screening was conducted.",
+        "suggestion": "A lethality screening was conducted."
+      }
+    ],
+    "style": [
+      {
+        "chunk": 0,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "officers were dispatched to Apartment 3B",
+        "suggestion": "I was dispatched to Apartment 3B"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "appeared visibly shaken and tearful",
+        "suggestion": "had tears in her eyes and was trembling"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "reported that her ex-boyfriend, Ryan Jenkins, had forcibly entered her apartment, threatened her with a knife, physically assaulted her, and made verbal threats to kill her",
+        "suggestion": "stated that Ryan Jenkins had broken into her apartment, held a knife to her, choked her, and said 'I will kill you'"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "had forcibly entered her apartment, threatened her with a knife, physically assaulted her, and made verbal threats to kill her",
+        "suggestion": "Ms. Patel stated that Ryan Jenkins had broken into her apartment, held a knife to her, choked her, and said 'I will kill you'"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "visibly shaken and tearful",
+        "suggestion": "had tears streaming down her face and was shaking"
+      },
+      {
+        "chunk": 1,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "The suspect retrieved a kitchen knife from her apartment and used it to threaten her, waving it around.",
+        "suggestion": "I observed that the suspect retrieved a kitchen knife from her apartment and used it to threaten her, waving it around."
+      },
+      {
+        "chunk": 1,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "Ms. Patel stated that she was alone in her apartment at the time of the incident.",
+        "suggestion": "Ms. Patel told me she was the only person in her apartment when she heard loud banging and yelling at her front door."
+      },
+      {
+        "chunk": 1,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "Ms. Patel confirmed that there is an active protective order against Jenkins.",
+        "suggestion": "Ms. Patel stated that there is an active protective order against Jenkins, and I verified this information."
+      },
+      {
+        "chunk": 1,
+        "rule": "Rule 9",
+        "error_type": "jargon",
+        "excerpt": "I lethality screening was conducted.",
+        "suggestion": "I conducted a lethality screening assessment to evaluate the level of danger Ms. Patel faced."
+      },
+      {
+        "chunk": 1,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "Ms. Patel was provide a victims' services brochure and a card for an aroma therapist.",
+        "suggestion": "I provided Ms. Patel with a victims' services brochure and a business card for a local aroma therapist at approximately 10:00 PM."
+      },
+      {
+        "chunk": 1,
+        "rule": "Rule 13",
+        "error_type": "long sentence",
+        "excerpt": "Ms. Patel said when she attempted to get away from Jenkins, Jenkins grabbed her arm just above her elbow, spun her around forcing her against the wall of her living room, and began choking her with one hand while holding the knife near her face with the other threatening her.",
+        "suggestion": "Ms. Patel said that when she attempted to get away from Jenkins, he grabbed her arm just above her elbow. He then spun her around, forcing her against the wall of her living room. Jenkins began choking her with one hand and held the knife near her face with the other, threatening her."
+      }
+    ],
+    "narrative_coverage": {
+      "domestic_violence_01": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_02": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_03": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_04": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_05": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_06": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_07": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_08": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_09": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_11": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_12": {
+        "covered": "full",
+        "phrases": {
+          "1": "Ms. Patel confirmed that there is an active protective order against Jenkins."
+        }
+      },
+      "domestic_violence_13": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_14": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_15": {
+        "covered": "full",
+        "phrases": {
+          "0": "her ex-boyfriend, Ryan Jenkins"
+        }
+      },
+      "domestic_violence_16": {
+        "covered": "partial",
+        "phrases": {
+          "0": "her ex-boyfriend, Ryan Jenkins",
+          "1": "Ms. Patel confirmed that there is an active protective order against Jenkins."
+        }
+      },
+      "domestic_violence_17": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_18": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_19": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_20": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_21": {
+        "covered": "full",
+        "phrases": {
+          "0": "threatened her with a knife, physically assaulted her",
+          "1": "The suspect retrieved a kitchen knife from her apartment and used it to threaten her, waving it around."
+        }
+      },
+      "domestic_violence_22": {
+        "covered": "full",
+        "phrases": {
+          "0": "who appeared visibly shaken and tearful",
+          "1": "Ms. Patel stated that she was alone in her apartment at the time of the incident."
+        }
+      },
+      "domestic_violence_23": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_24": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_25": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_26": {
+        "covered": "full",
+        "phrases": {
+          "1": "The suspect retrieved a kitchen knife from her apartment and used it to threaten her, waving it around."
+        }
+      },
+      "domestic_violence_27": {
+        "covered": "full",
+        "phrases": {
+          "0": "made verbal threats to kill her",
+          "1": "The suspect retrieved a kitchen knife from her apartment and used it to threaten her, waving it around."
+        }
+      },
+      "domestic_violence_28": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_29": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_30": {
+        "covered": "partial",
+        "phrases": {
+          "0": "physically assaulted her",
+          "1": "Ms. Patel said when she attempted to get away from Jenkins, Jenkins grabbed her arm just above her elbow, spun her around forcing her against the wall of her living room, and began choking her with one hand while holding the knife near her face with the other threatening her."
+        }
+      },
+      "domestic_violence_31": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_32": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_33": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_34": {
+        "covered": "full",
+        "phrases": {
+          "1": "Ms. Patel said when she attempted to get away from Jenkins, Jenkins grabbed her arm just above her elbow, spun her around forcing her against the wall of her living room, and began choking her with one hand while holding the knife near her face with the other threatening her."
+        }
+      },
+      "domestic_violence_35": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_36": {
+        "covered": "partial",
+        "phrases": {
+          "0": "who appeared visibly shaken and tearful",
+          "1": "Ms. Patel was provide a victims' services brochure and a card for an aroma therapist."
+        }
+      },
+      "domestic_violence_37": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_38": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_39": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_40": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_41": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_42": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_43": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_44": {
+        "covered": false,
+        "phrases": {}
+      }
+    }
+  }
+}

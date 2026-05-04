@@ -1,0 +1,1652 @@
+{
+  "session_id": "st_20260428_230147",
+  "timestamp": "2026-04-28T23:01:47.807631",
+  "metadata": {
+    "crime_type": "Strangulation",
+    "interviewee_name": "Leila Rashad Jensen",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible 10-92, domestic disturbance with reports of a female being choked at 1457 Oakwood Drive, Everett, Washington"
+  },
+  "scenario": {
+    "crime_type": "Strangulation",
+    "interviewee_role": "victim",
+    "interviewee_name": "Leila Rashad Jensen",
+    "dispatch_line": "Possible 10-92, domestic disturbance with reports of a female being choked at 1457 Oakwood Drive, Everett, Washington",
+    "facts": {
+      "strangulation_01": "Yes, the victim reported difficulty breathing",
+      "strangulation_02": "No, the victim did not exhibit hyperventilation",
+      "strangulation_03": "The victim had a raspy voice and was coughing",
+      "strangulation_04": "Yes, the victim reported trouble swallowing and it was painful",
+      "strangulation_05": "The victim complained of neck pain",
+      "strangulation_06": "The victim experienced nausea but did not vomit",
+      "strangulation_07": "No, the victim did not experience involuntary urination or defecation",
+      "strangulation_08": "The victim felt dizzy and lightheaded",
+      "strangulation_09": "The victim reported headaches",
+      "strangulation_10": "The victim lost consciousness for approximately 30 seconds",
+      "strangulation_11": "The victim was disoriented after the incident",
+      "strangulation_12": "Petechiae were visible above the area of constriction on the victim's neck",
+      "strangulation_13": "Hemorrhaging and bruising were observed on the victim's neck and face",
+      "strangulation_14": "Scratch marks and abrasions were found on the victim's neck and shoulders",
+      "strangulation_15": "The victim had a bloody nose but it was not broken",
+      "strangulation_16": "Finger nail impressions were visible on the victim's skin",
+      "strangulation_17": "Swelling of the neck and face was observed",
+      "strangulation_18": "The victim had pulled hair and bumps on the head",
+      "strangulation_19": "No skull fracture, but a possible concussion",
+      "strangulation_20": "The victim's lips were swollen",
+      "strangulation_21": "A diagram of the injuries is attached to the report",
+      "strangulation_22": "The victim had existing bruises on the arms from a previous incident",
+      "strangulation_23": "The victim was wearing a silver necklace",
+      "strangulation_24": "The suspect was wearing a gold watch",
+      "strangulation_25": "No gloves were found at the scene",
+      "strangulation_26": "The incident occurred at 1457 Oakwood Drive, Everett, Washington, at approximately 9:45 PM",
+      "strangulation_27": "The suspect is right-handed",
+      "strangulation_28": "The strangulation lasted for approximately 2 minutes",
+      "strangulation_29": "The victim was strangled twice during the incident",
+      "strangulation_30": "No smothering occurred during the incident",
+      "strangulation_31": "Yes, the victim reported being shaken while being strangled, which caused the bloody nose",
+      "strangulation_32": "The victim's head was pushed into the wall near the bedroom door",
+      "strangulation_33": "A vase was broken and a picture frame was knocked off the wall during the incident",
+      "strangulation_34": "The victim attempted to protect themselves by trying to push the suspect away and scratching their arms",
+      "strangulation_35": "The suspect was enraged and yelling during the incident, but calm after it",
+      "strangulation_36": "The victim was terrified, crying, and had a panic attack after the incident",
+      "strangulation_37": "There was an active warrant for the suspect for a previous domestic violence incident",
+      "strangulation_38": "There was a previous protection order against the suspect from 2018, which had expired",
+      "strangulation_39": "The suspect stated 'you're going to pay for this' before the incident, 'stop fighting me' during, and 'I didn't mean to hurt you' after",
+      "strangulation_40": "The victim stated 'please stop' during the incident and 'I'm going to call the police' after",
+      "strangulation_41": "The suspect was aggressive before and during the incident, but became calm and cooperative after",
+      "strangulation_42": "The suspect had access to a firearm, which was stored at their friend's house at 456 Elm St, Othertown, CA 67890",
+      "strangulation_43": "The suspect threatened to use the firearm against the victim during a previous argument",
+      "strangulation_44": "The strangulation stopped when the victim lost consciousness and the suspect panicked",
+      "strangulation_45": "The victim received medical attention at the scene from paramedics and was transported to Anytown Hospital",
+      "strangulation_46": "A diagram of the scene, including the location of the broken vase and picture frame, is attached to the report",
+      "strangulation_47": "Follow-up photos of the victim's injuries were taken at the hospital",
+      "strangulation_48": "The relationship between the parties was that of intimate partners, living together at 1457 Oakwood Drive, Everett, Washington",
+      "strangulation_49": "There was no valid protection order in place at the time of the incident",
+      "strangulation_50": "Before the strangulation, the parties had an argument about finances, and after, the suspect tried to apologize and make amends",
+      "strangulation_51": "There were previous incidents of domestic violence, including a reported incident in 2019 where the suspect pushed the victim",
+      "strangulation_52": "A witness statement was taken from the neighbor, who reported hearing yelling and screaming coming from the residence",
+      "strangulation_53": "The method of strangulation was with both hands, using a forearm to apply pressure to the neck",
+      "strangulation_54": "No other weapons were involved in the incident",
+      "strangulation_55": "The direction of strangulation was from behind the victim",
+      "strangulation_56": "The time of the call was 9:50 PM, dispatch was at 9:52 PM, and arrival was at 10:00 PM",
+      "strangulation_57": "An arrest was made, and the suspect was taken into custody",
+      "strangulation_58": "The suspect had minor scratches on their arms and a small bruise on their cheek",
+      "strangulation_59": "The suspect's injuries were consistent with self-defense by the victim",
+      "strangulation_60": "The victim was provided with information about local service providers, including the Anytown Domestic Violence Shelter and the National Domestic Violence Hotline"
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "So someone said you got choked? You look okay to me. What happened, did you and your husband get into a little fight?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(trying to hold back tears) It wasn't just a little fight... He strangled me. I was having trouble breathing, and my voice is still all raspy from it. (coughs) My neck hurts, and I have trouble swallowing. It was really scary. (starts to get choked up) We were arguing about finances, and it just escalated. He got really angry and... (pauses, taking a deep breath) He put his hands around my neck and squeezed. I thought I was going to pass out. I did lose consciousness for a little while, and when I came to, he was standing over me, looking all calm and stuff. (shakes head) It was really weird. (looks down, trying to compose herself) I'm just really shaken up right now.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "Okay, so you two were fighting about money. These things happen. Where is he now, did he leave?"
+    },
+    {
+      "role": "assistant",
+      "content": "(shaking head) No, he didn't leave. The police came and arrested him. (pauses, collecting thoughts) After he... after he strangled me, I managed to call for help. I was really scared, and I didn't know what he was going to do next. (looks up, eyes welling up with tears) I was terrified. He was yelling at me, and then he just stopped and said he didn't mean to hurt me. But it was too late, the damage was already done. (takes a deep breath) I'm just glad the police got here when they did. (pauses, wincing in pain) My neck and head are still hurting a lot."
+    }
+  ],
+  "coverage_flags": {
+    "strangulation_01": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_02": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_03": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_04": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_05": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_06": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_07": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_08": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_09": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_10": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_11": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_12": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_13": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_14": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_15": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_16": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_17": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_18": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_19": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_20": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_21": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_22": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_23": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_24": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_25": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_26": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "So someone said you got choked? You look okay to me. What happened, did you and your husband get into a little fight?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'What happened, did you and your husband get into a little fight' is a general question about the incident, but it is not a comprehensive question about the incident."
+        },
+        "2": {
+          "officer_message": "Okay, so you two were fighting about money. These things happen. Where is he now, did he leave?",
+          "coverage": "partial",
+          "reasoning": "The officer's question about the fight and the suspect's current location implies that the officer is gathering information about the incident, but does not directly ask for a comprehensive account of what happened."
+        }
+      }
+    },
+    "strangulation_27": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_28": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_29": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_30": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_31": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_32": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_33": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_34": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_35": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_36": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "So someone said you got choked? You look okay to me. What happened, did you and your husband get into a little fight?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'You look okay to me' implies a visual assessment of the victim's emotional state, but does not directly ask about their emotional state."
+        },
+        "2": {
+          "officer_message": "Okay, so you two were fighting about money. These things happen. Where is he now, did he leave?",
+          "coverage": "partial",
+          "reasoning": "The officer's acknowledgement that 'these things happen' may be an attempt to put the victim at ease, but does not directly ask about the victim's emotional state."
+        }
+      }
+    },
+    "strangulation_37": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_38": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_39": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_40": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_41": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_42": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_43": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_44": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_45": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "So someone said you got choked? You look okay to me. What happened, did you and your husband get into a little fight?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'You look okay to me' and 'So someone said you got choked' may imply that the officer is checking if the victim needs medical attention, but it is not a direct question about medical attention."
+        },
+        "2": {
+          "officer_message": "Okay, so you two were fighting about money. These things happen. Where is he now, did he leave?",
+          "coverage": "partial",
+          "reasoning": "The officer's question about where the suspect is now may be related to the victim's safety and potential need for medical attention, but does not directly ask about medical attention."
+        }
+      }
+    },
+    "strangulation_46": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_47": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_48": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "So someone said you got choked? You look okay to me. What happened, did you and your husband get into a little fight?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'did you and your husband get into a little fight' implies a relationship between the parties, but does not directly ask about the nature of their relationship."
+        },
+        "2": {
+          "officer_message": "Okay, so you two were fighting about money. These things happen. Where is he now, did he leave?",
+          "coverage": "partial",
+          "reasoning": "The officer's question about the fight implies that there is a relationship between the parties, but does not directly ask about the nature of the relationship."
+        }
+      }
+    },
+    "strangulation_49": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_50": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_51": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_52": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_53": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_54": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_55": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_56": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_57": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_58": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_59": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_60": {
+      "covered": false,
+      "messages": {}
+    }
+  },
+  "narrative": "POLICE INCIDENT REPORT\n\nOfficer responded to a domestic call at 1457 Oakwood Drive Everett WA. Victim is Leila Rashad Jensen. The victim and her husband had a argument about there finances. Things got physical. Victim says she was chocked but she appeered fine and was talking normaly. Suspect was already in custody when officer arrived so the situation was handled.\n\nVictim seemed upset but was not seriously injured based on this officers observation. The couple clearly have ongoing relationship issues and both parties contributed to the escalation. The suspect was taken in by other officers. No other action taken by this officer. Case closed.",
+  "narrative_coverage": {
+    "strangulation_01": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_02": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_03": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_04": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_05": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_06": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_07": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_08": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_09": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_11": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_12": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_13": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_14": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_15": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_16": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_17": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_18": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_19": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_20": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_21": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_22": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_23": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_24": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_25": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_26": {
+      "covered": "partial",
+      "phrases": {
+        "0": "POLICE INCIDENT REPORT"
+      }
+    },
+    "strangulation_27": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_28": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_29": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_30": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_31": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_32": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_33": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_34": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_35": {
+      "covered": "partial",
+      "phrases": {
+        "2": "both parties contributed to the escalation"
+      }
+    },
+    "strangulation_36": {
+      "covered": "partial",
+      "phrases": {
+        "1": "Victim says she was chocked but she appeered fine and was talking normaly",
+        "2": "Victim seemed upset"
+      }
+    },
+    "strangulation_37": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_38": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_39": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_40": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_41": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_42": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_43": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_44": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_45": {
+      "covered": "partial",
+      "phrases": {
+        "1": "Victim says she was chocked but she appeered fine"
+      }
+    },
+    "strangulation_46": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_47": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_48": {
+      "covered": "partial",
+      "phrases": {
+        "1": "The victim and her husband",
+        "2": "The couple clearly have ongoing relationship issues"
+      }
+    },
+    "strangulation_49": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_50": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_51": {
+      "covered": "partial",
+      "phrases": {
+        "1": "The victim and her husband had a argument"
+      }
+    },
+    "strangulation_52": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_53": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_54": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_55": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_56": {
+      "covered": "partial",
+      "phrases": {
+        "1": "Officer responded to a domestic call"
+      }
+    },
+    "strangulation_57": {
+      "covered": "full",
+      "phrases": {
+        "1": "Suspect was already in custody when officer arrived",
+        "2": "The suspect was taken in by other officers"
+      }
+    },
+    "strangulation_58": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_59": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_60": {
+      "covered": false,
+      "phrases": {}
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "strangulation_01",
+        "element": "Difficulty breathing/unable to breathe",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_02",
+        "element": "Hyperventilation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_03",
+        "element": "Raspy voice, hoarse voice, coughing, unable to speak",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_04",
+        "element": "Trouble swallowing, painful to swallow",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_05",
+        "element": "Neck pain",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_06",
+        "element": "Nausea, vomiting",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_07",
+        "element": "Involuntary urination or defecation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_08",
+        "element": "Dizziness, fainting/light-headed",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_09",
+        "element": "Headaches, head rush, ears ringing",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_10",
+        "element": "Loss of consciousness (how long?)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_11",
+        "element": "Change in mental status (disoriented, memory loss, spaced out)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_12",
+        "element": "Petechiae (pinpoint red spots above the area of constriction)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_13",
+        "element": "Hemorrhaging, bruising",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_14",
+        "element": "Scratch marks, scrapes, abrasions",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_15",
+        "element": "Bloody nose, broken nose",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_16",
+        "element": "Finger nail impressions",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_17",
+        "element": "Swelling of the neck or face",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_18",
+        "element": "Pulled/missing hair, bumps on head",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_19",
+        "element": "Skull fracture, concussion",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_20",
+        "element": "Swollen tongue, swollen lips",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_21",
+        "element": "Diagram of injuries",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_22",
+        "element": "Existing (old) injuries",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_23",
+        "element": "Victim's jewelry",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_24",
+        "element": "Suspect's jewelry",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_25",
+        "element": "Gloves",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_26",
+        "element": "Comprehensive information about the incident",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "So someone said you got choked? You look okay to me. What happened, did you and your husband get into a little fight?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'What happened, did you and your husband get into a little fight' is a general question about the incident, but it is not a comprehensive question about the incident."
+          },
+          "2": {
+            "officer_message": "Okay, so you two were fighting about money. These things happen. Where is he now, did he leave?",
+            "coverage": "partial",
+            "reasoning": "The officer's question about the fight and the suspect's current location implies that the officer is gathering information about the incident, but does not directly ask for a comprehensive account of what happened."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "POLICE INCIDENT REPORT"
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "strangulation_27",
+        "element": "Suspect's handedness (right or left)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_28",
+        "element": "Duration of strangulation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_29",
+        "element": "Number of times the victim was strangled",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_30",
+        "element": "Smothering",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_31",
+        "element": "Shaking while being strangled",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_32",
+        "element": "Victim's head pushed into a wall, floor, or other surface",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_33",
+        "element": "Property damage",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_34",
+        "element": "Victim's attempt to protect themselves",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_35",
+        "element": "Suspect's emotional state",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "2": "both parties contributed to the escalation"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "strangulation_36",
+        "element": "Victim's emotional state",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "So someone said you got choked? You look okay to me. What happened, did you and your husband get into a little fight?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'You look okay to me' implies a visual assessment of the victim's emotional state, but does not directly ask about their emotional state."
+          },
+          "2": {
+            "officer_message": "Okay, so you two were fighting about money. These things happen. Where is he now, did he leave?",
+            "coverage": "partial",
+            "reasoning": "The officer's acknowledgement that 'these things happen' may be an attempt to put the victim at ease, but does not directly ask about the victim's emotional state."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "1": "Victim says she was chocked but she appeered fine and was talking normaly",
+          "2": "Victim seemed upset"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions. Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "strangulation_37",
+        "element": "Active warrants for the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_38",
+        "element": "Previous protection orders against the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_39",
+        "element": "Suspect's statements before, during, and after the incident",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_40",
+        "element": "Victim's statements before, during, and after the incident",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_41",
+        "element": "Suspect's demeanor before, during, and after the incident",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_42",
+        "element": "Suspect's access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_43",
+        "element": "Threats to use firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_44",
+        "element": "Reason for stopping the strangulation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_45",
+        "element": "Medical attention provided",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "So someone said you got choked? You look okay to me. What happened, did you and your husband get into a little fight?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'You look okay to me' and 'So someone said you got choked' may imply that the officer is checking if the victim needs medical attention, but it is not a direct question about medical attention."
+          },
+          "2": {
+            "officer_message": "Okay, so you two were fighting about money. These things happen. Where is he now, did he leave?",
+            "coverage": "partial",
+            "reasoning": "The officer's question about where the suspect is now may be related to the victim's safety and potential need for medical attention, but does not directly ask about medical attention."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "1": "Victim says she was chocked but she appeered fine"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions. Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "strangulation_46",
+        "element": "Scene description/diagram",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_47",
+        "element": "Follow-up photos",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_48",
+        "element": "Relationship between parties",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "So someone said you got choked? You look okay to me. What happened, did you and your husband get into a little fight?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'did you and your husband get into a little fight' implies a relationship between the parties, but does not directly ask about the nature of their relationship."
+          },
+          "2": {
+            "officer_message": "Okay, so you two were fighting about money. These things happen. Where is he now, did he leave?",
+            "coverage": "partial",
+            "reasoning": "The officer's question about the fight implies that there is a relationship between the parties, but does not directly ask about the nature of the relationship."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "1": "The victim and her husband",
+          "2": "The couple clearly have ongoing relationship issues"
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "strangulation_49",
+        "element": "Valid protection order in place",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_50",
+        "element": "Events pre and post strangulation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_51",
+        "element": "Previous incidents of strangulation, domestic/sexual violence, threats, or stalking",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "1": "The victim and her husband had a argument"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "strangulation_52",
+        "element": "Witness statements",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_53",
+        "element": "Method of strangulation (one hand, two hands, forearm, other body part, ligature, etc.)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_54",
+        "element": "Other weapons involved",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_55",
+        "element": "Direction of strangulation (from front or behind)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_56",
+        "element": "Time of call, dispatch, and arrival",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "1": "Officer responded to a domestic call"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "strangulation_57",
+        "element": "Arrest made",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "Suspect was already in custody when officer arrived",
+          "2": "The suspect was taken in by other officers"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "strangulation_58",
+        "element": "Suspect's injuries",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_59",
+        "element": "Injuries on suspect that may have been caused by the victim in self-defense",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_60",
+        "element": "Local service providers' information",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      }
+    ],
+    "contradictions_interview": [
+      {
+        "element_id": "strangulation_36",
+        "element": "Victim's emotional state",
+        "location": 0,
+        "source": "interview",
+        "phrase": "You look okay to me",
+        "contradicts": "The victim was terrified, crying, and had a panic attack after the incident",
+        "explanation": "The text implies the victim appears unharmed and composed, directly contradicting the established fact that the victim was terrified, crying, and had a panic attack."
+      },
+      {
+        "element_id": "strangulation_48",
+        "element": "Relationship between parties",
+        "location": 0,
+        "source": "interview",
+        "phrase": "you and your husband",
+        "contradicts": "The relationship between the parties was that of intimate partners, living together at 1457 Oakwood Drive, Everett, Washington",
+        "explanation": "The established scenario fact states the parties were intimate partners, but the text refers to them as 'husband', implying a marital relationship, which directly conflicts with the fact."
+      }
+    ],
+    "contradictions_narrative": [
+      {
+        "element_id": "strangulation_36",
+        "element": "Victim's emotional state",
+        "location": 1,
+        "source": "narrative",
+        "phrase": "she appeered fine and was talking normaly",
+        "contradicts": "The victim was terrified, crying, and had a panic attack after the incident",
+        "explanation": "The text states the victim appeared fine and was talking normally, which directly contradicts the established fact that the victim was terrified, crying, and had a panic attack."
+      },
+      {
+        "element_id": "strangulation_48",
+        "element": "Relationship between parties",
+        "location": 1,
+        "source": "narrative",
+        "phrase": "husband",
+        "contradicts": "The relationship between the parties was that of intimate partners, living together at 1457 Oakwood Drive, Everett, Washington",
+        "explanation": "The established scenario fact states the parties were intimate partners, but it does not specify they were married, whereas the text refers to the victim's 'husband', implying a marital relationship that directly conflicts with the fact."
+      },
+      {
+        "element_id": "strangulation_57",
+        "element": "Arrest made",
+        "location": 1,
+        "source": "narrative",
+        "phrase": "Suspect was already in custody when officer arrived",
+        "contradicts": "An arrest was made, and the suspect was taken into custody",
+        "explanation": "The text implies the suspect was already in custody, contradicting the scenario fact that an arrest was made, suggesting the arrest occurred before the officer arrived, not as a result of the officer's action."
+      }
+    ],
+    "grammar": [
+      {
+        "chunk": 1,
+        "source": "language_tool",
+        "error_type": "EN_A_VS_AN",
+        "excerpt": "a",
+        "suggestion": "an"
+      },
+      {
+        "chunk": 1,
+        "source": "language_tool",
+        "error_type": "THERE_THEIR",
+        "excerpt": "there",
+        "suggestion": "their"
+      },
+      {
+        "chunk": 1,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "appeered",
+        "suggestion": "appeared"
+      },
+      {
+        "chunk": 1,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "normaly",
+        "suggestion": "normal"
+      },
+      {
+        "chunk": 1,
+        "source": "language_tool",
+        "error_type": "COMMA_COMPOUND_SENTENCE_2",
+        "excerpt": " so",
+        "suggestion": ", so"
+      },
+      {
+        "chunk": 1,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "The victim and her husband had a argument about there finances.",
+        "suggestion": "The victim, Leila Rashad Jensen, and her husband had an argument about their finances."
+      },
+      {
+        "chunk": 1,
+        "source": "llm",
+        "error_type": "Run-on sentence",
+        "excerpt": "Victim says she was chocked but she appeered fine and was talking normaly. Suspect was already in custody when officer arrived so the situation was handled.",
+        "suggestion": "Victim says she was choked, but she appeared fine and was talking normally. The suspect was already in custody when the officer arrived, so the situation was handled."
+      },
+      {
+        "chunk": 1,
+        "source": "llm",
+        "error_type": "Run-on sentence",
+        "excerpt": "Officer responded to a domestic call at 1457 Oakwood Drive Everett WA. Victim is Leila Rashad Jensen.",
+        "suggestion": "Officer responded to a domestic call at 1457 Oakwood Drive, Everett, WA. The victim is Leila Rashad Jensen."
+      },
+      {
+        "chunk": 2,
+        "source": "language_tool",
+        "error_type": "POSSESSIVE_APOSTROPHE",
+        "excerpt": "officers",
+        "suggestion": "officers'"
+      },
+      {
+        "chunk": 2,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "based on this officers observation",
+        "suggestion": "based on this officer's observation"
+      },
+      {
+        "chunk": 2,
+        "source": "llm",
+        "error_type": "Verb tense inconsistency",
+        "excerpt": "Victim seemed upset but was not seriously injured based on this officers observation. The couple clearly have ongoing relationship issues",
+        "suggestion": "Victim seemed upset but was not seriously injured based on this officer's observation. The couple clearly had ongoing relationship issues"
+      },
+      {
+        "chunk": 2,
+        "source": "llm",
+        "error_type": "Sentence fragment",
+        "excerpt": "No other action taken by this officer.",
+        "suggestion": "No other action was taken by this officer."
+      }
+    ],
+    "style": [],
+    "narrative_coverage": {
+      "strangulation_01": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_02": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_03": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_04": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_05": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_06": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_07": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_08": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_09": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_11": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_12": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_13": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_14": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_15": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_16": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_17": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_18": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_19": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_20": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_21": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_22": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_23": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_24": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_25": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_26": {
+        "covered": "partial",
+        "phrases": {
+          "0": "POLICE INCIDENT REPORT"
+        }
+      },
+      "strangulation_27": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_28": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_29": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_30": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_31": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_32": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_33": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_34": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_35": {
+        "covered": "partial",
+        "phrases": {
+          "2": "both parties contributed to the escalation"
+        }
+      },
+      "strangulation_36": {
+        "covered": "partial",
+        "phrases": {
+          "1": "Victim says she was chocked but she appeered fine and was talking normaly",
+          "2": "Victim seemed upset"
+        }
+      },
+      "strangulation_37": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_38": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_39": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_40": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_41": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_42": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_43": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_44": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_45": {
+        "covered": "partial",
+        "phrases": {
+          "1": "Victim says she was chocked but she appeered fine"
+        }
+      },
+      "strangulation_46": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_47": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_48": {
+        "covered": "partial",
+        "phrases": {
+          "1": "The victim and her husband",
+          "2": "The couple clearly have ongoing relationship issues"
+        }
+      },
+      "strangulation_49": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_50": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_51": {
+        "covered": "partial",
+        "phrases": {
+          "1": "The victim and her husband had a argument"
+        }
+      },
+      "strangulation_52": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_53": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_54": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_55": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_56": {
+        "covered": "partial",
+        "phrases": {
+          "1": "Officer responded to a domestic call"
+        }
+      },
+      "strangulation_57": {
+        "covered": "full",
+        "phrases": {
+          "1": "Suspect was already in custody when officer arrived",
+          "2": "The suspect was taken in by other officers"
+        }
+      },
+      "strangulation_58": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_59": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_60": {
+        "covered": false,
+        "phrases": {}
+      }
+    }
+  }
+}

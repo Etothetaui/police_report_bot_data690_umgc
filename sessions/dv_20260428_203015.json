@@ -1,0 +1,2630 @@
+{
+  "session_id": "dv_20260428_203015",
+  "timestamp": "2026-04-28T20:30:15.112641",
+  "metadata": {
+    "crime_type": "Domestic Violence",
+    "interviewee_name": "Maria Rodriguez",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible domestic disturbance at 1457 Oakwood Drive, apartment 3B, reported by neighbor, Sacramento, California"
+  },
+  "scenario": {
+    "crime_type": "Domestic Violence",
+    "interviewee_role": "victim",
+    "interviewee_name": "Maria Rodriguez",
+    "dispatch_line": "Possible domestic disturbance at 1457 Oakwood Drive, apartment 3B, reported by neighbor, Sacramento, California",
+    "facts": {
+      "domestic_violence_01": "no",
+      "domestic_violence_02": "yes",
+      "domestic_violence_03": "yes",
+      "domestic_violence_04": "yes",
+      "domestic_violence_05": "priority response",
+      "domestic_violence_06": "yes",
+      "domestic_violence_07": "yes, time of incident: 22:45, time of dispatch: 22:50, time of arrival: 23:00",
+      "domestic_violence_08": "yes",
+      "domestic_violence_09": "yes",
+      "domestic_violence_10": "yes",
+      "domestic_violence_11": "officers observed a damaged front door and heard shouting",
+      "domestic_violence_12": "yes, a valid protection order is in place for the victim, Maria Rodriguez, against the suspect, Juan Hernandez",
+      "domestic_violence_13": "yes, the scene is a residential house located at 1457 Oakwood Drive, apartment 3B, in the city of Sacramento, California",
+      "domestic_violence_14": "yes, photos were taken of the victim's injuries and the damaged property, and details were recorded",
+      "domestic_violence_15": "the parties are in an intimate partner relationship, having been married for 5 years",
+      "domestic_violence_16": "the relationship has a history of frequent verbal and physical altercations, with the suspect having a history of intimidation and threats against the victim",
+      "domestic_violence_17": "yes, all witnesses, including the victim's neighbor, Emily Chen, were interviewed and documented",
+      "domestic_violence_18": "yes, the suspect, Juan Hernandez, was arrested at the scene",
+      "domestic_violence_19": "yes, there were two children on the scene, ages 7 and 9, who were taken into protective custody",
+      "domestic_violence_20": "yes, information about previous incidents was documented, including a previous arrest of the suspect for domestic battery",
+      "domestic_violence_21": "yes, a kitchen knife was used as a weapon by the suspect",
+      "domestic_violence_22": "the victim, Maria Rodriguez, was visibly shaken and crying, with signs of physical injury, including bruising and lacerations",
+      "domestic_violence_23": "The suspect, Juan Hernandez, was agitated and defensive, with a raised voice and clenched fists.",
+      "domestic_violence_24": "Evidence collected includes photos of the victim's injuries, the damaged front door, and the kitchen knife used as a weapon, as well as witness statements from Emily Chen and the victim, Maria Rodriguez.",
+      "domestic_violence_25": "Yes, a threat/risk assessment tool was used with the suspect, indicating a high risk of future violence.",
+      "domestic_violence_26": "Yes, evidence of fear is articulated in the report, with the victim stating she was afraid for her life and the lives of her children.",
+      "domestic_violence_27": "Yes, all threats have been clearly documented, including the suspect's history of intimidation and threats against the victim.",
+      "domestic_violence_28": "Not applicable, as the suspect was present and arrested at the scene.",
+      "domestic_violence_29": "Yes, the use of coercion and/or force is articulated, with the victim reporting that the suspect used physical force to restrain her and threaten her with the kitchen knife.",
+      "domestic_violence_30": "Yes, all injuries have been documented, including visible bruising and lacerations on the victim's face and arms, as well as non-visible injuries such as emotional trauma and anxiety.",
+      "domestic_violence_31": "Both existing and new injuries were documented, with the victim reporting a history of previous injuries inflicted by the suspect.",
+      "domestic_violence_32": "Yes, property damage was reported, including the damaged front door and broken furniture.",
+      "domestic_violence_33": "Yes, stalking behaviors were identified, with the victim reporting that the suspect had been monitoring her movements and showing up at her workplace unannounced.",
+      "domestic_violence_34": "Yes, the officer inquired about possible strangulation, and the victim reported that the suspect had attempted to strangle her during the incident.",
+      "domestic_violence_35": "Yes, the victim reported being strangled, with visible signs of strangulation including bruising and redness on her neck.",
+      "domestic_violence_36": "Yes, the victim requested medical attention and was transported to the hospital for treatment.",
+      "domestic_violence_37": "No, the victim did not report sexual violence during the incident.",
+      "domestic_violence_38": "Yes, all spontaneous statements were captured, including the suspect's admission to using the kitchen knife and the victim's statement about being afraid for her life.",
+      "domestic_violence_39": "Yes, the officer asked about firearms, and the victim reported that the suspect had access to a firearm at his residence, located at 2345 Maple Street, apartment 1A.",
+      "domestic_violence_40": "No, the suspect did not use firearms during the incident.",
+      "domestic_violence_41": "Yes, the suspect made threats to use firearms against the victim and her children.",
+      "domestic_violence_42": "Yes, the suspect has access to firearms, according to the victim's statement.",
+      "domestic_violence_43": "Yes, the victim expressed fear about the suspect's access to firearms, stating that she was afraid he would use them to harm her or her children.",
+      "domestic_violence_44": "No, firearms were not confiscated at the scene, as they were not present, but the officer noted the location of the firearms in the report and will seek a search warrant to confiscate them from the suspect's address."
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Good evening, ma'am. I'm Officer Johnson with the Sacramento Police Department. I'm here in response to a call about a possible disturbance at this address. Before we begin, I want you to know that you are safe now and I'm here to help. Can you please state your full name and date of birth for the record?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nervously) Oh, thank you, Officer Johnson. My name is Maria Rodriguez, and my date of birth is... (pauses, trying to compose herself) ...February 12, 1985. (sniffling) I'm just really scared right now. What's going to happen to my kids? And... and Juan? (starting to tear up)",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Ms. Rodriguez, I understand you're frightened, and that's completely understandable. I want to help ensure the safety of you and your children. Take a deep breath. Can you tell me what happened tonight? Who is Juan, and what is your relationship with him?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(taking a deep breath, trying to calm down) Okay... Juan is my husband. We've been married for five years. (pausing, collecting her thoughts) Tonight... he just lost control. Again. We were arguing, and it escalated. He started yelling at me, and then he grabbed a kitchen knife. (shuddering at the memory) He was waving it at me, threatening me. I was so scared. I thought he was going to hurt me, or the kids. (starting to cry again) My kids, Emily and Michael, they're only 7 and 9 years old. They shouldn't have to see their father like that. (sobbing) He's been like this before, Officer. This isn't the first time. But tonight was the worst. He's never used a knife before. (shaking her head) I don't know what would have happened if you hadn't arrived when you did.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "I hear you, Ms. Rodriguez. You're doing the right thing by talking to me. I need to ask you some important questions. Where is Juan right now? And can you describe what he looked like - what was he wearing tonight?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(sniffling) He's... he's in custody, right? I saw the officers take him away. (looking around, trying to make sure) He was wearing a white t-shirt and jeans. He had a bit of a stubble, and his hair was messy. (shuddering at the memory) He was so angry, his eyes were... (trailing off, trying to compose herself) And he had a cut on his hand, I think from when he broke the front door. (pointing to the damaged door) He kicked it in when I tried to lock him out. (starting to tear up again) I was trying to protect the kids, but he just kept coming.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Thank you. Did Juan physically touch you or harm you in any way tonight - hit, push, grab, or otherwise make physical contact? I want to make sure you don't have any injuries that need medical attention.",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(wincing, touching her neck) Yes... he did. He grabbed me, and he... (pausing, struggling to continue) he tried to strangle me. I thought I was going to pass out. (showing the officer her neck, where there are visible marks) See? He squeezed my neck so hard. And he also hit me in the face. (touching her cheek, where there's a bruise) I think I might have a cut on my lip too. (sniffling) It hurts to talk, but I'm okay, I think. (looking up at the officer, scared) But I'm really scared of what he might do next. He said he would hurt me, and the kids, if I ever tried to leave him again. (starting to cry again) I'm so afraid of him, Officer.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Ms. Rodriguez, I can see the marks on your neck. It's important that you receive medical attention. I'm noting your visible injuries for the record. Can you tell me approximately what time tonight's incident began? And can you tell me what started the argument?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shaking her head, trying to remember) It was around... 10:45, I think. We were arguing about something stupid, but it just escalated. He's been getting more and more controlling lately, and I just can't take it anymore. (sniffling) He was yelling at me because I didn't cook his dinner the way he likes it. It sounds ridiculous, but it's just... it's always something with him. (looking down, ashamed) I'm so tired of walking on eggshells around him, never knowing what's going to set him off. (pausing, collecting her thoughts) But tonight, it was different. He was more angry than I've ever seen him before. And when I tried to stand up for myself, he just... (trailing off, remembering the fear) he just lost control.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "You mentioned this has happened before. Have there been previous incidents where Juan was physically violent with you? Were any prior incidents ever reported to police? And is there any history of protective or restraining orders between the two of you?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nodding, tears welling up in her eyes) Yes, there have been other incidents. He's hit me before, and pushed me, and... (pausing, taking a deep breath) and threatened me. I've tried to leave him before, but he always finds a way to convince me to come back. (shaking her head) I'm so ashamed of it, Officer. I feel like I've failed somehow. (sniffling) But I've had enough. I really have.\n\n(Composing herself) Yes, I did report one incident to the police before. He was arrested for domestic battery, but... (sighing) he just got a slap on the wrist. He was supposed to go to counseling, but I don't think he ever did. (looking up at the officer) And yes, there is a restraining order in place. I got it after the last incident, but... (shaking her head) he just ignores it. He says it's just a piece of paper, that it doesn't mean anything. (fear creeping into her voice) But it's not just a piece of paper, Officer. It's my protection. And he's not supposed to be near me, but... (trailing off, remembering the events of the night) but he was here tonight.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "This is very important - you are not at fault here. Can you tell me: where are your children Emily and Michael right now, are they safe? And were there any witnesses to tonight's incident besides you and Juan?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(exhaling a sigh of relief) Oh, thank you, Officer. Just saying that... it means a lot to me. (smiling slightly) My children, Emily and Michael, they're safe. The officers took them to a safe place, I think. I don't know where, exactly, but I'm just glad they're away from him. (tearfully) They didn't deserve to see their father like that. No child should ever have to see their parent like that.\n\n(Composing herself) And yes, there was a witness. Our neighbor, Emily Chen, she lives next door. She heard the commotion and came over to see what was happening. She saw Juan yelling at me and saw him break down the door. (gratefully) She called the police for me. I don't know what would have happened if she hadn't. (smiling slightly) She's been a good friend to me, Officer. She's always looking out for me and the kids.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Can you tell me Juan's full name, date of birth, and physical description - height, weight, approximate age? Also, do you know if Juan had been drinking or using any substances tonight?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(thinking for a moment) Juan's full name is Juan Carlos Hernandez. His date of birth is November 10, 1982. He's about 5'10\" tall, and he weighs around 180 pounds. He's 40 years old, I think.\n\n(Pausing, considering the question about substance use) Yes, I think he had been drinking tonight. He had been out with his friends earlier, and when he came home, he smelled like alcohol. He was slurring his words a bit, too. (shaking her head) That's usually when he gets like this, when he's been drinking. It's like he loses all control and becomes a different person. (fearfully) It's scary, Officer. He's not the same person when he's sober.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "One final question: when Juan had the kitchen knife, did he actually point it at you or make any stabbing motion? Or was he primarily waving it around? And do you know where the knife is now?"
+    },
+    {
+      "role": "assistant",
+      "content": "(shuddering at the memory) He pointed it at me, Officer. He held it right up to my throat. (touching her neck again, remembering the feeling of the knife) I thought for sure he was going to... (trailing off, unable to finish the sentence) He was waving it around, too, yelling at me and saying he was going to hurt me. He made a few stabbing motions, but he didn't actually stab me. (shaking her head) I don't know what would have happened if you hadn't arrived when you did.\n\n(Thinking for a moment) I think the police took the knife away when they arrived. I saw one of the officers pick it up and put it in a bag. (relieved) I'm just glad it's gone. I don't want to see it again. (looking up at the officer) I just want to be safe, Officer. I want my kids to be safe. Can you please make sure he doesn't hurt us again?"
+    }
+  ],
+  "coverage_flags": {
+    "domestic_violence_01": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_02": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_03": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_04": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Good evening, ma'am. I'm Officer Johnson with the Sacramento Police Department. I'm here in response to a call about a possible disturbance at this address. Before we begin, I want you to know that you are safe now and I'm here to help. Can you please state your full name and date of birth for the record?",
+          "coverage": "partial",
+          "reasoning": "The officer's introduction and statement that they are there to help implies assistance, but does not directly state what assistance will be provided"
+        }
+      }
+    },
+    "domestic_violence_05": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_06": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_07": {
+      "covered": "partial",
+      "messages": {
+        "8": {
+          "officer_message": "Ms. Rodriguez, I can see the marks on your neck. It's important that you receive medical attention. I'm noting your visible injuries for the record. Can you tell me approximately what time tonight's incident began? And can you tell me what started the argument?",
+          "coverage": "partial",
+          "reasoning": "The officer asks for the approximate time the incident began, which is related to the time of the call, but does not fully record all relevant times such as time of dispatch and time of arrival."
+        }
+      }
+    },
+    "domestic_violence_08": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_09": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_10": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_11": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Good evening, ma'am. I'm Officer Johnson with the Sacramento Police Department. I'm here in response to a call about a possible disturbance at this address. Before we begin, I want you to know that you are safe now and I'm here to help. Can you please state your full name and date of birth for the record?",
+          "coverage": "partial",
+          "reasoning": "The officer's presence and introduction may imply some observation upon approach, but the specifics are not addressed"
+        },
+        "8": {
+          "officer_message": "Ms. Rodriguez, I can see the marks on your neck. It's important that you receive medical attention. I'm noting your visible injuries for the record. Can you tell me approximately what time tonight's incident began? And can you tell me what started the argument?",
+          "coverage": "partial",
+          "reasoning": "The officer notes the visible injuries on the victim's neck, which is an observation upon approach, but does not fully describe all observations."
+        }
+      }
+    },
+    "domestic_violence_12": {
+      "covered": "partial",
+      "messages": {
+        "10": {
+          "officer_message": "You mentioned this has happened before. Have there been previous incidents where Juan was physically violent with you? Were any prior incidents ever reported to police? And is there any history of protective or restraining orders between the two of you?",
+          "coverage": "partial",
+          "reasoning": "The officer inquired about any history of protective or restraining orders between the two parties, which touches the topic of a valid protection order but does not confirm its current status."
+        }
+      }
+    },
+    "domestic_violence_13": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_14": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_15": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Good evening, ma'am. I'm Officer Johnson with the Sacramento Police Department. I'm here in response to a call about a possible disturbance at this address. Before we begin, I want you to know that you are safe now and I'm here to help. Can you please state your full name and date of birth for the record?",
+          "coverage": "none",
+          "reasoning": "The question does not directly address the relationship of the parties, it only asks for the victim's full name and date of birth"
+        },
+        "2": {
+          "officer_message": "Ms. Rodriguez, I understand you're frightened, and that's completely understandable. I want to help ensure the safety of you and your children. Take a deep breath. Can you tell me what happened tonight? Who is Juan, and what is your relationship with him?",
+          "coverage": "partial",
+          "reasoning": "The officer asks about the relationship with Juan, which implies the relationship of the parties but does not fully articulate it."
+        },
+        "4": {
+          "officer_message": "I hear you, Ms. Rodriguez. You're doing the right thing by talking to me. I need to ask you some important questions. Where is Juan right now? And can you describe what he looked like - what was he wearing tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer asked about the location and description of Juan, which may imply a relationship, but does not directly ask about the relationship of the parties"
+        },
+        "10": {
+          "officer_message": "You mentioned this has happened before. Have there been previous incidents where Juan was physically violent with you? Were any prior incidents ever reported to police? And is there any history of protective or restraining orders between the two of you?",
+          "coverage": "partial",
+          "reasoning": "The context implies a relationship between the victim and Juan, but the officer's question does not explicitly ask about the nature of their relationship beyond the history of violence and protective orders."
+        },
+        "12": {
+          "officer_message": "This is very important - you are not at fault here. Can you tell me: where are your children Emily and Michael right now, are they safe? And were there any witnesses to tonight's incident besides you and Juan?",
+          "coverage": "partial",
+          "reasoning": "The officer asks about the children, implying a relationship but not directly asking about it"
+        },
+        "14": {
+          "officer_message": "Can you tell me Juan's full name, date of birth, and physical description - height, weight, approximate age? Also, do you know if Juan had been drinking or using any substances tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer asked for Juan's full name, which implies a relationship but does not directly ask about it"
+        }
+      }
+    },
+    "domestic_violence_16": {
+      "covered": "full",
+      "messages": {
+        "2": {
+          "officer_message": "Ms. Rodriguez, I understand you're frightened, and that's completely understandable. I want to help ensure the safety of you and your children. Take a deep breath. Can you tell me what happened tonight? Who is Juan, and what is your relationship with him?",
+          "coverage": "partial",
+          "reasoning": "The officer's question about what happened tonight may elicit information about the history of the relationship, but it is indirect and does not specifically ask about previous incidents or the frequency of violence, intimidation, and threats."
+        },
+        "8": {
+          "officer_message": "Ms. Rodriguez, I can see the marks on your neck. It's important that you receive medical attention. I'm noting your visible injuries for the record. Can you tell me approximately what time tonight's incident began? And can you tell me what started the argument?",
+          "coverage": "partial",
+          "reasoning": "The officer asks what started the argument, which touches on the history of the relationship, but does not fully inquire about the frequency of any violence, intimidation, and threats."
+        },
+        "10": {
+          "officer_message": "You mentioned this has happened before. Have there been previous incidents where Juan was physically violent with you? Were any prior incidents ever reported to police? And is there any history of protective or restraining orders between the two of you?",
+          "coverage": "full",
+          "reasoning": "The officer asked about previous incidents of physical violence, which directly addresses the history of the relationship and includes frequency of violence."
+        }
+      }
+    },
+    "domestic_violence_17": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_18": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_19": {
+      "covered": "partial",
+      "messages": {
+        "12": {
+          "officer_message": "This is very important - you are not at fault here. Can you tell me: where are your children Emily and Michael right now, are they safe? And were there any witnesses to tonight's incident besides you and Juan?",
+          "coverage": "partial",
+          "reasoning": "The officer inquires about the children's safety and location, indicating awareness of their presence"
+        }
+      }
+    },
+    "domestic_violence_20": {
+      "covered": "partial",
+      "messages": {
+        "10": {
+          "officer_message": "You mentioned this has happened before. Have there been previous incidents where Juan was physically violent with you? Were any prior incidents ever reported to police? And is there any history of protective or restraining orders between the two of you?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if any prior incidents were reported to police, which partially addresses documenting information about previous incidents but does not confirm if all relevant details were captured."
+        },
+        "12": {
+          "officer_message": "This is very important - you are not at fault here. Can you tell me: where are your children Emily and Michael right now, are they safe? And were there any witnesses to tonight's incident besides you and Juan?",
+          "coverage": "partial",
+          "reasoning": "The officer's question about the children and the incident implies a history or previous incidents but does not directly ask about them"
+        }
+      }
+    },
+    "domestic_violence_21": {
+      "covered": "full",
+      "messages": {
+        "4": {
+          "officer_message": "I hear you, Ms. Rodriguez. You're doing the right thing by talking to me. I need to ask you some important questions. Where is Juan right now? And can you describe what he looked like - what was he wearing tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer asked about Juan's appearance, which may include information about weapons or objects used, but does not directly ask about them"
+        },
+        "6": {
+          "officer_message": "Thank you. Did Juan physically touch you or harm you in any way tonight - hit, push, grab, or otherwise make physical contact? I want to make sure you don't have any injuries that need medical attention.",
+          "coverage": "full",
+          "reasoning": "The officer's question directly asks about physical contact, which implies the use of weapons or objects."
+        },
+        "14": {
+          "officer_message": "Can you tell me Juan's full name, date of birth, and physical description - height, weight, approximate age? Also, do you know if Juan had been drinking or using any substances tonight?",
+          "coverage": "none",
+          "reasoning": "The officer did not ask about weapons/objects used in this specific question"
+        },
+        "16": {
+          "officer_message": "One final question: when Juan had the kitchen knife, did he actually point it at you or make any stabbing motion? Or was he primarily waving it around? And do you know where the knife is now?",
+          "coverage": "full",
+          "reasoning": "The question directly asks about the use of a weapon (kitchen knife) and its handling, which fully addresses the element of weapons/objects used."
+        }
+      }
+    },
+    "domestic_violence_22": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Good evening, ma'am. I'm Officer Johnson with the Sacramento Police Department. I'm here in response to a call about a possible disturbance at this address. Before we begin, I want you to know that you are safe now and I'm here to help. Can you please state your full name and date of birth for the record?",
+          "coverage": "none",
+          "reasoning": "The question does not address the emotional state of the victim, it only asks for their name and date of birth"
+        },
+        "2": {
+          "officer_message": "Ms. Rodriguez, I understand you're frightened, and that's completely understandable. I want to help ensure the safety of you and your children. Take a deep breath. Can you tell me what happened tonight? Who is Juan, and what is your relationship with him?",
+          "coverage": "partial",
+          "reasoning": "The officer acknowledges the victim is frightened, which touches on the emotional state of the victim but does not directly ask about it."
+        },
+        "4": {
+          "officer_message": "I hear you, Ms. Rodriguez. You're doing the right thing by talking to me. I need to ask you some important questions. Where is Juan right now? And can you describe what he looked like - what was he wearing tonight?",
+          "coverage": "none",
+          "reasoning": "The officer did not ask about the emotional state of the victim"
+        },
+        "14": {
+          "officer_message": "Can you tell me Juan's full name, date of birth, and physical description - height, weight, approximate age? Also, do you know if Juan had been drinking or using any substances tonight?",
+          "coverage": "none",
+          "reasoning": "The officer did not ask about the emotional state of the victim in this specific question"
+        }
+      }
+    },
+    "domestic_violence_23": {
+      "covered": "partial",
+      "messages": {
+        "14": {
+          "officer_message": "Can you tell me Juan's full name, date of birth, and physical description - height, weight, approximate age? Also, do you know if Juan had been drinking or using any substances tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer asked if Juan had been drinking or using substances, which may relate to his emotional state"
+        }
+      }
+    },
+    "domestic_violence_24": {
+      "covered": "partial",
+      "messages": {
+        "16": {
+          "officer_message": "One final question: when Juan had the kitchen knife, did he actually point it at you or make any stabbing motion? Or was he primarily waving it around? And do you know where the knife is now?",
+          "coverage": "partial",
+          "reasoning": "The question about the current location of the knife implies the collection of evidence, which partially addresses the element of what evidence was collected."
+        }
+      }
+    },
+    "domestic_violence_25": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_26": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_27": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "I hear you, Ms. Rodriguez. You're doing the right thing by talking to me. I need to ask you some important questions. Where is Juan right now? And can you describe what he looked like - what was he wearing tonight?",
+          "coverage": "none",
+          "reasoning": "The officer did not ask about threats"
+        },
+        "12": {
+          "officer_message": "This is very important - you are not at fault here. Can you tell me: where are your children Emily and Michael right now, are they safe? And were there any witnesses to tonight's incident besides you and Juan?",
+          "coverage": "partial",
+          "reasoning": "The officer asks about witnesses, which may include those who heard threats, but does not directly ask about threats"
+        },
+        "14": {
+          "officer_message": "Can you tell me Juan's full name, date of birth, and physical description - height, weight, approximate age? Also, do you know if Juan had been drinking or using any substances tonight?",
+          "coverage": "none",
+          "reasoning": "The officer did not ask about threats in this specific question"
+        },
+        "16": {
+          "officer_message": "One final question: when Juan had the kitchen knife, did he actually point it at you or make any stabbing motion? Or was he primarily waving it around? And do you know where the knife is now?",
+          "coverage": "partial",
+          "reasoning": "The question implies the possibility of a threat by asking if Juan pointed the knife or made a stabbing motion, which partially addresses the element of all threats clearly documented."
+        }
+      }
+    },
+    "domestic_violence_28": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_29": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_30": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "I hear you, Ms. Rodriguez. You're doing the right thing by talking to me. I need to ask you some important questions. Where is Juan right now? And can you describe what he looked like - what was he wearing tonight?",
+          "coverage": "none",
+          "reasoning": "The officer did not ask about injuries"
+        },
+        "6": {
+          "officer_message": "Thank you. Did Juan physically touch you or harm you in any way tonight - hit, push, grab, or otherwise make physical contact? I want to make sure you don't have any injuries that need medical attention.",
+          "coverage": "full",
+          "reasoning": "The officer inquires about physical harm and the need for medical attention, which would document all injuries, both visible and non-visible."
+        },
+        "8": {
+          "officer_message": "Ms. Rodriguez, I can see the marks on your neck. It's important that you receive medical attention. I'm noting your visible injuries for the record. Can you tell me approximately what time tonight's incident began? And can you tell me what started the argument?",
+          "coverage": "partial",
+          "reasoning": "The officer notes the visible injuries on the victim's neck, which is a documentation of visible injuries, but does not fully inquire about all injuries, including non-visible ones."
+        },
+        "14": {
+          "officer_message": "Can you tell me Juan's full name, date of birth, and physical description - height, weight, approximate age? Also, do you know if Juan had been drinking or using any substances tonight?",
+          "coverage": "none",
+          "reasoning": "The officer did not ask about injuries in this specific question"
+        }
+      }
+    },
+    "domestic_violence_31": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_32": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_33": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_34": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_35": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_36": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Good evening, ma'am. I'm Officer Johnson with the Sacramento Police Department. I'm here in response to a call about a possible disturbance at this address. Before we begin, I want you to know that you are safe now and I'm here to help. Can you please state your full name and date of birth for the record?",
+          "coverage": "none",
+          "reasoning": "The question does not address medical attention, it only asks for the victim's name and date of birth"
+        },
+        "2": {
+          "officer_message": "Ms. Rodriguez, I understand you're frightened, and that's completely understandable. I want to help ensure the safety of you and your children. Take a deep breath. Can you tell me what happened tonight? Who is Juan, and what is your relationship with him?",
+          "coverage": "partial",
+          "reasoning": "The officer expresses concern for the safety of the victim and her children, which may imply a need for medical attention but does not directly ask about it."
+        },
+        "4": {
+          "officer_message": "I hear you, Ms. Rodriguez. You're doing the right thing by talking to me. I need to ask you some important questions. Where is Juan right now? And can you describe what he looked like - what was he wearing tonight?",
+          "coverage": "none",
+          "reasoning": "The officer did not ask about medical attention"
+        },
+        "6": {
+          "officer_message": "Thank you. Did Juan physically touch you or harm you in any way tonight - hit, push, grab, or otherwise make physical contact? I want to make sure you don't have any injuries that need medical attention.",
+          "coverage": "full",
+          "reasoning": "The officer asks if the victim needs medical attention, directly addressing the element of medical attention."
+        },
+        "8": {
+          "officer_message": "Ms. Rodriguez, I can see the marks on your neck. It's important that you receive medical attention. I'm noting your visible injuries for the record. Can you tell me approximately what time tonight's incident began? And can you tell me what started the argument?",
+          "coverage": "full",
+          "reasoning": "The officer explicitly states that the victim should receive medical attention and inquires if the victim needs it, which directly addresses the element of medical attention."
+        },
+        "12": {
+          "officer_message": "This is very important - you are not at fault here. Can you tell me: where are your children Emily and Michael right now, are they safe? And were there any witnesses to tonight's incident besides you and Juan?",
+          "coverage": "partial",
+          "reasoning": "The officer expresses concern for the children's safety, which may imply a need for medical attention, but does not directly ask about it"
+        },
+        "14": {
+          "officer_message": "Can you tell me Juan's full name, date of birth, and physical description - height, weight, approximate age? Also, do you know if Juan had been drinking or using any substances tonight?",
+          "coverage": "none",
+          "reasoning": "The officer did not ask about medical attention in this specific question"
+        }
+      }
+    },
+    "domestic_violence_37": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_38": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_39": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_40": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_41": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_42": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_43": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_44": {
+      "covered": false,
+      "messages": {}
+    }
+  },
+  "narrative": "SACRAMENTO POLICE DEPARTMENT\nINCIDENT REPORT\n\nCase Type: Domestic Violence / Assault with a Deadly Weapon / Criminal Threats / Strangulation / Violation of Protective Order\nDate of Report: 04/28/2026\nReporting Officer: Officer Johnson, Badge #1042\nLocation of Incident: 1457 Oakwood Drive, Apartment 3B, Sacramento, California\n\nVICTIM INFORMATION:\nName: Maria Rodriguez\nDate of Birth: February 12, 1985\nRelationship to Suspect: Wife\n\nSUSPECT INFORMATION:\nName: Juan Carlos Hernandez\nDate of Birth: November 10, 1982\nAge: 40\nHeight: Approximately 5'10\"\nWeight: Approximately 180 lbs\nDescription at time of incident: White t-shirt, blue jeans, stubble, messy hair, cut on right hand\nRelationship to Victim: Husband (5 years married)\n\nWITNESS:\nName: Emily Chen\nRelationship: Next-door neighbor\n\nNARRATIVE:\n\nOn the above date, this officer responded to 1457 Oakwood Drive, Apartment 3B, Sacramento, California, in reference to a possible domestic disturbance reported by a neighbor. The call was received at approximately 2245 hours.\n\nUpon arrival, this officer made contact with the victim, Maria Rodriguez (DOB: 02/12/1985), inside the residence. The victim appeared visibly distressed, was crying, and presented with the following observable injuries: visible red marks and bruising on her neck consistent with manual strangulation, bruising on her left cheek, and a laceration on her lower lip.\n\nThis officer conducted a victim interview. The victim stated that the suspect, identified as her husband Juan Carlos Hernandez (DOB: 11/10/1982), arrived at the residence earlier in the evening after being out with friends. The victim stated the suspect smelled strongly of alcohol and appeared to be intoxicated, noting slurred speech.\n\nThe victim stated that at approximately 2245 hours, an argument began when the suspect became angry about the manner in which the victim had prepared dinner. The argument escalated. The suspect began yelling and then physically grabbed the victim. The victim stated the suspect placed both hands around her neck and squeezed, causing her to believe she was going to lose consciousness. The victim further stated the suspect struck her in the face with his fist, causing the observed bruising to her left cheek. The victim also sustained a laceration to her lower lip during the assault.\n\nThe victim stated the suspect then retrieved a kitchen knife from the kitchen area and brandished it at the victim. The victim stated the suspect held the knife directly to her throat and made verbal threats stating he was going to hurt her and the children. The suspect also made stabbing motions with the knife and continued to threaten the victim.\n\nPrior to or during the altercation, the victim stated she attempted to lock the suspect out of the residence. The suspect forcibly kicked in the front door to gain entry. Property damage to the front door was observed by this officer upon arrival. The suspect was noted to have a laceration on his right hand, consistent with the door breach.\n\nThe victim stated the couple's two minor children, Emily Rodriguez (age 7) and Michael Rodriguez (age 9), were present in the residence during the incident. The minor children were subsequently removed to a safe location by responding officers.\n\nThe victim disclosed a prior history of domestic violence involving the suspect. The victim stated there have been multiple prior incidents of physical assault, including hitting, pushing, and threatening behavior. The victim stated that a prior incident had been reported to police, resulting in the suspect's arrest for domestic battery. The suspect received no custodial sentence but was ordered to attend counseling, which the victim believes the suspect did not complete.\n\nThe victim further stated that a civil protective/restraining order is currently in place against the suspect. The victim stated the suspect is prohibited from being present at the residence. The suspect's presence at 1457 Oakwood Drive, Apartment 3B on this date constitutes a violation of said protective order.\n\nWitness Emily Chen, a neighbor residing in an adjacent unit, was identified. Ms. Chen stated she heard a commotion, came to the victim's door, and observed the suspect yelling at the victim and witnessed the suspect forcibly kick in the front door. Ms. Chen placed the call to 9-1-1.\n\nThe suspect, Juan Carlos Hernandez, was taken into custody by responding officers at the scene. The kitchen knife used in the commission of the offense was recovered by officers and secured as evidence.\n\nThis officer photographed the victim's injuries, including neck marks, facial bruising, and lip laceration. The victim was advised to seek immediate medical attention for her injuries, particularly due to the strangulation, and was provided with information regarding victim advocacy resources.\n\nEVIDENCE COLLECTED:\n- Kitchen knife (recovered and bagged by officers at scene)\n- Photographs of victim's injuries\n\nCHARGES RECOMMENDED:\n- Domestic Violence / Corporal Injury to Spouse (PC 273.5)\n- Assault with a Deadly Weapon (PC 245(a)(1))\n- Criminal Threats (PC 422)\n- Strangulation (PC 273.5(a) / PC 368 / PC 13700)\n- Violation of Protective Order (PC 273.6)\n- Vandalism / Forcible Entry (property damage to front door)\n\nReport submitted by: Officer Johnson, Badge #1042\nSacramento Police Department",
+  "narrative_coverage": {
+    "domestic_violence_01": {
+      "covered": "none",
+      "phrases": {
+        "8": "",
+        "12": ""
+      }
+    },
+    "domestic_violence_02": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_03": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_04": {
+      "covered": "full",
+      "phrases": {
+        "28": "The minor children were subsequently removed to a safe location by responding officers."
+      }
+    },
+    "domestic_violence_05": {
+      "covered": "full",
+      "phrases": {
+        "22": "The call was received at approximately 2245 hours.",
+        "44": "Report submitted by: Officer Johnson, Badge #1042"
+      }
+    },
+    "domestic_violence_06": {
+      "covered": "partial",
+      "phrases": {
+        "30": "a civil protective/restraining order is currently in place against the suspect"
+      }
+    },
+    "domestic_violence_07": {
+      "covered": "partial",
+      "phrases": {
+        "3": "Date of Report: 04/28/2026",
+        "22": "The call was received at approximately 2245 hours."
+      }
+    },
+    "domestic_violence_08": {
+      "covered": "full",
+      "phrases": {
+        "33": "was provided with information regarding victim advocacy resources"
+      }
+    },
+    "domestic_violence_09": {
+      "covered": "partial",
+      "phrases": {
+        "38": "Domestic Violence / Corporal Injury to Spouse (PC 273.5)"
+      }
+    },
+    "domestic_violence_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_11": {
+      "covered": "full",
+      "phrases": {
+        "0": "SACRAMENTO POLICE DEPARTMENT",
+        "1": "",
+        "4": "Reporting Officer: Officer Johnson, Badge #1042",
+        "14": "Height: Approximately 5'10\"",
+        "22": "this officer responded to 1457 Oakwood Drive, Apartment 3B, Sacramento, California, in reference to a possible domestic disturbance reported by a neighbor.",
+        "23": "Upon arrival, this officer made contact with the victim, Maria Rodriguez (DOB: 02/12/1985), inside the residence",
+        "45": "Sacramento Police Department"
+      }
+    },
+    "domestic_violence_12": {
+      "covered": "full",
+      "phrases": {
+        "2": "Violation of Protective Order",
+        "30": "a civil protective/restraining order is currently in place against the suspect",
+        "42": "Violation of Protective Order"
+      }
+    },
+    "domestic_violence_13": {
+      "covered": "full",
+      "phrases": {
+        "5": "Location of Incident: 1457 Oakwood Drive, Apartment 3B, Sacramento, California",
+        "27": "Property damage to the front door was observed by this officer upon arrival."
+      }
+    },
+    "domestic_violence_14": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_15": {
+      "covered": "full",
+      "phrases": {
+        "2": "Domestic Violence",
+        "6": "",
+        "7": "Name: Maria Rodriguez",
+        "9": "Relationship to Suspect: Wife",
+        "11": "Name: Juan Carlos Hernandez",
+        "17": "Husband (5 years married)",
+        "19": "Name: Emily Chen",
+        "20": "Relationship: Next-door neighbor",
+        "24": "The victim stated that the suspect, identified as her husband Juan Carlos Hernandez",
+        "28": "The victim stated the couple's two minor children, Emily Rodriguez (age 7) and Michael Rodriguez (age 9), were present in the residence during the incident.",
+        "30": "the suspect's presence at 1457 Oakwood Drive, Apartment 3B on this date constitutes a violation of said protective order",
+        "31": "the suspect yelling at the victim",
+        "38": "Domestic Violence"
+      }
+    },
+    "domestic_violence_16": {
+      "covered": "none",
+      "phrases": {
+        "2": "",
+        "17": "Husband (5 years married)",
+        "21": "",
+        "24": "The victim stated that the suspect, identified as her husband Juan Carlos Hernandez",
+        "25": "an argument began",
+        "29": "The victim stated there have been multiple prior incidents of physical assault, including hitting, pushing, and threatening behavior.",
+        "30": "the suspect's presence at 1457 Oakwood Drive, Apartment 3B on this date constitutes a violation of said protective order",
+        "31": "the suspect yelling at the victim",
+        "41": ""
+      }
+    },
+    "domestic_violence_17": {
+      "covered": "none",
+      "phrases": {
+        "18": "",
+        "31": "Witness Emily Chen, a neighbor residing in an adjacent unit, was identified"
+      }
+    },
+    "domestic_violence_18": {
+      "covered": "full",
+      "phrases": {
+        "32": "The suspect, Juan Carlos Hernandez, was taken into custody",
+        "37": "CHARGES RECOMMENDED"
+      }
+    },
+    "domestic_violence_19": {
+      "covered": "full",
+      "phrases": {
+        "28": "The victim stated the couple's two minor children, Emily Rodriguez (age 7) and Michael Rodriguez (age 9), were present in the residence during the incident."
+      }
+    },
+    "domestic_violence_20": {
+      "covered": "full",
+      "phrases": {
+        "29": "The victim disclosed a prior history of domestic violence involving the suspect."
+      }
+    },
+    "domestic_violence_21": {
+      "covered": "full",
+      "phrases": {
+        "2": "Assault with a Deadly Weapon",
+        "16": "cut on right hand",
+        "21": "",
+        "25": "The victim stated the suspect placed both hands around her neck and squeezed, causing her to believe she was going to lose consciousness.",
+        "26": "The victim stated the suspect then retrieved a kitchen knife from the kitchen area and brandished it at the victim.",
+        "27": "The suspect was noted to have a laceration on his right hand, consistent with the door breach.",
+        "29": "",
+        "31": "the suspect forcibly kick in the front door",
+        "32": "The kitchen knife used in the commission of the offense",
+        "35": "Kitchen knife",
+        "39": "Assault with a Deadly Weapon",
+        "40": "Criminal Threats (PC 422)"
+      }
+    },
+    "domestic_violence_22": {
+      "covered": "none",
+      "phrases": {
+        "6": "",
+        "13": "",
+        "21": "",
+        "23": "The victim appeared visibly distressed, was crying",
+        "24": "The victim stated the suspect smelled strongly of alcohol and appeared to be intoxicated, noting slurred speech",
+        "25": "causing her to believe she was going to lose consciousness",
+        "26": "The victim stated the suspect held the knife directly to her throat and made verbal threats stating he was going to hurt her and the children.",
+        "29": ""
+      }
+    },
+    "domestic_violence_23": {
+      "covered": "none",
+      "phrases": {
+        "10": "",
+        "15": "",
+        "16": "stubble, messy hair",
+        "24": "The victim stated the suspect smelled strongly of alcohol and appeared to be intoxicated, noting slurred speech"
+      }
+    },
+    "domestic_violence_24": {
+      "covered": "full",
+      "phrases": {
+        "32": "The kitchen knife used in the commission of the offense was recovered by officers and secured as evidence",
+        "34": "EVIDENCE COLLECTED",
+        "35": "Kitchen knife (recovered and bagged by officers at scene)"
+      }
+    },
+    "domestic_violence_25": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_26": {
+      "covered": "full",
+      "phrases": {
+        "23": "The victim appeared visibly distressed, was crying",
+        "29": ""
+      }
+    },
+    "domestic_violence_27": {
+      "covered": "full",
+      "phrases": {
+        "2": "Criminal Threats",
+        "21": "",
+        "25": "The suspect began yelling",
+        "26": "The victim stated the suspect held the knife directly to her throat and made verbal threats stating he was going to hurt her and the children.",
+        "29": "including hitting, pushing, and threatening behavior",
+        "31": "the suspect yelling at the victim",
+        "40": "Criminal Threats (PC 422)"
+      }
+    },
+    "domestic_violence_28": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_29": {
+      "covered": "partial",
+      "phrases": {
+        "2": "Assault with a Deadly Weapon",
+        "41": "Strangulation"
+      }
+    },
+    "domestic_violence_30": {
+      "covered": "none",
+      "phrases": {
+        "2": "",
+        "21": "",
+        "23": "visible red marks and bruising on her neck consistent with manual strangulation, bruising on her left cheek, and a laceration on her lower lip",
+        "25": "The victim also sustained a laceration to her lower lip during the assault. The victim stated the suspect struck her in the face with his fist, causing the observed bruising to her left cheek.",
+        "26": "The victim stated the suspect held the knife directly to her throat",
+        "29": "",
+        "31": "",
+        "33": "photographed the victim's injuries, including neck marks, facial bruising, and lip laceration",
+        "36": "Photographs of victim's injuries"
+      }
+    },
+    "domestic_violence_31": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_32": {
+      "covered": "none",
+      "phrases": {
+        "2": "",
+        "27": "Property damage to the front door was observed by this officer upon arrival.",
+        "43": "property damage to front door"
+      }
+    },
+    "domestic_violence_33": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_34": {
+      "covered": "full",
+      "phrases": {
+        "33": "strangulation",
+        "41": "Strangulation"
+      }
+    },
+    "domestic_violence_35": {
+      "covered": "partial",
+      "phrases": {
+        "2": "Strangulation",
+        "41": "Strangulation"
+      }
+    },
+    "domestic_violence_36": {
+      "covered": "none",
+      "phrases": {
+        "21": "",
+        "25": "The victim stated the suspect placed both hands around her neck and squeezed, causing her to believe she was going to lose consciousness.",
+        "29": "",
+        "33": "The victim was advised to seek immediate medical attention for her injuries"
+      }
+    },
+    "domestic_violence_37": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_38": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_39": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_40": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_41": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_42": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_43": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_44": {
+      "covered": "full",
+      "phrases": {
+        "32": "The kitchen knife used in the commission of the offense was recovered by officers and secured as evidence",
+        "35": "Kitchen knife (recovered and bagged by officers at scene)"
+      }
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "domestic_violence_01",
+        "element": "Is this individual prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "8": "",
+          "12": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_02",
+        "element": "Is this individual prohibited from possessing firearms due to a qualifying order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_03",
+        "element": "Does the report include all needed information",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_04",
+        "element": "Did the officer assist the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Good evening, ma'am. I'm Officer Johnson with the Sacramento Police Department. I'm here in response to a call about a possible disturbance at this address. Before we begin, I want you to know that you are safe now and I'm here to help. Can you please state your full name and date of birth for the record?",
+            "coverage": "partial",
+            "reasoning": "The officer's introduction and statement that they are there to help implies assistance, but does not directly state what assistance will be provided"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "28": "The minor children were subsequently removed to a safe location by responding officers."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_05",
+        "element": "How was the case received",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "22": "The call was received at approximately 2245 hours.",
+          "44": "Report submitted by: Officer Johnson, Badge #1042"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_06",
+        "element": "Was information provided about obtaining an order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "30": "a civil protective/restraining order is currently in place against the suspect"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "domestic_violence_07",
+        "element": "Is the time of the call recorded (including time of incident, time of dispatch, time of arrival)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Ms. Rodriguez, I can see the marks on your neck. It's important that you receive medical attention. I'm noting your visible injuries for the record. Can you tell me approximately what time tonight's incident began? And can you tell me what started the argument?",
+            "coverage": "partial",
+            "reasoning": "The officer asks for the approximate time the incident began, which is related to the time of the call, but does not fully record all relevant times such as time of dispatch and time of arrival."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "3": "Date of Report: 04/28/2026",
+          "22": "The call was received at approximately 2245 hours."
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "domestic_violence_08",
+        "element": "Was information provided to the victim about local service providers",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "33": "was provided with information regarding victim advocacy resources"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_09",
+        "element": "Are the elements of the crime(s) articulated to meet state and/or federal laws that address domestic violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "38": "Domestic Violence / Corporal Injury to Spouse (PC 273.5)"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "domestic_violence_10",
+        "element": "Was a threat/risk assessment tool used with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_11",
+        "element": "What were the observations upon approach",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Good evening, ma'am. I'm Officer Johnson with the Sacramento Police Department. I'm here in response to a call about a possible disturbance at this address. Before we begin, I want you to know that you are safe now and I'm here to help. Can you please state your full name and date of birth for the record?",
+            "coverage": "partial",
+            "reasoning": "The officer's presence and introduction may imply some observation upon approach, but the specifics are not addressed"
+          },
+          "8": {
+            "officer_message": "Ms. Rodriguez, I can see the marks on your neck. It's important that you receive medical attention. I'm noting your visible injuries for the record. Can you tell me approximately what time tonight's incident began? And can you tell me what started the argument?",
+            "coverage": "partial",
+            "reasoning": "The officer notes the visible injuries on the victim's neck, which is an observation upon approach, but does not fully describe all observations."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "SACRAMENTO POLICE DEPARTMENT",
+          "1": "",
+          "4": "Reporting Officer: Officer Johnson, Badge #1042",
+          "14": "Height: Approximately 5'10\"",
+          "22": "this officer responded to 1457 Oakwood Drive, Apartment 3B, Sacramento, California, in reference to a possible domestic disturbance reported by a neighbor.",
+          "23": "Upon arrival, this officer made contact with the victim, Maria Rodriguez (DOB: 02/12/1985), inside the residence",
+          "45": "Sacramento Police Department"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_12",
+        "element": "Is there a valid protection order in place",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "10": {
+            "officer_message": "You mentioned this has happened before. Have there been previous incidents where Juan was physically violent with you? Were any prior incidents ever reported to police? And is there any history of protective or restraining orders between the two of you?",
+            "coverage": "partial",
+            "reasoning": "The officer inquired about any history of protective or restraining orders between the two parties, which touches the topic of a valid protection order but does not confirm its current status."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "2": "Violation of Protective Order",
+          "30": "a civil protective/restraining order is currently in place against the suspect",
+          "42": "Violation of Protective Order"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_13",
+        "element": "Is the scene concisely described/diagramed",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "5": "Location of Incident: 1457 Oakwood Drive, Apartment 3B, Sacramento, California",
+          "27": "Property damage to the front door was observed by this officer upon arrival."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_14",
+        "element": "Were photos taken and details recorded",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_15",
+        "element": "Is the relationship of the parties identified",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Good evening, ma'am. I'm Officer Johnson with the Sacramento Police Department. I'm here in response to a call about a possible disturbance at this address. Before we begin, I want you to know that you are safe now and I'm here to help. Can you please state your full name and date of birth for the record?",
+            "coverage": "none",
+            "reasoning": "The question does not directly address the relationship of the parties, it only asks for the victim's full name and date of birth"
+          },
+          "2": {
+            "officer_message": "Ms. Rodriguez, I understand you're frightened, and that's completely understandable. I want to help ensure the safety of you and your children. Take a deep breath. Can you tell me what happened tonight? Who is Juan, and what is your relationship with him?",
+            "coverage": "partial",
+            "reasoning": "The officer asks about the relationship with Juan, which implies the relationship of the parties but does not fully articulate it."
+          },
+          "4": {
+            "officer_message": "I hear you, Ms. Rodriguez. You're doing the right thing by talking to me. I need to ask you some important questions. Where is Juan right now? And can you describe what he looked like - what was he wearing tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer asked about the location and description of Juan, which may imply a relationship, but does not directly ask about the relationship of the parties"
+          },
+          "10": {
+            "officer_message": "You mentioned this has happened before. Have there been previous incidents where Juan was physically violent with you? Were any prior incidents ever reported to police? And is there any history of protective or restraining orders between the two of you?",
+            "coverage": "partial",
+            "reasoning": "The context implies a relationship between the victim and Juan, but the officer's question does not explicitly ask about the nature of their relationship beyond the history of violence and protective orders."
+          },
+          "12": {
+            "officer_message": "This is very important - you are not at fault here. Can you tell me: where are your children Emily and Michael right now, are they safe? And were there any witnesses to tonight's incident besides you and Juan?",
+            "coverage": "partial",
+            "reasoning": "The officer asks about the children, implying a relationship but not directly asking about it"
+          },
+          "14": {
+            "officer_message": "Can you tell me Juan's full name, date of birth, and physical description - height, weight, approximate age? Also, do you know if Juan had been drinking or using any substances tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer asked for Juan's full name, which implies a relationship but does not directly ask about it"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "2": "Domestic Violence",
+          "6": "",
+          "7": "Name: Maria Rodriguez",
+          "9": "Relationship to Suspect: Wife",
+          "11": "Name: Juan Carlos Hernandez",
+          "17": "Husband (5 years married)",
+          "19": "Name: Emily Chen",
+          "20": "Relationship: Next-door neighbor",
+          "24": "The victim stated that the suspect, identified as her husband Juan Carlos Hernandez",
+          "28": "The victim stated the couple's two minor children, Emily Rodriguez (age 7) and Michael Rodriguez (age 9), were present in the residence during the incident.",
+          "30": "the suspect's presence at 1457 Oakwood Drive, Apartment 3B on this date constitutes a violation of said protective order",
+          "31": "the suspect yelling at the victim",
+          "38": "Domestic Violence"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_16",
+        "element": "What is the history of the relationship (include frequency of any violence, intimidation, and threats)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "2": {
+            "officer_message": "Ms. Rodriguez, I understand you're frightened, and that's completely understandable. I want to help ensure the safety of you and your children. Take a deep breath. Can you tell me what happened tonight? Who is Juan, and what is your relationship with him?",
+            "coverage": "partial",
+            "reasoning": "The officer's question about what happened tonight may elicit information about the history of the relationship, but it is indirect and does not specifically ask about previous incidents or the frequency of violence, intimidation, and threats."
+          },
+          "8": {
+            "officer_message": "Ms. Rodriguez, I can see the marks on your neck. It's important that you receive medical attention. I'm noting your visible injuries for the record. Can you tell me approximately what time tonight's incident began? And can you tell me what started the argument?",
+            "coverage": "partial",
+            "reasoning": "The officer asks what started the argument, which touches on the history of the relationship, but does not fully inquire about the frequency of any violence, intimidation, and threats."
+          },
+          "10": {
+            "officer_message": "You mentioned this has happened before. Have there been previous incidents where Juan was physically violent with you? Were any prior incidents ever reported to police? And is there any history of protective or restraining orders between the two of you?",
+            "coverage": "full",
+            "reasoning": "The officer asked about previous incidents of physical violence, which directly addresses the history of the relationship and includes frequency of violence."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "2": "",
+          "17": "Husband (5 years married)",
+          "21": "",
+          "24": "The victim stated that the suspect, identified as her husband Juan Carlos Hernandez",
+          "25": "an argument began",
+          "29": "The victim stated there have been multiple prior incidents of physical assault, including hitting, pushing, and threatening behavior.",
+          "30": "the suspect's presence at 1457 Oakwood Drive, Apartment 3B on this date constitutes a violation of said protective order",
+          "31": "the suspect yelling at the victim",
+          "41": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_17",
+        "element": "Were all witnesses interviewed and documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "18": "",
+          "31": "Witness Emily Chen, a neighbor residing in an adjacent unit, was identified"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_18",
+        "element": "Was an arrest made",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "32": "The suspect, Juan Carlos Hernandez, was taken into custody",
+          "37": "CHARGES RECOMMENDED"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_19",
+        "element": "Were there children on the scene",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "12": {
+            "officer_message": "This is very important - you are not at fault here. Can you tell me: where are your children Emily and Michael right now, are they safe? And were there any witnesses to tonight's incident besides you and Juan?",
+            "coverage": "partial",
+            "reasoning": "The officer inquires about the children's safety and location, indicating awareness of their presence"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "28": "The victim stated the couple's two minor children, Emily Rodriguez (age 7) and Michael Rodriguez (age 9), were present in the residence during the incident."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_20",
+        "element": "Was information about previous incidents documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "10": {
+            "officer_message": "You mentioned this has happened before. Have there been previous incidents where Juan was physically violent with you? Were any prior incidents ever reported to police? And is there any history of protective or restraining orders between the two of you?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if any prior incidents were reported to police, which partially addresses documenting information about previous incidents but does not confirm if all relevant details were captured."
+          },
+          "12": {
+            "officer_message": "This is very important - you are not at fault here. Can you tell me: where are your children Emily and Michael right now, are they safe? And were there any witnesses to tonight's incident besides you and Juan?",
+            "coverage": "partial",
+            "reasoning": "The officer's question about the children and the incident implies a history or previous incidents but does not directly ask about them"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "29": "The victim disclosed a prior history of domestic violence involving the suspect."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_21",
+        "element": "Were weapons/objects used",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "4": {
+            "officer_message": "I hear you, Ms. Rodriguez. You're doing the right thing by talking to me. I need to ask you some important questions. Where is Juan right now? And can you describe what he looked like - what was he wearing tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer asked about Juan's appearance, which may include information about weapons or objects used, but does not directly ask about them"
+          },
+          "6": {
+            "officer_message": "Thank you. Did Juan physically touch you or harm you in any way tonight - hit, push, grab, or otherwise make physical contact? I want to make sure you don't have any injuries that need medical attention.",
+            "coverage": "full",
+            "reasoning": "The officer's question directly asks about physical contact, which implies the use of weapons or objects."
+          },
+          "14": {
+            "officer_message": "Can you tell me Juan's full name, date of birth, and physical description - height, weight, approximate age? Also, do you know if Juan had been drinking or using any substances tonight?",
+            "coverage": "none",
+            "reasoning": "The officer did not ask about weapons/objects used in this specific question"
+          },
+          "16": {
+            "officer_message": "One final question: when Juan had the kitchen knife, did he actually point it at you or make any stabbing motion? Or was he primarily waving it around? And do you know where the knife is now?",
+            "coverage": "full",
+            "reasoning": "The question directly asks about the use of a weapon (kitchen knife) and its handling, which fully addresses the element of weapons/objects used."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "2": "Assault with a Deadly Weapon",
+          "16": "cut on right hand",
+          "21": "",
+          "25": "The victim stated the suspect placed both hands around her neck and squeezed, causing her to believe she was going to lose consciousness.",
+          "26": "The victim stated the suspect then retrieved a kitchen knife from the kitchen area and brandished it at the victim.",
+          "27": "The suspect was noted to have a laceration on his right hand, consistent with the door breach.",
+          "29": "",
+          "31": "the suspect forcibly kick in the front door",
+          "32": "The kitchen knife used in the commission of the offense",
+          "35": "Kitchen knife",
+          "39": "Assault with a Deadly Weapon",
+          "40": "Criminal Threats (PC 422)"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_22",
+        "element": "What was the emotional state of the victim",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Good evening, ma'am. I'm Officer Johnson with the Sacramento Police Department. I'm here in response to a call about a possible disturbance at this address. Before we begin, I want you to know that you are safe now and I'm here to help. Can you please state your full name and date of birth for the record?",
+            "coverage": "none",
+            "reasoning": "The question does not address the emotional state of the victim, it only asks for their name and date of birth"
+          },
+          "2": {
+            "officer_message": "Ms. Rodriguez, I understand you're frightened, and that's completely understandable. I want to help ensure the safety of you and your children. Take a deep breath. Can you tell me what happened tonight? Who is Juan, and what is your relationship with him?",
+            "coverage": "partial",
+            "reasoning": "The officer acknowledges the victim is frightened, which touches on the emotional state of the victim but does not directly ask about it."
+          },
+          "4": {
+            "officer_message": "I hear you, Ms. Rodriguez. You're doing the right thing by talking to me. I need to ask you some important questions. Where is Juan right now? And can you describe what he looked like - what was he wearing tonight?",
+            "coverage": "none",
+            "reasoning": "The officer did not ask about the emotional state of the victim"
+          },
+          "14": {
+            "officer_message": "Can you tell me Juan's full name, date of birth, and physical description - height, weight, approximate age? Also, do you know if Juan had been drinking or using any substances tonight?",
+            "coverage": "none",
+            "reasoning": "The officer did not ask about the emotional state of the victim in this specific question"
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "6": "",
+          "13": "",
+          "21": "",
+          "23": "The victim appeared visibly distressed, was crying",
+          "24": "The victim stated the suspect smelled strongly of alcohol and appeared to be intoxicated, noting slurred speech",
+          "25": "causing her to believe she was going to lose consciousness",
+          "26": "The victim stated the suspect held the knife directly to her throat and made verbal threats stating he was going to hurt her and the children.",
+          "29": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_23",
+        "element": "What was the emotional state of the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "14": {
+            "officer_message": "Can you tell me Juan's full name, date of birth, and physical description - height, weight, approximate age? Also, do you know if Juan had been drinking or using any substances tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer asked if Juan had been drinking or using substances, which may relate to his emotional state"
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "10": "",
+          "15": "",
+          "16": "stubble, messy hair",
+          "24": "The victim stated the suspect smelled strongly of alcohol and appeared to be intoxicated, noting slurred speech"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_24",
+        "element": "What evidence was collected",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "16": {
+            "officer_message": "One final question: when Juan had the kitchen knife, did he actually point it at you or make any stabbing motion? Or was he primarily waving it around? And do you know where the knife is now?",
+            "coverage": "partial",
+            "reasoning": "The question about the current location of the knife implies the collection of evidence, which partially addresses the element of what evidence was collected."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "32": "The kitchen knife used in the commission of the offense was recovered by officers and secured as evidence",
+          "34": "EVIDENCE COLLECTED",
+          "35": "Kitchen knife (recovered and bagged by officers at scene)"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_25",
+        "element": "Was a threat/risk assessment tool used with the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_26",
+        "element": "Is evidence of fear articulated in the report",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "23": "The victim appeared visibly distressed, was crying",
+          "29": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_27",
+        "element": "Have all threats been clearly documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "I hear you, Ms. Rodriguez. You're doing the right thing by talking to me. I need to ask you some important questions. Where is Juan right now? And can you describe what he looked like - what was he wearing tonight?",
+            "coverage": "none",
+            "reasoning": "The officer did not ask about threats"
+          },
+          "12": {
+            "officer_message": "This is very important - you are not at fault here. Can you tell me: where are your children Emily and Michael right now, are they safe? And were there any witnesses to tonight's incident besides you and Juan?",
+            "coverage": "partial",
+            "reasoning": "The officer asks about witnesses, which may include those who heard threats, but does not directly ask about threats"
+          },
+          "14": {
+            "officer_message": "Can you tell me Juan's full name, date of birth, and physical description - height, weight, approximate age? Also, do you know if Juan had been drinking or using any substances tonight?",
+            "coverage": "none",
+            "reasoning": "The officer did not ask about threats in this specific question"
+          },
+          "16": {
+            "officer_message": "One final question: when Juan had the kitchen knife, did he actually point it at you or make any stabbing motion? Or was he primarily waving it around? And do you know where the knife is now?",
+            "coverage": "partial",
+            "reasoning": "The question implies the possibility of a threat by asking if Juan pointed the knife or made a stabbing motion, which partially addresses the element of all threats clearly documented."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "2": "Criminal Threats",
+          "21": "",
+          "25": "The suspect began yelling",
+          "26": "The victim stated the suspect held the knife directly to her throat and made verbal threats stating he was going to hurt her and the children.",
+          "29": "including hitting, pushing, and threatening behavior",
+          "31": "the suspect yelling at the victim",
+          "40": "Criminal Threats (PC 422)"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_28",
+        "element": "Was the proper protocol followed if the suspect was not on the scene",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_29",
+        "element": "Is the use of coercion and/or force articulated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "2": "Assault with a Deadly Weapon",
+          "41": "Strangulation"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "domestic_violence_30",
+        "element": "Have all injuries (visible and non-visible) been documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "4": {
+            "officer_message": "I hear you, Ms. Rodriguez. You're doing the right thing by talking to me. I need to ask you some important questions. Where is Juan right now? And can you describe what he looked like - what was he wearing tonight?",
+            "coverage": "none",
+            "reasoning": "The officer did not ask about injuries"
+          },
+          "6": {
+            "officer_message": "Thank you. Did Juan physically touch you or harm you in any way tonight - hit, push, grab, or otherwise make physical contact? I want to make sure you don't have any injuries that need medical attention.",
+            "coverage": "full",
+            "reasoning": "The officer inquires about physical harm and the need for medical attention, which would document all injuries, both visible and non-visible."
+          },
+          "8": {
+            "officer_message": "Ms. Rodriguez, I can see the marks on your neck. It's important that you receive medical attention. I'm noting your visible injuries for the record. Can you tell me approximately what time tonight's incident began? And can you tell me what started the argument?",
+            "coverage": "partial",
+            "reasoning": "The officer notes the visible injuries on the victim's neck, which is a documentation of visible injuries, but does not fully inquire about all injuries, including non-visible ones."
+          },
+          "14": {
+            "officer_message": "Can you tell me Juan's full name, date of birth, and physical description - height, weight, approximate age? Also, do you know if Juan had been drinking or using any substances tonight?",
+            "coverage": "none",
+            "reasoning": "The officer did not ask about injuries in this specific question"
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "2": "",
+          "21": "",
+          "23": "visible red marks and bruising on her neck consistent with manual strangulation, bruising on her left cheek, and a laceration on her lower lip",
+          "25": "The victim also sustained a laceration to her lower lip during the assault. The victim stated the suspect struck her in the face with his fist, causing the observed bruising to her left cheek.",
+          "26": "The victim stated the suspect held the knife directly to her throat",
+          "29": "",
+          "31": "",
+          "33": "photographed the victim's injuries, including neck marks, facial bruising, and lip laceration",
+          "36": "Photographs of victim's injuries"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_31",
+        "element": "Were injuries existing or new",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_32",
+        "element": "Was there any property damage, theft, or burglary",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "2": "",
+          "27": "Property damage to the front door was observed by this officer upon arrival.",
+          "43": "property damage to front door"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_33",
+        "element": "Are stalking behaviors identified",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_34",
+        "element": "Did the officer inquire about possible strangulation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "33": "strangulation",
+          "41": "Strangulation"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_35",
+        "element": "Did the victim report being strangled",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "2": "Strangulation",
+          "41": "Strangulation"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "domestic_violence_36",
+        "element": "Did the victim request/need medical attention",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Good evening, ma'am. I'm Officer Johnson with the Sacramento Police Department. I'm here in response to a call about a possible disturbance at this address. Before we begin, I want you to know that you are safe now and I'm here to help. Can you please state your full name and date of birth for the record?",
+            "coverage": "none",
+            "reasoning": "The question does not address medical attention, it only asks for the victim's name and date of birth"
+          },
+          "2": {
+            "officer_message": "Ms. Rodriguez, I understand you're frightened, and that's completely understandable. I want to help ensure the safety of you and your children. Take a deep breath. Can you tell me what happened tonight? Who is Juan, and what is your relationship with him?",
+            "coverage": "partial",
+            "reasoning": "The officer expresses concern for the safety of the victim and her children, which may imply a need for medical attention but does not directly ask about it."
+          },
+          "4": {
+            "officer_message": "I hear you, Ms. Rodriguez. You're doing the right thing by talking to me. I need to ask you some important questions. Where is Juan right now? And can you describe what he looked like - what was he wearing tonight?",
+            "coverage": "none",
+            "reasoning": "The officer did not ask about medical attention"
+          },
+          "6": {
+            "officer_message": "Thank you. Did Juan physically touch you or harm you in any way tonight - hit, push, grab, or otherwise make physical contact? I want to make sure you don't have any injuries that need medical attention.",
+            "coverage": "full",
+            "reasoning": "The officer asks if the victim needs medical attention, directly addressing the element of medical attention."
+          },
+          "8": {
+            "officer_message": "Ms. Rodriguez, I can see the marks on your neck. It's important that you receive medical attention. I'm noting your visible injuries for the record. Can you tell me approximately what time tonight's incident began? And can you tell me what started the argument?",
+            "coverage": "full",
+            "reasoning": "The officer explicitly states that the victim should receive medical attention and inquires if the victim needs it, which directly addresses the element of medical attention."
+          },
+          "12": {
+            "officer_message": "This is very important - you are not at fault here. Can you tell me: where are your children Emily and Michael right now, are they safe? And were there any witnesses to tonight's incident besides you and Juan?",
+            "coverage": "partial",
+            "reasoning": "The officer expresses concern for the children's safety, which may imply a need for medical attention, but does not directly ask about it"
+          },
+          "14": {
+            "officer_message": "Can you tell me Juan's full name, date of birth, and physical description - height, weight, approximate age? Also, do you know if Juan had been drinking or using any substances tonight?",
+            "coverage": "none",
+            "reasoning": "The officer did not ask about medical attention in this specific question"
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "21": "",
+          "25": "The victim stated the suspect placed both hands around her neck and squeezed, causing her to believe she was going to lose consciousness.",
+          "29": "",
+          "33": "The victim was advised to seek immediate medical attention for her injuries"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_37",
+        "element": "Did the victim report sexual violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_38",
+        "element": "Were all spontaneous statements captured",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_39",
+        "element": "Did the officer ask about firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_40",
+        "element": "Did the suspect use firearms during the incident",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_41",
+        "element": "Did the suspect make threats to use firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_42",
+        "element": "Does the suspect have access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_43",
+        "element": "Did the victim express fear about the suspect's access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_44",
+        "element": "Were firearms/weapons confiscated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "32": "The kitchen knife used in the commission of the offense was recovered by officers and secured as evidence",
+          "35": "Kitchen knife (recovered and bagged by officers at scene)"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      }
+    ],
+    "contradictions_interview": [],
+    "contradictions_narrative": [
+      {
+        "element_id": "domestic_violence_15",
+        "element": "Is the relationship of the parties identified",
+        "location": 20,
+        "source": "narrative",
+        "phrase": "Next-door neighbor",
+        "contradicts": "the parties are in an intimate partner relationship, having been married for 5 years",
+        "explanation": "The text states the parties are next-door neighbors, which directly conflicts with the established fact that they are in an intimate partner relationship, having been married for 5 years."
+      }
+    ],
+    "grammar": [
+      {
+        "chunk": 25,
+        "source": "llm",
+        "error_type": "verb tense inconsistencies",
+        "excerpt": "The argument escalated. The suspect began yelling and then physically grabbed the victim.",
+        "suggestion": "The argument escalated; then the suspect began yelling and physically grabbed the victim."
+      },
+      {
+        "chunk": 25,
+        "source": "llm",
+        "error_type": "sentence fragments",
+        "excerpt": "The argument escalated.",
+        "suggestion": "The argument escalated; then the suspect began yelling and physically grabbed the victim."
+      },
+      {
+        "chunk": 26,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "The victim stated the suspect then retrieved a kitchen knife from the kitchen area and brandished it at the victim. The victim stated the suspect held the knife directly to her throat and made verbal threats stating he was going to hurt her and the children.",
+        "suggestion": "The victim stated the suspect then retrieved a kitchen knife from the kitchen area and brandished it at the victim. The victim stated the suspect held the knife directly to the victim's throat and made verbal threats stating he was going to hurt the victim and the children."
+      },
+      {
+        "chunk": 29,
+        "source": "llm",
+        "error_type": "verb tense inconsistencies",
+        "excerpt": "The victim stated there have been multiple prior incidents of physical assault, including hitting, pushing, and threatening behavior.",
+        "suggestion": "The victim stated that there had been multiple prior incidents of physical assault, including hitting, pushing, and threatening behavior."
+      },
+      {
+        "chunk": 31,
+        "source": "llm",
+        "error_type": "run-on sentence",
+        "excerpt": "Ms. Chen stated she heard a commotion, came to the victim's door, and observed the suspect yelling at the victim and witnessed the suspect forcibly kick in the front door.",
+        "suggestion": "Ms. Chen stated she heard a commotion and came to the victim's door. There, she observed the suspect yelling at the victim and witnessed the suspect forcibly kick in the front door."
+      }
+    ],
+    "style": [
+      {
+        "chunk": 5,
+        "rule": "Rule 12: Use specific, concrete language rather than vague or abstract terms",
+        "error_type": "Lack of specific details",
+        "excerpt": "Location of Incident: 1457 Oakwood Drive, Apartment 3B, Sacramento, California",
+        "suggestion": "Location of Incident: The incident occurred at 1457 Oakwood Drive, Apartment 3B, Sacramento, California, which is a residential apartment complex located in the northwest part of the city."
+      },
+      {
+        "chunk": 5,
+        "rule": "Rule 11: Answer the six basic questions for every report: Who, What, Where, When, Why, and How",
+        "error_type": "Missing key details",
+        "excerpt": "Location of Incident: 1457 Oakwood Drive, Apartment 3B, Sacramento, California",
+        "suggestion": "Location of Incident: On [date], at approximately [time], the incident occurred at 1457 Oakwood Drive, Apartment 3B, Sacramento, California, involving [who] and resulting in [what]."
+      },
+      {
+        "chunk": 7,
+        "rule": "Rule 11",
+        "error_type": "Lack of detail and failure to answer the six basic questions",
+        "excerpt": "Name: Maria Rodriguez",
+        "suggestion": "Provide more details about Maria Rodriguez, such as her role in the incident, her relationship to the suspect, and any relevant actions or statements she made. For example: 'Maria Rodriguez, the victim and wife of the suspect, reported that she was assaulted by her husband during a domestic dispute.'"
+      },
+      {
+        "chunk": 7,
+        "rule": "Rule 12",
+        "error_type": "Lack of specific, concrete language",
+        "excerpt": "Name: Maria Rodriguez",
+        "suggestion": "Provide more specific and concrete information about Maria Rodriguez, such as her age, date of birth, and address. For example: 'Maria Rodriguez, a 37-year-old female, born on February 12, 1985, and residing at 1457 Oakwood Drive, Apartment 3B, Sacramento, California.'"
+      },
+      {
+        "chunk": 7,
+        "rule": "Rule 2",
+        "error_type": "Conclusory statement",
+        "excerpt": "Name: Maria Rodriguez",
+        "suggestion": "Instead of simply stating Maria Rodriguez's name, provide more context and details about her involvement in the incident. For example: 'Maria Rodriguez, who had visible injuries and appeared distraught, reported that she was assaulted by her husband during a domestic dispute.'"
+      },
+      {
+        "chunk": 8,
+        "rule": "Rule 2, Rule 5, and Rule 11",
+        "error_type": "Lack of observable facts, failure to attribute statement, and failure to answer basic questions",
+        "excerpt": "Date of Birth: February 12, 1985",
+        "suggestion": "The victim, Maria Rodriguez, was born on February 12, 1985, as stated in her identification. This information was obtained from her driver's license, which I reviewed during the investigation. The victim's date of birth is relevant to the incident, as it helps establish her identity and provides context for the events that occurred."
+      },
+      {
+        "chunk": 8,
+        "rule": "Rule 10",
+        "error_type": "Lack of chronological order",
+        "excerpt": "Date of Birth: February 12, 1985",
+        "suggestion": "This information should be presented in the context of the narrative, such as when the officer first made contact with the victim and obtained her identification. For example: 'Upon initial contact, I obtained the victim's identification and noted her date of birth as February 12, 1985.'"
+      },
+      {
+        "chunk": 8,
+        "rule": "Rule 12",
+        "error_type": "Lack of specific, concrete language",
+        "excerpt": "Date of Birth: February 12, 1985",
+        "suggestion": "Instead of simply stating the victim's date of birth, provide more context and detail. For example: 'The victim, Maria Rodriguez, was a 38-year-old female, born on February 12, 1985, as stated in her California driver's license, which I reviewed during the investigation.'"
+      },
+      {
+        "chunk": 9,
+        "rule": "Rule 5",
+        "error_type": "Lack of attribution",
+        "excerpt": "The reporting person is the wife of the suspect",
+        "suggestion": "The victim stated that she is the wife of the suspect."
+      },
+      {
+        "chunk": 9,
+        "rule": "Rule 14",
+        "error_type": "Pronoun ambiguity",
+        "excerpt": "The reporting person is the wife of the suspect",
+        "suggestion": "The victim, who is the wife of Juan Carlos Hernandez, reported the incident."
+      },
+      {
+        "chunk": 11,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "Name: Juan Carlos Hernandez",
+        "suggestion": "Instead of just stating the name, provide observable facts that support the identification of the suspect, such as 'The suspect was identified as Juan Carlos Hernandez, a 40-year-old male, based on his California driver's license and confirmation by the victim.'"
+      },
+      {
+        "chunk": 11,
+        "rule": "Rule 5",
+        "error_type": "lack of attribution",
+        "excerpt": "Name: Juan Carlos Hernandez",
+        "suggestion": "Attribute the identification of the suspect to the person who provided the information, such as 'The victim stated that the suspect's name was Juan Carlos Hernandez.'"
+      },
+      {
+        "chunk": 11,
+        "rule": "Rule 10",
+        "error_type": "lack of chronological context",
+        "excerpt": "Name: Juan Carlos Hernandez",
+        "suggestion": "Provide the chronological context for the identification of the suspect, such as 'At approximately 2245 hours, the victim identified the suspect as Juan Carlos Hernandez.'"
+      },
+      {
+        "chunk": 12,
+        "rule": "Rule 2: Never state conclusions without the observable facts that support them, and Rule 15: Use past tense throughout the narrative",
+        "error_type": "lack of observable facts and incorrect tense",
+        "excerpt": "Date of Birth: November 10, 1982",
+        "suggestion": "I observed the suspect's identification, which listed his date of birth as November 10, 1982."
+      },
+      {
+        "chunk": 12,
+        "rule": "Rule 5: Attribute every statement to its speaker",
+        "error_type": "unattributed statement",
+        "excerpt": "Date of Birth: November 10, 1982",
+        "suggestion": "The suspect's identification, which I observed, listed his date of birth as November 10, 1982."
+      },
+      {
+        "chunk": 12,
+        "rule": "Rule 6: Every factual claim must be accurate and complete",
+        "error_type": "incomplete information",
+        "excerpt": "Date of Birth: November 10, 1982",
+        "suggestion": "I observed the suspect's identification, which listed his date of birth as November 10, 1982, and confirmed this information through dispatch."
+      },
+      {
+        "chunk": 13,
+        "rule": "Rule 12",
+        "error_type": "Vague term",
+        "excerpt": "Age: 40",
+        "suggestion": "Age: exactly 40 years old"
+      },
+      {
+        "chunk": 13,
+        "rule": "Rule 11",
+        "error_type": "Lack of detail",
+        "excerpt": "Age: 40",
+        "suggestion": "The suspect, Juan Carlos Hernandez, was exactly 40 years old at the time of the incident."
+      },
+      {
+        "chunk": 14,
+        "rule": "Rule 12",
+        "error_type": "Vague term",
+        "excerpt": "Approximately 5'10\"",
+        "suggestion": "Exactly 5 feet 10 inches or 5 feet 9 inches to 5 feet 11 inches to provide a more precise range"
+      },
+      {
+        "chunk": 14,
+        "rule": "Rule 2",
+        "error_type": "Lack of observable facts",
+        "excerpt": "Height: Approximately 5'10\"",
+        "suggestion": "The suspect's height was measured to be exactly 5 feet 10 inches or was estimated to be between 5 feet 9 inches and 5 feet 11 inches based on comparison to a known object or person"
+      },
+      {
+        "chunk": 14,
+        "rule": "Rule 9",
+        "error_type": "Unexplained unit of measurement",
+        "excerpt": "Approximately 5'10\"",
+        "suggestion": "Exactly 70 inches or 178 centimeters to provide a clear and standard unit of measurement"
+      },
+      {
+        "chunk": 15,
+        "rule": "12",
+        "error_type": "vague term",
+        "excerpt": "Approximately 180 lbs",
+        "suggestion": "The suspect weighed 180 pounds."
+      },
+      {
+        "chunk": 15,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "Approximately 180 lbs",
+        "suggestion": "The suspect appeared to weigh approximately 180 pounds based on my observation."
+      },
+      {
+        "chunk": 16,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "notable physical characteristics including stubble and messy hair",
+        "suggestion": "The individual had facial hair that appeared to be several days old and his hair was disheveled."
+      },
+      {
+        "chunk": 16,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "a visible cut on their right hand",
+        "suggestion": "The individual had a laceration on the dorsal surface of his right hand, approximately 2 inches in length."
+      },
+      {
+        "chunk": 17,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "Husband (5 years married)",
+        "suggestion": "The victim stated that she has been married to the suspect for 5 years."
+      },
+      {
+        "chunk": 17,
+        "rule": "Rule 5",
+        "error_type": "lack of attribution",
+        "excerpt": "Husband (5 years married)",
+        "suggestion": "The victim stated that she has been married to the suspect for 5 years."
+      },
+      {
+        "chunk": 17,
+        "rule": "Rule 11",
+        "error_type": "incomplete information",
+        "excerpt": "Husband (5 years married)",
+        "suggestion": "The victim, who has been married to the suspect for 5 years, reported the incident."
+      },
+      {
+        "chunk": 17,
+        "rule": "Rule 14",
+        "error_type": "pronoun clarity",
+        "excerpt": "Husband (5 years married)",
+        "suggestion": "The victim stated that she has been married to her husband, the suspect, for 5 years."
+      },
+      {
+        "chunk": 19,
+        "rule": "Rule 5",
+        "error_type": "Lack of attribution",
+        "excerpt": "Name: Emily Chen",
+        "suggestion": "The witness, Emily Chen, was identified by the victim as a next-door neighbor."
+      },
+      {
+        "chunk": 19,
+        "rule": "Rule 11",
+        "error_type": "Insufficient information",
+        "excerpt": "Name: Emily Chen",
+        "suggestion": "The witness, Emily Chen, a 30-year-old female, who resides at 1457 Oakwood Drive, Apartment 4B, was interviewed and provided a statement regarding the incident."
+      },
+      {
+        "chunk": 19,
+        "rule": "Rule 12",
+        "error_type": "Lack of specific details",
+        "excerpt": "Name: Emily Chen",
+        "suggestion": "The witness, Emily Chen, a 30-year-old female, who resides at 1457 Oakwood Drive, Apartment 4B, was interviewed and provided a detailed statement regarding the incident, including the time she witnessed the suspect yelling at the victim."
+      },
+      {
+        "chunk": 20,
+        "rule": "Rule 5: Attribute every statement to its speaker",
+        "error_type": "Lack of attribution",
+        "excerpt": "Relationship: Next-door neighbor",
+        "suggestion": "The witness, Emily Chen, stated that she was the next-door neighbor."
+      },
+      {
+        "chunk": 20,
+        "rule": "Rule 11: Answer the six basic questions for every report",
+        "error_type": "Insufficient information",
+        "excerpt": "Relationship: Next-door neighbor",
+        "suggestion": "The witness, Emily Chen, who is the next-door neighbor, provided information about the incident. She was present at the scene and observed the suspect's actions."
+      },
+      {
+        "chunk": 20,
+        "rule": "Rule 12: Use specific, concrete language",
+        "error_type": "Vague language",
+        "excerpt": "Relationship: Next-door neighbor",
+        "suggestion": "The witness, Emily Chen, lived in the adjacent apartment and had a clear view of the incident location."
+      },
+      {
+        "chunk": 21,
+        "rule": "Rule 10",
+        "error_type": "chronological order",
+        "excerpt": "A neighbor reported a possible domestic disturbance at 1457 Oakwood Drive, Apartment 3B, in Sacramento, California, prompting this officer to respond to the scene.",
+        "suggestion": "The officer responded to the scene after a neighbor reported a possible domestic disturbance at 1457 Oakwood Drive, Apartment 3B, in Sacramento, California."
+      },
+      {
+        "chunk": 21,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "A neighbor reported a possible domestic disturbance",
+        "suggestion": "A neighbor reported hearing loud yelling and screaming coming from 1457 Oakwood Drive, Apartment 3B, in Sacramento, California, which prompted this officer to respond to the scene."
+      },
+      {
+        "chunk": 21,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "The call was received by dispatch at approximately 2245 hours",
+        "suggestion": "I received the call from dispatch at approximately 2245 hours"
+      },
+      {
+        "chunk": 22,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "The call was received at approximately 2245 hours.",
+        "suggestion": "I received the call at approximately 2245 hours."
+      },
+      {
+        "chunk": 22,
+        "rule": "10",
+        "error_type": "chronological order",
+        "excerpt": "On the above date, this officer responded to 1457 Oakwood Drive, Apartment 3B, Sacramento, California, in reference to a possible domestic disturbance reported by a neighbor.",
+        "suggestion": "This officer responded to 1457 Oakwood Drive, Apartment 3B, Sacramento, California, at approximately 2245 hours, in reference to a possible domestic disturbance reported by a neighbor."
+      },
+      {
+        "chunk": 23,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "visible red marks and bruising on her neck consistent with manual strangulation",
+        "suggestion": "visible red marks and bruising on her neck, which were consistent with the victim's report of being grabbed by the throat"
+      },
+      {
+        "chunk": 23,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "The victim appeared visibly distressed, was crying, and presented with the following observable injuries",
+        "suggestion": "I observed the victim to be visibly distressed and crying, and I noted the following observable injuries"
+      },
+      {
+        "chunk": 24,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "The victim stated that the suspect, identified as her husband Juan Carlos Hernandez (DOB: 11/10/1982), arrived at the residence earlier in the evening after being out with friends.",
+        "suggestion": "I conducted a victim interview, during which the victim told me that her husband, Juan Carlos Hernandez (DOB: 11/10/1982), arrived at the residence earlier in the evening after I had been out with friends is incorrect, instead: The victim told me her husband, Juan Carlos Hernandez (DOB: 11/10/1982), arrived at the residence earlier in the evening after being out with friends."
+      },
+      {
+        "chunk": 24,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "The victim stated the suspect smelled strongly of alcohol and appeared to be intoxicated, noting slurred speech.",
+        "suggestion": "The victim stated that her husband's breath smelled strongly of alcohol, his speech was slurred, and he stumbled when he walked."
+      },
+      {
+        "chunk": 25,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "causing her to believe she was going to lose consciousness",
+        "suggestion": "causing her to experience difficulty breathing and feel lightheaded"
+      },
+      {
+        "chunk": 25,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "causing the observed bruising to her left cheek",
+        "suggestion": "striking her in the face with his fist, resulting in visible bruising to her left cheek"
+      },
+      {
+        "chunk": 25,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "the argument escalated",
+        "suggestion": "the argument became more intense, with the suspect raising his voice and using profanity"
+      },
+      {
+        "chunk": 26,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "The victim stated the suspect made verbal threats stating he was going to hurt her and the children.",
+        "suggestion": "The victim stated the suspect said, 'I'm going to hurt you and the children,' while holding the knife to her throat."
+      },
+      {
+        "chunk": 26,
+        "rule": "Rule 4",
+        "error_type": "paraphrased quote",
+        "excerpt": "The victim stated the suspect made verbal threats stating he was going to hurt her and the children.",
+        "suggestion": "The victim stated the suspect said, 'I'm going to hurt you and the children,' while holding the knife to her throat."
+      },
+      {
+        "chunk": 26,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "The suspect also made stabbing motions with the knife and continued to threaten the victim.",
+        "suggestion": "The victim stated the suspect also made stabbing motions with the knife and continued to threaten her."
+      },
+      {
+        "chunk": 27,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "Property damage to the front door was observed by this officer upon arrival.",
+        "suggestion": "I observed property damage to the front door upon arrival."
+      },
+      {
+        "chunk": 27,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "The suspect was noted to have a laceration on his right hand, consistent with the door breach.",
+        "suggestion": "I noted that the suspect had a laceration on his right hand, consistent with the door breach."
+      },
+      {
+        "chunk": 28,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "The minor children were subsequently removed to a safe location by responding officers.",
+        "suggestion": "I removed the minor children to a safe location with the assistance of responding officers."
+      },
+      {
+        "chunk": 28,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "The victim stated the couple's two minor children, Emily Rodriguez (age 7) and Michael Rodriguez (age 9), were present in the residence during the incident.",
+        "suggestion": "The victim told me that her children, Emily Rodriguez (age 7) and Michael Rodriguez (age 9), were in the apartment when the incident occurred. She said they were in the living room when the argument started."
+      },
+      {
+        "chunk": 28,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "The minor children were subsequently removed to a safe location by responding officers.",
+        "suggestion": "I removed the minor children to a safe location with the assistance of responding officers."
+      },
+      {
+        "chunk": 28,
+        "rule": "Rule 14",
+        "error_type": "ambiguous pronoun",
+        "excerpt": "The victim stated the couple's two minor children, Emily Rodriguez (age 7) and Michael Rodriguez (age 9), were present in the residence during the incident.",
+        "suggestion": "The victim stated that her children, Emily Rodriguez (age 7) and Michael Rodriguez (age 9), were present in the residence during the incident."
+      },
+      {
+        "chunk": 29,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "The victim stated there have been multiple prior incidents of physical assault, including hitting, pushing, and threatening behavior.",
+        "suggestion": "The victim stated she had been hit, pushed, and threatened by the suspect on multiple prior occasions, citing specific dates and incidents, such as the time the suspect hit her on January 10th and the time the suspect pushed her on February 20th."
+      },
+      {
+        "chunk": 29,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "The victim stated that a prior incident had been reported to police, resulting in the suspect's arrest for domestic battery.",
+        "suggestion": "The victim stated that on a specific date, such as March 15th, she reported an incident to the police, which resulted in the suspect's arrest for domestic battery, as documented in police report number XXXX."
+      },
+      {
+        "chunk": 29,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "The suspect received no custodial sentence but was ordered to attend counseling, which the victim believes the suspect did not complete.",
+        "suggestion": "The victim stated that the suspect was ordered to attend counseling as part of his sentence, but she did not observe him attending any counseling sessions, and the suspect's counseling records, which were reviewed by the officer, did not indicate completion of the program."
+      },
+      {
+        "chunk": 30,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "The suspect's presence at 1457 Oakwood Drive, Apartment 3B on this date constitutes a violation of said protective order.",
+        "suggestion": "The suspect's presence at 1457 Oakwood Drive, Apartment 3B on this date is in direct contradiction to the terms of the protective order, which explicitly prohibits the suspect from being present at the residence."
+      },
+      {
+        "chunk": 30,
+        "rule": "Rule 6",
+        "error_type": "lack of explicit statement",
+        "excerpt": "The victim stated the suspect is prohibited from being present at the residence.",
+        "suggestion": "The victim stated that the protective order, which was issued on [date] and is currently in effect, explicitly prohibits the suspect from being present at 1457 Oakwood Drive, Apartment 3B."
+      },
+      {
+        "chunk": 31,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "Ms. Chen placed the call to 9-1-1.",
+        "suggestion": "I spoke with Ms. Chen, who told me she placed the call to 9-1-1."
+      },
+      {
+        "chunk": 31,
+        "rule": "Rule 4",
+        "error_type": "paraphrased quote",
+        "excerpt": "Ms. Chen stated she heard a commotion, came to the victim's door, and observed the suspect yelling at the victim and witnessed the suspect forcibly kick in the front door.",
+        "suggestion": "Ms. Chen stated, 'I heard a commotion, came to the victim's door, and observed the suspect yelling at the victim and witnessed the suspect forcibly kick in the front door.'"
+      },
+      {
+        "chunk": 31,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "Ms. Chen stated she heard a commotion, came to the victim's door, and observed the suspect yelling at the victim and witnessed the suspect forcibly kick in the front door.",
+        "suggestion": "Ms. Chen told me, 'I heard a commotion, came to the victim's door, and observed the suspect yelling at the victim and witnessed the suspect forcibly kick in the front door.'"
+      },
+      {
+        "chunk": 32,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "The kitchen knife used in the commission of the offense was recovered by officers and secured as evidence.",
+        "suggestion": "Officers recovered the kitchen knife used in the commission of the offense and secured it as evidence."
+      },
+      {
+        "chunk": 32,
+        "rule": "6",
+        "error_type": "lack of specificity",
+        "excerpt": "The suspect, Juan Carlos Hernandez, was taken into custody by responding officers at the scene.",
+        "suggestion": "I, along with other responding officers, took Juan Carlos Hernandez into custody at the scene in handcuffs."
+      },
+      {
+        "chunk": 32,
+        "rule": "7",
+        "error_type": "lack of legal justification",
+        "excerpt": "The suspect, Juan Carlos Hernandez, was taken into custody by responding officers at the scene.",
+        "suggestion": "I, along with other responding officers, took Juan Carlos Hernandez into custody at the scene based on probable cause that he had committed a domestic violence offense."
+      },
+      {
+        "chunk": 33,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "The victim was advised to seek immediate medical attention for her injuries, particularly due to the strangulation",
+        "suggestion": "The victim was advised to seek immediate medical attention for her injuries, particularly due to the visible red marks and bruising on her neck, which were consistent with manual strangulation."
+      },
+      {
+        "chunk": 33,
+        "rule": "Rule 15",
+        "error_type": "present tense",
+        "excerpt": "The victim was advised to seek immediate medical attention for her injuries",
+        "suggestion": "The victim was advised to seek immediate medical attention for her injuries, and this officer provided her with information regarding victim advocacy resources."
+      },
+      {
+        "chunk": 33,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "The victim was advised to seek immediate medical attention for her injuries",
+        "suggestion": "I advised the victim to seek immediate medical attention for her injuries."
+      },
+      {
+        "chunk": 35,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "A kitchen knife was recovered by officers at the scene of the incident and was subsequently bagged as evidence.",
+        "suggestion": "I recovered a kitchen knife at the scene of the incident and subsequently bagged it as evidence."
+      },
+      {
+        "chunk": 35,
+        "rule": "Rule 9",
+        "error_type": "jargon",
+        "excerpt": "A kitchen knife was recovered by officers at the scene of the incident and was subsequently bagged as evidence.",
+        "suggestion": "I recovered a kitchen knife at the scene of the incident and placed it in a evidence bag."
+      },
+      {
+        "chunk": 36,
+        "rule": "Rule 2: Never state conclusions without the observable facts that support them",
+        "error_type": "conclusory statement",
+        "excerpt": "Photographs of victim's injuries",
+        "suggestion": "I took photographs of the victim's visible injuries, including red marks and bruising on her neck, bruising on her left cheek, and a laceration on her lower lip."
+      },
+      {
+        "chunk": 36,
+        "rule": "Rule 1: Use active voice",
+        "error_type": "passive voice",
+        "excerpt": "Photographs of victim's injuries",
+        "suggestion": "I photographed the victim's injuries."
+      },
+      {
+        "chunk": 36,
+        "rule": "Rule 6: Every factual claim must be accurate and complete",
+        "error_type": "lack of detail",
+        "excerpt": "Photographs of victim's injuries",
+        "suggestion": "I took photographs of the victim's injuries, including the location, size, and severity of each injury, and documented them in the evidence log."
+      },
+      {
+        "chunk": 41,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "- Strangulation (PC 273.5(a) / PC 368 / PC 13700)",
+        "suggestion": "The victim presented with visible signs of strangulation, including red marks and bruising on her neck, which were documented through photographs."
+      },
+      {
+        "chunk": 41,
+        "rule": "6",
+        "error_type": "incomplete factual claim",
+        "excerpt": "- Strangulation (PC 273.5(a) / PC 368 / PC 13700)",
+        "suggestion": "The victim reported that the suspect placed his hands around her neck and squeezed, causing her to experience difficulty breathing and visible signs of strangulation, including red marks and bruising on her neck."
+      },
+      {
+        "chunk": 41,
+        "rule": "11",
+        "error_type": "failure to answer basic questions",
+        "excerpt": "- Strangulation (PC 273.5(a) / PC 368 / PC 13700)",
+        "suggestion": "The strangulation incident occurred at 1457 Oakwood Drive, Apartment 3B, in Sacramento, California, at approximately 2245 hours, when the suspect, Juan Carlos Hernandez, placed his hands around the victim's neck and squeezed, causing her to experience difficulty breathing and visible signs of strangulation."
+      },
+      {
+        "chunk": 41,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "- Strangulation (PC 273.5(a) / PC 368 / PC 13700)",
+        "suggestion": "The victim presented with visible signs of strangulation, including a 2-inch long red mark and bruising on her neck, which were documented through photographs."
+      },
+      {
+        "chunk": 42,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "The protected person then called the police, who responded to the scene and took the suspect into custody for violating the protective order",
+        "suggestion": "I responded to the scene and took the suspect into custody for violating the protective order after the protected person called the police"
+      },
+      {
+        "chunk": 42,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "The suspect's presence at the residence constituted a violation of the protective order",
+        "suggestion": "The suspect was at the residence, which is a location from which they are barred by a valid protective order, thereby violating the order"
+      },
+      {
+        "chunk": 42,
+        "rule": "Rule 6",
+        "error_type": "lack of explicit statement",
+        "excerpt": "The incident began when the suspect arrived at the residence of the protected person",
+        "suggestion": "The incident began when the suspect, who is barred from the location by a valid protective order, arrived at the residence of the protected person, 1457 Oakwood Drive, Apartment 3B, in Sacramento, California"
+      },
+      {
+        "chunk": 43,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "property damage to the front door",
+        "suggestion": "I observed property damage to the front door."
+      },
+      {
+        "chunk": 43,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "The sequence of events and key facts are not explicitly stated",
+        "suggestion": "The suspect kicked in the front door, causing visible damage to the door frame and lock."
+      },
+      {
+        "chunk": 43,
+        "rule": "Rule 6",
+        "error_type": "incomplete information",
+        "excerpt": "an unknown individual or individuals caused damage to the front door",
+        "suggestion": "The suspect, Juan Carlos Hernandez, kicked in the front door, causing damage to the door frame and lock, as witnessed by Emily Chen."
+      },
+      {
+        "chunk": 43,
+        "rule": "Rule 9",
+        "error_type": "jargon",
+        "excerpt": "Vandalism / Forcible Entry",
+        "suggestion": "The suspect caused damage to the front door by kicking it in."
+      },
+      {
+        "chunk": 43,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "property damage to the front door",
+        "suggestion": "The front door had a broken lock and a cracked door frame, with visible scratches and dents."
+      }
+    ],
+    "narrative_coverage": {
+      "domestic_violence_01": {
+        "covered": "none",
+        "phrases": {
+          "8": "",
+          "12": ""
+        }
+      },
+      "domestic_violence_02": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_03": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_04": {
+        "covered": "full",
+        "phrases": {
+          "28": "The minor children were subsequently removed to a safe location by responding officers."
+        }
+      },
+      "domestic_violence_05": {
+        "covered": "full",
+        "phrases": {
+          "22": "The call was received at approximately 2245 hours.",
+          "44": "Report submitted by: Officer Johnson, Badge #1042"
+        }
+      },
+      "domestic_violence_06": {
+        "covered": "partial",
+        "phrases": {
+          "30": "a civil protective/restraining order is currently in place against the suspect"
+        }
+      },
+      "domestic_violence_07": {
+        "covered": "partial",
+        "phrases": {
+          "3": "Date of Report: 04/28/2026",
+          "22": "The call was received at approximately 2245 hours."
+        }
+      },
+      "domestic_violence_08": {
+        "covered": "full",
+        "phrases": {
+          "33": "was provided with information regarding victim advocacy resources"
+        }
+      },
+      "domestic_violence_09": {
+        "covered": "partial",
+        "phrases": {
+          "38": "Domestic Violence / Corporal Injury to Spouse (PC 273.5)"
+        }
+      },
+      "domestic_violence_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_11": {
+        "covered": "full",
+        "phrases": {
+          "0": "SACRAMENTO POLICE DEPARTMENT",
+          "1": "",
+          "4": "Reporting Officer: Officer Johnson, Badge #1042",
+          "14": "Height: Approximately 5'10\"",
+          "22": "this officer responded to 1457 Oakwood Drive, Apartment 3B, Sacramento, California, in reference to a possible domestic disturbance reported by a neighbor.",
+          "23": "Upon arrival, this officer made contact with the victim, Maria Rodriguez (DOB: 02/12/1985), inside the residence",
+          "45": "Sacramento Police Department"
+        }
+      },
+      "domestic_violence_12": {
+        "covered": "full",
+        "phrases": {
+          "2": "Violation of Protective Order",
+          "30": "a civil protective/restraining order is currently in place against the suspect",
+          "42": "Violation of Protective Order"
+        }
+      },
+      "domestic_violence_13": {
+        "covered": "full",
+        "phrases": {
+          "5": "Location of Incident: 1457 Oakwood Drive, Apartment 3B, Sacramento, California",
+          "27": "Property damage to the front door was observed by this officer upon arrival."
+        }
+      },
+      "domestic_violence_14": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_15": {
+        "covered": "full",
+        "phrases": {
+          "2": "Domestic Violence",
+          "6": "",
+          "7": "Name: Maria Rodriguez",
+          "9": "Relationship to Suspect: Wife",
+          "11": "Name: Juan Carlos Hernandez",
+          "17": "Husband (5 years married)",
+          "19": "Name: Emily Chen",
+          "20": "Relationship: Next-door neighbor",
+          "24": "The victim stated that the suspect, identified as her husband Juan Carlos Hernandez",
+          "28": "The victim stated the couple's two minor children, Emily Rodriguez (age 7) and Michael Rodriguez (age 9), were present in the residence during the incident.",
+          "30": "the suspect's presence at 1457 Oakwood Drive, Apartment 3B on this date constitutes a violation of said protective order",
+          "31": "the suspect yelling at the victim",
+          "38": "Domestic Violence"
+        }
+      },
+      "domestic_violence_16": {
+        "covered": "none",
+        "phrases": {
+          "2": "",
+          "17": "Husband (5 years married)",
+          "21": "",
+          "24": "The victim stated that the suspect, identified as her husband Juan Carlos Hernandez",
+          "25": "an argument began",
+          "29": "The victim stated there have been multiple prior incidents of physical assault, including hitting, pushing, and threatening behavior.",
+          "30": "the suspect's presence at 1457 Oakwood Drive, Apartment 3B on this date constitutes a violation of said protective order",
+          "31": "the suspect yelling at the victim",
+          "41": ""
+        }
+      },
+      "domestic_violence_17": {
+        "covered": "none",
+        "phrases": {
+          "18": "",
+          "31": "Witness Emily Chen, a neighbor residing in an adjacent unit, was identified"
+        }
+      },
+      "domestic_violence_18": {
+        "covered": "full",
+        "phrases": {
+          "32": "The suspect, Juan Carlos Hernandez, was taken into custody",
+          "37": "CHARGES RECOMMENDED"
+        }
+      },
+      "domestic_violence_19": {
+        "covered": "full",
+        "phrases": {
+          "28": "The victim stated the couple's two minor children, Emily Rodriguez (age 7) and Michael Rodriguez (age 9), were present in the residence during the incident."
+        }
+      },
+      "domestic_violence_20": {
+        "covered": "full",
+        "phrases": {
+          "29": "The victim disclosed a prior history of domestic violence involving the suspect."
+        }
+      },
+      "domestic_violence_21": {
+        "covered": "full",
+        "phrases": {
+          "2": "Assault with a Deadly Weapon",
+          "16": "cut on right hand",
+          "21": "",
+          "25": "The victim stated the suspect placed both hands around her neck and squeezed, causing her to believe she was going to lose consciousness.",
+          "26": "The victim stated the suspect then retrieved a kitchen knife from the kitchen area and brandished it at the victim.",
+          "27": "The suspect was noted to have a laceration on his right hand, consistent with the door breach.",
+          "29": "",
+          "31": "the suspect forcibly kick in the front door",
+          "32": "The kitchen knife used in the commission of the offense",
+          "35": "Kitchen knife",
+          "39": "Assault with a Deadly Weapon",
+          "40": "Criminal Threats (PC 422)"
+        }
+      },
+      "domestic_violence_22": {
+        "covered": "none",
+        "phrases": {
+          "6": "",
+          "13": "",
+          "21": "",
+          "23": "The victim appeared visibly distressed, was crying",
+          "24": "The victim stated the suspect smelled strongly of alcohol and appeared to be intoxicated, noting slurred speech",
+          "25": "causing her to believe she was going to lose consciousness",
+          "26": "The victim stated the suspect held the knife directly to her throat and made verbal threats stating he was going to hurt her and the children.",
+          "29": ""
+        }
+      },
+      "domestic_violence_23": {
+        "covered": "none",
+        "phrases": {
+          "10": "",
+          "15": "",
+          "16": "stubble, messy hair",
+          "24": "The victim stated the suspect smelled strongly of alcohol and appeared to be intoxicated, noting slurred speech"
+        }
+      },
+      "domestic_violence_24": {
+        "covered": "full",
+        "phrases": {
+          "32": "The kitchen knife used in the commission of the offense was recovered by officers and secured as evidence",
+          "34": "EVIDENCE COLLECTED",
+          "35": "Kitchen knife (recovered and bagged by officers at scene)"
+        }
+      },
+      "domestic_violence_25": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_26": {
+        "covered": "full",
+        "phrases": {
+          "23": "The victim appeared visibly distressed, was crying",
+          "29": ""
+        }
+      },
+      "domestic_violence_27": {
+        "covered": "full",
+        "phrases": {
+          "2": "Criminal Threats",
+          "21": "",
+          "25": "The suspect began yelling",
+          "26": "The victim stated the suspect held the knife directly to her throat and made verbal threats stating he was going to hurt her and the children.",
+          "29": "including hitting, pushing, and threatening behavior",
+          "31": "the suspect yelling at the victim",
+          "40": "Criminal Threats (PC 422)"
+        }
+      },
+      "domestic_violence_28": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_29": {
+        "covered": "partial",
+        "phrases": {
+          "2": "Assault with a Deadly Weapon",
+          "41": "Strangulation"
+        }
+      },
+      "domestic_violence_30": {
+        "covered": "none",
+        "phrases": {
+          "2": "",
+          "21": "",
+          "23": "visible red marks and bruising on her neck consistent with manual strangulation, bruising on her left cheek, and a laceration on her lower lip",
+          "25": "The victim also sustained a laceration to her lower lip during the assault. The victim stated the suspect struck her in the face with his fist, causing the observed bruising to her left cheek.",
+          "26": "The victim stated the suspect held the knife directly to her throat",
+          "29": "",
+          "31": "",
+          "33": "photographed the victim's injuries, including neck marks, facial bruising, and lip laceration",
+          "36": "Photographs of victim's injuries"
+        }
+      },
+      "domestic_violence_31": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_32": {
+        "covered": "none",
+        "phrases": {
+          "2": "",
+          "27": "Property damage to the front door was observed by this officer upon arrival.",
+          "43": "property damage to front door"
+        }
+      },
+      "domestic_violence_33": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_34": {
+        "covered": "full",
+        "phrases": {
+          "33": "strangulation",
+          "41": "Strangulation"
+        }
+      },
+      "domestic_violence_35": {
+        "covered": "partial",
+        "phrases": {
+          "2": "Strangulation",
+          "41": "Strangulation"
+        }
+      },
+      "domestic_violence_36": {
+        "covered": "none",
+        "phrases": {
+          "21": "",
+          "25": "The victim stated the suspect placed both hands around her neck and squeezed, causing her to believe she was going to lose consciousness.",
+          "29": "",
+          "33": "The victim was advised to seek immediate medical attention for her injuries"
+        }
+      },
+      "domestic_violence_37": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_38": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_39": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_40": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_41": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_42": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_43": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_44": {
+        "covered": "full",
+        "phrases": {
+          "32": "The kitchen knife used in the commission of the offense was recovered by officers and secured as evidence",
+          "35": "Kitchen knife (recovered and bagged by officers at scene)"
+        }
+      }
+    }
+  }
+}

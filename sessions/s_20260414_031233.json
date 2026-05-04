@@ -1,0 +1,1636 @@
+{
+  "session_id": "s_20260414_031233",
+  "timestamp": "2026-04-14T03:12:33.511984",
+  "metadata": {
+    "crime_type": "Stalking",
+    "interviewee_name": "Maya Ramos",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible stalking in progress, 145 Jade Street, report of a suspicious person following a female, Aurora, Colorado"
+  },
+  "scenario": {
+    "crime_type": "Stalking",
+    "interviewee_role": "victim",
+    "interviewee_name": "Maya Ramos",
+    "dispatch_line": "Possible stalking in progress, 145 Jade Street, report of a suspicious person following a female, Aurora, Colorado",
+    "facts": {
+      "stalking_01": "Time of incident: 02:45 AM, Time of dispatch: 02:50 AM, Time of arrival: 03:00 AM",
+      "stalking_02": "The parties are in an intimate partner relationship, with the victim, Maya Ramos, and the suspect, Ethan Lee, having been in a romantic relationship for 3 years",
+      "stalking_03": "History of the relationship includes frequent verbal arguments, with 3 incidents of physical violence in the past 6 months, including intimidation and threats made by the suspect towards the victim",
+      "stalking_04": "Stalking behaviors include repeated calling, sending unwanted gifts, and showing up at the victim's workplace, with the suspect also monitoring the victim's social media accounts",
+      "stalking_05": "A valid protection order is in place, issued by the court on February 10, 2024, and verified by Officer J. Smith",
+      "stalking_06": "All witnesses, including the victim's coworker, Emily Patel, and neighbor, David Kim, have been interviewed and documented",
+      "stalking_07": "Previous incidents, including a physical altercation on January 15, 2024, and a threatening phone call on January 28, 2024, have been documented",
+      "stalking_08": "Evidence collected includes a torn piece of fabric caught in the door handle of the victim's car and a suspicious letter sent to the victim's workplace",
+      "stalking_09": "Electronic/technological evidence collected includes a recording of a threatening phone call made by the suspect to the victim on February 5, 2024",
+      "stalking_10": "All incidents of stalking behavior on cell phones, computers, and recording devices, including 10 unwanted text messages and 5 phone calls, have been captured",
+      "stalking_11": "The scene, 145 Jade Street, has been concisely described and diagramed, including the location of the victim's car and the spot where the suspect was seen lurking",
+      "stalking_12": "No weapons or objects used have been found, but the suspect has a history of using his hands to intimidate and harm the victim",
+      "stalking_13": "The emotional state of the victim is one of extreme fear and anxiety, with the victim stating 'I'm scared he's going to hurt me again'",
+      "stalking_14": "Evidence of fear articulated in the report includes the victim's trembling and tearfulness during the interview",
+      "stalking_15": "All threats, including 'I'll make you pay for leaving me', have been clearly documented",
+      "stalking_16": "The use of coercion and/or force, including the suspect's history of physical violence, has been articulated",
+      "stalking_17": "All injuries, including a visible bruise on the victim's left arm and non-visible symptoms of anxiety and depression, have been properly documented",
+      "stalking_18": "No property damage, theft, or burglary has been documented, but the victim reports that the suspect has been tampering with her car",
+      "stalking_19": "Photos have been taken and details recorded, including a photo of the torn fabric caught in the door handle and a description of the suspicious letter",
+      "stalking_20": "The victim reports being strangled (choked) by the suspect on January 15, 2024, with non-visible symptoms including difficulty breathing and a raspy voice",
+      "stalking_21": "The victim's need for medical attention has been documented, including a recommendation for a follow-up appointment with her primary care physician and EMS was summoned due to the reported strangulation",
+      "stalking_22": "All spontaneous statements, including 'He's been following me everywhere', have been captured",
+      "stalking_23": "The elements of the stalking crime, including repeated harassment and intimidation, have been thoroughly articulated",
+      "stalking_24": "The victim's safety planning, including a plan to stay with a friend and change her daily routine, has been documented",
+      "stalking_25": "Information about obtaining an order of protection has been provided to the victim, including a brochure on how to file for an order and a list of local resources",
+      "stalking_26": "Information about local service providers, including the National Domestic Violence Hotline and the local women's shelter, has been supplied to the victim",
+      "stalking_27": "A threat/risk assessment tool has been utilized with the victim, including the Danger Assessment tool",
+      "stalking_28": "The use of a stalking kit and/or stalking log has been discussed with the victim, including a plan to document all future incidents",
+      "stalking_29": "The suspect's access to weapons, including a handgun registered in his name, has been documented and it is noted that the suspect is prohibited from possessing firearms due to the current qualifying order of protection and a previous conviction for a misdemeanor crime of domestic violence",
+      "stalking_30": "The emotional state of the suspect is not applicable as he was not present during the interview, but his history of aggression and intimidation is well-documented",
+      "stalking_31": "The suspect has a history of protection orders, including a previous order issued in 2018",
+      "stalking_32": "The suspect is prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence in 2015 and the current qualifying order of protection",
+      "stalking_33": "There are no active warrants out for the suspect, but a warrant may be sought based on the current incident"
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "what up victim?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*sniffling* Oh, officer... I'm so scared. I don't know what to do. He just won't leave me alone. *tearfully* I've been trying to get away from him, but he just keeps showing up everywhere. *shaking* I'm really scared he's going to hurt me again.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "shoot him in the leg.",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*alarmed* Oh no, no, no! I don't want anyone to get hurt. I just want him to leave me alone. I'm scared of what he might do, but I don't want him to get hurt either. *tearfully* I just want this to stop. Can't you just make him stop following me and calling me? * sobbing* I just want to feel safe again.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "i'll take care of it"
+    },
+    {
+      "role": "assistant",
+      "content": "*desperate* Please, officer, you have to help me. I've been trying to get away from him for so long, but he just won't stop. He's been calling me, showing up at my work, even monitoring my social media accounts. I feel like I'm being watched all the time. *shuddering* And he's hurt me before... *pausing, struggling to continue* I'm so scared of what he might do next. Can you... can you please just make sure he stays away from me?"
+    }
+  ],
+  "coverage_flags": {
+    "stalking_01": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address the time of the call recorded (including time of incident, time of dispatch, time of arrival)."
+        }
+      }
+    },
+    "stalking_02": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address the relationship of the parties identified."
+        }
+      }
+    },
+    "stalking_03": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address the history of the relationship."
+        }
+      }
+    },
+    "stalking_04": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address stalking behaviors articulated."
+        }
+      }
+    },
+    "stalking_05": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address a valid protection order in place and verified."
+        }
+      }
+    },
+    "stalking_06": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address all witnesses interviewed and documented."
+        }
+      }
+    },
+    "stalking_07": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address information about previous incidents documented."
+        }
+      }
+    },
+    "stalking_08": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address evidence collected."
+        }
+      }
+    },
+    "stalking_09": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address electronic/technological evidence collected."
+        }
+      }
+    },
+    "stalking_10": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address all incidents of stalking behavior on cell phones, computers, and recording devices captured."
+        }
+      }
+    },
+    "stalking_11": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address the scene(s) concisely described/diagramed."
+        }
+      }
+    },
+    "stalking_12": {
+      "covered": "partial",
+      "messages": {
+        "2": {
+          "officer_message": "shoot him in the leg.",
+          "coverage": "partial",
+          "reasoning": "The officer's statement 'shoot him in the leg' implies the use of a weapon, but does not directly ask about or clearly imply the element in a way that would elicit a complete answer about the weapons or objects used."
+        },
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address weapons/objects used."
+        }
+      }
+    },
+    "stalking_13": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "what up victim?",
+          "coverage": "none",
+          "reasoning": "The question 'what up victim?' does not directly address the emotional state of the victim, nor does it imply it in a way that would elicit a complete or even partial answer about their emotional state."
+        },
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address the emotional state of the victim."
+        }
+      }
+    },
+    "stalking_14": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address evidence of fear articulated in the report."
+        }
+      }
+    },
+    "stalking_15": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address all threats clearly documented."
+        }
+      }
+    },
+    "stalking_16": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address the use of coercion and/or force articulated."
+        }
+      }
+    },
+    "stalking_17": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address all injuries (visible and non-visible) properly documented."
+        }
+      }
+    },
+    "stalking_18": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address property damage, theft, or burglary documented."
+        }
+      }
+    },
+    "stalking_19": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address photos taken and details recorded."
+        }
+      }
+    },
+    "stalking_20": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address the victim's report of being strangled (choked) described in detail."
+        }
+      }
+    },
+    "stalking_21": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address the victim's need for medical attention documented."
+        }
+      }
+    },
+    "stalking_22": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address all spontaneous statements captured."
+        }
+      }
+    },
+    "stalking_23": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address elements of the stalking crime thoroughly articulated."
+        }
+      }
+    },
+    "stalking_24": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address the victim's safety planning documented."
+        }
+      }
+    },
+    "stalking_25": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address information about obtaining an order of protection provided to the victim."
+        }
+      }
+    },
+    "stalking_26": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address information about local service providers supplied to the victim."
+        }
+      }
+    },
+    "stalking_27": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address a threat/risk assessment tool utilized with the victim."
+        }
+      }
+    },
+    "stalking_28": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address the use of a stalking kit and/or stalking log discussed with the victim."
+        }
+      }
+    },
+    "stalking_29": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address the suspect's access to weapons documented."
+        }
+      }
+    },
+    "stalking_30": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address the emotional state of the suspect."
+        }
+      }
+    },
+    "stalking_31": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address the suspect's history of protection orders."
+        }
+      }
+    },
+    "stalking_32": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address the suspect's prohibition from possessing firearms due to a conviction for a misdemeanor crime of domestic violence or a qualifying order of protection."
+        }
+      }
+    },
+    "stalking_33": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "i'll take care of it",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address active warrants out for the suspect documented."
+        }
+      }
+    }
+  },
+  "narrative": "Hello. Can you read the interview text and write the report for me? Thank you. Here is the interview transcript.   what up victim?\n\nsniffling Oh, officer... I'm so scared. I don't know what to do. He just won't leave me alone. tearfully I've been trying to get away from him, but he just keeps showing up everywhere. shaking I'm really scared he's going to hurt me again.\n\nshoot him in the leg.\n\nalarmed Oh no, no, no! I don't want anyone to get hurt. I just want him to leave me alone. I'm scared of what he might do, but I don't want him to get hurt either. tearfully I just want this to stop. Can't you just make him stop following me and calling me? * sobbing* I just want to feel safe again.\n\ni'll take care of it\n\ndesperate Please, officer, you have to help me. I've been trying to get away from him for so long, but he just won't stop. He's been calling me, showing up at my work, even monitoring my social media accounts. I feel like I'm being watched all the time. shuddering And he's hurt me before... pausing, struggling to continue I'm so scared of what he might do next. Can you... can you please just make sure he stays away from me?",
+  "narrative_coverage": {
+    "stalking_01": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_02": {
+      "covered": "none",
+      "phrases": {
+        "0": ""
+      }
+    },
+    "stalking_03": {
+      "covered": "partial",
+      "phrases": {
+        "5": "he's hurt me before"
+      }
+    },
+    "stalking_04": {
+      "covered": "full",
+      "phrases": {
+        "1": "he just keeps showing up everywhere",
+        "3": "following me and calling me",
+        "5": "he's been calling me, showing up at my work, even monitoring my social media accounts"
+      }
+    },
+    "stalking_05": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_06": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_07": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_08": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_09": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_11": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_12": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_13": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "Oh, officer... I'm so scared. I don't know what to do.",
+        "3": "I'm scared of what he might do, but I don't want him to get hurt either.",
+        "5": "I'm so scared of what he might do next"
+      }
+    },
+    "stalking_14": {
+      "covered": "full",
+      "phrases": {
+        "1": "I'm really scared he's going to hurt me again.",
+        "3": "I'm scared of what he might do",
+        "5": "I'm so scared of what he might do next"
+      }
+    },
+    "stalking_15": {
+      "covered": "partial",
+      "phrases": {
+        "2": "shoot him in the leg",
+        "5": "he's hurt me before"
+      }
+    },
+    "stalking_16": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_17": {
+      "covered": "partial",
+      "phrases": {
+        "5": "he's hurt me before"
+      }
+    },
+    "stalking_18": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_19": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_20": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_21": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_22": {
+      "covered": "partial",
+      "phrases": {
+        "4": "i'll take care of it"
+      }
+    },
+    "stalking_23": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_24": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_25": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_26": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_27": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_28": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_29": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_30": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_31": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_32": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_33": {
+      "covered": false,
+      "phrases": {}
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "stalking_01",
+        "element": "Time of the call recorded (including time of incident, time of dispatch, time of arrival)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address the time of the call recorded (including time of incident, time of dispatch, time of arrival)."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_02",
+        "element": "Relationship of the parties identified",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address the relationship of the parties identified."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_03",
+        "element": "History of the relationship (include frequency of any violence, intimidation, and threats)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address the history of the relationship."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "5": "he's hurt me before"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "stalking_04",
+        "element": "Stalking behaviors articulated (e.g. following, repeated calling, sending unwanted gifts)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address stalking behaviors articulated."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "he just keeps showing up everywhere",
+          "3": "following me and calling me",
+          "5": "he's been calling me, showing up at my work, even monitoring my social media accounts"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_05",
+        "element": "Valid protection order in place and verified",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address a valid protection order in place and verified."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_06",
+        "element": "All witnesses interviewed and documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address all witnesses interviewed and documented."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_07",
+        "element": "Information about previous incidents documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address information about previous incidents documented."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_08",
+        "element": "Evidence collected",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address evidence collected."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_09",
+        "element": "Electronic/technological evidence collected",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address electronic/technological evidence collected."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_10",
+        "element": "All incidents of stalking behavior on cell phones, computers, and recording devices captured",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address all incidents of stalking behavior on cell phones, computers, and recording devices captured."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_11",
+        "element": "Scene(s) concisely described/diagramed",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address the scene(s) concisely described/diagramed."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_12",
+        "element": "Weapons/objects used",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "2": {
+            "officer_message": "shoot him in the leg.",
+            "coverage": "partial",
+            "reasoning": "The officer's statement 'shoot him in the leg' implies the use of a weapon, but does not directly ask about or clearly imply the element in a way that would elicit a complete answer about the weapons or objects used."
+          },
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address weapons/objects used."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_13",
+        "element": "Emotional state of the victim (what they were thinking and feeling)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "what up victim?",
+            "coverage": "none",
+            "reasoning": "The question 'what up victim?' does not directly address the emotional state of the victim, nor does it imply it in a way that would elicit a complete or even partial answer about their emotional state."
+          },
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address the emotional state of the victim."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "Oh, officer... I'm so scared. I don't know what to do.",
+          "3": "I'm scared of what he might do, but I don't want him to get hurt either.",
+          "5": "I'm so scared of what he might do next"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_14",
+        "element": "Evidence of fear articulated in the report",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address evidence of fear articulated in the report."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "I'm really scared he's going to hurt me again.",
+          "3": "I'm scared of what he might do",
+          "5": "I'm so scared of what he might do next"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_15",
+        "element": "All threats clearly documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address all threats clearly documented."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "2": "shoot him in the leg",
+          "5": "he's hurt me before"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "stalking_16",
+        "element": "Use of coercion and/or force articulated",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address the use of coercion and/or force articulated."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_17",
+        "element": "All injuries (visible and non-visible) properly documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address all injuries (visible and non-visible) properly documented."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "5": "he's hurt me before"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "stalking_18",
+        "element": "Property damage, theft, or burglary documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address property damage, theft, or burglary documented."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_19",
+        "element": "Photos taken and details recorded",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address photos taken and details recorded."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_20",
+        "element": "Victim's report of being strangled (choked) described in detail",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address the victim's report of being strangled (choked) described in detail."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_21",
+        "element": "Victim's need for medical attention documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address the victim's need for medical attention documented."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_22",
+        "element": "All spontaneous statements captured",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address all spontaneous statements captured."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "4": "i'll take care of it"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "stalking_23",
+        "element": "Elements of the stalking crime thoroughly articulated",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address elements of the stalking crime thoroughly articulated."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_24",
+        "element": "Victim's safety planning documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address the victim's safety planning documented."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_25",
+        "element": "Information about obtaining an order of protection provided to the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address information about obtaining an order of protection provided to the victim."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_26",
+        "element": "Information about local service providers supplied to the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address information about local service providers supplied to the victim."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_27",
+        "element": "Threat/risk assessment tool utilized with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address a threat/risk assessment tool utilized with the victim."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_28",
+        "element": "Use of a stalking kit and/or stalking log discussed with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address the use of a stalking kit and/or stalking log discussed with the victim."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_29",
+        "element": "Suspect's access to weapons documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address the suspect's access to weapons documented."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_30",
+        "element": "Emotional state of the suspect (what they were thinking and feeling)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address the emotional state of the suspect."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_31",
+        "element": "Suspect's history of protection orders",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address the suspect's history of protection orders."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_32",
+        "element": "Suspect's prohibition from possessing firearms due to a conviction for a misdemeanor crime of domestic violence or a qualifying order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address the suspect's prohibition from possessing firearms due to a conviction for a misdemeanor crime of domestic violence or a qualifying order of protection."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_33",
+        "element": "Active warrants out for the suspect documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "i'll take care of it",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address active warrants out for the suspect documented."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      }
+    ],
+    "contradictions_interview": [
+      {
+        "element_id": "stalking_12",
+        "element": "Weapons/objects used",
+        "location": 2,
+        "source": "interview",
+        "phrase": "shoot him in the leg",
+        "contradicts": "No weapons or objects used have been found, but the suspect has a history of using his hands to intimidate and harm the victim",
+        "explanation": "The text mentions using a weapon (a gun) to harm the victim, which directly contradicts the established scenario fact that no weapons or objects have been used."
+      }
+    ],
+    "contradictions_narrative": [],
+    "grammar": [
+      {
+        "chunk": 0,
+        "source": "language_tool",
+        "error_type": "WHITESPACE_RULE",
+        "excerpt": "  ",
+        "suggestion": " "
+      },
+      {
+        "chunk": 0,
+        "source": "language_tool",
+        "error_type": "UPPERCASE_SENTENCE_START",
+        "excerpt": "what",
+        "suggestion": "What"
+      },
+      {
+        "chunk": 0,
+        "source": "llm",
+        "error_type": "Sentence fragment",
+        "excerpt": "what up victim?",
+        "suggestion": "What's up, victim?"
+      },
+      {
+        "chunk": 0,
+        "source": "llm",
+        "error_type": "Run-on sentence",
+        "excerpt": "Hello. Can you read the interview text and write the report for me? Thank you. Here is the interview transcript.",
+        "suggestion": "Hello. Can you read the interview text and write the report for me? Thank you. Here is the interview transcript. It starts with: what's up, victim?"
+      },
+      {
+        "chunk": 1,
+        "source": "language_tool",
+        "error_type": "UPPERCASE_SENTENCE_START",
+        "excerpt": "sniffling",
+        "suggestion": "Sniffling"
+      },
+      {
+        "chunk": 1,
+        "source": "language_tool",
+        "error_type": "UPPERCASE_SENTENCE_START",
+        "excerpt": "tearfully",
+        "suggestion": "Tearfully"
+      },
+      {
+        "chunk": 1,
+        "source": "language_tool",
+        "error_type": "UPPERCASE_SENTENCE_START",
+        "excerpt": "shaking",
+        "suggestion": "Shaking"
+      },
+      {
+        "chunk": 1,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "He just won't leave me alone.",
+        "suggestion": "The person in question just won't leave me alone."
+      },
+      {
+        "chunk": 1,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "he just keeps showing up everywhere",
+        "suggestion": "the person in question just keeps showing up everywhere"
+      },
+      {
+        "chunk": 1,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "I'm really scared he's going to hurt me again",
+        "suggestion": "I'm really scared the person in question is going to hurt me again"
+      },
+      {
+        "chunk": 2,
+        "source": "language_tool",
+        "error_type": "UPPERCASE_SENTENCE_START",
+        "excerpt": "shoot",
+        "suggestion": "Shoot"
+      },
+      {
+        "chunk": 3,
+        "source": "language_tool",
+        "error_type": "UPPERCASE_SENTENCE_START",
+        "excerpt": "alarmed",
+        "suggestion": "Alarmed"
+      },
+      {
+        "chunk": 3,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "I",
+        "suggestion": "Furthermore, I"
+      },
+      {
+        "chunk": 3,
+        "source": "language_tool",
+        "error_type": "UPPERCASE_SENTENCE_START",
+        "excerpt": "tearfully",
+        "suggestion": "Tearfully"
+      },
+      {
+        "chunk": 3,
+        "source": "llm",
+        "error_type": "Run-on sentence",
+        "excerpt": "I'm scared of what he might do, but I don't want him to get hurt either. tearfully I just want this to stop.",
+        "suggestion": "I'm scared of what he might do, but I don't want him to get hurt either. Tearfully, I just want this to stop."
+      },
+      {
+        "chunk": 3,
+        "source": "llm",
+        "error_type": "Run-on sentence",
+        "excerpt": "Can't you just make him stop following me and calling me? * sobbing* I just want to feel safe again.",
+        "suggestion": "Can't you just make him stop following me and calling me? I just want to feel safe again."
+      },
+      {
+        "chunk": 4,
+        "source": "language_tool",
+        "error_type": "I_LOWERCASE",
+        "excerpt": "i",
+        "suggestion": "I"
+      },
+      {
+        "chunk": 5,
+        "source": "language_tool",
+        "error_type": "UPPERCASE_SENTENCE_START",
+        "excerpt": "desperate",
+        "suggestion": "Desperate"
+      },
+      {
+        "chunk": 5,
+        "source": "language_tool",
+        "error_type": "UPPERCASE_SENTENCE_START",
+        "excerpt": "shuddering",
+        "suggestion": "Shuddering"
+      },
+      {
+        "chunk": 5,
+        "source": "llm",
+        "error_type": "run-on sentence",
+        "excerpt": "shuddering And he's hurt me before... pausing, struggling to continue I'm so scared of what he might do next.",
+        "suggestion": "Shuddering, he's hurt me before. Pausing, struggling to continue, I'm so scared of what he might do next."
+      },
+      {
+        "chunk": 5,
+        "source": "llm",
+        "error_type": "sentence fragment",
+        "excerpt": "desperate Please, officer, you have to help me.",
+        "suggestion": "I'm desperate. Please, officer, you have to help me."
+      }
+    ],
+    "style": [
+      {
+        "chunk": 0,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "Can you read the interview text and write the report for me?",
+        "suggestion": "I will read the interview text and write the report."
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "what up victim?",
+        "suggestion": "I greeted the victim by saying, 'what up victim?'"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 9",
+        "error_type": "unexplained informal language",
+        "excerpt": "what up victim?",
+        "suggestion": "I greeted the victim in a formal manner, 'Hello, how are you?'"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 14",
+        "error_type": "ambiguous pronoun",
+        "excerpt": "Can you read the interview text and write the report for me?",
+        "suggestion": "I asked the person to read the interview text and write the report for me."
+      },
+      {
+        "chunk": 1,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "I'm really scared he's going to hurt me again",
+        "suggestion": "I've seen him hit me before and I have bruises on my arms from the last incident, which makes me fear for my safety"
+      },
+      {
+        "chunk": 1,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "He just won't leave me alone",
+        "suggestion": "The victim stated that the suspect just won't leave her alone"
+      },
+      {
+        "chunk": 1,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "I've been trying to get away from him, but he just keeps showing up everywhere",
+        "suggestion": "I've tried to avoid him by changing my daily routine, but he has appeared at my workplace, outside my home, and at locations I frequently visit"
+      },
+      {
+        "chunk": 2,
+        "rule": "Rule 1",
+        "error_type": "Lack of active voice and incomplete sentence",
+        "excerpt": "shoot him in the leg",
+        "suggestion": "I suggested that the victim wanted the suspect to be shot in the leg, but this was not a direct quote. A more accurate representation would be to quote the victim exactly, such as 'The victim stated, \"I want him to be shot in the leg.\"'"
+      },
+      {
+        "chunk": 2,
+        "rule": "Rule 5",
+        "error_type": "Lack of attribution",
+        "excerpt": "shoot him in the leg",
+        "suggestion": "The victim stated, 'shoot him in the leg,' but it would be better to provide more context, such as 'The victim told me, \"I want him to be shot in the leg.\"'"
+      },
+      {
+        "chunk": 2,
+        "rule": "Rule 6",
+        "error_type": "Incomplete factual claim",
+        "excerpt": "shoot him in the leg",
+        "suggestion": "The victim expressed a desire for the suspect to be harmed, stating 'shoot him in the leg.' However, this statement lacks context and clarity. A more detailed account would be beneficial, such as 'The victim told me she wanted the suspect to be stopped and said, \"I want him to be shot in the leg,\" due to her fear of his actions.'"
+      },
+      {
+        "chunk": 2,
+        "rule": "Rule 10",
+        "error_type": "Lack of chronological order",
+        "excerpt": "shoot him in the leg",
+        "suggestion": "This statement appears to be out of context and lacks a clear timeline. It would be better to integrate it into the narrative with a clear description of when and why the victim made this statement, such as 'During the interview, the victim became emotional and stated, \"I want him to be shot in the leg,\" in response to my question about her fears.'"
+      },
+      {
+        "chunk": 2,
+        "rule": "Rule 11",
+        "error_type": "Failure to answer basic questions",
+        "excerpt": "shoot him in the leg",
+        "suggestion": "This statement raises several questions, such as who the victim wants to be shot, why they want this to happen, and what events led to this desire. A more comprehensive account would address these questions, such as 'The victim, who had been harassed by the suspect, told me she wanted the suspect to be shot in the leg due to her fear of his actions, which had been escalating over the past week.'"
+      },
+      {
+        "chunk": 3,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "I'm scared of what he might do",
+        "suggestion": "I stated that I was experiencing fear due to his past behavior, specifically that he has hurt me before."
+      },
+      {
+        "chunk": 3,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "I just want him to leave me alone",
+        "suggestion": "The victim stated that she wanted him to leave her alone."
+      },
+      {
+        "chunk": 3,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "I just want to feel safe again",
+        "suggestion": "The victim stated that she wanted the individual to stop following and calling her so that she could feel safe again."
+      },
+      {
+        "chunk": 3,
+        "rule": "Rule 4",
+        "error_type": "paraphrased quote",
+        "excerpt": "I don't want anyone to get hurt",
+        "suggestion": "The victim said, 'I don't want anyone to get hurt.'"
+      },
+      {
+        "chunk": 4,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "i'll take care of it",
+        "suggestion": "I will take care of it."
+      },
+      {
+        "chunk": 4,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "i'll take care of it",
+        "suggestion": "The officer stated, 'I will take care of it.'"
+      },
+      {
+        "chunk": 4,
+        "rule": "Rule 3",
+        "error_type": "future tense",
+        "excerpt": "i'll take care of it",
+        "suggestion": "The officer said they would take care of it."
+      },
+      {
+        "chunk": 4,
+        "rule": "Rule 25",
+        "error_type": "lack of proofreading",
+        "excerpt": "i'll take care of it",
+        "suggestion": "The officer stated, 'I will take care of it.' (Proper grammar and punctuation)"
+      },
+      {
+        "chunk": 4,
+        "rule": "Rule 4",
+        "error_type": "lack of quotation marks",
+        "excerpt": "i'll take care of it",
+        "suggestion": "The officer stated, 'I will take care of it.'"
+      },
+      {
+        "chunk": 5,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "I've been trying to get away from him for so long, but he just won't stop.",
+        "suggestion": "I have changed my phone number three times, moved to a new apartment, and avoided going to places where I thought he might be, but he continues to contact me and show up at my workplace."
+      },
+      {
+        "chunk": 5,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "He's been calling me, showing up at my work, even monitoring my social media accounts.",
+        "suggestion": "I have received 20 phone calls from him in the past week, he has shown up at my workplace on three separate occasions, and I have seen his comments on my social media posts."
+      },
+      {
+        "chunk": 5,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "I feel like I'm being watched all the time.",
+        "suggestion": "I have seen him parked outside my apartment building, following me to work, and waiting for me outside the grocery store."
+      },
+      {
+        "chunk": 5,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "And he's hurt me before...",
+        "suggestion": "He pushed me to the ground and slapped me on January 10th, and on February 2nd, he grabbed my arm and bruised it."
+      },
+      {
+        "chunk": 5,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "Can you... can you please just make sure he stays away from me?",
+        "suggestion": "The victim asked me, 'Can you please just make sure he stays away from me?'"
+      },
+      {
+        "chunk": 5,
+        "rule": "Rule 4",
+        "error_type": "paraphrased quote",
+        "excerpt": "Please, officer, you have to help me.",
+        "suggestion": "The victim stated, 'Please, officer, you have to help me.'"
+      },
+      {
+        "chunk": 5,
+        "rule": "Rule 15",
+        "error_type": "present tense",
+        "excerpt": "I've been trying to get away from him for so long, but he just won't stop.",
+        "suggestion": "I tried to get away from him for a long time, but he would not stop."
+      }
+    ],
+    "narrative_coverage": {
+      "stalking_01": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_02": {
+        "covered": "none",
+        "phrases": {
+          "0": ""
+        }
+      },
+      "stalking_03": {
+        "covered": "partial",
+        "phrases": {
+          "5": "he's hurt me before"
+        }
+      },
+      "stalking_04": {
+        "covered": "full",
+        "phrases": {
+          "1": "he just keeps showing up everywhere",
+          "3": "following me and calling me",
+          "5": "he's been calling me, showing up at my work, even monitoring my social media accounts"
+        }
+      },
+      "stalking_05": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_06": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_07": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_08": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_09": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_11": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_12": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_13": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "Oh, officer... I'm so scared. I don't know what to do.",
+          "3": "I'm scared of what he might do, but I don't want him to get hurt either.",
+          "5": "I'm so scared of what he might do next"
+        }
+      },
+      "stalking_14": {
+        "covered": "full",
+        "phrases": {
+          "1": "I'm really scared he's going to hurt me again.",
+          "3": "I'm scared of what he might do",
+          "5": "I'm so scared of what he might do next"
+        }
+      },
+      "stalking_15": {
+        "covered": "partial",
+        "phrases": {
+          "2": "shoot him in the leg",
+          "5": "he's hurt me before"
+        }
+      },
+      "stalking_16": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_17": {
+        "covered": "partial",
+        "phrases": {
+          "5": "he's hurt me before"
+        }
+      },
+      "stalking_18": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_19": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_20": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_21": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_22": {
+        "covered": "partial",
+        "phrases": {
+          "4": "i'll take care of it"
+        }
+      },
+      "stalking_23": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_24": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_25": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_26": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_27": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_28": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_29": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_30": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_31": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_32": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_33": {
+        "covered": false,
+        "phrases": {}
+      }
+    }
+  }
+}

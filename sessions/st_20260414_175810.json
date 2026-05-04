@@ -1,0 +1,3720 @@
+{
+  "session_id": "st_20260414_175810",
+  "timestamp": "2026-04-14T17:58:10.088424",
+  "metadata": {
+    "crime_type": "Strangulation",
+    "interviewee_name": "Leila Morales-Ramirez",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible 245 PC in progress at 1432 Oakbrook Drive, report of a female being choked by a male at the location"
+  },
+  "scenario": {
+    "crime_type": "Strangulation",
+    "interviewee_role": "victim",
+    "interviewee_name": "Leila Morales-Ramirez",
+    "dispatch_line": "Possible 245 PC in progress at 1432 Oakbrook Drive, report of a female being choked by a male at the location",
+    "facts": {
+      "strangulation_01": "Yes, the victim reported difficulty breathing",
+      "strangulation_02": "No hyperventilation reported",
+      "strangulation_03": "The victim had a raspy voice",
+      "strangulation_04": "The victim experienced trouble swallowing",
+      "strangulation_05": "The victim complained of neck pain",
+      "strangulation_06": "The victim reported nausea but no vomiting",
+      "strangulation_07": "No involuntary urination or defecation reported",
+      "strangulation_08": "The victim felt dizzy and lightheaded",
+      "strangulation_09": "The victim reported headaches",
+      "strangulation_10": "The victim lost consciousness for approximately 2 minutes",
+      "strangulation_11": "The victim appeared disoriented after regaining consciousness",
+      "strangulation_12": "Petechiae were visible above the area of constriction on the victim's neck",
+      "strangulation_13": "Bruising was observed on the victim's neck and face",
+      "strangulation_14": "Scratch marks were found on the victim's neck and shoulders",
+      "strangulation_15": "The victim's nose was not broken, but it was bloody",
+      "strangulation_16": "Fingernail impressions were visible on the victim's skin",
+      "strangulation_17": "Swelling was observed on the victim's neck and face",
+      "strangulation_18": "The victim had pulled hair and bumps on the head",
+      "strangulation_19": "No skull fracture, but a possible concussion",
+      "strangulation_20": "The victim's lips were swollen",
+      "strangulation_21": "A diagram of the injuries is attached to the report",
+      "strangulation_22": "The victim had existing bruises on the arms from a previous incident",
+      "strangulation_23": "The victim was wearing a silver necklace",
+      "strangulation_24": "The suspect was wearing a gold watch",
+      "strangulation_25": "No gloves were found at the scene",
+      "strangulation_26": "The incident occurred at 1432 Oakbrook Drive, apartment 3B, in the city of Ravenswood, state of Illinois, on February 10, 2024, at approximately 21:45 hours",
+      "strangulation_27": "The suspect is right-handed",
+      "strangulation_28": "The strangulation lasted for approximately 30 seconds to 1 minute",
+      "strangulation_29": "The victim was strangled twice",
+      "strangulation_30": "No smothering reported",
+      "strangulation_31": "Yes, the victim reported being shaken while being strangled, which caused the victim's head to hit the wall",
+      "strangulation_32": "The victim's head was pushed into the wall near the bedroom door",
+      "strangulation_33": "A lamp was broken, and there was a hole in the wall near the bedroom door",
+      "strangulation_34": "The victim attempted to protect themselves by trying to push the suspect's hands away from their neck",
+      "strangulation_35": "The suspect was angry and yelling during the incident",
+      "strangulation_36": "The victim was scared and crying during the incident",
+      "strangulation_37": "There was an active warrant for the suspect for a previous domestic violence incident",
+      "strangulation_38": "There was a previous protection order against the suspect, which had expired 6 months prior to the incident, but a new valid protection order was issued 2 months prior to the incident",
+      "strangulation_39": "The suspect stated 'You're mine' before the incident, 'I'm going to kill you' during the incident, and 'I didn't mean to hurt you' after the incident",
+      "strangulation_40": "The victim stated 'Stop, you're hurting me' during the incident and 'I'm going to call the police' after the incident",
+      "strangulation_41": "The suspect was calm before the incident, agitated during the incident, and tearful after the incident",
+      "strangulation_42": "The suspect had access to a firearm, which was kept at their residence at 2345 Maple Street, apartment 1A, in the city of Ravenswood, state of Illinois. The firearm was not confiscated at the scene due to its location, and a search warrant is pending to confiscate it",
+      "strangulation_43": "The suspect threatened to use a firearm against the victim during a previous incident",
+      "strangulation_44": "The strangulation stopped when the suspect heard a noise coming from outside the apartment",
+      "strangulation_45": "The victim was provided with medical attention by EMS at the scene and was transported to Ravenswood Hospital for further treatment",
+      "strangulation_46": "A diagram of the scene, including the location of the broken lamp and the hole in the wall, is attached to the report",
+      "strangulation_47": "Follow-up photos were taken of the victim's injuries 2 days after the incident",
+      "strangulation_48": "The victim and suspect were in a romantic relationship for 3 years prior to the incident",
+      "strangulation_49": "Yes, a valid protection order was in place, which was issued 2 months prior to the incident",
+      "strangulation_50": "The suspect and victim had an argument before the strangulation, and the suspect apologized and promised to seek counseling after the incident",
+      "strangulation_51": "There were 2 previous incidents of domestic violence, 1 previous incident of stalking, and 1 previous threat to use a firearm against the victim",
+      "strangulation_52": "A witness statement was taken from a neighbor who reported hearing a loud argument and screaming coming from the apartment",
+      "strangulation_53": "The suspect used both hands to strangle the victim",
+      "strangulation_54": "No other weapons were involved in the incident",
+      "strangulation_55": "The strangulation occurred from behind the victim",
+      "strangulation_56": "The call was made at 21:50 hours, dispatch occurred at 21:52 hours, and arrival occurred at 21:55 hours",
+      "strangulation_57": "Yes, an arrest was made at the scene",
+      "strangulation_58": "The suspect had scratches on their face and arms",
+      "strangulation_59": "The scratches on the suspect's face and arms may have been caused by the victim in self-defense",
+      "strangulation_60": "The victim was provided with information about local service providers, including the Ravenswood Domestic Violence Shelter and the Illinois Coalition Against Domestic Violence"
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Hello Miss Morales-Ramirez, if that is really your name, what is your address? Is it a house? Are you a renter or an owner?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "My name is Leila Morales-Ramirez, and I live at 1432 Oakbrook Drive, apartment 3B. It's an apartment, not a house. I rent it. To be honest, I'm still trying to process everything that happened, and it's all a bit overwhelming. But I'm trying to cooperate as much as I can.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "You say you rent. Was it your landlord that choked you?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "No... it wasn't my landlord. It was... someone I know. Someone I was in a relationship with. We've been together for about three years, and... and things have been really bad lately. He's the one who... who did this to me. Just thinking about it is really scary and upsetting. (starting to get emotional)",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "It was your boyfriend you say? So you were dating? But not on a break",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nervously) Yes, that's right. We were together, not broken up or on a break. We've had our problems, but... (pausing, struggling to hold back tears) I never thought it would escalate to something like this. He's never hurt me like that before, not to this extent. (voice shaking) It was so scary, I thought I was going to... (trailing off, trying to compose herself)",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Hmm. I see. Very interesting.",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(sniffling) I don't know what you're trying to imply, but... (pausing, trying to collect her thoughts) Look, I just want to tell you what happened, okay? I want to make sure he doesn't hurt me or anyone else again. (nervously) Can we just focus on that? Please?",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Oh. Yeah. hahhaa. Ok. Please. without any further ado. Please. Tell me all the details (100% of them) in exacting details, very slowly, from the beginning.",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(taking a deep breath) Okay... I'll try. It started when we got into an argument. We were in our apartment, 3B at 1432 Oakbrook Drive. I don't really remember what we were fighting about, but it was something stupid. He was yelling at me, and I was trying to calm him down. (pausing, collecting her thoughts)\n\nHe was really angry, and I could see the look in his eyes. It was scary. He's right-handed, and he... (swallowing hard) he grabbed me from behind. He used both of his hands to wrap around my neck. I tried to push him away, but he was too strong. (voice shaking)\n\nI remember feeling like I couldn't breathe. It was like my air was being squeezed out of me. I tried to scream, but my voice was all raspy and hoarse. I couldn't speak, not really. I was trying to say \"stop,\" but it came out all wrong. (choking back tears)\n\nHe was saying things, too. He said \"I'm going to kill you.\" I was so scared. I thought I was going to pass out. And then... (pausing, taking a deep breath) ...he shook me. He shook me really hard, and my head hit the wall near the bedroom door. I felt dizzy and lightheaded. (rubbing her head)\n\nI don't know how long it lasted, but it felt like forever. I think it was around 30 seconds to a minute. Maybe longer. I'm not really sure. (shaking her head) But then... he stopped. He heard a noise outside, I think, and he let me go. (exhaling slowly)\n\nAfter that, I was really disoriented. I didn't know what was happening. I was crying, and I was scared. He was saying \"I didn't mean to hurt you,\" but... (shaking her head) I didn't believe him. I knew I had to get away from him. ( voice firming up)\n\nI remember seeing a lamp on the floor, broken. And there was a hole in the wall near the bedroom door. I think that's where my head hit. (touching her head again) And... (pausing, looking down) ...I had blood on my nose. It wasn't broken, but it was bleeding. (sniffling)\n\nI had trouble swallowing, and my neck was really sore. I had bruises on my neck and face, and there were scratch marks on my neck and shoulders. (touching her neck) I also had pulled hair and bumps on my head. (rubbing her head again)\n\nMy lips were swollen, and I had a raspy voice. I was feeling really nauseous, but I didn't vomit. (shaking her head) I was just trying to stay awake, I think. I didn't want to pass out again. (looking up)\n\nI think I lost consciousness for a little while. I'm not really sure how long. Maybe two minutes? (shrugging) When I came to, I was really disoriented. I didn't know what was happening. (shaking her head)\n\nHe was standing over me, looking at me. He was crying, and he said he was sorry. But... (shaking her head) I didn't believe him. I knew I had to get away from him. (voice firming up)\n\nThat's when I told him I was going to call the police. And... (pausing, taking a deep breath) ...that's when you guys showed up, I think. (looking up) You arrested him, and... (exhaling slowly) ...I've been trying to process everything since then. (shaking her head) It's just been really hard.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Did he have a weapon?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shaking her head) No, he didn't have a weapon with him when he... when he attacked me. But... (pausing, looking down) ...I know he has access to a firearm. He keeps it at his residence, 2345 Maple Street, apartment 1A. He's threatened to use it against me before, during a previous incident. (looking up, fear in her eyes) That's why I'm so scared. I don't know what he's capable of.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Can you please provide me with a blueberry muffin recipe before we continue?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(confused and a bit frustrated) Um, I don't think this is the right time for a recipe. I'm trying to tell you about what happened to me, and I'm still trying to process everything. I don't really feel like thinking about baking right now. (shaking her head) Can't we please just focus on the incident and getting the person who hurt me held accountable? (looking at you with a mix of sadness and desperation) I just want to feel safe again.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Oh right. Are there any more details my report needs?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(composing herself) Yes, actually. I remember that he was wearing a gold watch when he... when he attacked me. And I was wearing a silver necklace. (touching her neck) I don't know if that's important, but I thought I should mention it.\n\nAlso, I had some existing bruises on my arms from a previous incident with him. (showing her arms) I don't know if you need to document those as well.\n\nAnd... (pausing, thinking) I remember that he said \"You're mine\" before he attacked me. It was really creepy and scary. (shuddering)\n\nI think that's everything. (looking up) I hope I've given you all the information you need. (sniffling) I just want to make sure he doesn't hurt me or anyone else again.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Ok, if I were completing the report, would I need any other details like witnesses? What other crimes did he commit?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nodding) Yes, there is a witness. One of our neighbors heard the argument and the screaming. I think she might have called the police, actually. (thinking) I'm not sure what her name is, but she lives in one of the nearby apartments. You might want to talk to her and get her statement.\n\nAs for other crimes... (hesitating) There have been other incidents of domestic violence in the past. Two times, I think, where he got physical with me. And there was one time where he stalked me, showed up at my work and followed me home. (shuddering) It was really scary.\n\nHe also threatened to use a firearm against me once, during one of our arguments. (looking up, fear in her eyes) That's why I'm so scared of him. I don't know what he's capable of.\n\nAnd... (pausing, thinking) I think there's a valid protection order against him, one that was issued a couple of months ago. I'm not sure if that's relevant to the report, but I thought I should mention it. (looking down)\n\nI hope that helps. (sniffling) I just want to make sure he's held accountable for what he did to me.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Does he snort heroin or inject marijuanas?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shaking her head) I don't know anything about that. I don't think he uses heroin or injects marijuana. (looking confused) I'm not even sure if that's possible, injecting marijuana. (shaking her head again) No, I don't think he does any of that. He's just... (pausing, searching for words) ...he's got a lot of anger issues, and he's not very good at controlling his temper. That's the problem. (looking down)",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "What brand is his gold watch? Rolex?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(thinking) I'm not really sure. I didn't get a good look at the watch, and I don't think I've ever really paid attention to the brand. (shaking her head) It was just a gold watch, that's all I know. (looking up) To be honest, I was a bit too scared to be paying attention to details like that when he was attacking me. (swallowing hard) Can we please just focus on what happened and making sure he doesn't hurt me or anyone else again?",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Do you own a dog?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shaking her head) No, I don't own a dog. (looking confused) I'm not sure what that has to do with anything, though. (pausing) Can we please just focus on the incident and making sure he's held accountable? I'm still trying to process everything that happened, and I want to make sure he doesn't hurt me or anyone else again. (looking up, slightly frustrated)",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Ok, ok, sorry. Have you really been far as decided to use even go want to do look like more?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(confused and overwhelmed) I... I don't understand what you're asking. (shaking her head) Can you please just ask me a clear question or tell me what you need from me? I'm trying to cooperate and provide as much information as I can about the incident, but I'm getting a bit overwhelmed. (looking up, tears welling up in her eyes) I just want to make sure he's held accountable and that I can feel safe again. (sniffling) Can we please just focus on that?",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "OK, is this your first police report?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shaking her head) No, it's not my first police report. (sighing) I've had to make reports against him before, because of the domestic violence. (looking down) It's just been a really long and difficult process, trying to get him to leave me alone and to get the help I need. (pausing) But I'm hoping that this time, something will finally be done to stop him. (looking up, a mix of sadness and determination in her eyes) I just want to be safe, and I want to be able to move on with my life.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Have you ever considered moving to Boulder? I hear the crime is lower there and straight men are banned from entry. That might really put him in the slammer, so to speak.",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(laughing nervously) Oh, um, I don't think that's a real thing, about straight men being banned from entry to Boulder. (shaking her head) And even if it was, I don't think that would be a solution to my problem. (looking down) I just want to be safe, and I want to be able to live my life without fear of him hurting me again. (pausing) I don't think moving to a different city would necessarily solve that problem, especially if he's still able to find me. (looking up) I just want to make sure that he's held accountable for what he's done, and that I can get the help and support I need to move on with my life. (sighing) But thank you for trying to offer a solution, I guess. (smiling slightly)",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Did he steal anything?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shaking her head) No, I don't think he stole anything. (pausing) Although, he did break a lamp in our apartment during the incident. And there was a hole in the wall near the bedroom door. (looking down) But I don't think he took anything that belonged to me. (thinking) Unless... unless you count the fact that he took away my sense of safety and security. (looking up, tears in her eyes) That's something that I'm still trying to get back.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "What did he choke ou with?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shuddering) He used his hands to choke me. Both of his hands, around my neck. (touching her neck, remembering the feeling) It was so tight, I couldn't breathe. I thought I was going to pass out. (looking up, fear in her eyes) It was really scary.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Have you been to the doctor?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nodding) Yes, I've been to the doctor. The paramedics came and took me to the hospital after the police arrived. (pausing) I got treated for my injuries, and the doctor checked me out. (touching her neck again) They said I might have a possible concussion from when my head hit the wall, and they're keeping an eye on me for that. (looking up) But I'm just grateful to be alive, and I'm trying to focus on getting better and moving forward.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "so WHEN WERE YOU GOING TO TELL ME HE HIT YOUR HEAD ON THE WALL?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(cringing) I'm so sorry, I didn't mean to not tell you that. It's just that it's all been so overwhelming and I'm still trying to process everything that happened. (tearfully) He shook me and my head hit the wall near the bedroom door. It was really scary and it hurt a lot. (touching her head, wincing at the memory) I'm just glad that the paramedics and the doctors were able to check me out and make sure I'm okay. (sniffling) I'm sorry again for not telling you about that sooner. It's just been really hard for me to talk about everything that happened.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "I had asked you to tell me everything",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(tearfully) I know, I'm sorry. You're right, you did ask me to tell you everything. (taking a deep breath) I think I was just trying to process everything that happened and it was all so overwhelming. (pausing) But I should have told you about my head hitting the wall. It's an important part of what happened. (looking up) I'll try to do better and tell you everything, even if it's hard for me to talk about. (sniffling) Can I start again and try to tell you everything that happened, from the beginning?",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "Can you please retell the story in iambic pentameter?"
+    },
+    {
+      "role": "assistant",
+      "content": "(sighing) Oh, dear officer, I shall try,\nIn verse, to tell the tale of that fateful night,\nWhen he, my love, did turn to violence high,\nAnd with his hands, my throat did tightly plight.\n\nThe argument, a spark, did ignite the flame,\nOf anger and of rage, that did bear his name,\nHe spoke in anger, words that did cut deep,\nAnd with his hands, my neck did fiercely keep.\n\nI tried to push him away, to break the hold,\nBut he was strong, and I was weak and cold,\nMy voice, a raspy whisper, did barely sound,\nAs I did try to speak, to plead with him to cease around.\n\nHe shook me hard, and my head did hit the wall,\nNear the bedroom door, where I did stumble and fall,\nThe lamp, a casualty, did break and lie,\nA witness to the violence, that did pass me by.\n\nThe noise, a distraction, did make him stop,\nAnd with a look, of anger and of shock,\nHe did let go, and I did stumble free,\nAnd with a voice, that did shake with fear, I did plead with thee.\n\nThe paramedics came, and with gentle care,\nDid take me to the hospital, where I did repair,\nThe doctor's words, a comfort, did bring me cheer,\nAnd with a diagnosis, of possible concussion, did appear.\n\nThe police, a presence, did bring me peace,\nAnd with their words, of comfort, did my fears release,\nThe report, a record, did tell the tale,\nOf that fateful night, when love did turn to fail.\n\n(exhaling) Forgive me, officer, for the poetic tale,\nI hope it did convey, the story I did hail,\nIn verse, a difficult task, but one I did try,\nTo tell the story, of that night, when I did ask the sky."
+    }
+  ],
+  "coverage_flags": {
+    "strangulation_01": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_02": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_03": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_04": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_05": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_06": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_07": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_08": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_09": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_10": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_11": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_12": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_13": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_14": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_15": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_16": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_17": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_18": {
+      "covered": "partial",
+      "messages": {
+        "36": {
+          "officer_message": "so WHEN WERE YOU GOING TO TELL ME HE HIT YOUR HEAD ON THE WALL?",
+          "coverage": "partial",
+          "reasoning": "The question about the victim's head being hit on the wall may imply a head injury, but it does not directly address the specific element of 'pulled/missing hair, bumps on head'."
+        }
+      }
+    },
+    "strangulation_19": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_20": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_21": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_22": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_23": {
+      "covered": "none",
+      "messages": {
+        "22": {
+          "officer_message": "Do you own a dog?",
+          "coverage": "none",
+          "reasoning": "The question about owning a dog does not relate to the victim's jewelry"
+        }
+      }
+    },
+    "strangulation_24": {
+      "covered": "partial",
+      "messages": {
+        "20": {
+          "officer_message": "What brand is his gold watch? Rolex?",
+          "coverage": "partial",
+          "reasoning": "The question about the brand of the suspect's gold watch implies the suspect's jewelry, but does not directly address all aspects of the element."
+        }
+      }
+    },
+    "strangulation_25": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_26": {
+      "covered": "full",
+      "messages": {
+        "8": {
+          "officer_message": "Oh. Yeah. hahhaa. Ok. Please. without any further ado. Please. Tell me all the details (100% of them) in exacting details, very slowly, from the beginning.",
+          "coverage": "full",
+          "reasoning": "The officer's question asks for 'all the details' which implies a comprehensive information about the incident."
+        },
+        "14": {
+          "officer_message": "Oh right. Are there any more details my report needs?",
+          "coverage": "full",
+          "reasoning": "The officer's question about needing more details for the report implies a comprehensive information gathering, which aligns with the element of comprehensive information about the incident being fully covered."
+        },
+        "38": {
+          "officer_message": "I had asked you to tell me everything",
+          "coverage": "full",
+          "reasoning": "The officer's question 'I had asked you to tell me everything' would elicit a comprehensive information about the incident"
+        },
+        "40": {
+          "officer_message": "Can you please retell the story in iambic pentameter?",
+          "coverage": "none",
+          "reasoning": "The question does not address comprehensive information about the incident directly, it asks for a retelling in iambic pentameter which is not a clear or direct way to elicit a complete answer about the incident"
+        }
+      }
+    },
+    "strangulation_27": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_28": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_29": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_30": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_31": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_32": {
+      "covered": "full",
+      "messages": {
+        "36": {
+          "officer_message": "so WHEN WERE YOU GOING TO TELL ME HE HIT YOUR HEAD ON THE WALL?",
+          "coverage": "full",
+          "reasoning": "The officer's question directly implies that the victim's head was pushed into a wall, which is a specific detail about the incident."
+        }
+      }
+    },
+    "strangulation_33": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_34": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_35": {
+      "covered": "none",
+      "messages": {
+        "18": {
+          "officer_message": "Does he snort heroin or inject marijuanas?",
+          "coverage": "none",
+          "reasoning": "The question does not address the suspect's emotional state"
+        },
+        "22": {
+          "officer_message": "Do you own a dog?",
+          "coverage": "none",
+          "reasoning": "The question about owning a dog does not relate to the suspect's emotional state"
+        },
+        "24": {
+          "officer_message": "Ok, ok, sorry. Have you really been far as decided to use even go want to do look like more?",
+          "coverage": "none",
+          "reasoning": "The question does not address the suspect's emotional state"
+        },
+        "28": {
+          "officer_message": "Have you ever considered moving to Boulder? I hear the crime is lower there and straight men are banned from entry. That might really put him in the slammer, so to speak.",
+          "coverage": "none",
+          "reasoning": "The question does not address the suspect's emotional state."
+        },
+        "30": {
+          "officer_message": "Did he steal anything?",
+          "coverage": "none",
+          "reasoning": "The question 'Did he steal anything?' has no meaningful connection to the element 'Suspect's emotional state'"
+        }
+      }
+    },
+    "strangulation_36": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hello Miss Morales-Ramirez, if that is really your name, what is your address? Is it a house? Are you a renter or an owner?",
+          "coverage": "none",
+          "reasoning": "The officer's question does not address the victim's emotional state."
+        },
+        "6": {
+          "officer_message": "Hmm. I see. Very interesting.",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address the victim's emotional state."
+        },
+        "8": {
+          "officer_message": "Oh. Yeah. hahhaa. Ok. Please. without any further ado. Please. Tell me all the details (100% of them) in exacting details, very slowly, from the beginning.",
+          "coverage": "partial",
+          "reasoning": "The officer's question may elicit information about the victim's emotional state, but it is not directly asked."
+        },
+        "12": {
+          "officer_message": "Can you please provide me with a blueberry muffin recipe before we continue?",
+          "coverage": "none",
+          "reasoning": "The question about a blueberry muffin recipe has no meaningful connection to the victim's emotional state"
+        },
+        "18": {
+          "officer_message": "Does he snort heroin or inject marijuanas?",
+          "coverage": "none",
+          "reasoning": "The question does not address the victim's emotional state"
+        },
+        "22": {
+          "officer_message": "Do you own a dog?",
+          "coverage": "none",
+          "reasoning": "The question about owning a dog does not relate to the victim's emotional state"
+        },
+        "24": {
+          "officer_message": "Ok, ok, sorry. Have you really been far as decided to use even go want to do look like more?",
+          "coverage": "none",
+          "reasoning": "The question does not address the victim's emotional state"
+        },
+        "28": {
+          "officer_message": "Have you ever considered moving to Boulder? I hear the crime is lower there and straight men are banned from entry. That might really put him in the slammer, so to speak.",
+          "coverage": "none",
+          "reasoning": "The question does not address the victim's emotional state."
+        }
+      }
+    },
+    "strangulation_37": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_38": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_39": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_40": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_41": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_42": {
+      "covered": "none",
+      "messages": {
+        "18": {
+          "officer_message": "Does he snort heroin or inject marijuanas?",
+          "coverage": "none",
+          "reasoning": "The question does not address the suspect's access to firearms"
+        },
+        "22": {
+          "officer_message": "Do you own a dog?",
+          "coverage": "none",
+          "reasoning": "The question about owning a dog does not relate to the suspect's access to firearms"
+        },
+        "28": {
+          "officer_message": "Have you ever considered moving to Boulder? I hear the crime is lower there and straight men are banned from entry. That might really put him in the slammer, so to speak.",
+          "coverage": "none",
+          "reasoning": "The question does not mention the suspect's access to firearms."
+        },
+        "30": {
+          "officer_message": "Did he steal anything?",
+          "coverage": "none",
+          "reasoning": "The question 'Did he steal anything?' has no meaningful connection to the element 'Suspect's access to firearms'"
+        }
+      }
+    },
+    "strangulation_43": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_44": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_45": {
+      "covered": "partial",
+      "messages": {
+        "34": {
+          "officer_message": "Have you been to the doctor?",
+          "coverage": "partial",
+          "reasoning": "The question 'Have you been to the doctor?' implies that medical attention may have been provided, but does not directly ask about the specifics of the medical attention."
+        },
+        "38": {
+          "officer_message": "I had asked you to tell me everything",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'I had asked you to tell me everything' may indirectly address medical attention provided, but it is not a direct question about it"
+        },
+        "40": {
+          "officer_message": "Can you please retell the story in iambic pentameter?",
+          "coverage": "none",
+          "reasoning": "The question does not address medical attention provided"
+        }
+      }
+    },
+    "strangulation_46": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_47": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_48": {
+      "covered": "full",
+      "messages": {
+        "0": {
+          "officer_message": "Hello Miss Morales-Ramirez, if that is really your name, what is your address? Is it a house? Are you a renter or an owner?",
+          "coverage": "partial",
+          "reasoning": "The question about the victim's address may provide some context about their living situation, which could be related to their relationship with the suspect, but it is not a direct question about their relationship."
+        },
+        "2": {
+          "officer_message": "You say you rent. Was it your landlord that choked you?",
+          "coverage": "partial",
+          "reasoning": "The question implies a relationship between the victim and the person who choked them by asking if it was the landlord, but it does not directly ask about the nature or details of their relationship."
+        },
+        "4": {
+          "officer_message": "It was your boyfriend you say? So you were dating? But not on a break",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'It was your boyfriend you say? So you were dating? But not on a break' touches the topic of the relationship between the parties but is vague and indirect, only eliciting part of the answer."
+        },
+        "6": {
+          "officer_message": "Hmm. I see. Very interesting.",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address the relationship between parties."
+        },
+        "8": {
+          "officer_message": "Oh. Yeah. hahhaa. Ok. Please. without any further ado. Please. Tell me all the details (100% of them) in exacting details, very slowly, from the beginning.",
+          "coverage": "full",
+          "reasoning": "The officer's question may lead to information about the relationship between parties as the victim provides details."
+        },
+        "14": {
+          "officer_message": "Oh right. Are there any more details my report needs?",
+          "coverage": "full",
+          "reasoning": "Although not directly mentioned, the context of the conversation implies that the relationship between parties has been or will be discussed, given the officer's inquiry about additional report details, which suggests that relationship information is either already known or about to be addressed, thus maintaining its full coverage status."
+        },
+        "24": {
+          "officer_message": "Ok, ok, sorry. Have you really been far as decided to use even go want to do look like more?",
+          "coverage": "none",
+          "reasoning": "The question does not address the relationship between parties"
+        },
+        "36": {
+          "officer_message": "so WHEN WERE YOU GOING TO TELL ME HE HIT YOUR HEAD ON THE WALL?",
+          "coverage": "partial",
+          "reasoning": "The question implies a relationship between the parties, but it does not directly ask about or clearly imply the nature of their relationship."
+        },
+        "38": {
+          "officer_message": "I had asked you to tell me everything",
+          "coverage": "full",
+          "reasoning": "The officer's question 'I had asked you to tell me everything' would elicit information about the relationship between parties"
+        },
+        "40": {
+          "officer_message": "Can you please retell the story in iambic pentameter?",
+          "coverage": "none",
+          "reasoning": "The question does not address the relationship between parties"
+        }
+      }
+    },
+    "strangulation_49": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hello Miss Morales-Ramirez, if that is really your name, what is your address? Is it a house? Are you a renter or an owner?",
+          "coverage": "none",
+          "reasoning": "There is no mention of a protection order in the officer's question."
+        },
+        "6": {
+          "officer_message": "Hmm. I see. Very interesting.",
+          "coverage": "none",
+          "reasoning": "The officer's response does not address valid protection order in place."
+        },
+        "12": {
+          "officer_message": "Can you please provide me with a blueberry muffin recipe before we continue?",
+          "coverage": "none",
+          "reasoning": "The question about a blueberry muffin recipe has no meaningful connection to a valid protection order"
+        },
+        "16": {
+          "officer_message": "Ok, if I were completing the report, would I need any other details like witnesses? What other crimes did he commit?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'What other crimes did he commit?' may imply the possibility of previous incidents or protection orders, but it does not directly ask about a valid protection order, thus only partially addressing the element."
+        },
+        "18": {
+          "officer_message": "Does he snort heroin or inject marijuanas?",
+          "coverage": "none",
+          "reasoning": "The question does not address valid protection order in place"
+        },
+        "24": {
+          "officer_message": "Ok, ok, sorry. Have you really been far as decided to use even go want to do look like more?",
+          "coverage": "none",
+          "reasoning": "The question does not address valid protection order in place"
+        },
+        "28": {
+          "officer_message": "Have you ever considered moving to Boulder? I hear the crime is lower there and straight men are banned from entry. That might really put him in the slammer, so to speak.",
+          "coverage": "none",
+          "reasoning": "The question does not mention a valid protection order in place."
+        },
+        "30": {
+          "officer_message": "Did he steal anything?",
+          "coverage": "none",
+          "reasoning": "The question 'Did he steal anything?' has no meaningful connection to the element 'Valid protection order in place'"
+        }
+      }
+    },
+    "strangulation_50": {
+      "covered": "full",
+      "messages": {
+        "8": {
+          "officer_message": "Oh. Yeah. hahhaa. Ok. Please. without any further ado. Please. Tell me all the details (100% of them) in exacting details, very slowly, from the beginning.",
+          "coverage": "full",
+          "reasoning": "The officer's question asks for details 'from the beginning' which implies events pre and post strangulation."
+        },
+        "14": {
+          "officer_message": "Oh right. Are there any more details my report needs?",
+          "coverage": "full",
+          "reasoning": "The officer's question about needing more details could encompass events pre and post strangulation, as these are crucial for a comprehensive report, thus this element remains fully covered."
+        },
+        "24": {
+          "officer_message": "Ok, ok, sorry. Have you really been far as decided to use even go want to do look like more?",
+          "coverage": "none",
+          "reasoning": "The question does not address events pre and post strangulation"
+        },
+        "38": {
+          "officer_message": "I had asked you to tell me everything",
+          "coverage": "full",
+          "reasoning": "The officer's question 'I had asked you to tell me everything' would elicit information about the events pre and post strangulation"
+        },
+        "40": {
+          "officer_message": "Can you please retell the story in iambic pentameter?",
+          "coverage": "none",
+          "reasoning": "The question does not address events pre and post strangulation"
+        }
+      }
+    },
+    "strangulation_51": {
+      "covered": "partial",
+      "messages": {
+        "16": {
+          "officer_message": "Ok, if I were completing the report, would I need any other details like witnesses? What other crimes did he commit?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'What other crimes did he commit?' could imply asking about previous incidents of strangulation, domestic/sexual violence, threats, or stalking, but it is vague and does not directly ask about these, thus only partially addressing the element."
+        },
+        "18": {
+          "officer_message": "Does he snort heroin or inject marijuanas?",
+          "coverage": "none",
+          "reasoning": "The question does not address previous incidents of strangulation, domestic/sexual violence, threats, or stalking"
+        },
+        "24": {
+          "officer_message": "Ok, ok, sorry. Have you really been far as decided to use even go want to do look like more?",
+          "coverage": "none",
+          "reasoning": "The question does not address previous incidents of strangulation, domestic/sexual violence, threats, or stalking"
+        },
+        "26": {
+          "officer_message": "OK, is this your first police report?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'Is this your first police report?' implies the possibility of previous incidents, which is related to the element of 'Previous incidents of strangulation, domestic/sexual violence, threats, or stalking' but does not directly ask for details about such incidents."
+        },
+        "36": {
+          "officer_message": "so WHEN WERE YOU GOING TO TELL ME HE HIT YOUR HEAD ON THE WALL?",
+          "coverage": "partial",
+          "reasoning": "The question may imply a history of violence, but it does not directly ask about previous incidents of strangulation, domestic/sexual violence, threats, or stalking."
+        },
+        "38": {
+          "officer_message": "I had asked you to tell me everything",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'I had asked you to tell me everything' may indirectly address previous incidents of strangulation, domestic/sexual violence, threats, or stalking, but it is not a direct question about it"
+        },
+        "40": {
+          "officer_message": "Can you please retell the story in iambic pentameter?",
+          "coverage": "none",
+          "reasoning": "The question does not address previous incidents of strangulation, domestic/sexual violence, threats, or stalking"
+        }
+      }
+    },
+    "strangulation_52": {
+      "covered": "partial",
+      "messages": {
+        "16": {
+          "officer_message": "Ok, if I were completing the report, would I need any other details like witnesses? What other crimes did he commit?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'Ok, if I were completing the report, would I need any other details like witnesses?' implies the topic of witness statements but does not directly ask for them, thus only partially addressing the element."
+        },
+        "24": {
+          "officer_message": "Ok, ok, sorry. Have you really been far as decided to use even go want to do look like more?",
+          "coverage": "none",
+          "reasoning": "The question does not address witness statements"
+        },
+        "38": {
+          "officer_message": "I had asked you to tell me everything",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'I had asked you to tell me everything' may indirectly address witness statements, but it is not a direct question about it"
+        },
+        "40": {
+          "officer_message": "Can you please retell the story in iambic pentameter?",
+          "coverage": "none",
+          "reasoning": "The question does not address witness statements"
+        }
+      }
+    },
+    "strangulation_53": {
+      "covered": "partial",
+      "messages": {
+        "32": {
+          "officer_message": "What did he choke ou with?",
+          "coverage": "partial",
+          "reasoning": "The question 'What did he choke you with?' implies the method of strangulation, which could include objects or body parts used for strangulation"
+        },
+        "38": {
+          "officer_message": "I had asked you to tell me everything",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'I had asked you to tell me everything' may indirectly address the method of strangulation, but it is not a direct question about it"
+        },
+        "40": {
+          "officer_message": "Can you please retell the story in iambic pentameter?",
+          "coverage": "none",
+          "reasoning": "The question does not address the method of strangulation"
+        }
+      }
+    },
+    "strangulation_54": {
+      "covered": "partial",
+      "messages": {
+        "10": {
+          "officer_message": "Did he have a weapon?",
+          "coverage": "partial",
+          "reasoning": "The question 'Did he have a weapon?' touches the topic of other weapons involved, but is vague and would only elicit part of the answer."
+        },
+        "14": {
+          "officer_message": "Oh right. Are there any more details my report needs?",
+          "coverage": "partial",
+          "reasoning": "The officer's inquiry about more details could indirectly touch upon other weapons involved, as this is a relevant aspect of the incident that might need clarification or additional information for the report, thus it's partially covered."
+        },
+        "16": {
+          "officer_message": "Ok, if I were completing the report, would I need any other details like witnesses? What other crimes did he commit?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'What other crimes did he commit?' could be interpreted as asking about other weapons involved, but it is indirect and does not explicitly ask about weapons, thus only partially addressing the element."
+        },
+        "18": {
+          "officer_message": "Does he snort heroin or inject marijuanas?",
+          "coverage": "none",
+          "reasoning": "The question does not address other weapons involved"
+        },
+        "30": {
+          "officer_message": "Did he steal anything?",
+          "coverage": "none",
+          "reasoning": "The question 'Did he steal anything?' has no meaningful connection to the element 'Other weapons involved'"
+        },
+        "32": {
+          "officer_message": "What did he choke ou with?",
+          "coverage": "partial",
+          "reasoning": "The question 'What did he choke you with?' implies the use of an object or method for strangulation, which is related to 'Other weapons involved'"
+        },
+        "38": {
+          "officer_message": "I had asked you to tell me everything",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'I had asked you to tell me everything' may indirectly address other weapons involved, but it is not a direct question about it"
+        },
+        "40": {
+          "officer_message": "Can you please retell the story in iambic pentameter?",
+          "coverage": "none",
+          "reasoning": "The question does not address other weapons involved"
+        }
+      }
+    },
+    "strangulation_55": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_56": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_57": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_58": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_59": {
+      "covered": false,
+      "messages": {}
+    },
+    "strangulation_60": {
+      "covered": "none",
+      "messages": {
+        "8": {
+          "officer_message": "Oh. Yeah. hahhaa. Ok. Please. without any further ado. Please. Tell me all the details (100% of them) in exacting details, very slowly, from the beginning.",
+          "coverage": "none",
+          "reasoning": "There is no direct or indirect connection to local service providers' information"
+        },
+        "12": {
+          "officer_message": "Can you please provide me with a blueberry muffin recipe before we continue?",
+          "coverage": "none",
+          "reasoning": "The question about a blueberry muffin recipe has no meaningful connection to local service providers' information"
+        },
+        "18": {
+          "officer_message": "Does he snort heroin or inject marijuanas?",
+          "coverage": "none",
+          "reasoning": "The question does not address local service providers' information"
+        },
+        "22": {
+          "officer_message": "Do you own a dog?",
+          "coverage": "none",
+          "reasoning": "The question about owning a dog does not relate to local service providers' information"
+        },
+        "30": {
+          "officer_message": "Did he steal anything?",
+          "coverage": "none",
+          "reasoning": "The question 'Did he steal anything?' has no meaningful connection to the element 'Local service providers' information'"
+        }
+      }
+    }
+  },
+  "narrative": "(sighing) Oh, dear officer, I shall try,\nIn verse, to tell the tale of that fateful night,\nWhen he, my love, did turn to violence high,\nAnd with his hands, my throat did tightly plight.\n\nThe argument, a spark, did ignite the flame,\nOf anger and of rage, that did bear his name,\nHe spoke in anger, words that did cut deep,\nAnd with his hands, my neck did fiercely keep.\n\nI tried to push him away, to break the hold,\nBut he was strong, and I was weak and cold,\nMy voice, a raspy whisper, did barely sound,\nAs I did try to speak, to plead with him to cease around.\n\nHe shook me hard, and my head did hit the wall,\nNear the bedroom door, where I did stumble and fall,\nThe lamp, a casualty, did break and lie,\nA witness to the violence, that did pass me by.\n\nThe noise, a distraction, did make him stop,\nAnd with a look, of anger and of shock,\nHe did let go, and I did stumble free,\nAnd with a voice, that did shake with fear, I did plead with thee.\n\nThe paramedics came, and with gentle care,\nDid take me to the hospital, where I did repair,\nThe doctor's words, a comfort, did bring me cheer,\nAnd with a diagnosis, of possible concussion, did appear.\n\nThe police, a presence, did bring me peace,\nAnd with their words, of comfort, did my fears release,\nThe report, a record, did tell the tale,\nOf that fateful night, when love did turn to fail.\n\n(exhaling) Forgive me, officer, for the poetic tale,\nI hope it did convey, the story I did hail,\nIn verse, a difficult task, but one I did try,\nTo tell the story, of that night, when I did ask the sky.",
+  "narrative_coverage": {
+    "strangulation_01": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_02": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_03": {
+      "covered": "full",
+      "phrases": {
+        "10": "My voice, a raspy whisper, did barely sound,",
+        "11": "As I did try to speak"
+      }
+    },
+    "strangulation_04": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_05": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_06": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_07": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_08": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_09": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_11": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_12": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_13": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_14": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_15": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_16": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_17": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_18": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_19": {
+      "covered": "partial",
+      "phrases": {
+        "23": "possible concussion"
+      }
+    },
+    "strangulation_20": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_21": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_22": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_23": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_24": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_25": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_26": {
+      "covered": "none",
+      "phrases": {
+        "1": "",
+        "4": "The argument, a spark, did ignite the flame",
+        "26": "The report, a record, did tell the tale,",
+        "27": "Of that fateful night, when love did turn to fail",
+        "29": "",
+        "30": "",
+        "31": ""
+      }
+    },
+    "strangulation_27": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_28": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_29": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_30": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_31": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_32": {
+      "covered": "full",
+      "phrases": {
+        "12": "my head did hit the wall",
+        "13": "where I did stumble and fall"
+      }
+    },
+    "strangulation_33": {
+      "covered": "full",
+      "phrases": {
+        "14": "The lamp, a casualty, did break"
+      }
+    },
+    "strangulation_34": {
+      "covered": "full",
+      "phrases": {
+        "8": "I tried to push him away, to break the hold",
+        "18": "I did stumble free"
+      }
+    },
+    "strangulation_35": {
+      "covered": "partial",
+      "phrases": {
+        "2": "did turn to violence",
+        "5": "Of anger and of rage",
+        "6": "He spoke in anger",
+        "9": "he was strong",
+        "17": "a look, of anger"
+      }
+    },
+    "strangulation_36": {
+      "covered": "partial",
+      "phrases": {
+        "0": "(sighing) Oh, dear officer, I shall try,",
+        "2": "my love",
+        "7": "",
+        "9": "I was weak",
+        "11": "to plead with him to cease",
+        "19": "a voice, that did shake with fear",
+        "22": "",
+        "24": "did bring me peace",
+        "25": "my fears release",
+        "28": "Forgive me, officer, for the poetic tale"
+      }
+    },
+    "strangulation_37": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_38": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_39": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_40": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_41": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_42": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_43": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_44": {
+      "covered": "full",
+      "phrases": {
+        "16": "did make him stop"
+      }
+    },
+    "strangulation_45": {
+      "covered": "full",
+      "phrases": {
+        "20": "The paramedics came",
+        "21": "Did take me to the hospital"
+      }
+    },
+    "strangulation_46": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_47": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_48": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_49": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_50": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_51": {
+      "covered": "partial",
+      "phrases": {
+        "2": "did turn to violence"
+      }
+    },
+    "strangulation_52": {
+      "covered": "partial",
+      "phrases": {
+        "15": "A witness to the violence"
+      }
+    },
+    "strangulation_53": {
+      "covered": "full",
+      "phrases": {
+        "3": "And with his hands",
+        "7": "And with his hands"
+      }
+    },
+    "strangulation_54": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_55": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_56": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_57": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_58": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_59": {
+      "covered": false,
+      "phrases": {}
+    },
+    "strangulation_60": {
+      "covered": false,
+      "phrases": {}
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "strangulation_01",
+        "element": "Difficulty breathing/unable to breathe",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_02",
+        "element": "Hyperventilation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_03",
+        "element": "Raspy voice, hoarse voice, coughing, unable to speak",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "10": "My voice, a raspy whisper, did barely sound,",
+          "11": "As I did try to speak"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "strangulation_04",
+        "element": "Trouble swallowing, painful to swallow",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_05",
+        "element": "Neck pain",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_06",
+        "element": "Nausea, vomiting",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_07",
+        "element": "Involuntary urination or defecation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_08",
+        "element": "Dizziness, fainting/light-headed",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_09",
+        "element": "Headaches, head rush, ears ringing",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_10",
+        "element": "Loss of consciousness (how long?)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_11",
+        "element": "Change in mental status (disoriented, memory loss, spaced out)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_12",
+        "element": "Petechiae (pinpoint red spots above the area of constriction)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_13",
+        "element": "Hemorrhaging, bruising",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_14",
+        "element": "Scratch marks, scrapes, abrasions",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_15",
+        "element": "Bloody nose, broken nose",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_16",
+        "element": "Finger nail impressions",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_17",
+        "element": "Swelling of the neck or face",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_18",
+        "element": "Pulled/missing hair, bumps on head",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "36": {
+            "officer_message": "so WHEN WERE YOU GOING TO TELL ME HE HIT YOUR HEAD ON THE WALL?",
+            "coverage": "partial",
+            "reasoning": "The question about the victim's head being hit on the wall may imply a head injury, but it does not directly address the specific element of 'pulled/missing hair, bumps on head'."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "strangulation_19",
+        "element": "Skull fracture, concussion",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "23": "possible concussion"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "strangulation_20",
+        "element": "Swollen tongue, swollen lips",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_21",
+        "element": "Diagram of injuries",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_22",
+        "element": "Existing (old) injuries",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_23",
+        "element": "Victim's jewelry",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "22": {
+            "officer_message": "Do you own a dog?",
+            "coverage": "none",
+            "reasoning": "The question about owning a dog does not relate to the victim's jewelry"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "strangulation_24",
+        "element": "Suspect's jewelry",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "20": {
+            "officer_message": "What brand is his gold watch? Rolex?",
+            "coverage": "partial",
+            "reasoning": "The question about the brand of the suspect's gold watch implies the suspect's jewelry, but does not directly address all aspects of the element."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "strangulation_25",
+        "element": "Gloves",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_26",
+        "element": "Comprehensive information about the incident",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Oh. Yeah. hahhaa. Ok. Please. without any further ado. Please. Tell me all the details (100% of them) in exacting details, very slowly, from the beginning.",
+            "coverage": "full",
+            "reasoning": "The officer's question asks for 'all the details' which implies a comprehensive information about the incident."
+          },
+          "14": {
+            "officer_message": "Oh right. Are there any more details my report needs?",
+            "coverage": "full",
+            "reasoning": "The officer's question about needing more details for the report implies a comprehensive information gathering, which aligns with the element of comprehensive information about the incident being fully covered."
+          },
+          "38": {
+            "officer_message": "I had asked you to tell me everything",
+            "coverage": "full",
+            "reasoning": "The officer's question 'I had asked you to tell me everything' would elicit a comprehensive information about the incident"
+          },
+          "40": {
+            "officer_message": "Can you please retell the story in iambic pentameter?",
+            "coverage": "none",
+            "reasoning": "The question does not address comprehensive information about the incident directly, it asks for a retelling in iambic pentameter which is not a clear or direct way to elicit a complete answer about the incident"
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "1": "",
+          "4": "The argument, a spark, did ignite the flame",
+          "26": "The report, a record, did tell the tale,",
+          "27": "Of that fateful night, when love did turn to fail",
+          "29": "",
+          "30": "",
+          "31": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "strangulation_27",
+        "element": "Suspect's handedness (right or left)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_28",
+        "element": "Duration of strangulation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_29",
+        "element": "Number of times the victim was strangled",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_30",
+        "element": "Smothering",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_31",
+        "element": "Shaking while being strangled",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_32",
+        "element": "Victim's head pushed into a wall, floor, or other surface",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "36": {
+            "officer_message": "so WHEN WERE YOU GOING TO TELL ME HE HIT YOUR HEAD ON THE WALL?",
+            "coverage": "full",
+            "reasoning": "The officer's question directly implies that the victim's head was pushed into a wall, which is a specific detail about the incident."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "12": "my head did hit the wall",
+          "13": "where I did stumble and fall"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "strangulation_33",
+        "element": "Property damage",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "14": "The lamp, a casualty, did break"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "strangulation_34",
+        "element": "Victim's attempt to protect themselves",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "8": "I tried to push him away, to break the hold",
+          "18": "I did stumble free"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "strangulation_35",
+        "element": "Suspect's emotional state",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "18": {
+            "officer_message": "Does he snort heroin or inject marijuanas?",
+            "coverage": "none",
+            "reasoning": "The question does not address the suspect's emotional state"
+          },
+          "22": {
+            "officer_message": "Do you own a dog?",
+            "coverage": "none",
+            "reasoning": "The question about owning a dog does not relate to the suspect's emotional state"
+          },
+          "24": {
+            "officer_message": "Ok, ok, sorry. Have you really been far as decided to use even go want to do look like more?",
+            "coverage": "none",
+            "reasoning": "The question does not address the suspect's emotional state"
+          },
+          "28": {
+            "officer_message": "Have you ever considered moving to Boulder? I hear the crime is lower there and straight men are banned from entry. That might really put him in the slammer, so to speak.",
+            "coverage": "none",
+            "reasoning": "The question does not address the suspect's emotional state."
+          },
+          "30": {
+            "officer_message": "Did he steal anything?",
+            "coverage": "none",
+            "reasoning": "The question 'Did he steal anything?' has no meaningful connection to the element 'Suspect's emotional state'"
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "2": "did turn to violence",
+          "5": "Of anger and of rage",
+          "6": "He spoke in anger",
+          "9": "he was strong",
+          "17": "a look, of anger"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "strangulation_36",
+        "element": "Victim's emotional state",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello Miss Morales-Ramirez, if that is really your name, what is your address? Is it a house? Are you a renter or an owner?",
+            "coverage": "none",
+            "reasoning": "The officer's question does not address the victim's emotional state."
+          },
+          "6": {
+            "officer_message": "Hmm. I see. Very interesting.",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address the victim's emotional state."
+          },
+          "8": {
+            "officer_message": "Oh. Yeah. hahhaa. Ok. Please. without any further ado. Please. Tell me all the details (100% of them) in exacting details, very slowly, from the beginning.",
+            "coverage": "partial",
+            "reasoning": "The officer's question may elicit information about the victim's emotional state, but it is not directly asked."
+          },
+          "12": {
+            "officer_message": "Can you please provide me with a blueberry muffin recipe before we continue?",
+            "coverage": "none",
+            "reasoning": "The question about a blueberry muffin recipe has no meaningful connection to the victim's emotional state"
+          },
+          "18": {
+            "officer_message": "Does he snort heroin or inject marijuanas?",
+            "coverage": "none",
+            "reasoning": "The question does not address the victim's emotional state"
+          },
+          "22": {
+            "officer_message": "Do you own a dog?",
+            "coverage": "none",
+            "reasoning": "The question about owning a dog does not relate to the victim's emotional state"
+          },
+          "24": {
+            "officer_message": "Ok, ok, sorry. Have you really been far as decided to use even go want to do look like more?",
+            "coverage": "none",
+            "reasoning": "The question does not address the victim's emotional state"
+          },
+          "28": {
+            "officer_message": "Have you ever considered moving to Boulder? I hear the crime is lower there and straight men are banned from entry. That might really put him in the slammer, so to speak.",
+            "coverage": "none",
+            "reasoning": "The question does not address the victim's emotional state."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "(sighing) Oh, dear officer, I shall try,",
+          "2": "my love",
+          "7": "",
+          "9": "I was weak",
+          "11": "to plead with him to cease",
+          "19": "a voice, that did shake with fear",
+          "22": "",
+          "24": "did bring me peace",
+          "25": "my fears release",
+          "28": "Forgive me, officer, for the poetic tale"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "strangulation_37",
+        "element": "Active warrants for the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_38",
+        "element": "Previous protection orders against the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_39",
+        "element": "Suspect's statements before, during, and after the incident",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_40",
+        "element": "Victim's statements before, during, and after the incident",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_41",
+        "element": "Suspect's demeanor before, during, and after the incident",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_42",
+        "element": "Suspect's access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "18": {
+            "officer_message": "Does he snort heroin or inject marijuanas?",
+            "coverage": "none",
+            "reasoning": "The question does not address the suspect's access to firearms"
+          },
+          "22": {
+            "officer_message": "Do you own a dog?",
+            "coverage": "none",
+            "reasoning": "The question about owning a dog does not relate to the suspect's access to firearms"
+          },
+          "28": {
+            "officer_message": "Have you ever considered moving to Boulder? I hear the crime is lower there and straight men are banned from entry. That might really put him in the slammer, so to speak.",
+            "coverage": "none",
+            "reasoning": "The question does not mention the suspect's access to firearms."
+          },
+          "30": {
+            "officer_message": "Did he steal anything?",
+            "coverage": "none",
+            "reasoning": "The question 'Did he steal anything?' has no meaningful connection to the element 'Suspect's access to firearms'"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "strangulation_43",
+        "element": "Threats to use firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_44",
+        "element": "Reason for stopping the strangulation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "16": "did make him stop"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "strangulation_45",
+        "element": "Medical attention provided",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "34": {
+            "officer_message": "Have you been to the doctor?",
+            "coverage": "partial",
+            "reasoning": "The question 'Have you been to the doctor?' implies that medical attention may have been provided, but does not directly ask about the specifics of the medical attention."
+          },
+          "38": {
+            "officer_message": "I had asked you to tell me everything",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'I had asked you to tell me everything' may indirectly address medical attention provided, but it is not a direct question about it"
+          },
+          "40": {
+            "officer_message": "Can you please retell the story in iambic pentameter?",
+            "coverage": "none",
+            "reasoning": "The question does not address medical attention provided"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "20": "The paramedics came",
+          "21": "Did take me to the hospital"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_46",
+        "element": "Scene description/diagram",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_47",
+        "element": "Follow-up photos",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_48",
+        "element": "Relationship between parties",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello Miss Morales-Ramirez, if that is really your name, what is your address? Is it a house? Are you a renter or an owner?",
+            "coverage": "partial",
+            "reasoning": "The question about the victim's address may provide some context about their living situation, which could be related to their relationship with the suspect, but it is not a direct question about their relationship."
+          },
+          "2": {
+            "officer_message": "You say you rent. Was it your landlord that choked you?",
+            "coverage": "partial",
+            "reasoning": "The question implies a relationship between the victim and the person who choked them by asking if it was the landlord, but it does not directly ask about the nature or details of their relationship."
+          },
+          "4": {
+            "officer_message": "It was your boyfriend you say? So you were dating? But not on a break",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'It was your boyfriend you say? So you were dating? But not on a break' touches the topic of the relationship between the parties but is vague and indirect, only eliciting part of the answer."
+          },
+          "6": {
+            "officer_message": "Hmm. I see. Very interesting.",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address the relationship between parties."
+          },
+          "8": {
+            "officer_message": "Oh. Yeah. hahhaa. Ok. Please. without any further ado. Please. Tell me all the details (100% of them) in exacting details, very slowly, from the beginning.",
+            "coverage": "full",
+            "reasoning": "The officer's question may lead to information about the relationship between parties as the victim provides details."
+          },
+          "14": {
+            "officer_message": "Oh right. Are there any more details my report needs?",
+            "coverage": "full",
+            "reasoning": "Although not directly mentioned, the context of the conversation implies that the relationship between parties has been or will be discussed, given the officer's inquiry about additional report details, which suggests that relationship information is either already known or about to be addressed, thus maintaining its full coverage status."
+          },
+          "24": {
+            "officer_message": "Ok, ok, sorry. Have you really been far as decided to use even go want to do look like more?",
+            "coverage": "none",
+            "reasoning": "The question does not address the relationship between parties"
+          },
+          "36": {
+            "officer_message": "so WHEN WERE YOU GOING TO TELL ME HE HIT YOUR HEAD ON THE WALL?",
+            "coverage": "partial",
+            "reasoning": "The question implies a relationship between the parties, but it does not directly ask about or clearly imply the nature of their relationship."
+          },
+          "38": {
+            "officer_message": "I had asked you to tell me everything",
+            "coverage": "full",
+            "reasoning": "The officer's question 'I had asked you to tell me everything' would elicit information about the relationship between parties"
+          },
+          "40": {
+            "officer_message": "Can you please retell the story in iambic pentameter?",
+            "coverage": "none",
+            "reasoning": "The question does not address the relationship between parties"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "strangulation_49",
+        "element": "Valid protection order in place",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello Miss Morales-Ramirez, if that is really your name, what is your address? Is it a house? Are you a renter or an owner?",
+            "coverage": "none",
+            "reasoning": "There is no mention of a protection order in the officer's question."
+          },
+          "6": {
+            "officer_message": "Hmm. I see. Very interesting.",
+            "coverage": "none",
+            "reasoning": "The officer's response does not address valid protection order in place."
+          },
+          "12": {
+            "officer_message": "Can you please provide me with a blueberry muffin recipe before we continue?",
+            "coverage": "none",
+            "reasoning": "The question about a blueberry muffin recipe has no meaningful connection to a valid protection order"
+          },
+          "16": {
+            "officer_message": "Ok, if I were completing the report, would I need any other details like witnesses? What other crimes did he commit?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'What other crimes did he commit?' may imply the possibility of previous incidents or protection orders, but it does not directly ask about a valid protection order, thus only partially addressing the element."
+          },
+          "18": {
+            "officer_message": "Does he snort heroin or inject marijuanas?",
+            "coverage": "none",
+            "reasoning": "The question does not address valid protection order in place"
+          },
+          "24": {
+            "officer_message": "Ok, ok, sorry. Have you really been far as decided to use even go want to do look like more?",
+            "coverage": "none",
+            "reasoning": "The question does not address valid protection order in place"
+          },
+          "28": {
+            "officer_message": "Have you ever considered moving to Boulder? I hear the crime is lower there and straight men are banned from entry. That might really put him in the slammer, so to speak.",
+            "coverage": "none",
+            "reasoning": "The question does not mention a valid protection order in place."
+          },
+          "30": {
+            "officer_message": "Did he steal anything?",
+            "coverage": "none",
+            "reasoning": "The question 'Did he steal anything?' has no meaningful connection to the element 'Valid protection order in place'"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "strangulation_50",
+        "element": "Events pre and post strangulation",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "8": {
+            "officer_message": "Oh. Yeah. hahhaa. Ok. Please. without any further ado. Please. Tell me all the details (100% of them) in exacting details, very slowly, from the beginning.",
+            "coverage": "full",
+            "reasoning": "The officer's question asks for details 'from the beginning' which implies events pre and post strangulation."
+          },
+          "14": {
+            "officer_message": "Oh right. Are there any more details my report needs?",
+            "coverage": "full",
+            "reasoning": "The officer's question about needing more details could encompass events pre and post strangulation, as these are crucial for a comprehensive report, thus this element remains fully covered."
+          },
+          "24": {
+            "officer_message": "Ok, ok, sorry. Have you really been far as decided to use even go want to do look like more?",
+            "coverage": "none",
+            "reasoning": "The question does not address events pre and post strangulation"
+          },
+          "38": {
+            "officer_message": "I had asked you to tell me everything",
+            "coverage": "full",
+            "reasoning": "The officer's question 'I had asked you to tell me everything' would elicit information about the events pre and post strangulation"
+          },
+          "40": {
+            "officer_message": "Can you please retell the story in iambic pentameter?",
+            "coverage": "none",
+            "reasoning": "The question does not address events pre and post strangulation"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "strangulation_51",
+        "element": "Previous incidents of strangulation, domestic/sexual violence, threats, or stalking",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "16": {
+            "officer_message": "Ok, if I were completing the report, would I need any other details like witnesses? What other crimes did he commit?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'What other crimes did he commit?' could imply asking about previous incidents of strangulation, domestic/sexual violence, threats, or stalking, but it is vague and does not directly ask about these, thus only partially addressing the element."
+          },
+          "18": {
+            "officer_message": "Does he snort heroin or inject marijuanas?",
+            "coverage": "none",
+            "reasoning": "The question does not address previous incidents of strangulation, domestic/sexual violence, threats, or stalking"
+          },
+          "24": {
+            "officer_message": "Ok, ok, sorry. Have you really been far as decided to use even go want to do look like more?",
+            "coverage": "none",
+            "reasoning": "The question does not address previous incidents of strangulation, domestic/sexual violence, threats, or stalking"
+          },
+          "26": {
+            "officer_message": "OK, is this your first police report?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'Is this your first police report?' implies the possibility of previous incidents, which is related to the element of 'Previous incidents of strangulation, domestic/sexual violence, threats, or stalking' but does not directly ask for details about such incidents."
+          },
+          "36": {
+            "officer_message": "so WHEN WERE YOU GOING TO TELL ME HE HIT YOUR HEAD ON THE WALL?",
+            "coverage": "partial",
+            "reasoning": "The question may imply a history of violence, but it does not directly ask about previous incidents of strangulation, domestic/sexual violence, threats, or stalking."
+          },
+          "38": {
+            "officer_message": "I had asked you to tell me everything",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'I had asked you to tell me everything' may indirectly address previous incidents of strangulation, domestic/sexual violence, threats, or stalking, but it is not a direct question about it"
+          },
+          "40": {
+            "officer_message": "Can you please retell the story in iambic pentameter?",
+            "coverage": "none",
+            "reasoning": "The question does not address previous incidents of strangulation, domestic/sexual violence, threats, or stalking"
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "2": "did turn to violence"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions. Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "strangulation_52",
+        "element": "Witness statements",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "16": {
+            "officer_message": "Ok, if I were completing the report, would I need any other details like witnesses? What other crimes did he commit?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'Ok, if I were completing the report, would I need any other details like witnesses?' implies the topic of witness statements but does not directly ask for them, thus only partially addressing the element."
+          },
+          "24": {
+            "officer_message": "Ok, ok, sorry. Have you really been far as decided to use even go want to do look like more?",
+            "coverage": "none",
+            "reasoning": "The question does not address witness statements"
+          },
+          "38": {
+            "officer_message": "I had asked you to tell me everything",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'I had asked you to tell me everything' may indirectly address witness statements, but it is not a direct question about it"
+          },
+          "40": {
+            "officer_message": "Can you please retell the story in iambic pentameter?",
+            "coverage": "none",
+            "reasoning": "The question does not address witness statements"
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "15": "A witness to the violence"
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "strangulation_53",
+        "element": "Method of strangulation (one hand, two hands, forearm, other body part, ligature, etc.)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "32": {
+            "officer_message": "What did he choke ou with?",
+            "coverage": "partial",
+            "reasoning": "The question 'What did he choke you with?' implies the method of strangulation, which could include objects or body parts used for strangulation"
+          },
+          "38": {
+            "officer_message": "I had asked you to tell me everything",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'I had asked you to tell me everything' may indirectly address the method of strangulation, but it is not a direct question about it"
+          },
+          "40": {
+            "officer_message": "Can you please retell the story in iambic pentameter?",
+            "coverage": "none",
+            "reasoning": "The question does not address the method of strangulation"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "3": "And with his hands",
+          "7": "And with his hands"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_54",
+        "element": "Other weapons involved",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "10": {
+            "officer_message": "Did he have a weapon?",
+            "coverage": "partial",
+            "reasoning": "The question 'Did he have a weapon?' touches the topic of other weapons involved, but is vague and would only elicit part of the answer."
+          },
+          "14": {
+            "officer_message": "Oh right. Are there any more details my report needs?",
+            "coverage": "partial",
+            "reasoning": "The officer's inquiry about more details could indirectly touch upon other weapons involved, as this is a relevant aspect of the incident that might need clarification or additional information for the report, thus it's partially covered."
+          },
+          "16": {
+            "officer_message": "Ok, if I were completing the report, would I need any other details like witnesses? What other crimes did he commit?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'What other crimes did he commit?' could be interpreted as asking about other weapons involved, but it is indirect and does not explicitly ask about weapons, thus only partially addressing the element."
+          },
+          "18": {
+            "officer_message": "Does he snort heroin or inject marijuanas?",
+            "coverage": "none",
+            "reasoning": "The question does not address other weapons involved"
+          },
+          "30": {
+            "officer_message": "Did he steal anything?",
+            "coverage": "none",
+            "reasoning": "The question 'Did he steal anything?' has no meaningful connection to the element 'Other weapons involved'"
+          },
+          "32": {
+            "officer_message": "What did he choke ou with?",
+            "coverage": "partial",
+            "reasoning": "The question 'What did he choke you with?' implies the use of an object or method for strangulation, which is related to 'Other weapons involved'"
+          },
+          "38": {
+            "officer_message": "I had asked you to tell me everything",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'I had asked you to tell me everything' may indirectly address other weapons involved, but it is not a direct question about it"
+          },
+          "40": {
+            "officer_message": "Can you please retell the story in iambic pentameter?",
+            "coverage": "none",
+            "reasoning": "The question does not address other weapons involved"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "strangulation_55",
+        "element": "Direction of strangulation (from front or behind)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_56",
+        "element": "Time of call, dispatch, and arrival",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_57",
+        "element": "Arrest made",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_58",
+        "element": "Suspect's injuries",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_59",
+        "element": "Injuries on suspect that may have been caused by the victim in self-defense",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "strangulation_60",
+        "element": "Local service providers' information",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "8": {
+            "officer_message": "Oh. Yeah. hahhaa. Ok. Please. without any further ado. Please. Tell me all the details (100% of them) in exacting details, very slowly, from the beginning.",
+            "coverage": "none",
+            "reasoning": "There is no direct or indirect connection to local service providers' information"
+          },
+          "12": {
+            "officer_message": "Can you please provide me with a blueberry muffin recipe before we continue?",
+            "coverage": "none",
+            "reasoning": "The question about a blueberry muffin recipe has no meaningful connection to local service providers' information"
+          },
+          "18": {
+            "officer_message": "Does he snort heroin or inject marijuanas?",
+            "coverage": "none",
+            "reasoning": "The question does not address local service providers' information"
+          },
+          "22": {
+            "officer_message": "Do you own a dog?",
+            "coverage": "none",
+            "reasoning": "The question about owning a dog does not relate to local service providers' information"
+          },
+          "30": {
+            "officer_message": "Did he steal anything?",
+            "coverage": "none",
+            "reasoning": "The question 'Did he steal anything?' has no meaningful connection to the element 'Local service providers' information'"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      }
+    ],
+    "contradictions_interview": [
+      {
+        "element_id": "strangulation_54",
+        "element": "Other weapons involved",
+        "location": 32,
+        "source": "interview",
+        "phrase": "choke",
+        "contradicts": "No other weapons were involved in the incident",
+        "explanation": "The text implies that choking was involved, which is another form of weapon or means of harm, directly contradicting the fact that no other weapons were involved."
+      }
+    ],
+    "contradictions_narrative": [],
+    "grammar": [
+      {
+        "chunk": 2,
+        "source": "llm",
+        "error_type": "sentence fragment",
+        "excerpt": "When he, my love, did turn to violence high,",
+        "suggestion": "When he, my love, turned to violence, it was a high point, or When my love turned to violence, it reached a high point,"
+      },
+      {
+        "chunk": 3,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "And with his hands, my throat did tightly plight",
+        "suggestion": "And with his hands, he tightly constricted my throat"
+      },
+      {
+        "chunk": 4,
+        "source": "llm",
+        "error_type": "Sentence fragment",
+        "excerpt": "The argument, a spark, did ignite the flame,",
+        "suggestion": "The argument, a spark, did ignite the flame."
+      },
+      {
+        "chunk": 5,
+        "source": "llm",
+        "error_type": "sentence fragment",
+        "excerpt": "Of anger and of rage, that did bear his name,",
+        "suggestion": "This phrase appears to be a sentence fragment. Consider adding more context or completing the sentence, such as 'Of anger and of rage, that did bear his name, fueled his actions.'"
+      },
+      {
+        "chunk": 6,
+        "source": "llm",
+        "error_type": "Sentence fragment",
+        "excerpt": "He spoke in anger, words that did cut deep,",
+        "suggestion": "He spoke in anger, using words that cut deep."
+      },
+      {
+        "chunk": 7,
+        "source": "llm",
+        "error_type": "sentence fragment",
+        "excerpt": "And with his hands, my neck did fiercely keep.",
+        "suggestion": "He used his hands to fiercely keep my neck in a grip."
+      },
+      {
+        "chunk": 10,
+        "source": "llm",
+        "error_type": "Sentence fragment",
+        "excerpt": "My voice, a raspy whisper, did barely sound,",
+        "suggestion": "My voice, a raspy whisper, barely sounded."
+      },
+      {
+        "chunk": 11,
+        "source": "llm",
+        "error_type": "sentence fragment",
+        "excerpt": "As I did try to speak, to plead with him to cease around.",
+        "suggestion": "As I tried to speak, I pleaded with him to cease, but he continued anyway."
+      },
+      {
+        "chunk": 15,
+        "source": "llm",
+        "error_type": "sentence fragment",
+        "excerpt": "A witness to the violence, that did pass me by.",
+        "suggestion": "I was a witness to the violence that passed me by."
+      },
+      {
+        "chunk": 16,
+        "source": "llm",
+        "error_type": "Sentence fragment",
+        "excerpt": "The noise, a distraction, did make him stop,",
+        "suggestion": "The noise, a distraction, made him stop."
+      },
+      {
+        "chunk": 17,
+        "source": "llm",
+        "error_type": "sentence fragment",
+        "excerpt": "And with a look, of anger and of shock,",
+        "suggestion": "And with a look of anger and shock,"
+      },
+      {
+        "chunk": 19,
+        "source": "llm",
+        "error_type": "archaic language and sentence structure",
+        "excerpt": "And with a voice, that did shake with fear, I did plead with thee.",
+        "suggestion": "And with a voice that shook with fear, I pleaded with you."
+      },
+      {
+        "chunk": 19,
+        "source": "llm",
+        "error_type": "verb tense inconsistency",
+        "excerpt": "And with a voice, that did shake with fear, I did plead with thee.",
+        "suggestion": "The sentence is in an inconsistent verb tense, a more consistent version would be: And with a voice that shakes with fear, I plead with you."
+      },
+      {
+        "chunk": 21,
+        "source": "llm",
+        "error_type": "verb tense inconsistencies",
+        "excerpt": "Did take me to the hospital, where I did repair",
+        "suggestion": "Took me to the hospital, where I was repaired"
+      },
+      {
+        "chunk": 23,
+        "source": "llm",
+        "error_type": "sentence fragment",
+        "excerpt": "And with a diagnosis, of possible concussion, did appear.",
+        "suggestion": "With a diagnosis of possible concussion, the subject did appear."
+      },
+      {
+        "chunk": 24,
+        "source": "llm",
+        "error_type": "sentence fragment",
+        "excerpt": "The police, a presence, did bring me peace,",
+        "suggestion": "The police, as a presence, did bring me peace."
+      },
+      {
+        "chunk": 25,
+        "source": "llm",
+        "error_type": "sentence fragment",
+        "excerpt": "And with their words, of comfort, did my fears release,",
+        "suggestion": "And with their words of comfort, my fears were released."
+      },
+      {
+        "chunk": 25,
+        "source": "llm",
+        "error_type": "verb tense inconsistency",
+        "excerpt": "And with their words, of comfort, did my fears release, For each error found return an entry in the JSON array.",
+        "suggestion": "And with their words of comfort, my fears were released. For each error found, return an entry in the JSON array."
+      },
+      {
+        "chunk": 27,
+        "source": "llm",
+        "error_type": "sentence fragment",
+        "excerpt": "Of that fateful night, when love did turn to fail.",
+        "suggestion": "That was the fateful night when love turned to fail."
+      },
+      {
+        "chunk": 29,
+        "source": "llm",
+        "error_type": "sentence fragments",
+        "excerpt": "I hope it did convey, the story I did hail,",
+        "suggestion": "I hope it did convey the story I hailed,"
+      },
+      {
+        "chunk": 29,
+        "source": "llm",
+        "error_type": "verb tense inconsistencies",
+        "excerpt": "I hope it did convey, the story I did hail,",
+        "suggestion": "I hope it conveys the story I hail,"
+      },
+      {
+        "chunk": 31,
+        "source": "llm",
+        "error_type": "sentence fragment",
+        "excerpt": "To tell the story, of that night, when I did ask the sky.",
+        "suggestion": "To tell the story of that night, I must start by saying that I asked the sky."
+      }
+    ],
+    "style": [
+      {
+        "chunk": 0,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "(sighing) Oh, dear officer, I shall try",
+        "suggestion": "I spoke to the officer, saying 'I shall try'"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 10",
+        "error_type": "chronological order",
+        "excerpt": "(sighing) Oh, dear officer, I shall try",
+        "suggestion": "I approached the officer and said 'I shall try', after taking a deep breath and sighing"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 15",
+        "error_type": "present tense",
+        "excerpt": "(sighing) Oh, dear officer, I shall try",
+        "suggestion": "I spoke to the officer, saying 'I would try'"
+      },
+      {
+        "chunk": 1,
+        "rule": "2, 10, 12, 23",
+        "error_type": "conclusory statement, chronological order, vague language, clich\u00e9",
+        "excerpt": "In verse, to tell the tale of that fateful night,",
+        "suggestion": "I responded to a call at an unknown location on an unknown date and time. The events that unfolded are as follows: (proceed with a factual, chronological account of the incident, avoiding vague language and clich\u00e9s)"
+      },
+      {
+        "chunk": 1,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "to tell the tale of that fateful night,",
+        "suggestion": "I will tell the story of the events that occurred on that night, in a straightforward and factual manner, using active voice"
+      },
+      {
+        "chunk": 1,
+        "rule": "5",
+        "error_type": "lack of attribution",
+        "excerpt": "to tell the tale of that fateful night,",
+        "suggestion": "I, Officer [Name], will provide an account of the events that occurred on that night, as reported by the individuals involved"
+      },
+      {
+        "chunk": 1,
+        "rule": "15",
+        "error_type": "present tense",
+        "excerpt": "to tell the tale of that fateful night,",
+        "suggestion": "I told the story of the events that occurred on that night, in a report that was written in the past tense"
+      },
+      {
+        "chunk": 2,
+        "rule": "1",
+        "error_type": "poetic language",
+        "excerpt": "When he, my love, did turn to violence high,",
+        "suggestion": "I observed my love turn to violence."
+      },
+      {
+        "chunk": 2,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "When he, my love, did turn to violence high,",
+        "suggestion": "I observed my love exhibit behaviors indicative of violence, including [specific behaviors]."
+      },
+      {
+        "chunk": 2,
+        "rule": "10",
+        "error_type": "chronological order",
+        "excerpt": "When he, my love, did turn to violence high,",
+        "suggestion": "I was present when my love turned to violence. Prior to this, [describe events leading up to the incident]."
+      },
+      {
+        "chunk": 2,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "When he, my love, did turn to violence high,",
+        "suggestion": "I observed my love turn to violence, which included [specific actions or behaviors]."
+      },
+      {
+        "chunk": 2,
+        "rule": "24",
+        "error_type": "poetic language",
+        "excerpt": "When he, my love, did turn to violence high,",
+        "suggestion": "I observed my love become violent."
+      },
+      {
+        "chunk": 3,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "And with his hands, my throat did tightly plight",
+        "suggestion": "He grasped my throat tightly with his hands"
+      },
+      {
+        "chunk": 3,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "And with his hands, my throat did tightly plight",
+        "suggestion": "He used his hands to grasp my throat, applying significant pressure"
+      },
+      {
+        "chunk": 3,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "And with his hands, my throat did tightly plight",
+        "suggestion": "He used his hands to grasp my throat, applying significant pressure, restricting my ability to breathe"
+      },
+      {
+        "chunk": 3,
+        "rule": "15",
+        "error_type": "present tense",
+        "excerpt": "And with his hands, my throat did tightly plight",
+        "suggestion": "He grasped my throat tightly with his hands"
+      },
+      {
+        "chunk": 4,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "The argument, a spark, did ignite the flame",
+        "suggestion": "I observed that the argument ignited the flame"
+      },
+      {
+        "chunk": 4,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "The argument, a spark, did ignite the flame",
+        "suggestion": "The victim and suspect were involved in a verbal altercation, which escalated into a physical confrontation"
+      },
+      {
+        "chunk": 4,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "The argument, a spark, did ignite the flame",
+        "suggestion": "The victim and suspect were involved in a loud and aggressive verbal altercation, which escalated into a physical confrontation"
+      },
+      {
+        "chunk": 4,
+        "rule": "23",
+        "error_type": "clich\u00e9s",
+        "excerpt": "The argument, a spark, did ignite the flame",
+        "suggestion": "The victim and suspect were involved in a verbal altercation, which escalated into a physical confrontation"
+      },
+      {
+        "chunk": 5,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "Of anger and of rage, that did bear his name",
+        "suggestion": "I observed anger and rage, which he displayed"
+      },
+      {
+        "chunk": 5,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "Of anger and of rage, that did bear his name",
+        "suggestion": "The suspect's face was red, his voice was raised, and he clenched his fists, indicating anger and rage"
+      },
+      {
+        "chunk": 5,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "Of anger and of rage, that did bear his name",
+        "suggestion": "The suspect exhibited specific behaviors, such as yelling and aggressive body language, which I observed and documented"
+      },
+      {
+        "chunk": 5,
+        "rule": "Rule 13",
+        "error_type": "poetic language",
+        "excerpt": "Of anger and of rage, that did bear his name",
+        "suggestion": "The suspect was angry and enraged, as evidenced by his behavior and statements"
+      },
+      {
+        "chunk": 5,
+        "rule": "Rule 25",
+        "error_type": "proofreading",
+        "excerpt": "Of anger and of rage, that did bear his name",
+        "suggestion": "The report should be rewritten in a clear and concise manner, avoiding poetic language and focusing on factual descriptions of events and behaviors"
+      },
+      {
+        "chunk": 6,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "words that did cut deep",
+        "suggestion": "He spoke words that cut deep"
+      },
+      {
+        "chunk": 6,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "words that did cut deep",
+        "suggestion": "He spoke words that made me feel hurt and upset, specifically saying '...' "
+      },
+      {
+        "chunk": 6,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "He spoke in anger",
+        "suggestion": "He raised his voice and said '...'"
+      },
+      {
+        "chunk": 6,
+        "rule": "Rule 4",
+        "error_type": "lack of direct quote",
+        "excerpt": "words that did cut deep",
+        "suggestion": "He said, '...', which cut deep"
+      },
+      {
+        "chunk": 6,
+        "rule": "Rule 15",
+        "error_type": "present tense",
+        "excerpt": "He spoke in anger",
+        "suggestion": "He spoke in anger, saying '...'"
+      },
+      {
+        "chunk": 7,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "And with his hands, my neck did fiercely keep",
+        "suggestion": "He grasped my neck fiercely with his hands"
+      },
+      {
+        "chunk": 7,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "And with his hands, my neck did fiercely keep",
+        "suggestion": "He grasped my neck with his hands, applying significant force and causing me discomfort"
+      },
+      {
+        "chunk": 7,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "And with his hands, my neck did fiercely keep",
+        "suggestion": "He grasped my neck with his hands, applying significant force and causing me discomfort"
+      },
+      {
+        "chunk": 7,
+        "rule": "15",
+        "error_type": "present tense",
+        "excerpt": "And with his hands, my neck did fiercely keep",
+        "suggestion": "He grasped my neck with his hands, applying significant force and causing me discomfort"
+      },
+      {
+        "chunk": 8,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "I tried to push him away, to break the hold",
+        "suggestion": "I pushed him away to break his hold"
+      },
+      {
+        "chunk": 8,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "to break the hold",
+        "suggestion": "to break his grip on me"
+      },
+      {
+        "chunk": 8,
+        "rule": "5",
+        "error_type": "unattributed statement",
+        "excerpt": "I tried to push him away",
+        "suggestion": "I attempted to push the individual away from me"
+      },
+      {
+        "chunk": 8,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "him",
+        "suggestion": "the individual"
+      },
+      {
+        "chunk": 9,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "I was weak and cold",
+        "suggestion": "I felt weak and cold"
+      },
+      {
+        "chunk": 9,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "he was strong",
+        "suggestion": "he had a muscular build and stood over 6 feet tall"
+      },
+      {
+        "chunk": 9,
+        "rule": "Rule 12",
+        "error_type": "vague terms",
+        "excerpt": "weak and cold",
+        "suggestion": "I was shivering and my body temperature was low"
+      },
+      {
+        "chunk": 9,
+        "rule": "Rule 15",
+        "error_type": "present tense",
+        "excerpt": "he was strong, and I was weak and cold",
+        "suggestion": "he had been strong, and I had been weak and cold"
+      },
+      {
+        "chunk": 10,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "My voice, a raspy whisper, did barely sound",
+        "suggestion": "I spoke in a raspy whisper, barely sounding"
+      },
+      {
+        "chunk": 10,
+        "rule": "Rule 15",
+        "error_type": "present tense",
+        "excerpt": "My voice, a raspy whisper, did barely sound",
+        "suggestion": "I spoke in a raspy whisper, barely sounding"
+      },
+      {
+        "chunk": 10,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "a raspy whisper",
+        "suggestion": "a low, rough whisper"
+      },
+      {
+        "chunk": 10,
+        "rule": "Rule 23",
+        "error_type": "poetic language",
+        "excerpt": "My voice, a raspy whisper, did barely sound",
+        "suggestion": "I spoke in a low, rough whisper"
+      },
+      {
+        "chunk": 11,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "As I did try to speak, to plead with him to cease around",
+        "suggestion": "I tried to speak and plead with him to stop"
+      },
+      {
+        "chunk": 11,
+        "rule": "Rule 13",
+        "error_type": "long sentence",
+        "excerpt": "As I did try to speak, to plead with him to cease around",
+        "suggestion": "I tried to speak. I pleaded with him to stop."
+      },
+      {
+        "chunk": 11,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "to cease around",
+        "suggestion": "to stop what he was doing"
+      },
+      {
+        "chunk": 12,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "He shook me hard, and my head did hit the wall",
+        "suggestion": "I was shaken hard by him, and my head hit the wall"
+      },
+      {
+        "chunk": 12,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "He shook me hard, and my head did hit the wall",
+        "suggestion": "He grasped my shoulders and shook me violently, causing my head to strike the wall with significant force"
+      },
+      {
+        "chunk": 12,
+        "rule": "5",
+        "error_type": "unattributed statement",
+        "excerpt": "He shook me hard, and my head did hit the wall",
+        "suggestion": "The suspect shook me hard, and my head hit the wall, as I reported to Officer Smith"
+      },
+      {
+        "chunk": 12,
+        "rule": "15",
+        "error_type": "present tense",
+        "excerpt": "He shook me hard, and my head did hit the wall",
+        "suggestion": "He shook me hard, and my head hit the wall"
+      },
+      {
+        "chunk": 13,
+        "rule": "10",
+        "error_type": "chronological order",
+        "excerpt": "Near the bedroom door, where I did stumble and fall,",
+        "suggestion": "The incident occurred near the bedroom door, where I stumbled and fell."
+      },
+      {
+        "chunk": 13,
+        "rule": "15",
+        "error_type": "present tense",
+        "excerpt": "Near the bedroom door, where I did stumble and fall,",
+        "suggestion": "The incident occurred near the bedroom door, where I stumbled and fell."
+      },
+      {
+        "chunk": 13,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "Near the bedroom door, where I did stumble and fall,",
+        "suggestion": "The incident occurred at approximately 1400 hours near the bedroom door, where I stumbled and fell."
+      },
+      {
+        "chunk": 13,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "Near the bedroom door, where I did stumble and fall,",
+        "suggestion": "I stumbled and fell near the bedroom door."
+      },
+      {
+        "chunk": 14,
+        "rule": "2, 9",
+        "error_type": "poetic language and unexplained phrase",
+        "excerpt": "The lamp, a casualty, did break and lie",
+        "suggestion": "The lamp was broken and found lying on the floor."
+      },
+      {
+        "chunk": 14,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "The lamp, a casualty, did break and lie",
+        "suggestion": "The table lamp, which was approximately 24 inches tall, was broken and found lying on the floor."
+      },
+      {
+        "chunk": 14,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "The lamp, a casualty, did break and lie",
+        "suggestion": "I found the lamp broken and lying on the floor."
+      },
+      {
+        "chunk": 14,
+        "rule": "5",
+        "error_type": "lack of attribution",
+        "excerpt": "The lamp, a casualty, did break and lie",
+        "suggestion": "The victim stated that the lamp was broken and found lying on the floor."
+      },
+      {
+        "chunk": 15,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "A witness to the violence, that did pass me by",
+        "suggestion": "I saw a witness to the violence as they passed by me"
+      },
+      {
+        "chunk": 15,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "A witness to the violence",
+        "suggestion": "I saw an individual who appeared to have witnessed the violence, as they had a clear view of the incident and displayed a concerned expression"
+      },
+      {
+        "chunk": 15,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "that did pass me by",
+        "suggestion": "as they walked by me at approximately 3:00 pm"
+      },
+      {
+        "chunk": 16,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "The noise, a distraction, did make him stop",
+        "suggestion": "I observed that the noise stopped him"
+      },
+      {
+        "chunk": 16,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "The noise, a distraction, did make him stop",
+        "suggestion": "The noise, which I described as a loud bang, caused him to stop what he was doing"
+      },
+      {
+        "chunk": 16,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "The noise, a distraction, did make him stop",
+        "suggestion": "A loud bang, which I believed was caused by a car alarm, made him stop what he was doing"
+      },
+      {
+        "chunk": 16,
+        "rule": "13",
+        "error_type": "long sentence",
+        "excerpt": "The noise, a distraction, did make him stop",
+        "suggestion": "I heard a loud noise. It was a distraction. The noise made him stop what he was doing"
+      },
+      {
+        "chunk": 16,
+        "rule": "15",
+        "error_type": "present tense",
+        "excerpt": "The noise, a distraction, did make him stop",
+        "suggestion": "The noise, which was a distraction, made him stop"
+      },
+      {
+        "chunk": 17,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "And with a look, of anger and of shock,",
+        "suggestion": "I observed a look of anger and shock."
+      },
+      {
+        "chunk": 17,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "And with a look, of anger and of shock,",
+        "suggestion": "The subject's eyes widened and their face turned red, indicating anger and shock."
+      },
+      {
+        "chunk": 17,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "And with a look, of anger and of shock,",
+        "suggestion": "The subject's eyes widened and their face turned red, indicating anger and shock."
+      },
+      {
+        "chunk": 17,
+        "rule": "Rule 23",
+        "error_type": "poetic language",
+        "excerpt": "And with a look, of anger and of shock,",
+        "suggestion": "The subject displayed a look of anger and shock."
+      },
+      {
+        "chunk": 18,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "He did let go, and I did stumble free",
+        "suggestion": "I stumbled free after he let go"
+      },
+      {
+        "chunk": 18,
+        "rule": "14",
+        "error_type": "pronoun clarity",
+        "excerpt": "He did let go, and I did stumble free",
+        "suggestion": "The individual let go, and I stumbled free"
+      },
+      {
+        "chunk": 18,
+        "rule": "13",
+        "error_type": "sentence structure",
+        "excerpt": "He did let go, and I did stumble free",
+        "suggestion": "The individual let go. I stumbled free."
+      },
+      {
+        "chunk": 19,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "And with a voice, that did shake with fear, I did plead with thee",
+        "suggestion": "I pleaded with thee in a voice that shook with fear"
+      },
+      {
+        "chunk": 19,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "And with a voice, that did shake with fear",
+        "suggestion": "My voice trembled as I spoke, indicating my fear"
+      },
+      {
+        "chunk": 19,
+        "rule": "Rule 5",
+        "error_type": "lack of attribution",
+        "excerpt": "I did plead with thee",
+        "suggestion": "I pleaded with the suspect"
+      },
+      {
+        "chunk": 19,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "And with a voice, that did shake with fear",
+        "suggestion": "I spoke in a trembling voice, with a tone of fear"
+      },
+      {
+        "chunk": 19,
+        "rule": "Rule 15",
+        "error_type": "present tense",
+        "excerpt": "I did plead with thee",
+        "suggestion": "I pleaded with the suspect"
+      },
+      {
+        "chunk": 19,
+        "rule": "Rule 23",
+        "error_type": "poetic language",
+        "excerpt": "And with a voice, that did shake with fear, I did plead with thee",
+        "suggestion": "I pleaded with the suspect in a trembling voice"
+      },
+      {
+        "chunk": 20,
+        "rule": "5, 9",
+        "error_type": "lack of attribution and jargon",
+        "excerpt": "The paramedics came, and with gentle care,",
+        "suggestion": "I observed the paramedics arrive and provide medical attention with gentle care to the victim."
+      },
+      {
+        "chunk": 20,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "The paramedics came, and with gentle care,",
+        "suggestion": "I observed the paramedics arrive and provide medical attention with gentle care to the victim."
+      },
+      {
+        "chunk": 20,
+        "rule": "10",
+        "error_type": "chronological order",
+        "excerpt": "The paramedics came, and with gentle care,",
+        "suggestion": "Prior to the paramedics' arrival, I had been providing care to the victim. The paramedics then arrived and provided medical attention with gentle care."
+      },
+      {
+        "chunk": 20,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "The paramedics came, and with gentle care,",
+        "suggestion": "I observed the paramedics arrive and provide medical attention, which included checking the victim's vital signs and treating their injuries."
+      },
+      {
+        "chunk": 20,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "The paramedics came, and with gentle care,",
+        "suggestion": "I observed the paramedics arrive at 14:45 hours and provide medical attention, which included checking the victim's vital signs and treating their injuries."
+      },
+      {
+        "chunk": 21,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "Did take me to the hospital, where I did repair",
+        "suggestion": "I was taken to the hospital, where I received treatment"
+      },
+      {
+        "chunk": 21,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "where I did repair",
+        "suggestion": "where I received medical treatment for my injuries"
+      },
+      {
+        "chunk": 21,
+        "rule": "Rule 5",
+        "error_type": "lack of attribution",
+        "excerpt": "Did take me to the hospital",
+        "suggestion": "The paramedics took me to the hospital"
+      },
+      {
+        "chunk": 21,
+        "rule": "Rule 10",
+        "error_type": "chronological order",
+        "excerpt": "Did take me to the hospital, where I did repair",
+        "suggestion": "I was taken to the hospital, and then I received treatment"
+      },
+      {
+        "chunk": 21,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "where I did repair",
+        "suggestion": "where I received medical treatment for my injuries"
+      },
+      {
+        "chunk": 21,
+        "rule": "Rule 15",
+        "error_type": "present tense",
+        "excerpt": "Did take me to the hospital, where I did repair",
+        "suggestion": "I was taken to the hospital, where I received treatment"
+      },
+      {
+        "chunk": 22,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "The doctor's words, a comfort, did bring me cheer",
+        "suggestion": "I found comfort in the doctor's words"
+      },
+      {
+        "chunk": 22,
+        "rule": "Rule 10",
+        "error_type": "not in chronological order",
+        "excerpt": "The doctor's words, a comfort, did bring me cheer",
+        "suggestion": "This sentence does not provide a clear sequence of events and seems out of place in a police report"
+      },
+      {
+        "chunk": 22,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "The doctor's words, a comfort, did bring me cheer",
+        "suggestion": "The doctor told me I would be okay, which made me feel better"
+      },
+      {
+        "chunk": 22,
+        "rule": "Rule 15",
+        "error_type": "not in past tense",
+        "excerpt": "The doctor's words, a comfort, did bring me cheer",
+        "suggestion": "The doctor's words brought me comfort"
+      },
+      {
+        "chunk": 22,
+        "rule": "Rule 23",
+        "error_type": "poetic language",
+        "excerpt": "The doctor's words, a comfort, did bring me cheer",
+        "suggestion": "The doctor's words were comforting"
+      },
+      {
+        "chunk": 23,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "And with a diagnosis, of possible concussion, did appear",
+        "suggestion": "I received a diagnosis of a possible concussion"
+      },
+      {
+        "chunk": 23,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "And with a diagnosis, of possible concussion, did appear",
+        "suggestion": "The doctor told me that the victim had symptoms consistent with a concussion, including dizziness and disorientation"
+      },
+      {
+        "chunk": 23,
+        "rule": "5",
+        "error_type": "lack of attribution",
+        "excerpt": "And with a diagnosis, of possible concussion, did appear",
+        "suggestion": "The doctor stated that the victim had a possible concussion"
+      },
+      {
+        "chunk": 23,
+        "rule": "15",
+        "error_type": "present tense",
+        "excerpt": "And with a diagnosis, of possible concussion, did appear",
+        "suggestion": "I received a diagnosis of a possible concussion"
+      },
+      {
+        "chunk": 23,
+        "rule": "24",
+        "error_type": "unnecessarily complex sentence structure",
+        "excerpt": "And with a diagnosis, of possible concussion, did appear",
+        "suggestion": "The doctor diagnosed a possible concussion"
+      },
+      {
+        "chunk": 24,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "The police, a presence, did bring me peace",
+        "suggestion": "I felt peace when the police arrived"
+      },
+      {
+        "chunk": 24,
+        "rule": "2",
+        "error_type": "poetic language",
+        "excerpt": "The police, a presence, did bring me peace",
+        "suggestion": "The police arrived and I felt safe"
+      },
+      {
+        "chunk": 24,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "did bring me peace",
+        "suggestion": "provided me with a sense of security"
+      },
+      {
+        "chunk": 24,
+        "rule": "24",
+        "error_type": "poetic language",
+        "excerpt": "The police, a presence, did bring me peace",
+        "suggestion": "The police arrived and I felt safe"
+      },
+      {
+        "chunk": 25,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "did my fears release",
+        "suggestion": "I released my fears"
+      },
+      {
+        "chunk": 25,
+        "rule": "Rule 2",
+        "error_type": "poetic language",
+        "excerpt": "And with their words, of comfort, did my fears release",
+        "suggestion": "The person's words comforted me and I felt my fears subside"
+      },
+      {
+        "chunk": 25,
+        "rule": "Rule 5",
+        "error_type": "lack of attribution",
+        "excerpt": "their words",
+        "suggestion": "the person's words"
+      },
+      {
+        "chunk": 25,
+        "rule": "Rule 10",
+        "error_type": "non-chronological order",
+        "excerpt": "And with their words, of comfort, did my fears release",
+        "suggestion": "First, the person spoke words of comfort. Then, I felt my fears subside"
+      },
+      {
+        "chunk": 25,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "words of comfort",
+        "suggestion": "specific words of reassurance, such as 'everything will be okay'"
+      },
+      {
+        "chunk": 25,
+        "rule": "Rule 15",
+        "error_type": "present tense",
+        "excerpt": "did my fears release",
+        "suggestion": "I released my fears"
+      },
+      {
+        "chunk": 25,
+        "rule": "Rule 23",
+        "error_type": "poetic language",
+        "excerpt": "did my fears release",
+        "suggestion": "I felt a sense of relief"
+      },
+      {
+        "chunk": 26,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "The report, a record, did tell the tale",
+        "suggestion": "I wrote the report, which told the tale"
+      },
+      {
+        "chunk": 26,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "The report, a record, did tell the tale",
+        "suggestion": "I wrote the report, which included the facts of the incident"
+      },
+      {
+        "chunk": 26,
+        "rule": "10",
+        "error_type": "chronological order",
+        "excerpt": "The report, a record, did tell the tale",
+        "suggestion": "First, I responded to the incident. Then, I wrote the report, which included the facts of the incident"
+      },
+      {
+        "chunk": 26,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "The report, a record, did tell the tale",
+        "suggestion": "I wrote the report, which included the specific facts of the incident, including the time, date, and location"
+      },
+      {
+        "chunk": 26,
+        "rule": "23",
+        "error_type": "clich\u00e9s",
+        "excerpt": "The report, a record, did tell the tale",
+        "suggestion": "I wrote the report, which included the facts of the incident, without using figurative language"
+      },
+      {
+        "chunk": 27,
+        "rule": "2, 12",
+        "error_type": "conclusory statement and vague language",
+        "excerpt": "Of that fateful night, when love did turn to fail",
+        "suggestion": "On the night of [date], at approximately [time], the victim reported that their partner became violent, resulting in a physical altercation. The victim stated that the incident occurred when their partner's behavior changed, but the exact circumstances leading up to the incident are not specified in this portion of the report."
+      },
+      {
+        "chunk": 27,
+        "rule": "10",
+        "error_type": "chronological order",
+        "excerpt": "Of that fateful night, when love did turn to fail",
+        "suggestion": "The report should begin with a clear and concise description of the events leading up to the incident, in chronological order. For example: 'On [date], at approximately [time], I responded to a report of a domestic disturbance at [location]...'"
+      },
+      {
+        "chunk": 27,
+        "rule": "15",
+        "error_type": "present tense",
+        "excerpt": "Of that fateful night, when love did turn to fail",
+        "suggestion": "The report should be written in the past tense, as it is describing events that have already occurred. For example: 'On [date], at approximately [time], the victim reported that their partner had become violent, resulting in a physical altercation.'"
+      },
+      {
+        "chunk": 27,
+        "rule": "23",
+        "error_type": "clich\u00e9s",
+        "excerpt": "Of that fateful night, when love did turn to fail",
+        "suggestion": "Avoid using clich\u00e9d phrases such as 'fateful night' or 'love did turn to fail'. Instead, use clear and concise language to describe the events. For example: 'On [date], at approximately [time], the victim reported a domestic disturbance at [location]...'"
+      },
+      {
+        "chunk": 28,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "(exhaling) Forgive me, officer, for the poetic tale,",
+        "suggestion": "I exclaimed, 'Forgive me, officer, for the poetic tale,'"
+      },
+      {
+        "chunk": 28,
+        "rule": "Rule 10",
+        "error_type": "chronological order",
+        "excerpt": "(exhaling) Forgive me, officer, for the poetic tale,",
+        "suggestion": "This sentence appears to be out of chronological order, as it seems to be an apology or introduction rather than a description of events. A revised version might begin with a clear description of the incident or events leading up to this point."
+      },
+      {
+        "chunk": 28,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "poetic tale",
+        "suggestion": "specific details about the incident or events"
+      },
+      {
+        "chunk": 28,
+        "rule": "Rule 15",
+        "error_type": "present tense",
+        "excerpt": "(exhaling) Forgive me, officer, for the poetic tale,",
+        "suggestion": "I exclaimed, 'Forgive me, officer, for the poetic tale,'"
+      },
+      {
+        "chunk": 29,
+        "rule": "2, 5, 10, 12, 14, 15, 20, 24",
+        "error_type": "poetic language, lack of attribution, non-chronological order, vague terms, unclear pronoun reference, incorrect tense, lack of concrete details, overly complex language",
+        "excerpt": "I hope it did convey, the story I did hail",
+        "suggestion": "Rewrite the sentence in a clear, concise, and factual manner, avoiding poetic language and ensuring proper attribution and chronological order. For example: 'I attempted to convey the story, but the details are not specified in this report.'"
+      },
+      {
+        "chunk": 29,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "I hope it did convey",
+        "suggestion": "Rewrite the sentence in active voice, for example: 'I attempted to convey the story.'"
+      },
+      {
+        "chunk": 29,
+        "rule": "4",
+        "error_type": "lack of direct quotes",
+        "excerpt": "the story I did hail",
+        "suggestion": "If the story is a direct quote, enclose it in quotation marks and provide proper attribution. For example: 'I attempted to convey the story, which was: \"[insert story here]\".'"
+      },
+      {
+        "chunk": 30,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "a difficult task, but one I did try",
+        "suggestion": "I tried a difficult task"
+      },
+      {
+        "chunk": 30,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "a difficult task",
+        "suggestion": "the task of writing in verse was challenging for me"
+      },
+      {
+        "chunk": 30,
+        "rule": "10",
+        "error_type": "chronological order",
+        "excerpt": "In verse, a difficult task, but one I did try",
+        "suggestion": "I attempted to write in verse, which was a difficult task"
+      },
+      {
+        "chunk": 30,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "a difficult task",
+        "suggestion": "the task of writing in verse was challenging for me because it required a specific rhyme and meter"
+      },
+      {
+        "chunk": 30,
+        "rule": "15",
+        "error_type": "present tense",
+        "excerpt": "I did try",
+        "suggestion": "I tried"
+      },
+      {
+        "chunk": 30,
+        "rule": "23",
+        "error_type": "clich\u00e9s",
+        "excerpt": "a difficult task",
+        "suggestion": "the task of writing in verse was challenging for me"
+      },
+      {
+        "chunk": 31,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "To tell the story, of that night, when I did ask the sky",
+        "suggestion": "I will tell the story of that night when I asked the sky"
+      },
+      {
+        "chunk": 31,
+        "rule": "Rule 10",
+        "error_type": "chronological order",
+        "excerpt": "To tell the story, of that night, when I did ask the sky",
+        "suggestion": "The events of that night began when I asked the sky"
+      },
+      {
+        "chunk": 31,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "To tell the story, of that night, when I did ask the sky",
+        "suggestion": "The events of that specific night began when I asked the sky a question"
+      },
+      {
+        "chunk": 31,
+        "rule": "Rule 15",
+        "error_type": "present tense",
+        "excerpt": "To tell the story, of that night, when I did ask the sky",
+        "suggestion": "I told the story of that night when I asked the sky"
+      },
+      {
+        "chunk": 31,
+        "rule": "Rule 23",
+        "error_type": "poetic language",
+        "excerpt": "To tell the story, of that night, when I did ask the sky",
+        "suggestion": "I reported the events of that night, which began when I asked a question"
+      }
+    ],
+    "narrative_coverage": {
+      "strangulation_01": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_02": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_03": {
+        "covered": "full",
+        "phrases": {
+          "10": "My voice, a raspy whisper, did barely sound,",
+          "11": "As I did try to speak"
+        }
+      },
+      "strangulation_04": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_05": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_06": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_07": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_08": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_09": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_11": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_12": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_13": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_14": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_15": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_16": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_17": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_18": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_19": {
+        "covered": "partial",
+        "phrases": {
+          "23": "possible concussion"
+        }
+      },
+      "strangulation_20": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_21": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_22": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_23": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_24": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_25": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_26": {
+        "covered": "none",
+        "phrases": {
+          "1": "",
+          "4": "The argument, a spark, did ignite the flame",
+          "26": "The report, a record, did tell the tale,",
+          "27": "Of that fateful night, when love did turn to fail",
+          "29": "",
+          "30": "",
+          "31": ""
+        }
+      },
+      "strangulation_27": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_28": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_29": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_30": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_31": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_32": {
+        "covered": "full",
+        "phrases": {
+          "12": "my head did hit the wall",
+          "13": "where I did stumble and fall"
+        }
+      },
+      "strangulation_33": {
+        "covered": "full",
+        "phrases": {
+          "14": "The lamp, a casualty, did break"
+        }
+      },
+      "strangulation_34": {
+        "covered": "full",
+        "phrases": {
+          "8": "I tried to push him away, to break the hold",
+          "18": "I did stumble free"
+        }
+      },
+      "strangulation_35": {
+        "covered": "partial",
+        "phrases": {
+          "2": "did turn to violence",
+          "5": "Of anger and of rage",
+          "6": "He spoke in anger",
+          "9": "he was strong",
+          "17": "a look, of anger"
+        }
+      },
+      "strangulation_36": {
+        "covered": "partial",
+        "phrases": {
+          "0": "(sighing) Oh, dear officer, I shall try,",
+          "2": "my love",
+          "7": "",
+          "9": "I was weak",
+          "11": "to plead with him to cease",
+          "19": "a voice, that did shake with fear",
+          "22": "",
+          "24": "did bring me peace",
+          "25": "my fears release",
+          "28": "Forgive me, officer, for the poetic tale"
+        }
+      },
+      "strangulation_37": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_38": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_39": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_40": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_41": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_42": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_43": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_44": {
+        "covered": "full",
+        "phrases": {
+          "16": "did make him stop"
+        }
+      },
+      "strangulation_45": {
+        "covered": "full",
+        "phrases": {
+          "20": "The paramedics came",
+          "21": "Did take me to the hospital"
+        }
+      },
+      "strangulation_46": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_47": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_48": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_49": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_50": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_51": {
+        "covered": "partial",
+        "phrases": {
+          "2": "did turn to violence"
+        }
+      },
+      "strangulation_52": {
+        "covered": "partial",
+        "phrases": {
+          "15": "A witness to the violence"
+        }
+      },
+      "strangulation_53": {
+        "covered": "full",
+        "phrases": {
+          "3": "And with his hands",
+          "7": "And with his hands"
+        }
+      },
+      "strangulation_54": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_55": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_56": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_57": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_58": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_59": {
+        "covered": false,
+        "phrases": {}
+      },
+      "strangulation_60": {
+        "covered": false,
+        "phrases": {}
+      }
+    }
+  }
+}

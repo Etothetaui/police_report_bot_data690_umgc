@@ -1,0 +1,1399 @@
+{
+  "session_id": "pfma_20260428_225008",
+  "timestamp": "2026-04-28T22:50:08.437315",
+  "metadata": {
+    "crime_type": "Partner/Family Member Assault",
+    "interviewee_name": "Leila Morales Hernandez",
+    "interviewee_role": "victim",
+    "dispatch_line": "Domestic disturbance reported at 1456 Oakbrook Drive, Apartment 3B, Springfield, Illinois, with a female reporting her boyfriend is being physically aggressive"
+  },
+  "scenario": {
+    "crime_type": "Partner/Family Member Assault",
+    "interviewee_role": "victim",
+    "interviewee_name": "Leila Morales Hernandez",
+    "dispatch_line": "Domestic disturbance reported at 1456 Oakbrook Drive, Apartment 3B, Springfield, Illinois, with a female reporting her boyfriend is being physically aggressive",
+    "facts": {
+      "partner_family_member_assault_01": "The incident occurred at 9:45 PM on February 10, 2024, and officers arrived at 10:05 PM",
+      "partner_family_member_assault_02": "911 caller reported a domestic disturbance at 1456 Oakbrook Drive, Apt 3B, with a female screaming for help",
+      "partner_family_member_assault_03": "The female victim, Ms. Leila Patel, stated 'He's been hitting me and threatening to kill me if I leave him,' while the male suspect, Mr. Julian Sanchez, claimed 'She's just being dramatic, nothing happened'",
+      "partner_family_member_assault_04": "Ms. Leila Patel and Mr. Julian Sanchez are married and have been together for 5 years; their neighbor, Ms. Maria Rodriguez, witnessed the incident and provided a statement",
+      "partner_family_member_assault_05": "Ms. Leila Patel: 1456 Oakbrook Drive, Apt 3B, Springfield, IL 62711, (217) 123-4567, works at Memorial Medical Center; Mr. Julian Sanchez: same address, (217) 901-2345, employed at Sanchez Construction",
+      "partner_family_member_assault_06": "Ms. Patel reported that Mr. Sanchez became violent after she announced her intention to leave him, while Mr. Sanchez claimed Ms. Patel was the aggressor and he was defending himself",
+      "partner_family_member_assault_07": "The violence started at approximately 9:30 PM when Mr. Sanchez allegedly pushed Ms. Patel against the wall and began choking her",
+      "partner_family_member_assault_08": "Officer observed bruising on Ms. Patel's neck, scratches on her arms, and a torn shirt; Mr. Sanchez had no visible injuries but appeared agitated and defensive",
+      "partner_family_member_assault_09": "Ms. Patel reported visible injuries including bruising, swelling, and petechiae on her neck, as well as difficulty breathing and a hoarse voice, indicating possible strangulation; no visible signs of sexual assault",
+      "partner_family_member_assault_10": "Ms. Patel appeared shaken, tearful, and fearful, while Mr. Sanchez seemed agitated and belligerent",
+      "partner_family_member_assault_11": "No evidence of alcohol or drug use/impairment was observed in either party",
+      "partner_family_member_assault_12": "Evidence collected includes photographs of Ms. Patel's injuries, a torn shirt, and a statement from witness Ms. Maria Rodriguez; no weapons were found at the scene",
+      "partner_family_member_assault_13": "Two children, ages 7 and 9, were present in the residence but not directly involved in the incident; they were taken to a safe location by a family member",
+      "partner_family_member_assault_14": "Medical help was offered to Ms. Patel, who declined transport to a hospital but accepted a medical release form; she was advised to seek medical attention if her symptoms worsened; EMS was summoned due to possible strangulation",
+      "partner_family_member_assault_15": "Mr. Sanchez was arrested due to probable cause of domestic violence and strangulation; Ms. Patel's statement and visible injuries supported the arrest decision",
+      "partner_family_member_assault_16": "Summary of actions: Mr. Sanchez was arrested, read his Miranda rights, and transported to the Sangamon County Jail; Ms. Patel was provided with a victim rights form, referrals to local shelters and advocacy services, and assistance in obtaining a protective order; firearms were not found at the scene but a search warrant may be sought to confiscate any firearms at Mr. Sanchez's other addresses",
+      "partner_family_member_assault_17": "An active Order of Protection exists, filed by Ms. Patel against Mr. Sanchez in 2022; Mr. Sanchez has a prior conviction for misdemeanor domestic violence in 2018 and is prohibited from possessing firearms under 18 U.S.C. \u00a7 922(g)(9)",
+      "partner_family_member_assault_18": "Ms. Patel reported feeling fearful and trapped in the relationship, with a history of emotional and physical abuse; she expressed concern for her safety and the safety of her children; Officer observed that Ms. Patel appeared genuinely fearful and distraught"
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Good evening. My name is Officer Davis. I'm here to help you. Before we begin, I want you to know you are safe with me. Can you please state your full name and date of birth?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*nervous and tearful* My name is Leila Morales Hernandez, and my date of birth is... *pauses, trying to compose herself* ...November 12, 1992. *sniffles*",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Thank you, Ms. Hernandez. Can you tell me your current address and confirm that you reside at 1456 Oakbrook Drive, Apartment 3B here in Springfield?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*still tearful* Y-yes, that's correct. My address is 1456 Oakbrook Drive, Apartment 3B, in Springfield. *pauses, taking a deep breath* I live there with my husband, Julian... *trails off, becoming emotional again*",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "I understand this is difficult. Please tell me in your own words what happened tonight. What did your husband Julian do?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*shaking and trying to hold back tears* He... he got angry with me. We were arguing, and I told him I wanted to leave him. He's been controlling and abusive for so long, and I just couldn't take it anymore. He pushed me against the wall and started choking me. I thought he was going to kill me. *sobbing* I tried to scream, but he covered my mouth. I was so scared. He's been hurting me for a long time, but tonight was different. Tonight, I thought it was going to be the end. *cries uncontrollably*",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "You are safe now, Ms. Hernandez. I can see this took a lot of courage to call us. Are you injured? Do you have any visible injuries from where he pushed you or choked you?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*still crying, but trying to compose herself* Y-yes... I have bruises on my neck from where he choked me. And my arms... *shows her arms, revealing scratches* ...he scratched me when I tried to push him away. My throat hurts, and it's hard to talk. *touches her neck, wincing in pain* It feels like it's going to bruise even more. And my shirt... *looks down at her torn shirt* ...he ripped it when he grabbed me. *sniffles, trying to hold back tears* I'm just so scared of him. He's never going to stop, is he? *looks up at the officer with fear in her eyes*",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "We will absolutely get you medical attention. Where is Julian right now? Is he still in the apartment, and did he use or threaten to use any weapons tonight?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*shaking her head* I don't think he's in the apartment anymore. I think he was taken away by the other officers who arrived earlier. *sniffles* I didn't see him use any weapons, but he's strong... and he's hurt me before without needing any. *pauses, looking around nervously* He's always said he would kill me if I ever left him. I'm so scared for my children... *starts crying again* They were in the apartment when it happened. I'm just glad they're safe now. *sobs*",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Your children are safe. Has Julian been physically violent toward you on previous occasions? And can you tell me his full name, date of birth, and approximately what time tonight the assault occurred?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*still crying, but trying to answer* Y-yes... Julian has hurt me before. Many times. He's always sorry afterwards, but it just keeps happening. *sniffles* His full name is Julian Sanchez, and I think his date of birth is... *thinks for a moment* ...August 25, 1985. *pauses, trying to remember* As for tonight, I think it was around 9:30 or 9:45 PM when he started getting violent. I remember looking at the clock because I was trying to wait for the kids to go to bed so I could call for help. *cries again* But he found out I was planning to leave him, and that's when he snapped. *shudders at the memory*",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "How many children were present, and how old are they? Also, do you have any existing protection orders or restraining orders against Julian?"
+    },
+    {
+      "role": "assistant",
+      "content": "*sniffles, trying to compose herself* Our children... there are two of them. They're 7 and 9 years old. *pauses, thinking about her kids* They're such good kids, and they don't deserve to go through this. *cries again*\n\nAs for the protection order... *nods* Yes, I have one. I filed it against Julian in 2022. I was trying to leave him back then, but he kept showing up at my work, calling me, and threatening me. The court gave me a protective order, but it didn't stop him. He just got angrier and more controlling. *shakes her head* I was so scared to leave him, but I knew I had to try again. *looks down, tears streaming down her face*"
+    }
+  ],
+  "coverage_flags": {
+    "partner_family_member_assault_01": {
+      "covered": "partial",
+      "messages": {
+        "10": {
+          "officer_message": "Your children are safe. Has Julian been physically violent toward you on previous occasions? And can you tell me his full name, date of birth, and approximately what time tonight the assault occurred?",
+          "coverage": "partial",
+          "reasoning": "The officer asks for the approximate time of the assault, which is part of the time of incident and arrival information."
+        }
+      }
+    },
+    "partner_family_member_assault_02": {
+      "covered": false,
+      "messages": {}
+    },
+    "partner_family_member_assault_03": {
+      "covered": false,
+      "messages": {}
+    },
+    "partner_family_member_assault_04": {
+      "covered": "partial",
+      "messages": {
+        "2": {
+          "officer_message": "Thank you, Ms. Hernandez. Can you tell me your current address and confirm that you reside at 1456 Oakbrook Drive, Apartment 3B here in Springfield?",
+          "coverage": "partial",
+          "reasoning": "The officer implies the relationship of the parties involved by asking the victim to confirm her address, which may be the same as the perpetrator's, but does not directly ask about their relationship."
+        },
+        "4": {
+          "officer_message": "I understand this is difficult. Please tell me in your own words what happened tonight. What did your husband Julian do?",
+          "coverage": "partial",
+          "reasoning": "The question implies the relationship by mentioning 'your husband Julian', which suggests a marital relationship but does not explicitly ask about or confirm the nature of their relationship."
+        },
+        "8": {
+          "officer_message": "We will absolutely get you medical attention. Where is Julian right now? Is he still in the apartment, and did he use or threaten to use any weapons tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer asks about Julian's location, which implies a relationship but does not directly ask about or clearly imply the nature of the relationship between the parties involved."
+        },
+        "10": {
+          "officer_message": "Your children are safe. Has Julian been physically violent toward you on previous occasions? And can you tell me his full name, date of birth, and approximately what time tonight the assault occurred?",
+          "coverage": "partial",
+          "reasoning": "The officer asks for Julian's full name, which implies a relationship but does not directly ask about the nature of their relationship."
+        }
+      }
+    },
+    "partner_family_member_assault_05": {
+      "covered": "full",
+      "messages": {
+        "0": {
+          "officer_message": "Good evening. My name is Officer Davis. I'm here to help you. Before we begin, I want you to know you are safe with me. Can you please state your full name and date of birth?",
+          "coverage": "partial",
+          "reasoning": "The officer asked for the victim's full name and date of birth, which is part of the information needed for name, address, phone \u2013 work/home, employer, etc., but does not cover the entire scope of this element."
+        },
+        "2": {
+          "officer_message": "Thank you, Ms. Hernandez. Can you tell me your current address and confirm that you reside at 1456 Oakbrook Drive, Apartment 3B here in Springfield?",
+          "coverage": "full",
+          "reasoning": "The officer directly asks for the victim's current address, which is a key part of the name, address, phone \u2013 work/home, employer, etc. element."
+        }
+      }
+    },
+    "partner_family_member_assault_06": {
+      "covered": "partial",
+      "messages": {
+        "4": {
+          "officer_message": "I understand this is difficult. Please tell me in your own words what happened tonight. What did your husband Julian do?",
+          "coverage": "partial",
+          "reasoning": "By asking the victim to describe what happened in their own words, the officer is eliciting the individual's account of events, but the question is open-ended and may not cover all aspects of the events."
+        },
+        "10": {
+          "officer_message": "Your children are safe. Has Julian been physically violent toward you on previous occasions? And can you tell me his full name, date of birth, and approximately what time tonight the assault occurred?",
+          "coverage": "partial",
+          "reasoning": "The officer asks if Julian has been physically violent on previous occasions, which is part of the individual's account of events but does not cover the full scope of the events."
+        }
+      }
+    },
+    "partner_family_member_assault_07": {
+      "covered": "partial",
+      "messages": {
+        "10": {
+          "officer_message": "Your children are safe. Has Julian been physically violent toward you on previous occasions? And can you tell me his full name, date of birth, and approximately what time tonight the assault occurred?",
+          "coverage": "partial",
+          "reasoning": "The officer asks for the approximate time of the assault, which is related to when the violence started but does not ask for details about how it started."
+        }
+      }
+    },
+    "partner_family_member_assault_08": {
+      "covered": "partial",
+      "messages": {
+        "8": {
+          "officer_message": "We will absolutely get you medical attention. Where is Julian right now? Is he still in the apartment, and did he use or threaten to use any weapons tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer's question about Julian's location and potential weapon use implies an observation related to the account of events but does not provide a detailed observation."
+        }
+      }
+    },
+    "partner_family_member_assault_09": {
+      "covered": "partial",
+      "messages": {
+        "6": {
+          "officer_message": "You are safe now, Ms. Hernandez. I can see this took a lot of courage to call us. Are you injured? Do you have any visible injuries from where he pushed you or choked you?",
+          "coverage": "partial",
+          "reasoning": "The officer asks about visible injuries and implies the possibility of non-visible injuries by mentioning choking, but does not explicitly ask about all non-visible injuries."
+        },
+        "8": {
+          "officer_message": "We will absolutely get you medical attention. Where is Julian right now? Is he still in the apartment, and did he use or threaten to use any weapons tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer offers medical attention, which implies a concern for injuries but does not directly ask about the nature or extent of the injuries."
+        },
+        "10": {
+          "officer_message": "Your children are safe. Has Julian been physically violent toward you on previous occasions? And can you tell me his full name, date of birth, and approximately what time tonight the assault occurred?",
+          "coverage": "partial",
+          "reasoning": "The officer does not directly ask about injuries but implies the possibility of previous physical violence, which may have resulted in injuries."
+        }
+      }
+    },
+    "partner_family_member_assault_10": {
+      "covered": "partial",
+      "messages": {
+        "4": {
+          "officer_message": "I understand this is difficult. Please tell me in your own words what happened tonight. What did your husband Julian do?",
+          "coverage": "partial",
+          "reasoning": "The officer's acknowledgment that 'this is difficult' may touch on the emotional state of the victim, but it does not directly ask about their emotional state or demeanor."
+        },
+        "6": {
+          "officer_message": "You are safe now, Ms. Hernandez. I can see this took a lot of courage to call us. Are you injured? Do you have any visible injuries from where he pushed you or choked you?",
+          "coverage": "partial",
+          "reasoning": "The officer's statement that it took a lot of courage to call implies an understanding of the emotional state, but does not directly ask about it."
+        }
+      }
+    },
+    "partner_family_member_assault_11": {
+      "covered": false,
+      "messages": {}
+    },
+    "partner_family_member_assault_12": {
+      "covered": "partial",
+      "messages": {
+        "8": {
+          "officer_message": "We will absolutely get you medical attention. Where is Julian right now? Is he still in the apartment, and did he use or threaten to use any weapons tonight?",
+          "coverage": "partial",
+          "reasoning": "The officer asks if Julian used or threatened to use any weapons, which touches on the topic of evidence collection but is more directly related to the use of weapons."
+        }
+      }
+    },
+    "partner_family_member_assault_13": {
+      "covered": "full",
+      "messages": {
+        "10": {
+          "officer_message": "Your children are safe. Has Julian been physically violent toward you on previous occasions? And can you tell me his full name, date of birth, and approximately what time tonight the assault occurred?",
+          "coverage": "partial",
+          "reasoning": "The officer mentions that the children are safe, which implies they are aware of the children's presence and welfare but does not ask for details about their involvement or residence."
+        },
+        "12": {
+          "officer_message": "How many children were present, and how old are they? Also, do you have any existing protection orders or restraining orders against Julian?",
+          "coverage": "full",
+          "reasoning": "The question directly asks about the number and age of children present, which would elicit a complete answer about the children's presence and general welfare."
+        }
+      }
+    },
+    "partner_family_member_assault_14": {
+      "covered": "full",
+      "messages": {
+        "6": {
+          "officer_message": "You are safe now, Ms. Hernandez. I can see this took a lot of courage to call us. Are you injured? Do you have any visible injuries from where he pushed you or choked you?",
+          "coverage": "partial",
+          "reasoning": "The officer asks if the victim is injured, which could lead to a discussion about medical help, but does not directly ask about medical attention or treatment."
+        },
+        "8": {
+          "officer_message": "We will absolutely get you medical attention. Where is Julian right now? Is he still in the apartment, and did he use or threaten to use any weapons tonight?",
+          "coverage": "full",
+          "reasoning": "The officer offers medical attention, which directly addresses the element of medical help being offered or used."
+        }
+      }
+    },
+    "partner_family_member_assault_15": {
+      "covered": false,
+      "messages": {}
+    },
+    "partner_family_member_assault_16": {
+      "covered": false,
+      "messages": {}
+    },
+    "partner_family_member_assault_17": {
+      "covered": "none",
+      "messages": {
+        "10": {
+          "officer_message": "Your children are safe. Has Julian been physically violent toward you on previous occasions? And can you tell me his full name, date of birth, and approximately what time tonight the assault occurred?",
+          "coverage": "none",
+          "reasoning": "There is no mention of Orders of Protection, probation, warrants, or prior convictions in the officer's question."
+        },
+        "12": {
+          "officer_message": "How many children were present, and how old are they? Also, do you have any existing protection orders or restraining orders against Julian?",
+          "coverage": "full",
+          "reasoning": "The question directly asks about existing protection orders or restraining orders, which would elicit a complete answer about the existence of Orders of Protection."
+        }
+      }
+    },
+    "partner_family_member_assault_18": {
+      "covered": false,
+      "messages": {}
+    }
+  },
+  "narrative": "INCIDENT REPORT \u2014 PARTNER/FAMILY MEMBER ASSAULT / STRANGULATION / VIOLATION OF PROTECTION ORDER\n\nReporting Officer: Officer Davis\nDate of Report: 04/28/2026\nIncident Date: 04/28/2026\nIncident Time: Approximately 2130\u20132145 hours\nLocation of Incident: 1456 Oakbrook Drive, Apartment 3B, Springfield, Illinois\nCase Type: Partner/Family Member Assault / Strangulation / Violation of Protection Order / Witness \u2014 Minor Children Present\n\nPARTIES INVOLVED\n\nVictim: Leila Morales Hernandez\nDOB: November 12, 1992\nAddress: 1456 Oakbrook Drive, Apt. 3B, Springfield, Illinois\nRelationship to Suspect: Wife (married to suspect)\n\nSuspect: Julian Sanchez\nDOB: Approximately August 25, 1985\nAddress: 1456 Oakbrook Drive, Apt. 3B, Springfield, Illinois (co-resident)\nStatus at Time of Report: Taken into custody by first responding officers prior to this officer's arrival.\n\nWITNESSES\n\nTwo minor children of the victim and suspect were present in the apartment at the time of the assault: a 7-year-old and a 9-year-old. Their condition and welfare were confirmed upon officer arrival.\n\nDISPATCH INFORMATION\n\nOfficers were dispatched to 1456 Oakbrook Drive, Apartment 3B, Springfield, Illinois, in response to a domestic disturbance call reporting a female stating her boyfriend was being physically aggressive.\n\nNARRATIVE\n\nUpon arrival, this officer made contact with the victim, Leila Morales Hernandez, DOB 11/12/1992, inside the residence. The victim was visibly distressed, crying, and in obvious physical distress. The victim displayed visible bruising to the neck, scratches on both arms, and a torn shirt. The victim reported difficulty speaking due to throat pain.\n\nThe victim stated that she and the suspect, her husband Julian Sanchez, had been engaged in a verbal argument during the evening. The victim stated she informed the suspect she intended to leave the marriage. The victim stated this disclosure caused the suspect to become enraged. According to the victim, the suspect then pushed her forcefully against a wall inside the apartment and proceeded to strangle her with both hands around her neck. The victim stated she attempted to scream for help but the suspect covered her mouth with his hand. The victim stated she believed the suspect was going to kill her.\n\nThe victim stated the suspect also scratched her arms when she attempted to push him away. The victim reported that throughout the course of the relationship, the suspect has repeatedly made verbal statements that he would kill her if she ever left him.\n\nThe victim confirmed that two minor children \u2014 ages 7 and 9 \u2014 were present inside the apartment at the time of the assault. The victim stated she had been waiting for the children to go to bed before attempting to seek help.\n\nThe suspect was not present upon this officer's arrival, having been detained by other officers who responded to the scene. \n\nINJURIES\n\nThe victim presented with visible bruising to the neck consistent with manual strangulation, scratches on both arms, and a torn shirt. The victim reported throat pain, difficulty speaking, and pain when touching the neck. EMS was requested for evaluation. The victim's injuries were documented for evidentiary purposes.\n\nHISTORY AND PROTECTION ORDER\n\nThe victim disclosed an ongoing history of physical violence perpetrated by the suspect across the duration of their marriage. The victim stated the suspect has previously pushed, choked, and hit her on multiple occasions. The victim further stated that in 2022, she obtained a Protection Order against the suspect from a court of competent jurisdiction after the suspect engaged in a pattern of threatening behavior including stalking her at her workplace and repeated threatening communications. The suspect's presence at the shared residence and the physical assault committed this date constitute violations of the active Protection Order.\n\nWEAPONS\n\nNo weapons were reported as used by the suspect during tonight's incident. However, the victim stated the suspect has repeatedly threatened to kill her if she attempts to leave the relationship. The victim's fear for her safety was evident and consistent throughout the interview.\n\nDISPOSITION\n\nThis officer documented the victim's injuries for evidentiary purposes and requested EMS for the victim. The suspect was in custody of responding officers upon this officer's arrival. This report is forwarded for review and potential charges including: Partner/Family Member Assault, Attempted Strangulation, Violation of a Protection Order, and endangerment of minor children.",
+  "narrative_coverage": {
+    "partner_family_member_assault_01": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "",
+        "2": "Date of Report: 04/28/2026",
+        "3": "Incident Date: 04/28/2026",
+        "4": "Incident Time: Approximately 2130\u20132145 hours",
+        "15": "prior to this officer's arrival",
+        "19": "Officers were dispatched",
+        "21": "Upon arrival",
+        "25": "upon this officer's arrival"
+      }
+    },
+    "partner_family_member_assault_02": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "",
+        "18": "DISPATCH INFORMATION",
+        "19": "in response to a domestic disturbance call"
+      }
+    },
+    "partner_family_member_assault_03": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "",
+        "19": "a female stating her boyfriend was being physically aggressive",
+        "22": "The victim stated that she and the suspect, her husband Julian Sanchez, had been engaged in a verbal argument during the evening.",
+        "25": ""
+      }
+    },
+    "partner_family_member_assault_04": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "",
+        "7": "PARTIES INVOLVED",
+        "11": "Wife (married to suspect)",
+        "14": "co-resident",
+        "16": "WITNESSES",
+        "19": "a female stating her boyfriend",
+        "22": "The victim stated that she and the suspect, her husband Julian Sanchez,",
+        "29": "The victim disclosed an ongoing history of physical violence perpetrated by the suspect across the duration of their marriage."
+      }
+    },
+    "partner_family_member_assault_05": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "",
+        "5": "1456 Oakbrook Drive, Apartment 3B, Springfield, Illinois",
+        "7": "PARTIES INVOLVED",
+        "8": "Victim: Leila Morales Hernandez",
+        "9": "DOB: November 12, 1992",
+        "10": "Address: 1456 Oakbrook Drive, Apt. 3B, Springfield, Illinois",
+        "11": "Wife (married to suspect)",
+        "12": "Julian Sanchez",
+        "13": "DOB: Approximately August 25, 1985",
+        "14": "Address: 1456 Oakbrook Drive, Apt. 3B, Springfield, Illinois"
+      }
+    },
+    "partner_family_member_assault_06": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "",
+        "15": "",
+        "22": "The victim stated that she and the suspect, her husband Julian Sanchez, had been engaged in a verbal argument during the evening. The victim stated she informed the suspect she intended to leave the marriage. The victim stated this disclosure caused the suspect to become enraged. According to the victim, the suspect then pushed her forcefully against a wall inside the apartment and proceeded to strangle her with both hands around her neck.",
+        "23": "The victim stated the suspect also scratched her arms when she attempted to push him away.",
+        "25": "",
+        "29": "The victim stated the suspect has previously pushed, choked, and hit her on multiple occasions."
+      }
+    },
+    "partner_family_member_assault_07": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "",
+        "22": "The victim stated this disclosure caused the suspect to become enraged. According to the victim, the suspect then pushed her forcefully against a wall inside the apartment and proceeded to strangle her with both hands around her neck.",
+        "29": "The victim disclosed an ongoing history of physical violence perpetrated by the suspect across the duration of their marriage."
+      }
+    },
+    "partner_family_member_assault_08": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "",
+        "25": "The suspect was not present upon this officer's arrival"
+      }
+    },
+    "partner_family_member_assault_09": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "",
+        "20": "",
+        "21": "The victim displayed visible bruising to the neck, scratches on both arms, and a torn shirt. The victim reported difficulty speaking due to throat pain.",
+        "22": "According to the victim, the suspect then pushed her forcefully against a wall inside the apartment and proceeded to strangle her with both hands around her neck.",
+        "23": "The victim stated the suspect also scratched her arms when she attempted to push him away.",
+        "26": "INJURIES",
+        "27": "The victim presented with visible bruising to the neck consistent with manual strangulation, scratches on both arms, and a torn shirt. The victim reported throat pain, difficulty speaking, and pain when touching the neck.",
+        "29": "The victim stated the suspect has previously pushed, choked, and hit her on multiple occasions.",
+        "31": "No weapons were reported as used by the suspect during tonight's incident.",
+        "33": "This officer documented the victim's injuries for evidentiary purposes"
+      }
+    },
+    "partner_family_member_assault_10": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "",
+        "20": "",
+        "21": "The victim was visibly distressed, crying, and in obvious physical distress.",
+        "22": "The victim stated she believed the suspect was going to kill her.",
+        "23": "",
+        "31": "The victim's fear for her safety was evident and consistent throughout the interview."
+      }
+    },
+    "partner_family_member_assault_11": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": ""
+      }
+    },
+    "partner_family_member_assault_12": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "",
+        "27": "The victim's injuries were documented for evidentiary purposes.",
+        "30": "WEAPONS",
+        "31": "No weapons were reported as used by the suspect during tonight's incident."
+      }
+    },
+    "partner_family_member_assault_13": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "",
+        "6": "Minor Children Present",
+        "17": "Two minor children of the victim and suspect were present in the apartment at the time of the assault: a 7-year-old and a 9-year-old. Their condition and welfare were confirmed upon officer arrival.",
+        "24": "The victim confirmed that two minor children \u2014 ages 7 and 9 \u2014 were present inside the apartment at the time of the assault."
+      }
+    },
+    "partner_family_member_assault_14": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "",
+        "20": "",
+        "21": "The victim reported difficulty speaking due to throat pain.",
+        "27": "EMS was requested for evaluation.",
+        "33": "requested EMS for the victim"
+      }
+    },
+    "partner_family_member_assault_15": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": ""
+      }
+    },
+    "partner_family_member_assault_16": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "",
+        "15": "Taken into custody by first responding officers",
+        "32": "DISPOSITION"
+      }
+    },
+    "partner_family_member_assault_17": {
+      "covered": "full",
+      "phrases": {
+        "0": "VIOLATION OF PROTECTION ORDER",
+        "1": "",
+        "28": "HISTORY AND PROTECTION ORDER",
+        "29": "The victim further stated that in 2022, she obtained a Protection Order against the suspect from a court of competent jurisdiction",
+        "33": "Violation of a Protection Order"
+      }
+    },
+    "partner_family_member_assault_18": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "",
+        "23": "The victim reported that throughout the course of the relationship, the suspect has repeatedly made verbal statements that he would kill her if she ever left him.",
+        "29": "The victim disclosed an ongoing history of physical violence perpetrated by the suspect across the duration of their marriage.",
+        "31": "The victim stated the suspect has repeatedly threatened to kill her if she attempts to leave the relationship."
+      }
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "partner_family_member_assault_01",
+        "element": "Time of incident and arrival",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "10": {
+            "officer_message": "Your children are safe. Has Julian been physically violent toward you on previous occasions? And can you tell me his full name, date of birth, and approximately what time tonight the assault occurred?",
+            "coverage": "partial",
+            "reasoning": "The officer asks for the approximate time of the assault, which is part of the time of incident and arrival information."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "",
+          "2": "Date of Report: 04/28/2026",
+          "3": "Incident Date: 04/28/2026",
+          "4": "Incident Time: Approximately 2130\u20132145 hours",
+          "15": "prior to this officer's arrival",
+          "19": "Officers were dispatched",
+          "21": "Upon arrival",
+          "25": "upon this officer's arrival"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "partner_family_member_assault_02",
+        "element": "Relevant 911 information",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "",
+          "18": "DISPATCH INFORMATION",
+          "19": "in response to a domestic disturbance call"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "partner_family_member_assault_03",
+        "element": "Immediate statements of either party",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "",
+          "19": "a female stating her boyfriend was being physically aggressive",
+          "22": "The victim stated that she and the suspect, her husband Julian Sanchez, had been engaged in a verbal argument during the evening.",
+          "25": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "partner_family_member_assault_04",
+        "element": "Relationship of parties involved/witnesses",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "2": {
+            "officer_message": "Thank you, Ms. Hernandez. Can you tell me your current address and confirm that you reside at 1456 Oakbrook Drive, Apartment 3B here in Springfield?",
+            "coverage": "partial",
+            "reasoning": "The officer implies the relationship of the parties involved by asking the victim to confirm her address, which may be the same as the perpetrator's, but does not directly ask about their relationship."
+          },
+          "4": {
+            "officer_message": "I understand this is difficult. Please tell me in your own words what happened tonight. What did your husband Julian do?",
+            "coverage": "partial",
+            "reasoning": "The question implies the relationship by mentioning 'your husband Julian', which suggests a marital relationship but does not explicitly ask about or confirm the nature of their relationship."
+          },
+          "8": {
+            "officer_message": "We will absolutely get you medical attention. Where is Julian right now? Is he still in the apartment, and did he use or threaten to use any weapons tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer asks about Julian's location, which implies a relationship but does not directly ask about or clearly imply the nature of the relationship between the parties involved."
+          },
+          "10": {
+            "officer_message": "Your children are safe. Has Julian been physically violent toward you on previous occasions? And can you tell me his full name, date of birth, and approximately what time tonight the assault occurred?",
+            "coverage": "partial",
+            "reasoning": "The officer asks for Julian's full name, which implies a relationship but does not directly ask about the nature of their relationship."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "",
+          "7": "PARTIES INVOLVED",
+          "11": "Wife (married to suspect)",
+          "14": "co-resident",
+          "16": "WITNESSES",
+          "19": "a female stating her boyfriend",
+          "22": "The victim stated that she and the suspect, her husband Julian Sanchez,",
+          "29": "The victim disclosed an ongoing history of physical violence perpetrated by the suspect across the duration of their marriage."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "partner_family_member_assault_05",
+        "element": "Name, address, phone \u2013 work/home, employer, etc.",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Good evening. My name is Officer Davis. I'm here to help you. Before we begin, I want you to know you are safe with me. Can you please state your full name and date of birth?",
+            "coverage": "partial",
+            "reasoning": "The officer asked for the victim's full name and date of birth, which is part of the information needed for name, address, phone \u2013 work/home, employer, etc., but does not cover the entire scope of this element."
+          },
+          "2": {
+            "officer_message": "Thank you, Ms. Hernandez. Can you tell me your current address and confirm that you reside at 1456 Oakbrook Drive, Apartment 3B here in Springfield?",
+            "coverage": "full",
+            "reasoning": "The officer directly asks for the victim's current address, which is a key part of the name, address, phone \u2013 work/home, employer, etc. element."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "",
+          "5": "1456 Oakbrook Drive, Apartment 3B, Springfield, Illinois",
+          "7": "PARTIES INVOLVED",
+          "8": "Victim: Leila Morales Hernandez",
+          "9": "DOB: November 12, 1992",
+          "10": "Address: 1456 Oakbrook Drive, Apt. 3B, Springfield, Illinois",
+          "11": "Wife (married to suspect)",
+          "12": "Julian Sanchez",
+          "13": "DOB: Approximately August 25, 1985",
+          "14": "Address: 1456 Oakbrook Drive, Apt. 3B, Springfield, Illinois"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "partner_family_member_assault_06",
+        "element": "Individual\u2019s account of events",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "4": {
+            "officer_message": "I understand this is difficult. Please tell me in your own words what happened tonight. What did your husband Julian do?",
+            "coverage": "partial",
+            "reasoning": "By asking the victim to describe what happened in their own words, the officer is eliciting the individual's account of events, but the question is open-ended and may not cover all aspects of the events."
+          },
+          "10": {
+            "officer_message": "Your children are safe. Has Julian been physically violent toward you on previous occasions? And can you tell me his full name, date of birth, and approximately what time tonight the assault occurred?",
+            "coverage": "partial",
+            "reasoning": "The officer asks if Julian has been physically violent on previous occasions, which is part of the individual's account of events but does not cover the full scope of the events."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "",
+          "15": "",
+          "22": "The victim stated that she and the suspect, her husband Julian Sanchez, had been engaged in a verbal argument during the evening. The victim stated she informed the suspect she intended to leave the marriage. The victim stated this disclosure caused the suspect to become enraged. According to the victim, the suspect then pushed her forcefully against a wall inside the apartment and proceeded to strangle her with both hands around her neck.",
+          "23": "The victim stated the suspect also scratched her arms when she attempted to push him away.",
+          "25": "",
+          "29": "The victim stated the suspect has previously pushed, choked, and hit her on multiple occasions."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "partner_family_member_assault_07",
+        "element": "When and how violence started",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "10": {
+            "officer_message": "Your children are safe. Has Julian been physically violent toward you on previous occasions? And can you tell me his full name, date of birth, and approximately what time tonight the assault occurred?",
+            "coverage": "partial",
+            "reasoning": "The officer asks for the approximate time of the assault, which is related to when the violence started but does not ask for details about how it started."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "",
+          "22": "The victim stated this disclosure caused the suspect to become enraged. According to the victim, the suspect then pushed her forcefully against a wall inside the apartment and proceeded to strangle her with both hands around her neck.",
+          "29": "The victim disclosed an ongoing history of physical violence perpetrated by the suspect across the duration of their marriage."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "partner_family_member_assault_08",
+        "element": "Officer observation related to account of events",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "We will absolutely get you medical attention. Where is Julian right now? Is he still in the apartment, and did he use or threaten to use any weapons tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer's question about Julian's location and potential weapon use implies an observation related to the account of events but does not provide a detailed observation."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "",
+          "25": "The suspect was not present upon this officer's arrival"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "partner_family_member_assault_09",
+        "element": "Injuries, including those not visible, i.e. sexual assault, strangulation",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "6": {
+            "officer_message": "You are safe now, Ms. Hernandez. I can see this took a lot of courage to call us. Are you injured? Do you have any visible injuries from where he pushed you or choked you?",
+            "coverage": "partial",
+            "reasoning": "The officer asks about visible injuries and implies the possibility of non-visible injuries by mentioning choking, but does not explicitly ask about all non-visible injuries."
+          },
+          "8": {
+            "officer_message": "We will absolutely get you medical attention. Where is Julian right now? Is he still in the apartment, and did he use or threaten to use any weapons tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer offers medical attention, which implies a concern for injuries but does not directly ask about the nature or extent of the injuries."
+          },
+          "10": {
+            "officer_message": "Your children are safe. Has Julian been physically violent toward you on previous occasions? And can you tell me his full name, date of birth, and approximately what time tonight the assault occurred?",
+            "coverage": "partial",
+            "reasoning": "The officer does not directly ask about injuries but implies the possibility of previous physical violence, which may have resulted in injuries."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "",
+          "20": "",
+          "21": "The victim displayed visible bruising to the neck, scratches on both arms, and a torn shirt. The victim reported difficulty speaking due to throat pain.",
+          "22": "According to the victim, the suspect then pushed her forcefully against a wall inside the apartment and proceeded to strangle her with both hands around her neck.",
+          "23": "The victim stated the suspect also scratched her arms when she attempted to push him away.",
+          "26": "INJURIES",
+          "27": "The victim presented with visible bruising to the neck consistent with manual strangulation, scratches on both arms, and a torn shirt. The victim reported throat pain, difficulty speaking, and pain when touching the neck.",
+          "29": "The victim stated the suspect has previously pushed, choked, and hit her on multiple occasions.",
+          "31": "No weapons were reported as used by the suspect during tonight's incident.",
+          "33": "This officer documented the victim's injuries for evidentiary purposes"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "partner_family_member_assault_10",
+        "element": "Emotional state/demeanor",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "4": {
+            "officer_message": "I understand this is difficult. Please tell me in your own words what happened tonight. What did your husband Julian do?",
+            "coverage": "partial",
+            "reasoning": "The officer's acknowledgment that 'this is difficult' may touch on the emotional state of the victim, but it does not directly ask about their emotional state or demeanor."
+          },
+          "6": {
+            "officer_message": "You are safe now, Ms. Hernandez. I can see this took a lot of courage to call us. Are you injured? Do you have any visible injuries from where he pushed you or choked you?",
+            "coverage": "partial",
+            "reasoning": "The officer's statement that it took a lot of courage to call implies an understanding of the emotional state, but does not directly ask about it."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "",
+          "20": "",
+          "21": "The victim was visibly distressed, crying, and in obvious physical distress.",
+          "22": "The victim stated she believed the suspect was going to kill her.",
+          "23": "",
+          "31": "The victim's fear for her safety was evident and consistent throughout the interview."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "partner_family_member_assault_11",
+        "element": "Alcohol or drug use/impairment",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "partner_family_member_assault_12",
+        "element": "Evidence collected (i.e. pictures, statements, weapons)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "We will absolutely get you medical attention. Where is Julian right now? Is he still in the apartment, and did he use or threaten to use any weapons tonight?",
+            "coverage": "partial",
+            "reasoning": "The officer asks if Julian used or threatened to use any weapons, which touches on the topic of evidence collection but is more directly related to the use of weapons."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "",
+          "27": "The victim's injuries were documented for evidentiary purposes.",
+          "30": "WEAPONS",
+          "31": "No weapons were reported as used by the suspect during tonight's incident."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "partner_family_member_assault_13",
+        "element": "Children present, involvement in incident, general welfare; or Children not present, but reside at the residence",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "10": {
+            "officer_message": "Your children are safe. Has Julian been physically violent toward you on previous occasions? And can you tell me his full name, date of birth, and approximately what time tonight the assault occurred?",
+            "coverage": "partial",
+            "reasoning": "The officer mentions that the children are safe, which implies they are aware of the children's presence and welfare but does not ask for details about their involvement or residence."
+          },
+          "12": {
+            "officer_message": "How many children were present, and how old are they? Also, do you have any existing protection orders or restraining orders against Julian?",
+            "coverage": "full",
+            "reasoning": "The question directly asks about the number and age of children present, which would elicit a complete answer about the children's presence and general welfare."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "",
+          "6": "Minor Children Present",
+          "17": "Two minor children of the victim and suspect were present in the apartment at the time of the assault: a 7-year-old and a 9-year-old. Their condition and welfare were confirmed upon officer arrival.",
+          "24": "The victim confirmed that two minor children \u2014 ages 7 and 9 \u2014 were present inside the apartment at the time of the assault."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "partner_family_member_assault_14",
+        "element": "Medical help offered or used, facility, medical release obtained",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "6": {
+            "officer_message": "You are safe now, Ms. Hernandez. I can see this took a lot of courage to call us. Are you injured? Do you have any visible injuries from where he pushed you or choked you?",
+            "coverage": "partial",
+            "reasoning": "The officer asks if the victim is injured, which could lead to a discussion about medical help, but does not directly ask about medical attention or treatment."
+          },
+          "8": {
+            "officer_message": "We will absolutely get you medical attention. Where is Julian right now? Is he still in the apartment, and did he use or threaten to use any weapons tonight?",
+            "coverage": "full",
+            "reasoning": "The officer offers medical attention, which directly addresses the element of medical help being offered or used."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "",
+          "20": "",
+          "21": "The victim reported difficulty speaking due to throat pain.",
+          "27": "EMS was requested for evaluation.",
+          "33": "requested EMS for the victim"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "partner_family_member_assault_15",
+        "element": "Rationale for arrest or non-arrest decisions",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "partner_family_member_assault_16",
+        "element": "Summary of actions (i.e. arrest, non-arrest, attempt to locate, transport, referrals, victim rights form, seizing firearms)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "",
+          "15": "Taken into custody by first responding officers",
+          "32": "DISPOSITION"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "partner_family_member_assault_17",
+        "element": "Existence of Orders of Protection, probation, warrants, prior convictions",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "10": {
+            "officer_message": "Your children are safe. Has Julian been physically violent toward you on previous occasions? And can you tell me his full name, date of birth, and approximately what time tonight the assault occurred?",
+            "coverage": "none",
+            "reasoning": "There is no mention of Orders of Protection, probation, warrants, or prior convictions in the officer's question."
+          },
+          "12": {
+            "officer_message": "How many children were present, and how old are they? Also, do you have any existing protection orders or restraining orders against Julian?",
+            "coverage": "full",
+            "reasoning": "The question directly asks about existing protection orders or restraining orders, which would elicit a complete answer about the existence of Orders of Protection."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "VIOLATION OF PROTECTION ORDER",
+          "1": "",
+          "28": "HISTORY AND PROTECTION ORDER",
+          "29": "The victim further stated that in 2022, she obtained a Protection Order against the suspect from a court of competent jurisdiction",
+          "33": "Violation of a Protection Order"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "partner_family_member_assault_18",
+        "element": "Victim responses to risk questions including your observations of their responses",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "",
+          "23": "The victim reported that throughout the course of the relationship, the suspect has repeatedly made verbal statements that he would kill her if she ever left him.",
+          "29": "The victim disclosed an ongoing history of physical violence perpetrated by the suspect across the duration of their marriage.",
+          "31": "The victim stated the suspect has repeatedly threatened to kill her if she attempts to leave the relationship."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      }
+    ],
+    "contradictions_interview": [
+      {
+        "element_id": "partner_family_member_assault_05",
+        "element": "Name, address, phone \u2013 work/home, employer, etc.",
+        "location": 2,
+        "source": "interview",
+        "phrase": "Ms. Hernandez",
+        "contradicts": "Ms. Leila Patel: 1456 Oakbrook Drive, Apt 3B, Springfield, IL 62711, (217) 123-4567, works at Memorial Medical Center; Mr. Julian Sanchez: same address, (217) 901-2345, employed at Sanchez Construction",
+        "explanation": "The text mentions 'Ms. Hernandez' as the resident of 1456 Oakbrook Drive, Apartment 3B, which directly conflicts with the established scenario fact that Ms. Leila Patel resides at this address."
+      }
+    ],
+    "contradictions_narrative": [
+      {
+        "element_id": "partner_family_member_assault_01",
+        "element": "Time of incident and arrival",
+        "location": 3,
+        "source": "narrative",
+        "phrase": "Incident Date: 04/28/2026",
+        "contradicts": "The incident occurred at 9:45 PM on February 10, 2024, and officers arrived at 10:05 PM",
+        "explanation": "The text states the incident date as April 28, 2026, which directly conflicts with the established scenario fact that the incident occurred on February 10, 2024."
+      },
+      {
+        "element_id": "partner_family_member_assault_01",
+        "element": "Time of incident and arrival",
+        "location": 4,
+        "source": "narrative",
+        "phrase": "Approximately 2130\u20132145 hours",
+        "contradicts": "The incident occurred at 9:45 PM on February 10, 2024, and officers arrived at 10:05 PM",
+        "explanation": "The text states the incident time as approximately 2130\u20132145 hours, which translates to 9:30-9:45 PM, directly conflicting with the established scenario fact that the incident occurred at 9:45 PM."
+      },
+      {
+        "element_id": "partner_family_member_assault_04",
+        "element": "Relationship of parties involved/witnesses",
+        "location": 19,
+        "source": "narrative",
+        "phrase": "a female stating her boyfriend",
+        "contradicts": "Ms. Leila Patel and Mr. Julian Sanchez are married and have been together for 5 years; their neighbor, Ms. Maria Rodriguez, witnessed the incident and provided a statement",
+        "explanation": "The text states the female is referring to her boyfriend, but according to the established scenario fact, Ms. Leila Patel is married to Mr. Julian Sanchez, indicating a direct conflict in the relationship status."
+      },
+      {
+        "element_id": "partner_family_member_assault_05",
+        "element": "Name, address, phone \u2013 work/home, employer, etc.",
+        "location": 8,
+        "source": "narrative",
+        "phrase": "Leila Morales Hernandez",
+        "contradicts": "Ms. Leila Patel: 1456 Oakbrook Drive, Apt 3B, Springfield, IL 62711, (217) 123-4567, works at Memorial Medical Center; Mr. Julian Sanchez: same address, (217) 901-2345, employed at Sanchez Construction",
+        "explanation": "The text states the victim's name as 'Leila Morales Hernandez', which directly conflicts with the established scenario fact that her name is 'Ms. Leila Patel'."
+      },
+      {
+        "element_id": "partner_family_member_assault_12",
+        "element": "Evidence collected (i.e. pictures, statements, weapons)",
+        "location": 30,
+        "source": "narrative",
+        "phrase": "WEAPONS",
+        "contradicts": "Evidence collected includes photographs of Ms. Patel's injuries, a torn shirt, and a statement from witness Ms. Maria Rodriguez; no weapons were found at the scene",
+        "explanation": "The text implies the presence of weapons, which directly contradicts the established scenario fact that no weapons were found at the scene."
+      }
+    ],
+    "grammar": [
+      {
+        "chunk": 5,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "Oakbrook",
+        "suggestion": "Oak brook"
+      },
+      {
+        "chunk": 10,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "Oakbrook",
+        "suggestion": "Oak brook"
+      },
+      {
+        "chunk": 14,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "Oakbrook",
+        "suggestion": "Oak brook"
+      },
+      {
+        "chunk": 19,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "Oakbrook",
+        "suggestion": "Oak brook"
+      },
+      {
+        "chunk": 22,
+        "source": "language_tool",
+        "error_type": "COMMA_COMPOUND_SENTENCE_2",
+        "excerpt": " but",
+        "suggestion": ", but"
+      },
+      {
+        "chunk": 22,
+        "source": "llm",
+        "error_type": "repetitive sentence structure",
+        "excerpt": "The victim stated that she and the suspect, her husband Julian Sanchez, had been engaged in a verbal argument during the evening. The victim stated she informed the suspect she intended to leave the marriage. The victim stated this disclosure caused the suspect to become enraged.",
+        "suggestion": "The victim reported that she and her husband, Julian Sanchez, had a verbal argument that evening. She informed him she intended to leave the marriage, which caused him to become enraged."
+      },
+      {
+        "chunk": 22,
+        "source": "llm",
+        "error_type": "repetitive sentence structure",
+        "excerpt": "The victim stated she attempted to scream for help but the suspect covered her mouth with his hand. The victim stated she believed the suspect was going to kill her.",
+        "suggestion": "She attempted to scream for help, but he covered her mouth with his hand. She believed he was going to kill her."
+      },
+      {
+        "chunk": 23,
+        "source": "llm",
+        "error_type": "Verb tense inconsistencies",
+        "excerpt": "the suspect also scratched her arms when she attempted to push him away. The victim reported that throughout the course of the relationship, the suspect has repeatedly made verbal statements",
+        "suggestion": "The victim stated the suspect also scratched her arms when she attempted to push him away. The victim reported that throughout the course of the relationship, the suspect had repeatedly made verbal statements"
+      },
+      {
+        "chunk": 24,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "The victim confirmed that two minor children \u2014 ages 7 and 9 \u2014 were present inside the apartment at the time of the assault. The victim stated she had been waiting for the children to go to bed before attempting to seek help.",
+        "suggestion": "The victim confirmed that two minor children \u2014 ages 7 and 9 \u2014 were present inside the apartment at the time of the assault. The victim stated she had been waiting for her children to go to bed before attempting to seek help."
+      },
+      {
+        "chunk": 29,
+        "source": "llm",
+        "error_type": "verb tense inconsistencies",
+        "excerpt": "The victim stated the suspect has previously pushed, choked, and hit her on multiple occasions.",
+        "suggestion": "The victim stated that the suspect had previously pushed, choked, and hit her on multiple occasions."
+      },
+      {
+        "chunk": 31,
+        "source": "llm",
+        "error_type": "verb tense inconsistencies",
+        "excerpt": "No weapons were reported as used by the suspect during tonight's incident. However, the victim stated the suspect has repeatedly threatened to kill her if she attempts to leave the relationship.",
+        "suggestion": "No weapons were reported as used by the suspect during tonight's incident. However, the victim stated that the suspect had repeatedly threatened to kill her if she attempted to leave the relationship."
+      }
+    ],
+    "style": [
+      {
+        "chunk": 1,
+        "rule": "1",
+        "error_type": "insufficient information",
+        "excerpt": "Reporting Officer: Officer Davis",
+        "suggestion": "Provide a detailed narrative of the incident, including the officer's actions and the events that occurred."
+      },
+      {
+        "chunk": 7,
+        "rule": "Rule 5: Attribute every statement to its speaker",
+        "error_type": "Lack of attribution",
+        "excerpt": "No text provided in the chunk to evaluate",
+        "suggestion": "Provide the text for the 'PARTIES INVOLVED' section and ensure all statements are attributed to their respective speakers"
+      },
+      {
+        "chunk": 7,
+        "rule": "Rule 10: Write in chronological order",
+        "error_type": "Insufficient information",
+        "excerpt": "No narrative provided to assess chronological order",
+        "suggestion": "Include a narrative in the 'PARTIES INVOLVED' section that follows a chronological order of events"
+      },
+      {
+        "chunk": 7,
+        "rule": "Rule 11: Answer the six basic questions",
+        "error_type": "Incomplete information",
+        "excerpt": "No details given to answer who, what, where, when, why, or how",
+        "suggestion": "Ensure the 'PARTIES INVOLVED' section answers the six basic questions for every report"
+      },
+      {
+        "chunk": 8,
+        "rule": "Rule 5: Attribute every statement to its speaker",
+        "error_type": "Lack of attribution",
+        "excerpt": "Victim: Leila Morales Hernandez",
+        "suggestion": "The victim, Leila Morales Hernandez, was identified."
+      },
+      {
+        "chunk": 8,
+        "rule": "Rule 11: Answer the six basic questions for every report",
+        "error_type": "Insufficient information",
+        "excerpt": "Victim: Leila Morales Hernandez",
+        "suggestion": "The victim, Leila Morales Hernandez, a [age]-year-old [occupation], was identified at [location] on [date] at [time]."
+      },
+      {
+        "chunk": 8,
+        "rule": "Rule 12: Use specific, concrete language",
+        "error_type": "Lack of specificity",
+        "excerpt": "Victim: Leila Morales Hernandez",
+        "suggestion": "The victim, Leila Morales Hernandez, a 30-year-old female, was identified."
+      },
+      {
+        "chunk": 9,
+        "rule": "Rule 11: Answer the six basic questions for every report: Who, What, Where, When, Why, and How.",
+        "error_type": "Lack of detail",
+        "excerpt": "DOB: November 12, 1992",
+        "suggestion": "Provide more context about who this date of birth belongs to and its relevance to the report, e.g., 'The victim, Leila Morales Hernandez, was born on November 12, 1992.'"
+      },
+      {
+        "chunk": 9,
+        "rule": "Rule 12: Use specific, concrete language rather than vague or abstract terms.",
+        "error_type": "Vagueness",
+        "excerpt": "DOB: November 12, 1992",
+        "suggestion": "Specify whose date of birth this is, e.g., 'The victim's date of birth is November 12, 1992.'"
+      },
+      {
+        "chunk": 9,
+        "rule": "Rule 6: Every factual claim must be accurate and complete.",
+        "error_type": "Incompleteness",
+        "excerpt": "DOB: November 12, 1992",
+        "suggestion": "Provide more information about why the date of birth is relevant to the report, e.g., 'The victim, Leila Morales Hernandez, born on November 12, 1992, reported the incident.'"
+      },
+      {
+        "chunk": 13,
+        "rule": "Rule 2: Never state conclusions without the observable facts that support them, Rule 5: Attribute every statement to its speaker, Rule 11: Answer the six basic questions for every report",
+        "error_type": "Lack of detail and attribution",
+        "excerpt": "DOB: Approximately August 25, 1985",
+        "suggestion": "The suspect, Julian Sanchez, was born on August 25, 1985, as stated on his identification. This information was obtained from his driver's license, which was found in his wallet."
+      },
+      {
+        "chunk": 13,
+        "rule": "Rule 12: Use specific, concrete language rather than vague or abstract terms",
+        "error_type": "Vagueness",
+        "excerpt": "Approximately August 25, 1985",
+        "suggestion": "August 25, 1985, as confirmed by his identification"
+      },
+      {
+        "chunk": 16,
+        "rule": "Rule 5: Attribute every statement to its speaker",
+        "error_type": "Lack of attribution",
+        "excerpt": "There is no section provided to summarize. The section titled 'WITNESSES' is empty, containing no information to be condensed into a 2-sentence summary.",
+        "suggestion": "Provide witness statements with proper attribution, e.g., 'Witness John Doe stated that...'"
+      },
+      {
+        "chunk": 16,
+        "rule": "Rule 10: Write in chronological order",
+        "error_type": "No chronological order",
+        "excerpt": "There is no section provided to summarize. The section titled 'WITNESSES' is empty, containing no information to be condensed into a 2-sentence summary.",
+        "suggestion": "Provide witness statements in the order they were obtained, e.g., 'At 2100 hours, Witness John Doe stated that...'"
+      },
+      {
+        "chunk": 16,
+        "rule": "Rule 12: Use specific, concrete language",
+        "error_type": "Lack of specificity",
+        "excerpt": "There is no section provided to summarize. The section titled 'WITNESSES' is empty, containing no information to be condensed into a 2-sentence summary.",
+        "suggestion": "Provide specific details about the witnesses, e.g., 'Witness John Doe, a 30-year-old male, stated that...'"
+      },
+      {
+        "chunk": 20,
+        "rule": "Rule 10: Write in chronological order",
+        "error_type": "No narrative provided",
+        "excerpt": "There is no narrative section provided to summarize. The section provided is empty and does not contain any information to be summarized into 2 sentences.",
+        "suggestion": "Provide a narrative that describes the events in chronological order."
+      },
+      {
+        "chunk": 20,
+        "rule": "Rule 11: Answer the six basic questions for every report",
+        "error_type": "No information provided",
+        "excerpt": "There is no narrative section provided to summarize. The section provided is empty and does not contain any information to be summarized into 2 sentences.",
+        "suggestion": "Provide a narrative that answers the six basic questions: Who, What, Where, When, Why, and How."
+      },
+      {
+        "chunk": 28,
+        "rule": "Rule 2: Never state conclusions without the observable facts that support them",
+        "error_type": "No content provided to evaluate",
+        "excerpt": "The section is empty and does not contain any information to be summarized into 2 sentences.",
+        "suggestion": "Provide a detailed description of the history and protection order, including specific dates, events, and supporting facts."
+      },
+      {
+        "chunk": 28,
+        "rule": "Rule 10: Write in chronological order",
+        "error_type": "No content provided to evaluate chronological order",
+        "excerpt": "The section is empty and does not contain any information to be summarized into 2 sentences.",
+        "suggestion": "Organize the history and protection order information in chronological order, ensuring that events are described as they occurred."
+      }
+    ],
+    "narrative_coverage": {
+      "partner_family_member_assault_01": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "",
+          "2": "Date of Report: 04/28/2026",
+          "3": "Incident Date: 04/28/2026",
+          "4": "Incident Time: Approximately 2130\u20132145 hours",
+          "15": "prior to this officer's arrival",
+          "19": "Officers were dispatched",
+          "21": "Upon arrival",
+          "25": "upon this officer's arrival"
+        }
+      },
+      "partner_family_member_assault_02": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "",
+          "18": "DISPATCH INFORMATION",
+          "19": "in response to a domestic disturbance call"
+        }
+      },
+      "partner_family_member_assault_03": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "",
+          "19": "a female stating her boyfriend was being physically aggressive",
+          "22": "The victim stated that she and the suspect, her husband Julian Sanchez, had been engaged in a verbal argument during the evening.",
+          "25": ""
+        }
+      },
+      "partner_family_member_assault_04": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "",
+          "7": "PARTIES INVOLVED",
+          "11": "Wife (married to suspect)",
+          "14": "co-resident",
+          "16": "WITNESSES",
+          "19": "a female stating her boyfriend",
+          "22": "The victim stated that she and the suspect, her husband Julian Sanchez,",
+          "29": "The victim disclosed an ongoing history of physical violence perpetrated by the suspect across the duration of their marriage."
+        }
+      },
+      "partner_family_member_assault_05": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "",
+          "5": "1456 Oakbrook Drive, Apartment 3B, Springfield, Illinois",
+          "7": "PARTIES INVOLVED",
+          "8": "Victim: Leila Morales Hernandez",
+          "9": "DOB: November 12, 1992",
+          "10": "Address: 1456 Oakbrook Drive, Apt. 3B, Springfield, Illinois",
+          "11": "Wife (married to suspect)",
+          "12": "Julian Sanchez",
+          "13": "DOB: Approximately August 25, 1985",
+          "14": "Address: 1456 Oakbrook Drive, Apt. 3B, Springfield, Illinois"
+        }
+      },
+      "partner_family_member_assault_06": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "",
+          "15": "",
+          "22": "The victim stated that she and the suspect, her husband Julian Sanchez, had been engaged in a verbal argument during the evening. The victim stated she informed the suspect she intended to leave the marriage. The victim stated this disclosure caused the suspect to become enraged. According to the victim, the suspect then pushed her forcefully against a wall inside the apartment and proceeded to strangle her with both hands around her neck.",
+          "23": "The victim stated the suspect also scratched her arms when she attempted to push him away.",
+          "25": "",
+          "29": "The victim stated the suspect has previously pushed, choked, and hit her on multiple occasions."
+        }
+      },
+      "partner_family_member_assault_07": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "",
+          "22": "The victim stated this disclosure caused the suspect to become enraged. According to the victim, the suspect then pushed her forcefully against a wall inside the apartment and proceeded to strangle her with both hands around her neck.",
+          "29": "The victim disclosed an ongoing history of physical violence perpetrated by the suspect across the duration of their marriage."
+        }
+      },
+      "partner_family_member_assault_08": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "",
+          "25": "The suspect was not present upon this officer's arrival"
+        }
+      },
+      "partner_family_member_assault_09": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "",
+          "20": "",
+          "21": "The victim displayed visible bruising to the neck, scratches on both arms, and a torn shirt. The victim reported difficulty speaking due to throat pain.",
+          "22": "According to the victim, the suspect then pushed her forcefully against a wall inside the apartment and proceeded to strangle her with both hands around her neck.",
+          "23": "The victim stated the suspect also scratched her arms when she attempted to push him away.",
+          "26": "INJURIES",
+          "27": "The victim presented with visible bruising to the neck consistent with manual strangulation, scratches on both arms, and a torn shirt. The victim reported throat pain, difficulty speaking, and pain when touching the neck.",
+          "29": "The victim stated the suspect has previously pushed, choked, and hit her on multiple occasions.",
+          "31": "No weapons were reported as used by the suspect during tonight's incident.",
+          "33": "This officer documented the victim's injuries for evidentiary purposes"
+        }
+      },
+      "partner_family_member_assault_10": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "",
+          "20": "",
+          "21": "The victim was visibly distressed, crying, and in obvious physical distress.",
+          "22": "The victim stated she believed the suspect was going to kill her.",
+          "23": "",
+          "31": "The victim's fear for her safety was evident and consistent throughout the interview."
+        }
+      },
+      "partner_family_member_assault_11": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": ""
+        }
+      },
+      "partner_family_member_assault_12": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "",
+          "27": "The victim's injuries were documented for evidentiary purposes.",
+          "30": "WEAPONS",
+          "31": "No weapons were reported as used by the suspect during tonight's incident."
+        }
+      },
+      "partner_family_member_assault_13": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "",
+          "6": "Minor Children Present",
+          "17": "Two minor children of the victim and suspect were present in the apartment at the time of the assault: a 7-year-old and a 9-year-old. Their condition and welfare were confirmed upon officer arrival.",
+          "24": "The victim confirmed that two minor children \u2014 ages 7 and 9 \u2014 were present inside the apartment at the time of the assault."
+        }
+      },
+      "partner_family_member_assault_14": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "",
+          "20": "",
+          "21": "The victim reported difficulty speaking due to throat pain.",
+          "27": "EMS was requested for evaluation.",
+          "33": "requested EMS for the victim"
+        }
+      },
+      "partner_family_member_assault_15": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": ""
+        }
+      },
+      "partner_family_member_assault_16": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "",
+          "15": "Taken into custody by first responding officers",
+          "32": "DISPOSITION"
+        }
+      },
+      "partner_family_member_assault_17": {
+        "covered": "full",
+        "phrases": {
+          "0": "VIOLATION OF PROTECTION ORDER",
+          "1": "",
+          "28": "HISTORY AND PROTECTION ORDER",
+          "29": "The victim further stated that in 2022, she obtained a Protection Order against the suspect from a court of competent jurisdiction",
+          "33": "Violation of a Protection Order"
+        }
+      },
+      "partner_family_member_assault_18": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "",
+          "23": "The victim reported that throughout the course of the relationship, the suspect has repeatedly made verbal statements that he would kill her if she ever left him.",
+          "29": "The victim disclosed an ongoing history of physical violence perpetrated by the suspect across the duration of their marriage.",
+          "31": "The victim stated the suspect has repeatedly threatened to kill her if she attempts to leave the relationship."
+        }
+      }
+    }
+  }
+}

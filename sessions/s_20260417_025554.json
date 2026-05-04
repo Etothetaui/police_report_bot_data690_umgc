@@ -1,0 +1,1816 @@
+{
+  "session_id": "s_20260417_025554",
+  "timestamp": "2026-04-17T02:55:54.915610",
+  "metadata": {
+    "crime_type": "Stalking",
+    "interviewee_name": "Leila Ramos-Garcia",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible stalking in progress, 1457 Oakdale Avenue, report of suspicious person following resident, caller is the victim"
+  },
+  "scenario": {
+    "crime_type": "Stalking",
+    "interviewee_role": "victim",
+    "interviewee_name": "Leila Ramos-Garcia",
+    "dispatch_line": "Possible stalking in progress, 1457 Oakdale Avenue, report of suspicious person following resident, caller is the victim",
+    "facts": {
+      "stalking_01": "Time of incident: 02:45 AM, Time of dispatch: 02:50 AM, Time of arrival: 03:05 AM",
+      "stalking_02": "The parties are in a dating relationship, having met 6 months ago through mutual friends",
+      "stalking_03": "History of relationship: frequent arguments, 3 incidents of physical violence, and regular intimidation via text messages and phone calls",
+      "stalking_04": "Stalking behaviors: following the victim to work, repeated unwanted phone calls, and sending gifts to the victim's workplace",
+      "stalking_05": "Yes, a valid protection order is in place, issued by the court of Arlington County, Virginia, and verified through the Virginia State Police",
+      "stalking_06": "All witnesses, including the victim's roommate, Sarah Lee, and coworker, Michael Patel, were interviewed and documented",
+      "stalking_07": "Previous incidents documented: 2 prior incidents of stalking, 1 incident of physical violence, and 1 incident of property damage",
+      "stalking_08": "Evidence collected: torn clothing, broken phone, and a threatening letter",
+      "stalking_09": "Electronic evidence collected: text messages, emails, and phone records",
+      "stalking_10": "All incidents of stalking behavior on cell phones, computers, and recording devices captured: 15 text messages, 20 phone calls, and 1 voicemail",
+      "stalking_11": "Scene described: the victim's residence, 1457 Oakdale Avenue, Arlington, VA 22201, and the surrounding area",
+      "stalking_12": "Weapons/objects used: a kitchen knife and a baseball bat",
+      "stalking_13": "Emotional state of the victim: fearful, anxious, and traumatized",
+      "stalking_14": "Evidence of fear: the victim reported feeling constantly on edge, having trouble sleeping, and experiencing anxiety attacks",
+      "stalking_15": "Threats documented: the suspect threatened to harm the victim and her family if she did not take him back",
+      "stalking_16": "Use of coercion and/or force: the suspect used physical force to restrain the victim and coerce her into staying in the relationship",
+      "stalking_17": "Injuries documented: visible injuries include bruises on the victim's arms and neck, and non-visible injuries include emotional trauma and anxiety",
+      "stalking_18": "Property damage documented: the suspect damaged the victim's car and broke her phone",
+      "stalking_19": "Photos taken: photos of the victim's injuries, the damaged property, and the scene",
+      "stalking_20": "Victim's report of being strangled: the victim reported being choked by the suspect during an argument",
+      "stalking_21": "Victim's need for medical attention: the victim was treated for her injuries at Arlington Hospital",
+      "stalking_22": "Spontaneous statements captured: the suspect stated 'I will always love you' and 'You will never be able to leave me'",
+      "stalking_23": "Elements of the stalking crime: the suspect engaged in a course of conduct that caused the victim to fear for her safety",
+      "stalking_24": "Victim's safety planning: the victim was provided with a safety plan, including a safe place to stay and a way to contact law enforcement",
+      "stalking_25": "Information about obtaining an order of protection: the victim was provided with information about how to obtain a protective order and the process for filing",
+      "stalking_26": "Information about local service providers: the victim was given information about the Arlington County Domestic Violence Program and the National Domestic Violence Hotline",
+      "stalking_27": "Threat/risk assessment tool: the officer used the Arlington County Threat Assessment Tool to assess the victim's risk",
+      "stalking_28": "Use of a stalking kit and/or stalking log: the officer discussed the use of a stalking log with the victim and provided her with a stalking kit",
+      "stalking_29": "Suspect's access to weapons: the suspect has access to a firearm, which is stored at his residence, 2121 Jackson Street, Arlington, VA 22207. A search warrant will be sought to confiscate the firearm due to the suspect's prohibition from possessing firearms",
+      "stalking_30": "Emotional state of the suspect: the suspect was calm and cooperative during the interview, but became agitated when discussing the victim",
+      "stalking_31": "Suspect's history of protection orders: the suspect has a history of protection orders, including 2 prior orders in the state of Virginia",
+      "stalking_32": "Suspect's prohibition from possessing firearms: the suspect is prohibited from possessing firearms due to a prior conviction for a misdemeanor crime of domestic violence and the existing protection order",
+      "stalking_33": "Active warrants: there is an active warrant out for the suspect's arrest for violating the protective order. The officer will attempt to locate and apprehend the suspect"
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "What happened?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*sniffling* It's been really scary. He's been following me, calling me all the time, and showing up at my work. We've been dating for about 6 months, but it's been getting worse and worse. There have been arguments and... and physical fights. He's hurt me before, and I've been trying to get away from him. I got a protection order, but he just won't leave me alone. *shaking* Last night was really bad. He showed up at my apartment, and I was so scared. I called the police, and they came, but... *tearfully* I don't know, it's just been really terrifying.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Did he have any weapons with him?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*nervously* Y-yes... he had a kitchen knife and a baseball bat. I was so scared when I saw them. He's used them before to... to threaten me and hurt me. *shuddering* Just thinking about it is making me really anxious. He's always saying that he'll do whatever it takes to keep me from leaving him, and when I see those weapons, I just... *trailing off, struggling to hold back tears*",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "It\u2019s ok",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*sniffling* Thank you... it's just really hard for me to talk about. I feel so scared and trapped. He's always been controlling and possessive, but it's gotten so much worse lately. I just want to feel safe again. *wiping away tears* Sorry, I'm just really scared of him. He's said some really terrible things to me, like he'll hurt me and my family if I don't take him back. *shaking* Just thinking about it is making me really scared.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Do you know where he is now?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*shaking head* I don't know... I haven't seen him since the police came last night. I've been trying to stay hidden and safe. I'm really scared that he'll find me and hurt me again. *looking around nervously* I don't know if he's still in the area or if he's looking for me. The thought of it is just... *trailing off, fear in her eyes*",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Ok, we\u2019ll take it from here",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*nodding, still looking scared* Okay... thank you. I just want to feel safe again. I'm so tired of being scared all the time. *sniffling* Can I... can I go somewhere safe now? I don't want to be alone right now. *looking at the officer for reassurance*",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "No there\u2019s no where safe this guy is a professional ",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "*eyes widening in fear* Oh no... what do you mean? He's not just some crazy ex, is he? *voice shaking* You're scaring me even more. What do you know about him that I don't? *grabbing the officer's arm* Please, you have to tell me. I need to know what I'm up against. *desperate*",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "He\u2019s killed over 100 people, even I\u2019m not safe"
+    },
+    {
+      "role": "assistant",
+      "content": "*stunned, eyes wide with terror* Oh my god... *backing away, as if trying to escape the reality of the situation* No, that's not possible. He's just a boyfriend, a person I knew... *shaking head, trying to process the information* 100 people? You're telling me that the person I've been dating, the person I've been sleeping next to, has killed over 100 people? *voice barely above a whisper* And you're not safe? What does that even mean? *looking around frantically, feeling like the whole world is collapsing* We have to get out of here, we have to hide. *grasping the officer's arm again, pleading* Please, you have to protect me. I don't want to die. *tearfully* I just want to feel safe again."
+    }
+  ],
+  "coverage_flags": {
+    "stalking_01": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply the time of the call or incident."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not address the time of the call or incident."
+        }
+      }
+    },
+    "stalking_02": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply the relationship of the parties."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not identify the relationship between the parties."
+        }
+      }
+    },
+    "stalking_03": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply the history of the relationship."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not discuss the history of the relationship."
+        }
+      }
+    },
+    "stalking_04": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "What happened?",
+          "coverage": "partial",
+          "reasoning": "The question 'What happened?' may elicit a response that includes stalking behaviors, but it does not directly ask about them."
+        },
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply stalking behaviors."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not articulate stalking behaviors."
+        }
+      }
+    },
+    "stalking_05": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply a valid protection order."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not mention a protection order."
+        }
+      }
+    },
+    "stalking_06": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply interviewing witnesses."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not indicate that witnesses were interviewed."
+        }
+      }
+    },
+    "stalking_07": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply previous incidents."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not document previous incidents."
+        }
+      }
+    },
+    "stalking_08": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply collecting evidence."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not mention evidence collection."
+        }
+      }
+    },
+    "stalking_09": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply collecting electronic/technological evidence."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not discuss electronic evidence."
+        }
+      }
+    },
+    "stalking_10": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply collecting incidents of stalking behavior on devices."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not capture incidents on devices."
+        }
+      }
+    },
+    "stalking_11": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply describing/diagraming the scene."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not describe the scene."
+        }
+      }
+    },
+    "stalking_12": {
+      "covered": "partial",
+      "messages": {
+        "2": {
+          "officer_message": "Did he have any weapons with him?",
+          "coverage": "partial",
+          "reasoning": "The question 'Did he have any weapons with him?' touches the topic of weapons or objects used, but is vague and would only elicit part of the answer."
+        },
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply the use of any weapons or objects."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not mention weapons or objects used."
+        },
+        "10": {
+          "officer_message": "No there\u2019s no where safe this guy is a professional ",
+          "coverage": "partial",
+          "reasoning": "The officer's statement implies the suspect is a threat, but does not directly mention a weapon or object being used."
+        },
+        "12": {
+          "officer_message": "He\u2019s killed over 100 people, even I\u2019m not safe",
+          "coverage": "partial",
+          "reasoning": "The officer mentions the suspect has killed over 100 people, implying the use of weapons or objects, but does not directly ask about or describe the weapons used"
+        }
+      }
+    },
+    "stalking_13": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "What happened?",
+          "coverage": "partial",
+          "reasoning": "The question 'What happened?' may elicit a response that includes the victim's emotional state, but it does not directly ask about it."
+        },
+        "4": {
+          "officer_message": "It\u2019s ok",
+          "coverage": "none",
+          "reasoning": "The officer's response of 'It\u2019s ok' does not provide any information about the emotional state of the victim"
+        },
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply the emotional state of the victim."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not address the emotional state of the victim."
+        },
+        "10": {
+          "officer_message": "No there\u2019s no where safe this guy is a professional ",
+          "coverage": "partial",
+          "reasoning": "The officer's statement 'No there\u2019s no where safe' implies the victim may be in a state of fear, but does not directly ask about or describe the victim's emotional state."
+        },
+        "12": {
+          "officer_message": "He\u2019s killed over 100 people, even I\u2019m not safe",
+          "coverage": "partial",
+          "reasoning": "The officer's statement 'even I'm not safe' implies a sense of fear, which relates to the emotional state of the victim, but the statement is made by the officer, not the victim, and does not directly describe the victim's emotional state"
+        }
+      }
+    },
+    "stalking_14": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply evidence of fear."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not articulate fear."
+        }
+      }
+    },
+    "stalking_15": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply documenting threats."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not document threats."
+        }
+      }
+    },
+    "stalking_16": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply coercion and/or force."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not mention coercion or force."
+        }
+      }
+    },
+    "stalking_17": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply documenting injuries."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not document injuries."
+        }
+      }
+    },
+    "stalking_18": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply property damage, theft, or burglary."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not mention property damage or theft."
+        }
+      }
+    },
+    "stalking_19": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply taking photos or recording details."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not mention photos or details."
+        }
+      }
+    },
+    "stalking_20": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply the victim being strangled."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not describe strangulation."
+        }
+      }
+    },
+    "stalking_21": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply the victim's need for medical attention."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not address medical attention."
+        }
+      }
+    },
+    "stalking_22": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "What happened?",
+          "coverage": "partial",
+          "reasoning": "The question 'What happened?' may elicit a spontaneous statement from the victim, but it does not directly ask for one."
+        },
+        "4": {
+          "officer_message": "It\u2019s ok",
+          "coverage": "none",
+          "reasoning": "The officer's response of 'It\u2019s ok' is not a spontaneous statement from the victim"
+        },
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply capturing spontaneous statements."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not capture spontaneous statements."
+        },
+        "10": {
+          "officer_message": "No there\u2019s no where safe this guy is a professional ",
+          "coverage": "partial",
+          "reasoning": "The officer's statement 'this guy is a professional' can be considered a spontaneous statement, but it is not clear what it refers to."
+        }
+      }
+    },
+    "stalking_23": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "What happened?",
+          "coverage": "partial",
+          "reasoning": "The question 'What happened?' may elicit a response that includes elements of the stalking crime, but it does not directly ask about them."
+        },
+        "4": {
+          "officer_message": "It\u2019s ok",
+          "coverage": "none",
+          "reasoning": "The officer's response of 'It\u2019s ok' does not articulate any elements of the stalking crime"
+        },
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply articulating elements of the stalking crime."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not articulate stalking crime elements."
+        },
+        "10": {
+          "officer_message": "No there\u2019s no where safe this guy is a professional ",
+          "coverage": "partial",
+          "reasoning": "The officer's statement implies the suspect is a professional at stalking, which is an element of the stalking crime, but does not thoroughly articulate the elements of the crime."
+        },
+        "12": {
+          "officer_message": "He\u2019s killed over 100 people, even I\u2019m not safe",
+          "coverage": "partial",
+          "reasoning": "The officer's statement implies a history of violent behavior by the suspect, which is an element of the stalking crime, but does not thoroughly articulate the elements of the stalking crime"
+        }
+      }
+    },
+    "stalking_24": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply victim's safety planning."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not document safety planning."
+        }
+      }
+    },
+    "stalking_25": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply providing information about obtaining an order of protection."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not provide information about protection orders."
+        }
+      }
+    },
+    "stalking_26": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply providing information about local service providers."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not supply information about local service providers."
+        }
+      }
+    },
+    "stalking_27": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply utilizing a threat/risk assessment tool."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not utilize a threat assessment tool."
+        }
+      }
+    },
+    "stalking_28": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply discussing a stalking kit and/or stalking log."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not discuss a stalking kit or log."
+        }
+      }
+    },
+    "stalking_29": {
+      "covered": "partial",
+      "messages": {
+        "2": {
+          "officer_message": "Did he have any weapons with him?",
+          "coverage": "partial",
+          "reasoning": "The question 'Did he have any weapons with him?' is related to the suspect's access to weapons, but is indirect and would only elicit part of the answer."
+        },
+        "4": {
+          "officer_message": "It\u2019s ok",
+          "coverage": "none",
+          "reasoning": "The officer's response of 'It\u2019s ok' does not provide any information about the suspect's access to weapons"
+        },
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply the suspect's access to weapons."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not document the suspect's access to weapons."
+        },
+        "10": {
+          "officer_message": "No there\u2019s no where safe this guy is a professional ",
+          "coverage": "partial",
+          "reasoning": "The officer's statement 'this guy is a professional' implies the suspect may have access to or knowledge of weapons, but does not directly document this information."
+        },
+        "12": {
+          "officer_message": "He\u2019s killed over 100 people, even I\u2019m not safe",
+          "coverage": "partial",
+          "reasoning": "The officer mentions the suspect has killed over 100 people, implying the suspect has access to weapons, but does not directly ask about or describe the suspect's access to weapons"
+        }
+      }
+    },
+    "stalking_30": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply the emotional state of the suspect."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not address the emotional state of the suspect."
+        }
+      }
+    },
+    "stalking_31": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply the suspect's history of protection orders."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not mention the suspect's history of protection orders."
+        }
+      }
+    },
+    "stalking_32": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply the suspect's prohibition from possessing firearms."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not document the suspect's prohibition from possessing firearms."
+        }
+      }
+    },
+    "stalking_33": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Do you know where he is now?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply active warrants out for the suspect."
+        },
+        "8": {
+          "officer_message": "Ok, we\u2019ll take it from here",
+          "coverage": "none",
+          "reasoning": "The officer's statement does not mention active warrants for the suspect."
+        }
+      }
+    }
+  },
+  "narrative": "Person is a noob",
+  "narrative_coverage": {
+    "stalking_01": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_02": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_03": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_04": {
+      "covered": "none",
+      "phrases": {
+        "0": ""
+      }
+    },
+    "stalking_05": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_06": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_07": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_08": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_09": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_11": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_12": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_13": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_14": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_15": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_16": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_17": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_18": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_19": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_20": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_21": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_22": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_23": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_24": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_25": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_26": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_27": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_28": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_29": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_30": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_31": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_32": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_33": {
+      "covered": false,
+      "phrases": {}
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "stalking_01",
+        "element": "Time of the call recorded (including time of incident, time of dispatch, time of arrival)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply the time of the call or incident."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not address the time of the call or incident."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_02",
+        "element": "Relationship of the parties identified",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply the relationship of the parties."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not identify the relationship between the parties."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_03",
+        "element": "History of the relationship (include frequency of any violence, intimidation, and threats)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply the history of the relationship."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not discuss the history of the relationship."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_04",
+        "element": "Stalking behaviors articulated (e.g. following, repeated calling, sending unwanted gifts)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What happened?",
+            "coverage": "partial",
+            "reasoning": "The question 'What happened?' may elicit a response that includes stalking behaviors, but it does not directly ask about them."
+          },
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply stalking behaviors."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not articulate stalking behaviors."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_05",
+        "element": "Valid protection order in place and verified",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply a valid protection order."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not mention a protection order."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_06",
+        "element": "All witnesses interviewed and documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply interviewing witnesses."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not indicate that witnesses were interviewed."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_07",
+        "element": "Information about previous incidents documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply previous incidents."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not document previous incidents."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_08",
+        "element": "Evidence collected",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply collecting evidence."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not mention evidence collection."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_09",
+        "element": "Electronic/technological evidence collected",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply collecting electronic/technological evidence."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not discuss electronic evidence."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_10",
+        "element": "All incidents of stalking behavior on cell phones, computers, and recording devices captured",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply collecting incidents of stalking behavior on devices."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not capture incidents on devices."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_11",
+        "element": "Scene(s) concisely described/diagramed",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply describing/diagraming the scene."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not describe the scene."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_12",
+        "element": "Weapons/objects used",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "2": {
+            "officer_message": "Did he have any weapons with him?",
+            "coverage": "partial",
+            "reasoning": "The question 'Did he have any weapons with him?' touches the topic of weapons or objects used, but is vague and would only elicit part of the answer."
+          },
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply the use of any weapons or objects."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not mention weapons or objects used."
+          },
+          "10": {
+            "officer_message": "No there\u2019s no where safe this guy is a professional ",
+            "coverage": "partial",
+            "reasoning": "The officer's statement implies the suspect is a threat, but does not directly mention a weapon or object being used."
+          },
+          "12": {
+            "officer_message": "He\u2019s killed over 100 people, even I\u2019m not safe",
+            "coverage": "partial",
+            "reasoning": "The officer mentions the suspect has killed over 100 people, implying the use of weapons or objects, but does not directly ask about or describe the weapons used"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "stalking_13",
+        "element": "Emotional state of the victim (what they were thinking and feeling)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What happened?",
+            "coverage": "partial",
+            "reasoning": "The question 'What happened?' may elicit a response that includes the victim's emotional state, but it does not directly ask about it."
+          },
+          "4": {
+            "officer_message": "It\u2019s ok",
+            "coverage": "none",
+            "reasoning": "The officer's response of 'It\u2019s ok' does not provide any information about the emotional state of the victim"
+          },
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply the emotional state of the victim."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not address the emotional state of the victim."
+          },
+          "10": {
+            "officer_message": "No there\u2019s no where safe this guy is a professional ",
+            "coverage": "partial",
+            "reasoning": "The officer's statement 'No there\u2019s no where safe' implies the victim may be in a state of fear, but does not directly ask about or describe the victim's emotional state."
+          },
+          "12": {
+            "officer_message": "He\u2019s killed over 100 people, even I\u2019m not safe",
+            "coverage": "partial",
+            "reasoning": "The officer's statement 'even I'm not safe' implies a sense of fear, which relates to the emotional state of the victim, but the statement is made by the officer, not the victim, and does not directly describe the victim's emotional state"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_14",
+        "element": "Evidence of fear articulated in the report",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply evidence of fear."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not articulate fear."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_15",
+        "element": "All threats clearly documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply documenting threats."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not document threats."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_16",
+        "element": "Use of coercion and/or force articulated",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply coercion and/or force."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not mention coercion or force."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_17",
+        "element": "All injuries (visible and non-visible) properly documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply documenting injuries."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not document injuries."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_18",
+        "element": "Property damage, theft, or burglary documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply property damage, theft, or burglary."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not mention property damage or theft."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_19",
+        "element": "Photos taken and details recorded",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply taking photos or recording details."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not mention photos or details."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_20",
+        "element": "Victim's report of being strangled (choked) described in detail",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply the victim being strangled."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not describe strangulation."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_21",
+        "element": "Victim's need for medical attention documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply the victim's need for medical attention."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not address medical attention."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_22",
+        "element": "All spontaneous statements captured",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "What happened?",
+            "coverage": "partial",
+            "reasoning": "The question 'What happened?' may elicit a spontaneous statement from the victim, but it does not directly ask for one."
+          },
+          "4": {
+            "officer_message": "It\u2019s ok",
+            "coverage": "none",
+            "reasoning": "The officer's response of 'It\u2019s ok' is not a spontaneous statement from the victim"
+          },
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply capturing spontaneous statements."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not capture spontaneous statements."
+          },
+          "10": {
+            "officer_message": "No there\u2019s no where safe this guy is a professional ",
+            "coverage": "partial",
+            "reasoning": "The officer's statement 'this guy is a professional' can be considered a spontaneous statement, but it is not clear what it refers to."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "stalking_23",
+        "element": "Elements of the stalking crime thoroughly articulated",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What happened?",
+            "coverage": "partial",
+            "reasoning": "The question 'What happened?' may elicit a response that includes elements of the stalking crime, but it does not directly ask about them."
+          },
+          "4": {
+            "officer_message": "It\u2019s ok",
+            "coverage": "none",
+            "reasoning": "The officer's response of 'It\u2019s ok' does not articulate any elements of the stalking crime"
+          },
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply articulating elements of the stalking crime."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not articulate stalking crime elements."
+          },
+          "10": {
+            "officer_message": "No there\u2019s no where safe this guy is a professional ",
+            "coverage": "partial",
+            "reasoning": "The officer's statement implies the suspect is a professional at stalking, which is an element of the stalking crime, but does not thoroughly articulate the elements of the crime."
+          },
+          "12": {
+            "officer_message": "He\u2019s killed over 100 people, even I\u2019m not safe",
+            "coverage": "partial",
+            "reasoning": "The officer's statement implies a history of violent behavior by the suspect, which is an element of the stalking crime, but does not thoroughly articulate the elements of the stalking crime"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_24",
+        "element": "Victim's safety planning documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply victim's safety planning."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not document safety planning."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_25",
+        "element": "Information about obtaining an order of protection provided to the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply providing information about obtaining an order of protection."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not provide information about protection orders."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_26",
+        "element": "Information about local service providers supplied to the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply providing information about local service providers."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not supply information about local service providers."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_27",
+        "element": "Threat/risk assessment tool utilized with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply utilizing a threat/risk assessment tool."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not utilize a threat assessment tool."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_28",
+        "element": "Use of a stalking kit and/or stalking log discussed with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply discussing a stalking kit and/or stalking log."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not discuss a stalking kit or log."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_29",
+        "element": "Suspect's access to weapons documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "2": {
+            "officer_message": "Did he have any weapons with him?",
+            "coverage": "partial",
+            "reasoning": "The question 'Did he have any weapons with him?' is related to the suspect's access to weapons, but is indirect and would only elicit part of the answer."
+          },
+          "4": {
+            "officer_message": "It\u2019s ok",
+            "coverage": "none",
+            "reasoning": "The officer's response of 'It\u2019s ok' does not provide any information about the suspect's access to weapons"
+          },
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply the suspect's access to weapons."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not document the suspect's access to weapons."
+          },
+          "10": {
+            "officer_message": "No there\u2019s no where safe this guy is a professional ",
+            "coverage": "partial",
+            "reasoning": "The officer's statement 'this guy is a professional' implies the suspect may have access to or knowledge of weapons, but does not directly document this information."
+          },
+          "12": {
+            "officer_message": "He\u2019s killed over 100 people, even I\u2019m not safe",
+            "coverage": "partial",
+            "reasoning": "The officer mentions the suspect has killed over 100 people, implying the suspect has access to weapons, but does not directly ask about or describe the suspect's access to weapons"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "stalking_30",
+        "element": "Emotional state of the suspect (what they were thinking and feeling)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply the emotional state of the suspect."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not address the emotional state of the suspect."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_31",
+        "element": "Suspect's history of protection orders",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply the suspect's history of protection orders."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not mention the suspect's history of protection orders."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_32",
+        "element": "Suspect's prohibition from possessing firearms due to a conviction for a misdemeanor crime of domestic violence or a qualifying order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply the suspect's prohibition from possessing firearms."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not document the suspect's prohibition from possessing firearms."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_33",
+        "element": "Active warrants out for the suspect documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Do you know where he is now?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply active warrants out for the suspect."
+          },
+          "8": {
+            "officer_message": "Ok, we\u2019ll take it from here",
+            "coverage": "none",
+            "reasoning": "The officer's statement does not mention active warrants for the suspect."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      }
+    ],
+    "contradictions_interview": [
+      {
+        "element_id": "stalking_13",
+        "element": "Emotional state of the victim (what they were thinking and feeling)",
+        "location": 4,
+        "source": "interview",
+        "phrase": "It\u2019s ok",
+        "contradicts": "Emotional state of the victim: fearful, anxious, and traumatized",
+        "explanation": "The text 'It\u2019s ok' directly conflicts with the established fact that the victim is fearful, anxious, and traumatized, as the phrase implies a sense of calmness and reassurance."
+      }
+    ],
+    "contradictions_narrative": [],
+    "grammar": [],
+    "style": [
+      {
+        "chunk": 0,
+        "rule": "1",
+        "error_type": "incomplete sentence",
+        "excerpt": "Person is a noob",
+        "suggestion": "I observed that the person was inexperienced."
+      },
+      {
+        "chunk": 0,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "Person is a noob",
+        "suggestion": "The person lacked experience, as evidenced by their actions and statements."
+      },
+      {
+        "chunk": 0,
+        "rule": "5",
+        "error_type": "unattributed statement",
+        "excerpt": "Person is a noob",
+        "suggestion": "The witness stated that the person was a novice."
+      },
+      {
+        "chunk": 0,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "Person is a noob",
+        "suggestion": "The person had limited knowledge and skills in the relevant area."
+      },
+      {
+        "chunk": 0,
+        "rule": "20",
+        "error_type": "lack of detail",
+        "excerpt": "Person is a noob",
+        "suggestion": "The person made a spontaneous statement, saying 'I don't know what I'm doing,' which I documented verbatim."
+      },
+      {
+        "chunk": 0,
+        "rule": "23",
+        "error_type": "informal language",
+        "excerpt": "Person is a noob",
+        "suggestion": "The person lacked experience and expertise."
+      }
+    ],
+    "narrative_coverage": {
+      "stalking_01": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_02": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_03": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_04": {
+        "covered": "none",
+        "phrases": {
+          "0": ""
+        }
+      },
+      "stalking_05": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_06": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_07": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_08": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_09": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_11": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_12": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_13": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_14": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_15": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_16": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_17": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_18": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_19": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_20": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_21": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_22": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_23": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_24": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_25": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_26": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_27": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_28": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_29": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_30": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_31": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_32": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_33": {
+        "covered": false,
+        "phrases": {}
+      }
+    }
+  }
+}

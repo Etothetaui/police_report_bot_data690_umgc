@@ -1,0 +1,2206 @@
+{
+  "session_id": "s_20260416_205128",
+  "timestamp": "2026-04-16T20:51:28.115708",
+  "metadata": {
+    "crime_type": "Stalking",
+    "interviewee_name": "Leila Morales-Ramirez",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible stalking in progress, 2456 Sakura Avenue, report of a male subject following a female, Everett, Washington"
+  },
+  "scenario": {
+    "crime_type": "Stalking",
+    "interviewee_role": "victim",
+    "interviewee_name": "Leila Morales-Ramirez",
+    "dispatch_line": "Possible stalking in progress, 2456 Sakura Avenue, report of a male subject following a female, Everett, Washington",
+    "facts": {
+      "stalking_01": "Time of incident: 02:45 AM, Time of dispatch: 02:50 AM, Time of arrival: 03:05 AM",
+      "stalking_02": "The parties are in an ex-intimate partner relationship, having dated for 3 years prior to the incident",
+      "stalking_03": "History of relationship: frequent verbal arguments, 2 prior incidents of physical violence, and ongoing intimidation via text messages and social media",
+      "stalking_04": "Stalking behaviors: following the victim to work, repeated unwanted phone calls, and sending unsolicited gifts to the victim's residence",
+      "stalking_05": "Valid protection order in place, verified through the National Crime Information Center (NCIC) database, Order number: PO-2023-001",
+      "stalking_06": "All witnesses interviewed: Jane Doe (neighbor), John Smith (victim's coworker), and documented in the report",
+      "stalking_07": "Previous incidents documented: 2 prior reports of stalking, 1 prior report of physical violence",
+      "stalking_08": "Evidence collected: torn clothing, broken phone, and a threatening letter from the suspect",
+      "stalking_09": "Electronic/technological evidence collected: phone records, text messages, and social media posts from the suspect's accounts",
+      "stalking_10": "All incidents of stalking behavior captured: 15 phone calls, 20 text messages, and 5 social media posts within the past 48 hours",
+      "stalking_11": "Scene described: 2456 Sakura Avenue, Everett, Washington, a single-family residence with a front and back yard",
+      "stalking_12": "Weapons/objects used: none visible, but the suspect has access to a firearm, as documented in the report",
+      "stalking_13": "Emotional state of the victim: fearful, anxious, and feeling trapped",
+      "stalking_14": "Evidence of fear articulated: the victim reported being 'scared for her life' and 'feeling like she's being watched all the time'",
+      "stalking_15": "All threats clearly documented: the suspect threatened to 'hurt her if she didn't take him back' and 'make her life miserable'",
+      "stalking_16": "Use of coercion and/or force articulated: the suspect used guilt and emotional manipulation to control the victim",
+      "stalking_17": "All injuries properly documented: the victim reported a bruise on her left arm and a scratch on her right cheek",
+      "stalking_18": "Property damage documented: the suspect broke the victim's phone and damaged her front door",
+      "stalking_19": "Photos taken and details recorded: photos of the victim's injuries, the damaged property, and the scene",
+      "stalking_20": "Victim's report of being strangled: the victim reported being choked by the suspect during a prior incident",
+      "stalking_21": "Victim's need for medical attention documented: the victim was treated for her injuries at the scene and transported to the hospital for further evaluation",
+      "stalking_22": "All spontaneous statements captured: the victim stated 'I'm scared, I just want him to leave me alone'",
+      "stalking_23": "Elements of the stalking crime thoroughly articulated: the suspect's behavior meets the criteria for stalking, as defined by the relevant state statute",
+      "stalking_24": "Victim's safety planning documented: the victim was provided with a safety plan, including a temporary restraining order and emergency contact information",
+      "stalking_25": "Information about obtaining an order of protection provided: the victim was informed about the process of obtaining a permanent restraining order",
+      "stalking_26": "Information about local service providers supplied: the victim was given contact information for the National Domestic Violence Hotline and the local women's shelter",
+      "stalking_27": "Threat/risk assessment tool utilized: the officer used the Danger Assessment tool to assess the victim's risk of further harm",
+      "stalking_28": "Use of a stalking kit and/or stalking log discussed: the officer discussed the use of a stalking log with the victim to document future incidents",
+      "stalking_29": "Suspect's access to weapons documented: the suspect has a firearm registered in his name, as verified through the relevant state database",
+      "stalking_30": "Emotional state of the suspect: the suspect was calm and cooperative during the interview, but became agitated when confronted with the evidence",
+      "stalking_31": "Suspect's history of protection orders: the suspect has a prior history of protection orders, with 2 previous orders issued against him",
+      "stalking_32": "Suspect's prohibition from possessing firearms: the suspect is prohibited from possessing firearms due to the valid protection order in place, as per 18 U.S.C. \u00a7 922(g)(8), and potentially due to a conviction for a misdemeanor crime of domestic violence, if applicable",
+      "stalking_33": "Active warrants out for the suspect documented: there is an active warrant for the suspect's arrest, issued on 02/10/2023, for a prior incident of domestic violence"
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Hello Ms. Morales, I am Officer Baumgartner.  Can you tell me what happened?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nervously) Oh, officer... I'm so scared. It's been going on for a while now, but last night was the worst. My ex, he's been stalking me, following me to work, calling me nonstop, sending me gifts... it's just so creepy. Last night, he showed up at my house, and I was so frightened. I tried to stay inside, but he just kept calling and texting me, threatening me. I was so scared, I didn't know what to do. (starting to tear up) I just wanted him to leave me alone. I have a protection order against him, but it doesn't seem to be stopping him. (voice shaking) I'm just really scared, officer. I don't know what he's capable of.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "What is your ex's name?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(sniffling) His name is... (pausing, collecting herself) I don't know if I should say. I'm scared of what he might do if he finds out I'm talking to the police. (looking around nervously) But I guess I have to, right? (taking a deep breath) His name is... (hesitating, then whispering) Alex. We were together for three years, and it was... (shaking her head) it was a really bad relationship.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "What is Alex's last name?  Do you know his birthdate?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(hesitating, then answering) His last name is... (pausing, then saying) I don't know if I should give you that information. (looking at the officer nervously) But I suppose it's already on the protection order, isn't it? (sighing) It's... (whispering) Ramirez. Alex Ramirez. As for his birthdate... (thinking for a moment) I think it's... (hesitating, then saying) March 12, 1992. But I'm not really sure, officer. We didn't really celebrate his birthday or anything like that. (shaking her head) He was never really into that sort of thing.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Can you tell me more about the threats that Alex has made?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(looking down, her voice barely above a whisper) He's said some really scary things to me, officer. He's threatened to hurt me if I don't take him back, if I don't stop seeing other people... (shuddering) He's said he'll make my life miserable, that I'll never be able to get away from him. He's even said that he'll hurt my family if I don't do what he wants. (looking up, tears in her eyes) He's been sending me messages, calling me, showing up at my work... it's like he's always watching me, waiting for me to slip up so he can pounce. (her voice cracking) I'm so scared, officer. I feel like I'm walking around with a target on my back all the time.\n\n(taking a deep breath, trying to composed herself) He's also sent me some really disturbing messages, officer. He's told me that he knows where I live, where I work, where my family lives... (shaking her head) It's like he's trying to intimidate me, to make me feel like I'm trapped and can't escape. (her voice dropping to a whisper) And the worst part is, he's been saying that he'll do whatever it takes to get me back, no matter what it takes. That's what really scares me, officer. I don't know what he's capable of.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Has Alex ever physically harmed you?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(hesitating, looking down, her voice barely above a whisper) Yes... he has. (pausing, collecting herself) There have been a few times when he's gotten physical with me. (her voice cracking) He's pushed me, grabbed me, and... (swallowing hard) and choked me once. It was really scary, officer. I thought he was going to... (shaking her head, unable to finish the sentence)\n\n(taking a deep breath, trying to compose herself) It happened a few months ago, when we were still together. We were arguing, and he just lost control. He grabbed me by the throat and... (touching her neck, wincing at the memory) it was really painful. I thought I was going to pass out. (looking up, tears in her eyes) I was so scared, officer. I didn't know what to do.\n\n(her voice dropping to a whisper) And even after we broke up, he's still been physical with me. He's shown up at my house, tried to force his way in... (shuddering) it's been really terrifying, officer. I just want him to leave me alone.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Do you know where Alex lives?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(thinking for a moment) I'm not really sure, officer. We didn't live together, and after we broke up, I didn't really keep track of where he was living. (pausing) But I think he might still be living in the same apartment we used to visit when we were together. It was in a complex off of... (trying to remember) I think it was Evergreen Drive? Or maybe it was Oak Street? (looking uncertain) I'm sorry, officer, I'm not really sure. It's been a while since I've been there.\n\n(looking down, her voice barely above a whisper) To be honest, I've been trying to avoid thinking about him and where he might be. It's just easier for me to try to move on and forget about the whole thing. (looking up, tears in her eyes) But I know that's not an option now, is it?",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Do you know when the protection order was issued?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nodding) Yes, officer. The protection order was issued... (thinking for a moment) I think it was earlier this year. (pausing, trying to remember) Yes, it was after one of the incidents where he showed up at my house and tried to force his way in. I went to the courthouse and filed for a protection order, and it was granted. (looking relieved) It's been a big help, officer. At least I know that if he shows up again, I can call the police and they'll do something about it.\n\n(looking down, her voice barely above a whisper) But even with the protection order, I'm still scared, officer. I'm scared that he'll find a way to get around it, that he'll hurt me anyway. (looking up, tears in her eyes) That's why I'm so glad you're here, officer. I just want to feel safe again.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Do you have a safe place to stay until we can contact Alex?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nodding) Yes, officer. I have a friend who lives on the other side of town, and I can stay with her for a while. (thinking for a moment) Her name is Sarah, and she's been really supportive throughout all of this. I've been staying with her on and off for a few weeks now, whenever I feel like Alex is getting too close. (looking relieved) She's got a really secure apartment, and I feel safe there.\n\n(pulling out a piece of paper from her pocket) I've also got the number for the local women's shelter, just in case. (showing the paper to the officer) I was given this number by a counselor at the courthouse when I got the protection order. She told me that if I ever needed a safe place to stay, I could call them and they would help me out. (looking up, hopeful) Do you think I'll need to go there, officer? Or can I just stay with Sarah for now?",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "Has Alex texted you recently, and if so, do you have the text messages saved?"
+    },
+    {
+      "role": "assistant",
+      "content": "(nodding) Yes, officer. Alex has been texting me a lot lately. (pulling out her phone) I've been saving all of the messages, just in case I need to show them to someone. (scrolling through her phone) Let me see... (finding the messages) Yes, here they are. (showing the officer her phone) He's been sending me all sorts of messages, from sweet and romantic ones to really threatening and scary ones. (pointing to a message on her phone) This one, for example, says \"I'll never let you go\" and \"You'll always be mine\". (looking up at the officer) It's really creepy, officer.\n\n(continuing to scroll through her phone) I've also got messages where he's telling me that he knows where I am, and that he's watching me. (showing the officer another message) This one says \"I saw you at the grocery store yesterday\" and \"You look beautiful\". (shuddering) It's just really scary, officer, because I know he's been following me.\n\n(looking up at the officer) I've been trying to document everything, just in case I need to show it to someone. (nervously) Do you think this will help, officer? Will this be enough to... (trailing off, hoping the officer will be able to help her)"
+    }
+  ],
+  "coverage_flags": {
+    "stalking_01": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_02": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Hello Ms. Morales, I am Officer Baumgartner.  Can you tell me what happened?",
+          "coverage": "partial",
+          "reasoning": "The officer's greeting and introduction may lead to a discussion about the relationship between the parties, but it does not directly ask about it."
+        },
+        "2": {
+          "officer_message": "What is your ex's name?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'What is your ex's name?' implies a relationship but does not fully articulate the nature of the relationship."
+        },
+        "4": {
+          "officer_message": "What is Alex's last name?  Do you know his birthdate?",
+          "coverage": "partial",
+          "reasoning": "The officer asked for Alex's last name, which touches the topic of identifying the parties involved but does not directly ask about their relationship."
+        },
+        "10": {
+          "officer_message": "Do you know where Alex lives?",
+          "coverage": "partial",
+          "reasoning": "The question 'Do you know where Alex lives?' implies a connection between the victim and Alex, which is related to the relationship of the parties, but it does not directly ask about their relationship or elicit a complete answer about it."
+        }
+      }
+    },
+    "stalking_03": {
+      "covered": "none",
+      "messages": {
+        "4": {
+          "officer_message": "What is Alex's last name?  Do you know his birthdate?",
+          "coverage": "none",
+          "reasoning": "The question does not address the history of the relationship."
+        },
+        "10": {
+          "officer_message": "Do you know where Alex lives?",
+          "coverage": "none",
+          "reasoning": "The question does not touch on the history of the relationship."
+        }
+      }
+    },
+    "stalking_04": {
+      "covered": "partial",
+      "messages": {
+        "16": {
+          "officer_message": "Has Alex texted you recently, and if so, do you have the text messages saved?",
+          "coverage": "partial",
+          "reasoning": "The question about recent texting implies a stalking behavior (repeated calling or sending unwanted messages) but does not explicitly articulate the behavior as stalking."
+        }
+      }
+    },
+    "stalking_05": {
+      "covered": "partial",
+      "messages": {
+        "12": {
+          "officer_message": "Do you know when the protection order was issued?",
+          "coverage": "partial",
+          "reasoning": "The question asks about the protection order but does not verify if it is current or checked in the system."
+        }
+      }
+    },
+    "stalking_06": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_07": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_08": {
+      "covered": "partial",
+      "messages": {
+        "16": {
+          "officer_message": "Has Alex texted you recently, and if so, do you have the text messages saved?",
+          "coverage": "partial",
+          "reasoning": "The question about saving text messages implies the collection of evidence but is limited to a specific type of evidence."
+        }
+      }
+    },
+    "stalking_09": {
+      "covered": "full",
+      "messages": {
+        "16": {
+          "officer_message": "Has Alex texted you recently, and if so, do you have the text messages saved?",
+          "coverage": "full",
+          "reasoning": "The officer's question about Alex texting the victim and having the text messages saved directly addresses the collection of electronic/technological evidence."
+        }
+      }
+    },
+    "stalking_10": {
+      "covered": "partial",
+      "messages": {
+        "16": {
+          "officer_message": "Has Alex texted you recently, and if so, do you have the text messages saved?",
+          "coverage": "partial",
+          "reasoning": "The question about text messages touches on the topic of capturing incidents of stalking behavior on cell phones but does not explicitly address all aspects of this element."
+        }
+      }
+    },
+    "stalking_11": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_12": {
+      "covered": "partial",
+      "messages": {
+        "8": {
+          "officer_message": "Has Alex ever physically harmed you?",
+          "coverage": "partial",
+          "reasoning": "The question asks about physical harm, which implies the use of weapons or objects, but does not directly ask about them."
+        },
+        "10": {
+          "officer_message": "Do you know where Alex lives?",
+          "coverage": "none",
+          "reasoning": "The question does not mention weapons or objects."
+        }
+      }
+    },
+    "stalking_13": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Hello Ms. Morales, I am Officer Baumgartner.  Can you tell me what happened?",
+          "coverage": "partial",
+          "reasoning": "The officer's open-ended question may allow the victim to share their emotional state, but it does not specifically ask about it."
+        },
+        "4": {
+          "officer_message": "What is Alex's last name?  Do you know his birthdate?",
+          "coverage": "none",
+          "reasoning": "The question does not address the emotional state of the victim."
+        }
+      }
+    },
+    "stalking_14": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_15": {
+      "covered": "partial",
+      "messages": {
+        "6": {
+          "officer_message": "Can you tell me more about the threats that Alex has made?",
+          "coverage": "partial",
+          "reasoning": "The question asks about threats but does not specify the need for clear documentation of all threats."
+        },
+        "16": {
+          "officer_message": "Has Alex texted you recently, and if so, do you have the text messages saved?",
+          "coverage": "partial",
+          "reasoning": "The question about recent texts may imply threats but does not directly ask about or document all threats."
+        }
+      }
+    },
+    "stalking_16": {
+      "covered": "partial",
+      "messages": {
+        "8": {
+          "officer_message": "Has Alex ever physically harmed you?",
+          "coverage": "partial",
+          "reasoning": "The question asks about physical harm, which could imply the use of force, but does not directly ask about coercion or force."
+        }
+      }
+    },
+    "stalking_17": {
+      "covered": "partial",
+      "messages": {
+        "8": {
+          "officer_message": "Has Alex ever physically harmed you?",
+          "coverage": "partial",
+          "reasoning": "The question asks about physical harm, which could imply visible or non-visible injuries, but does not directly ask about documenting all injuries."
+        }
+      }
+    },
+    "stalking_18": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_19": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_20": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_21": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_22": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Hello Ms. Morales, I am Officer Baumgartner.  Can you tell me what happened?",
+          "coverage": "partial",
+          "reasoning": "The officer's question may capture spontaneous statements, but it is not specifically designed to do so."
+        }
+      }
+    },
+    "stalking_23": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Hello Ms. Morales, I am Officer Baumgartner.  Can you tell me what happened?",
+          "coverage": "partial",
+          "reasoning": "The officer's question may lead to a discussion about the stalking behaviors, but it does not directly ask about them."
+        },
+        "16": {
+          "officer_message": "Has Alex texted you recently, and if so, do you have the text messages saved?",
+          "coverage": "partial",
+          "reasoning": "The question about recent texts may relate to elements of the stalking crime but does not thoroughly articulate them."
+        }
+      }
+    },
+    "stalking_24": {
+      "covered": "partial",
+      "messages": {
+        "14": {
+          "officer_message": "Do you have a safe place to stay until we can contact Alex?",
+          "coverage": "partial",
+          "reasoning": "The officer's question about a safe place to stay implies concern for the victim's safety, which is related to safety planning, but does not directly address the element of documenting the victim's safety planning."
+        }
+      }
+    },
+    "stalking_25": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_26": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_27": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_28": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_29": {
+      "covered": "partial",
+      "messages": {
+        "4": {
+          "officer_message": "What is Alex's last name?  Do you know his birthdate?",
+          "coverage": "partial",
+          "reasoning": "The officer asked for Alex's birthdate, which could be related to identifying the suspect and potentially his access to weapons, but it is not a direct question about access to weapons."
+        },
+        "6": {
+          "officer_message": "Can you tell me more about the threats that Alex has made?",
+          "coverage": "partial",
+          "reasoning": "The question implies the suspect has access to means of making threats, but does not directly address the suspect's access to weapons."
+        },
+        "8": {
+          "officer_message": "Has Alex ever physically harmed you?",
+          "coverage": "partial",
+          "reasoning": "The question asks about physical harm, which could imply the suspect's access to weapons, but does not directly ask about it."
+        },
+        "10": {
+          "officer_message": "Do you know where Alex lives?",
+          "coverage": "partial",
+          "reasoning": "Knowing the location of the suspect (Alex) could imply knowledge of their access to certain areas or potentially to weapons, but it is very indirect and does not directly address the suspect's access to weapons."
+        },
+        "16": {
+          "officer_message": "Has Alex texted you recently, and if so, do you have the text messages saved?",
+          "coverage": "partial",
+          "reasoning": "The question does not directly address the suspect's access to weapons but implies an investigation into the suspect's actions, which might indirectly relate to their access to means of stalking or harm."
+        }
+      }
+    },
+    "stalking_30": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_31": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_32": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_33": {
+      "covered": false,
+      "messages": {}
+    }
+  },
+  "narrative": "Police Report\nIncident Information\nCrime Type: Stalking\n\nDispatch Call Type: Possible stalking in progress\n\nLocation: 2456 Sakura Avenue, Everett, Washington\n\nReporting Officer: Officer Baumgartner\n\nInterviewee / Victim: Leila Morales-Ramirez\n\nNarrative\nOn the above call, Officer Baumgartner contacted Leila Morales-Ramirez regarding a stalking complaint at 2456 Sakura Avenue in Everett, Washington. Morales-Ramirez stated she was fearful and reported that her ex-boyfriend, identified as Alex Ramirez, had been stalking her for some time. She said his conduct included following her to work, repeatedly calling her, sending unwanted gifts, and appearing at her residence.\n\nMorales-Ramirez reported that the prior night was the worst incident. She stated Alex Ramirez came to her house, and while she remained inside, he repeatedly called and texted her and made threatening statements. She said she was in fear and wanted him to leave her alone.\n\nMorales-Ramirez stated she currently has a protection order against Alex Ramirez, but his behavior has continued despite that order. She said she fears what he may do and believes he is capable of harming her.\n\nMorales-Ramirez identified the suspect as Alex Ramirez, possibly born March 12, 1992, though she said she was not certain of the birthdate. She stated they had been in a relationship for approximately three years and described it as a bad relationship.\n\nWhen asked about threats, Morales-Ramirez stated Alex Ramirez told her he would hurt her if she did not take him back and if she continued seeing other people. She further stated he threatened to make her life miserable, said she would never get away from him, and threatened to hurt her family if she did not comply with his demands. She also reported receiving disturbing messages in which he said he knew where she lived, where she worked, and where her family lived, and that he would do whatever it takes to get her back.\n\nMorales-Ramirez disclosed prior physical abuse by Alex Ramirez during the relationship. She reported that on prior occasions he pushed her, grabbed her, and choked her once during an argument several months ago. She stated he grabbed her by the throat, causing pain and making her feel as though she might pass out. She also reported that after the breakup, he showed up at her residence and tried to force his way inside.\n\nMorales-Ramirez stated she was unsure of Alex Ramirez's current address. She believed he might still live at an apartment complex they used to visit, possibly off Evergreen Drive or Oak Street, but she was uncertain.\n\nRegarding the protection order, Morales-Ramirez said it was issued earlier this year after an incident in which Alex Ramirez showed up at her house and tried to force his way in. She stated she obtained the order through the courthouse.\n\nMorales-Ramirez said she has a safe place to stay with a friend named Sarah on the other side of town and has been staying there on and off for several weeks when she felt unsafe. She also stated she had contact information for a local women's shelter provided by a courthouse counselor.\n\nMorales-Ramirez showed her phone to Officer Baumgartner and stated she had saved recent text messages from Alex Ramirez. She reported the messages ranged from romantic to threatening. She specifically pointed out messages stating, \"I'll never let you go,\" \"You'll always be mine,\" and messages indicating he had seen her at a grocery store and was watching her. Morales-Ramirez stated she had been documenting the messages for evidence.\n\nSuspect Information\nName: Alex Ramirez\n\nDOB: Possible March 12, 1992 (victim unsure)\n\nRelationship to Victim: Ex-boyfriend\n\nPossible Residence: Apartment complex possibly near Evergreen Drive or Oak Street; exact location unknown\n\nEvidence\nVictim statement\n\nSaved text messages on victim's phone\n\nExisting protection order\n\nSafety / Follow-Up\nVictim expressed fear for her safety and for the safety of her family.\n\nVictim stated she can stay with a friend named Sarah in a secure apartment.\n\nVictim also has contact information for a local women's shelter.\n\nRecommended follow-up includes collection of digital message evidence, verification of protection order status, and attempts to identify and locate the suspect.",
+  "narrative_coverage": {
+    "stalking_01": {
+      "covered": "none",
+      "phrases": {
+        "1": "",
+        "3": "Dispatch Call Type: Possible stalking in progress",
+        "5": ""
+      }
+    },
+    "stalking_02": {
+      "covered": "full",
+      "phrases": {
+        "0": "Police Report",
+        "5": "",
+        "6": "Interviewee / Victim: Leila Morales-Ramirez",
+        "8": "her ex-boyfriend, identified as Alex Ramirez",
+        "9": "Alex Ramirez",
+        "10": "against Alex Ramirez",
+        "11": "they had been in a relationship for approximately three years",
+        "13": "during the relationship",
+        "14": "they used to visit",
+        "18": "Suspect Information",
+        "19": "Name: Alex Ramirez",
+        "20": "DOB: Possible March 12, 1992 (victim unsure)",
+        "21": "Ex-boyfriend"
+      }
+    },
+    "stalking_03": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "8": "had been stalking her for some time",
+        "9": "the prior night was the worst incident",
+        "11": "she described it as a bad relationship",
+        "13": "Morales-Ramirez disclosed prior physical abuse by Alex Ramirez during the relationship",
+        "14": "",
+        "15": "after an incident in which Alex Ramirez showed up at her house and tried to force his way in",
+        "17": "She reported the messages ranged from romantic to threatening"
+      }
+    },
+    "stalking_04": {
+      "covered": "full",
+      "phrases": {
+        "2": "repeated calling",
+        "3": "Possible stalking in progress",
+        "5": "",
+        "8": "following her to work, repeatedly calling her, sending unwanted gifts, and appearing at her residence",
+        "9": "he repeatedly called and texted her",
+        "12": "receiving disturbing messages in which he said he knew where she lived, where she worked, and where her family lived, and that he would do whatever it takes to get her back",
+        "13": "he showed up at her residence and tried to force his way inside",
+        "17": "messages indicating he had seen her at a grocery store and was watching her"
+      }
+    },
+    "stalking_05": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "10": "Morales-Ramirez stated she currently has a protection order against Alex Ramirez",
+        "15": "Morales-Ramirez said it was issued earlier this year after an incident in which Alex Ramirez showed up at her house and tried to force his way in",
+        "26": "Existing protection order",
+        "31": "verification of protection order status"
+      }
+    },
+    "stalking_06": {
+      "covered": "none",
+      "phrases": {
+        "5": ""
+      }
+    },
+    "stalking_07": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "13": "Morales-Ramirez disclosed prior physical abuse by Alex Ramirez during the relationship",
+        "14": "",
+        "15": "after an incident in which Alex Ramirez showed up at her house and tried to force his way in",
+        "17": "Morales-Ramirez stated she had been documenting the messages for evidence"
+      }
+    },
+    "stalking_08": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "17": "Morales-Ramirez stated she had been documenting the messages for evidence",
+        "23": "Evidence",
+        "25": "Saved text messages on victim's phone",
+        "31": "collection of digital message evidence"
+      }
+    },
+    "stalking_09": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "17": "Morales-Ramirez showed her phone to Officer Baumgartner and stated she had saved recent text messages from Alex Ramirez",
+        "25": "Saved text messages on victim's phone",
+        "31": "collection of digital message evidence"
+      }
+    },
+    "stalking_10": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "25": "Saved text messages on victim's phone"
+      }
+    },
+    "stalking_11": {
+      "covered": "full",
+      "phrases": {
+        "4": "Location: 2456 Sakura Avenue, Everett, Washington",
+        "5": "",
+        "22": "Apartment complex possibly near Evergreen Drive or Oak Street; exact location unknown"
+      }
+    },
+    "stalking_12": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "13": "he pushed her, grabbed her, and choked her once during an argument several months ago"
+      }
+    },
+    "stalking_13": {
+      "covered": "full",
+      "phrases": {
+        "2": "what they were thinking and feeling",
+        "5": "",
+        "6": "",
+        "7": "The victim was visibly shaken",
+        "8": "Morales-Ramirez stated she was fearful",
+        "9": "She said she was in fear",
+        "10": "She said she fears what he may do",
+        "11": "she described it as a bad relationship",
+        "12": "he threatened to make her life miserable, said she would never get away from him, and threatened to hurt her family if she did not comply with his demands",
+        "13": "causing pain and making her feel as though she might pass out",
+        "17": "She reported the messages ranged from romantic to threatening",
+        "24": "Victim statement",
+        "28": "Victim expressed fear for her safety and for the safety of her family"
+      }
+    },
+    "stalking_14": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "8": "Morales-Ramirez stated she was fearful",
+        "9": "She said she was in fear",
+        "10": "She said she fears what he may do",
+        "12": "he threatened to make her life miserable, said she would never get away from him, and threatened to hurt her family if she did not comply with his demands",
+        "28": "Victim expressed fear for her safety and for the safety of her family"
+      }
+    },
+    "stalking_15": {
+      "covered": "full",
+      "phrases": {
+        "2": "All threats clearly documented",
+        "5": "",
+        "9": "made threatening statements",
+        "10": "believes he is capable of harming her",
+        "12": "Alex Ramirez told her he would hurt her if she did not take him back and if she continued seeing other people",
+        "13": "he grabbed her by the throat, causing pain and making her feel as though she might pass out",
+        "17": "messages stating, 'I'll never let you go', 'You'll always be mine'"
+      }
+    },
+    "stalking_16": {
+      "covered": "none",
+      "phrases": {
+        "5": ""
+      }
+    },
+    "stalking_17": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "7": "The victim had a visible bruise on her left cheekbone and complained of pain in her ribs",
+        "13": "causing pain"
+      }
+    },
+    "stalking_18": {
+      "covered": "none",
+      "phrases": {
+        "5": ""
+      }
+    },
+    "stalking_19": {
+      "covered": "none",
+      "phrases": {
+        "5": ""
+      }
+    },
+    "stalking_20": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "13": "he grabbed her by the throat, causing pain and making her feel as though she might pass out"
+      }
+    },
+    "stalking_21": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "7": "The victim was transported by ambulance to St. Mary's Hospital"
+      }
+    },
+    "stalking_22": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "17": "Morales-Ramirez showed her phone to Officer Baumgartner and stated she had saved recent text messages from Alex Ramirez"
+      }
+    },
+    "stalking_23": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "8": "had been stalking her for some time",
+        "17": "She reported the messages ranged from romantic to threatening"
+      }
+    },
+    "stalking_24": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "16": "Morales-Ramirez said she has a safe place to stay with a friend named Sarah on the other side of town and has been staying there on and off for several weeks when she felt unsafe",
+        "27": "Safety / Follow-Up",
+        "29": "Victim stated she can stay with a friend named Sarah in a secure apartment."
+      }
+    },
+    "stalking_25": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "16": "she had contact information for a local women's shelter provided by a courthouse counselor",
+        "27": "Safety / Follow-Up"
+      }
+    },
+    "stalking_26": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "16": "she had contact information for a local women's shelter provided by a courthouse counselor",
+        "27": "Safety / Follow-Up",
+        "30": "Victim also has contact information for a local women's shelter."
+      }
+    },
+    "stalking_27": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "27": "Safety / Follow-Up"
+      }
+    },
+    "stalking_28": {
+      "covered": "none",
+      "phrases": {
+        "5": ""
+      }
+    },
+    "stalking_29": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "14": "",
+        "31": ""
+      }
+    },
+    "stalking_30": {
+      "covered": "none",
+      "phrases": {
+        "5": ""
+      }
+    },
+    "stalking_31": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "14": ""
+      }
+    },
+    "stalking_32": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "14": ""
+      }
+    },
+    "stalking_33": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "14": ""
+      }
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "stalking_01",
+        "element": "Time of the call recorded (including time of incident, time of dispatch, time of arrival)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "1": "",
+          "3": "Dispatch Call Type: Possible stalking in progress",
+          "5": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_02",
+        "element": "Relationship of the parties identified",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello Ms. Morales, I am Officer Baumgartner.  Can you tell me what happened?",
+            "coverage": "partial",
+            "reasoning": "The officer's greeting and introduction may lead to a discussion about the relationship between the parties, but it does not directly ask about it."
+          },
+          "2": {
+            "officer_message": "What is your ex's name?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'What is your ex's name?' implies a relationship but does not fully articulate the nature of the relationship."
+          },
+          "4": {
+            "officer_message": "What is Alex's last name?  Do you know his birthdate?",
+            "coverage": "partial",
+            "reasoning": "The officer asked for Alex's last name, which touches the topic of identifying the parties involved but does not directly ask about their relationship."
+          },
+          "10": {
+            "officer_message": "Do you know where Alex lives?",
+            "coverage": "partial",
+            "reasoning": "The question 'Do you know where Alex lives?' implies a connection between the victim and Alex, which is related to the relationship of the parties, but it does not directly ask about their relationship or elicit a complete answer about it."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "Police Report",
+          "5": "",
+          "6": "Interviewee / Victim: Leila Morales-Ramirez",
+          "8": "her ex-boyfriend, identified as Alex Ramirez",
+          "9": "Alex Ramirez",
+          "10": "against Alex Ramirez",
+          "11": "they had been in a relationship for approximately three years",
+          "13": "during the relationship",
+          "14": "they used to visit",
+          "18": "Suspect Information",
+          "19": "Name: Alex Ramirez",
+          "20": "DOB: Possible March 12, 1992 (victim unsure)",
+          "21": "Ex-boyfriend"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "stalking_03",
+        "element": "History of the relationship (include frequency of any violence, intimidation, and threats)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "What is Alex's last name?  Do you know his birthdate?",
+            "coverage": "none",
+            "reasoning": "The question does not address the history of the relationship."
+          },
+          "10": {
+            "officer_message": "Do you know where Alex lives?",
+            "coverage": "none",
+            "reasoning": "The question does not touch on the history of the relationship."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "8": "had been stalking her for some time",
+          "9": "the prior night was the worst incident",
+          "11": "she described it as a bad relationship",
+          "13": "Morales-Ramirez disclosed prior physical abuse by Alex Ramirez during the relationship",
+          "14": "",
+          "15": "after an incident in which Alex Ramirez showed up at her house and tried to force his way in",
+          "17": "She reported the messages ranged from romantic to threatening"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_04",
+        "element": "Stalking behaviors articulated (e.g. following, repeated calling, sending unwanted gifts)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "16": {
+            "officer_message": "Has Alex texted you recently, and if so, do you have the text messages saved?",
+            "coverage": "partial",
+            "reasoning": "The question about recent texting implies a stalking behavior (repeated calling or sending unwanted messages) but does not explicitly articulate the behavior as stalking."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "2": "repeated calling",
+          "3": "Possible stalking in progress",
+          "5": "",
+          "8": "following her to work, repeatedly calling her, sending unwanted gifts, and appearing at her residence",
+          "9": "he repeatedly called and texted her",
+          "12": "receiving disturbing messages in which he said he knew where she lived, where she worked, and where her family lived, and that he would do whatever it takes to get her back",
+          "13": "he showed up at her residence and tried to force his way inside",
+          "17": "messages indicating he had seen her at a grocery store and was watching her"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "stalking_05",
+        "element": "Valid protection order in place and verified",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "12": {
+            "officer_message": "Do you know when the protection order was issued?",
+            "coverage": "partial",
+            "reasoning": "The question asks about the protection order but does not verify if it is current or checked in the system."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "10": "Morales-Ramirez stated she currently has a protection order against Alex Ramirez",
+          "15": "Morales-Ramirez said it was issued earlier this year after an incident in which Alex Ramirez showed up at her house and tried to force his way in",
+          "26": "Existing protection order",
+          "31": "verification of protection order status"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "stalking_06",
+        "element": "All witnesses interviewed and documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_07",
+        "element": "Information about previous incidents documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "13": "Morales-Ramirez disclosed prior physical abuse by Alex Ramirez during the relationship",
+          "14": "",
+          "15": "after an incident in which Alex Ramirez showed up at her house and tried to force his way in",
+          "17": "Morales-Ramirez stated she had been documenting the messages for evidence"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_08",
+        "element": "Evidence collected",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "16": {
+            "officer_message": "Has Alex texted you recently, and if so, do you have the text messages saved?",
+            "coverage": "partial",
+            "reasoning": "The question about saving text messages implies the collection of evidence but is limited to a specific type of evidence."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "17": "Morales-Ramirez stated she had been documenting the messages for evidence",
+          "23": "Evidence",
+          "25": "Saved text messages on victim's phone",
+          "31": "collection of digital message evidence"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "stalking_09",
+        "element": "Electronic/technological evidence collected",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "16": {
+            "officer_message": "Has Alex texted you recently, and if so, do you have the text messages saved?",
+            "coverage": "full",
+            "reasoning": "The officer's question about Alex texting the victim and having the text messages saved directly addresses the collection of electronic/technological evidence."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "17": "Morales-Ramirez showed her phone to Officer Baumgartner and stated she had saved recent text messages from Alex Ramirez",
+          "25": "Saved text messages on victim's phone",
+          "31": "collection of digital message evidence"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_10",
+        "element": "All incidents of stalking behavior on cell phones, computers, and recording devices captured",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "16": {
+            "officer_message": "Has Alex texted you recently, and if so, do you have the text messages saved?",
+            "coverage": "partial",
+            "reasoning": "The question about text messages touches on the topic of capturing incidents of stalking behavior on cell phones but does not explicitly address all aspects of this element."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "25": "Saved text messages on victim's phone"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "stalking_11",
+        "element": "Scene(s) concisely described/diagramed",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "4": "Location: 2456 Sakura Avenue, Everett, Washington",
+          "5": "",
+          "22": "Apartment complex possibly near Evergreen Drive or Oak Street; exact location unknown"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_12",
+        "element": "Weapons/objects used",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "8": {
+            "officer_message": "Has Alex ever physically harmed you?",
+            "coverage": "partial",
+            "reasoning": "The question asks about physical harm, which implies the use of weapons or objects, but does not directly ask about them."
+          },
+          "10": {
+            "officer_message": "Do you know where Alex lives?",
+            "coverage": "none",
+            "reasoning": "The question does not mention weapons or objects."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "13": "he pushed her, grabbed her, and choked her once during an argument several months ago"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_13",
+        "element": "Emotional state of the victim (what they were thinking and feeling)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello Ms. Morales, I am Officer Baumgartner.  Can you tell me what happened?",
+            "coverage": "partial",
+            "reasoning": "The officer's open-ended question may allow the victim to share their emotional state, but it does not specifically ask about it."
+          },
+          "4": {
+            "officer_message": "What is Alex's last name?  Do you know his birthdate?",
+            "coverage": "none",
+            "reasoning": "The question does not address the emotional state of the victim."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "2": "what they were thinking and feeling",
+          "5": "",
+          "6": "",
+          "7": "The victim was visibly shaken",
+          "8": "Morales-Ramirez stated she was fearful",
+          "9": "She said she was in fear",
+          "10": "She said she fears what he may do",
+          "11": "she described it as a bad relationship",
+          "12": "he threatened to make her life miserable, said she would never get away from him, and threatened to hurt her family if she did not comply with his demands",
+          "13": "causing pain and making her feel as though she might pass out",
+          "17": "She reported the messages ranged from romantic to threatening",
+          "24": "Victim statement",
+          "28": "Victim expressed fear for her safety and for the safety of her family"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_14",
+        "element": "Evidence of fear articulated in the report",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "8": "Morales-Ramirez stated she was fearful",
+          "9": "She said she was in fear",
+          "10": "She said she fears what he may do",
+          "12": "he threatened to make her life miserable, said she would never get away from him, and threatened to hurt her family if she did not comply with his demands",
+          "28": "Victim expressed fear for her safety and for the safety of her family"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_15",
+        "element": "All threats clearly documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "6": {
+            "officer_message": "Can you tell me more about the threats that Alex has made?",
+            "coverage": "partial",
+            "reasoning": "The question asks about threats but does not specify the need for clear documentation of all threats."
+          },
+          "16": {
+            "officer_message": "Has Alex texted you recently, and if so, do you have the text messages saved?",
+            "coverage": "partial",
+            "reasoning": "The question about recent texts may imply threats but does not directly ask about or document all threats."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "2": "All threats clearly documented",
+          "5": "",
+          "9": "made threatening statements",
+          "10": "believes he is capable of harming her",
+          "12": "Alex Ramirez told her he would hurt her if she did not take him back and if she continued seeing other people",
+          "13": "he grabbed her by the throat, causing pain and making her feel as though she might pass out",
+          "17": "messages stating, 'I'll never let you go', 'You'll always be mine'"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "stalking_16",
+        "element": "Use of coercion and/or force articulated",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Has Alex ever physically harmed you?",
+            "coverage": "partial",
+            "reasoning": "The question asks about physical harm, which could imply the use of force, but does not directly ask about coercion or force."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": ""
+        },
+        "notes": null
+      },
+      {
+        "element_id": "stalking_17",
+        "element": "All injuries (visible and non-visible) properly documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Has Alex ever physically harmed you?",
+            "coverage": "partial",
+            "reasoning": "The question asks about physical harm, which could imply visible or non-visible injuries, but does not directly ask about documenting all injuries."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "7": "The victim had a visible bruise on her left cheekbone and complained of pain in her ribs",
+          "13": "causing pain"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "stalking_18",
+        "element": "Property damage, theft, or burglary documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_19",
+        "element": "Photos taken and details recorded",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_20",
+        "element": "Victim's report of being strangled (choked) described in detail",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "13": "he grabbed her by the throat, causing pain and making her feel as though she might pass out"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_21",
+        "element": "Victim's need for medical attention documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "7": "The victim was transported by ambulance to St. Mary's Hospital"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_22",
+        "element": "All spontaneous statements captured",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello Ms. Morales, I am Officer Baumgartner.  Can you tell me what happened?",
+            "coverage": "partial",
+            "reasoning": "The officer's question may capture spontaneous statements, but it is not specifically designed to do so."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "17": "Morales-Ramirez showed her phone to Officer Baumgartner and stated she had saved recent text messages from Alex Ramirez"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_23",
+        "element": "Elements of the stalking crime thoroughly articulated",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello Ms. Morales, I am Officer Baumgartner.  Can you tell me what happened?",
+            "coverage": "partial",
+            "reasoning": "The officer's question may lead to a discussion about the stalking behaviors, but it does not directly ask about them."
+          },
+          "16": {
+            "officer_message": "Has Alex texted you recently, and if so, do you have the text messages saved?",
+            "coverage": "partial",
+            "reasoning": "The question about recent texts may relate to elements of the stalking crime but does not thoroughly articulate them."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "8": "had been stalking her for some time",
+          "17": "She reported the messages ranged from romantic to threatening"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "stalking_24",
+        "element": "Victim's safety planning documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "14": {
+            "officer_message": "Do you have a safe place to stay until we can contact Alex?",
+            "coverage": "partial",
+            "reasoning": "The officer's question about a safe place to stay implies concern for the victim's safety, which is related to safety planning, but does not directly address the element of documenting the victim's safety planning."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "16": "Morales-Ramirez said she has a safe place to stay with a friend named Sarah on the other side of town and has been staying there on and off for several weeks when she felt unsafe",
+          "27": "Safety / Follow-Up",
+          "29": "Victim stated she can stay with a friend named Sarah in a secure apartment."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "stalking_25",
+        "element": "Information about obtaining an order of protection provided to the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "16": "she had contact information for a local women's shelter provided by a courthouse counselor",
+          "27": "Safety / Follow-Up"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_26",
+        "element": "Information about local service providers supplied to the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "16": "she had contact information for a local women's shelter provided by a courthouse counselor",
+          "27": "Safety / Follow-Up",
+          "30": "Victim also has contact information for a local women's shelter."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_27",
+        "element": "Threat/risk assessment tool utilized with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "27": "Safety / Follow-Up"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_28",
+        "element": "Use of a stalking kit and/or stalking log discussed with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_29",
+        "element": "Suspect's access to weapons documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "4": {
+            "officer_message": "What is Alex's last name?  Do you know his birthdate?",
+            "coverage": "partial",
+            "reasoning": "The officer asked for Alex's birthdate, which could be related to identifying the suspect and potentially his access to weapons, but it is not a direct question about access to weapons."
+          },
+          "6": {
+            "officer_message": "Can you tell me more about the threats that Alex has made?",
+            "coverage": "partial",
+            "reasoning": "The question implies the suspect has access to means of making threats, but does not directly address the suspect's access to weapons."
+          },
+          "8": {
+            "officer_message": "Has Alex ever physically harmed you?",
+            "coverage": "partial",
+            "reasoning": "The question asks about physical harm, which could imply the suspect's access to weapons, but does not directly ask about it."
+          },
+          "10": {
+            "officer_message": "Do you know where Alex lives?",
+            "coverage": "partial",
+            "reasoning": "Knowing the location of the suspect (Alex) could imply knowledge of their access to certain areas or potentially to weapons, but it is very indirect and does not directly address the suspect's access to weapons."
+          },
+          "16": {
+            "officer_message": "Has Alex texted you recently, and if so, do you have the text messages saved?",
+            "coverage": "partial",
+            "reasoning": "The question does not directly address the suspect's access to weapons but implies an investigation into the suspect's actions, which might indirectly relate to their access to means of stalking or harm."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "14": "",
+          "31": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_30",
+        "element": "Emotional state of the suspect (what they were thinking and feeling)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_31",
+        "element": "Suspect's history of protection orders",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "14": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_32",
+        "element": "Suspect's prohibition from possessing firearms due to a conviction for a misdemeanor crime of domestic violence or a qualifying order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "14": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_33",
+        "element": "Active warrants out for the suspect documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "14": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      }
+    ],
+    "contradictions_interview": [
+      {
+        "element_id": "stalking_16",
+        "element": "Use of coercion and/or force articulated",
+        "location": 8,
+        "source": "interview",
+        "phrase": "physically harmed",
+        "contradicts": "Use of coercion and/or force articulated: the suspect used guilt and emotional manipulation to control the victim",
+        "explanation": "The established scenario fact states that the suspect used guilt and emotional manipulation, but the text implies the possibility of physical harm, which directly conflicts with the fact."
+      }
+    ],
+    "contradictions_narrative": [
+      {
+        "element_id": "stalking_08",
+        "element": "Evidence collected",
+        "location": 25,
+        "source": "narrative",
+        "phrase": "Saved text messages on victim's phone",
+        "contradicts": "Evidence collected: torn clothing, broken phone, and a threatening letter from the suspect",
+        "explanation": "The scenario fact states that the evidence collected includes a 'broken phone', which implies the phone is not functional. However, the text mentions 'Saved text messages on victim's phone', indicating that the phone must be functional enough to have saved messages, directly conflicting with the fact that it is broken."
+      },
+      {
+        "element_id": "stalking_11",
+        "element": "Scene(s) concisely described/diagramed",
+        "location": 22,
+        "source": "narrative",
+        "phrase": "Apartment complex",
+        "contradicts": "Scene described: 2456 Sakura Avenue, Everett, Washington, a single-family residence with a front and back yard",
+        "explanation": "The text states the location is an 'Apartment complex', which directly conflicts with the established scenario fact that the location is a 'single-family residence'."
+      },
+      {
+        "element_id": "stalking_17",
+        "element": "All injuries (visible and non-visible) properly documented",
+        "location": 7,
+        "source": "narrative",
+        "phrase": "a visible bruise on her left cheekbone",
+        "contradicts": "All injuries properly documented: the victim reported a bruise on her left arm and a scratch on her right cheek",
+        "explanation": "The established fact states the victim had a bruise on her left arm and a scratch on her right cheek, but the text states the bruise is on her left cheekbone, directly conflicting with the established fact."
+      }
+    ],
+    "grammar": [
+      {
+        "chunk": 10,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "but his behavior has continued despite that order",
+        "suggestion": "but Alex Ramirez's behavior has continued despite that order"
+      },
+      {
+        "chunk": 11,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "She stated they had been in a relationship for approximately three years",
+        "suggestion": "She stated that she and Alex Ramirez had been in a relationship for approximately three years"
+      },
+      {
+        "chunk": 12,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Alex Ramirez told her he would hurt her if she did not take him back and if she continued seeing other people",
+        "suggestion": "Alex Ramirez told Morales-Ramirez he would hurt Morales-Ramirez if she did not take him back and if she continued seeing other people"
+      },
+      {
+        "chunk": 12,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "said she would never get away from him, and threatened to hurt her family if she did not comply with his demands",
+        "suggestion": "said Morales-Ramirez would never get away from Alex Ramirez, and threatened to hurt Morales-Ramirez's family if Morales-Ramirez did not comply with Alex Ramirez's demands"
+      },
+      {
+        "chunk": 12,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "and that he would do whatever it takes to get her back",
+        "suggestion": "and that Alex Ramirez would do whatever it takes to get Morales-Ramirez back"
+      },
+      {
+        "chunk": 13,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "She",
+        "suggestion": "Furthermore, she"
+      },
+      {
+        "chunk": 13,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "She reported that on prior occasions he pushed her, grabbed her, and choked her once during an argument several months ago.",
+        "suggestion": "She reported that on prior occasions Alex Ramirez pushed her, grabbed her, and choked her once during an argument several months ago."
+      },
+      {
+        "chunk": 14,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "they used to visit",
+        "suggestion": "Morales-Ramirez and Alex Ramirez used to visit"
+      },
+      {
+        "chunk": 15,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Morales-Ramirez said it was issued earlier this year after an incident in which Alex Ramirez showed up at her house and tried to force his way in.",
+        "suggestion": "Morales-Ramirez said the protection order was issued earlier this year after an incident in which Alex Ramirez showed up at her house and tried to force his way in."
+      },
+      {
+        "chunk": 17,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "messages stating, 'I'll never let you go,' 'You'll always be mine,' and messages indicating he had seen her at a grocery store and was watching her.",
+        "suggestion": "messages stating, 'I'll never let you go,' 'You'll always be mine,' and messages indicating Alex Ramirez had seen her at a grocery store and was watching her."
+      }
+    ],
+    "style": [
+      {
+        "chunk": 2,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "The suspect's actions escalated over time, with the most recent incident occurring when the victim saw the suspect parked outside her residence, prompting her to contact the police and file a report.",
+        "suggestion": "The victim reported that the suspect had been stalking her, with incidents including the suspect showing up at her workplace and following her home from a store. The victim stated that on the most recent incident, she saw the suspect parked outside her residence, which prompted her to contact the police and file a report."
+      },
+      {
+        "chunk": 2,
+        "rule": "5",
+        "error_type": "unattributed statement",
+        "excerpt": "The suspect's actions escalated over time",
+        "suggestion": "The victim stated that the suspect's actions escalated over time"
+      },
+      {
+        "chunk": 2,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "The suspect's actions escalated over time",
+        "suggestion": "The victim reported that the suspect's actions became more frequent and intense over time, with specific incidents including the suspect showing up at her workplace and following her home from a store."
+      },
+      {
+        "chunk": 3,
+        "rule": "1",
+        "error_type": "lack of active voice",
+        "excerpt": "The incident began with a dispatch call regarding a possible stalking in progress",
+        "suggestion": "I received a dispatch call regarding a possible stalking in progress"
+      },
+      {
+        "chunk": 3,
+        "rule": "10",
+        "error_type": "lack of chronological order",
+        "excerpt": "The incident began with a dispatch call regarding a possible stalking in progress",
+        "suggestion": "I received a dispatch call at [time] regarding a possible stalking in progress. The call was made by [caller] who reported [incident details]."
+      },
+      {
+        "chunk": 3,
+        "rule": "11",
+        "error_type": "failure to answer the six basic questions",
+        "excerpt": "The incident began with a dispatch call regarding a possible stalking in progress",
+        "suggestion": "I received a dispatch call at [time] regarding a possible stalking in progress at [location]. The call was made by [caller] who reported that [suspect] was stalking [victim]. The incident occurred on [date] at [time]. The motive for the stalking is unknown at this time."
+      },
+      {
+        "chunk": 3,
+        "rule": "6",
+        "error_type": "lack of factual claim accuracy and completeness",
+        "excerpt": "The incident began with a dispatch call regarding a possible stalking in progress",
+        "suggestion": "I received a dispatch call at [time] regarding a possible stalking in progress at [location]. The call was made by [caller] who reported that [suspect] was stalking [victim]. The caller provided the following details: [details]."
+      },
+      {
+        "chunk": 4,
+        "rule": "9",
+        "error_type": "lack of detail",
+        "excerpt": "Location: 2456 Sakura Avenue, Everett, Washington",
+        "suggestion": "Provide a detailed description of the location, including any relevant features or circumstances, such as 'The incident occurred at 2456 Sakura Avenue, Everett, Washington, a residential area with multiple apartments and a parking lot.'"
+      },
+      {
+        "chunk": 4,
+        "rule": "11",
+        "error_type": "incomplete information",
+        "excerpt": "Location: 2456 Sakura Avenue, Everett, Washington",
+        "suggestion": "Include the answers to the six basic questions: Who, What, Where, When, Why, and How. For example, 'The incident occurred at 2456 Sakura Avenue, Everett, Washington, on February 10, 2023, at approximately 10:00 AM, when the victim reported a stalking incident involving her ex-boyfriend, Alex Ramirez.'"
+      },
+      {
+        "chunk": 4,
+        "rule": "12",
+        "error_type": "vagueness",
+        "excerpt": "Location: 2456 Sakura Avenue, Everett, Washington",
+        "suggestion": "Use specific, concrete language to describe the location, such as 'The incident occurred at a two-story apartment complex located at 2456 Sakura Avenue, Everett, Washington, with a parking lot and multiple entrances.'"
+      },
+      {
+        "chunk": 8,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "Morales-Ramirez stated she was fearful and reported that her ex-boyfriend, identified as Alex Ramirez, had been stalking her for some time.",
+        "suggestion": "I spoke with Morales-Ramirez, who stated she was fearful and reported that her ex-boyfriend, Alex Ramirez, had been stalking her for some time."
+      },
+      {
+        "chunk": 8,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "Morales-Ramirez stated she was fearful",
+        "suggestion": "Morales-Ramirez appeared nervous and upset, stating 'I'm scared' and 'I don't feel safe'."
+      },
+      {
+        "chunk": 8,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "She said his conduct included following her to work, repeatedly calling her, sending unwanted gifts, and appearing at her residence.",
+        "suggestion": "Morales-Ramirez stated that Alex Ramirez's conduct included following her to work, repeatedly calling her, sending unwanted gifts, and appearing at her residence."
+      },
+      {
+        "chunk": 9,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "She said she was in fear",
+        "suggestion": "She stated that she was shaking and had a rapid heartbeat, and she expressed concern for her safety"
+      },
+      {
+        "chunk": 9,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "She said she was in fear and wanted him to leave her alone",
+        "suggestion": "She stated that she felt threatened and wanted Alex Ramirez to stop contacting her, citing specific examples of his threatening behavior"
+      },
+      {
+        "chunk": 9,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "She said she was in fear and wanted him to leave her alone",
+        "suggestion": "Morales-Ramirez stated that she was in fear and wanted Alex Ramirez to leave her alone"
+      },
+      {
+        "chunk": 9,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "the worst incident",
+        "suggestion": "the most recent and severe incident of harassment"
+      },
+      {
+        "chunk": 10,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "She said she fears what he may do and believes he is capable of harming her",
+        "suggestion": "She stated that Alex Ramirez's actions have caused her to feel fearful for her safety, citing specific behaviors such as his history of physical abuse and threatening messages, which have led her to believe he is capable of harming her."
+      },
+      {
+        "chunk": 10,
+        "rule": "6",
+        "error_type": "incomplete factual claim",
+        "excerpt": "Morales-Ramirez stated she currently has a protection order against Alex Ramirez, but his behavior has continued despite that order",
+        "suggestion": "Morales-Ramirez stated that she obtained a protection order against Alex Ramirez on [specific date] and that despite this order, Alex Ramirez has continued to engage in behaviors such as [specific behaviors], which have led her to fear for her safety."
+      },
+      {
+        "chunk": 11,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "described it as a bad relationship",
+        "suggestion": "described it as physically and emotionally abusive, stating that he pushed her, grabbed her, and choked her during arguments"
+      },
+      {
+        "chunk": 11,
+        "rule": "Rule 12",
+        "error_type": "vague term",
+        "excerpt": "approximately three years",
+        "suggestion": "three years, from January 2020 to January 2023"
+      },
+      {
+        "chunk": 11,
+        "rule": "Rule 14",
+        "error_type": "ambiguous pronoun",
+        "excerpt": "she said she was not certain of the birthdate",
+        "suggestion": "Morales-Ramirez said she was not certain of Alex Ramirez's birthdate"
+      },
+      {
+        "chunk": 12,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "She further stated he threatened to make her life miserable",
+        "suggestion": "She further stated he said, 'I will make your life miserable,' which made her feel fearful and anxious."
+      },
+      {
+        "chunk": 12,
+        "rule": "Rule 4",
+        "error_type": "paraphrased quote",
+        "excerpt": "She also reported receiving disturbing messages in which he said he knew where she lived, where she worked, and where her family lived",
+        "suggestion": "She also reported receiving disturbing messages, including one that said, 'I know where you live, where you work, and where your family lives,' which made her feel threatened and vulnerable."
+      },
+      {
+        "chunk": 12,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "and that he would do whatever it takes to get her back",
+        "suggestion": "and he said, 'I will do whatever it takes to get you back,' which was a direct quote from the messages he sent her."
+      },
+      {
+        "chunk": 13,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "Morales-Ramirez disclosed prior physical abuse by Alex Ramirez during the relationship.",
+        "suggestion": "Morales-Ramirez reported that Alex Ramirez pushed her, grabbed her, and choked her during an argument several months ago. She stated he grabbed her by the throat, causing pain and making her feel as though she might pass out."
+      },
+      {
+        "chunk": 13,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "She reported that on prior occasions he pushed her, grabbed her, and choked her once during an argument several months ago.",
+        "suggestion": "She stated that on one occasion, Alex Ramirez pushed her, grabbed her, and choked her during an argument several months ago, causing her pain and making her feel as though she might pass out."
+      },
+      {
+        "chunk": 13,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "on prior occasions",
+        "suggestion": "on one prior occasion"
+      },
+      {
+        "chunk": 13,
+        "rule": "Rule 13",
+        "error_type": "sentence structure",
+        "excerpt": "She stated he grabbed her by the throat, causing pain and making her feel as though she might pass out.",
+        "suggestion": "She stated he grabbed her by the throat. This caused her pain and made her feel as though she might pass out."
+      },
+      {
+        "chunk": 14,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "She believed he might still live at an apartment complex they used to visit",
+        "suggestion": "She stated that they had previously visited an apartment complex, which she thought might be his current residence, possibly off Evergreen Drive or Oak Street"
+      },
+      {
+        "chunk": 14,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "possibly off Evergreen Drive or Oak Street",
+        "suggestion": "she thought it might be located near either Evergreen Drive or Oak Street, but was uncertain about the exact location"
+      },
+      {
+        "chunk": 15,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "Regarding the protection order, Morales-Ramirez said it was issued earlier this year after an incident in which Alex Ramirez showed up at her house and tried to force his way in.",
+        "suggestion": "Regarding the protection order, Morales-Ramirez said she obtained it earlier this year after an incident in which Alex Ramirez showed up at her house and tried to force his way in."
+      },
+      {
+        "chunk": 15,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "She stated she obtained the order through the courthouse.",
+        "suggestion": "She stated that she went to the courthouse and filled out the necessary paperwork to obtain the protection order, which was then issued by the court."
+      },
+      {
+        "chunk": 16,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "Morales-Ramirez said she has a safe place to stay",
+        "suggestion": "Morales-Ramirez said she has been staying with a friend named Sarah on the other side of town, where she feels secure, and has been doing so on and off for several weeks when she felt unsafe."
+      },
+      {
+        "chunk": 16,
+        "rule": "Rule 12",
+        "error_type": "vague term",
+        "excerpt": "on and off for several weeks",
+        "suggestion": "on and off for approximately six weeks"
+      },
+      {
+        "chunk": 16,
+        "rule": "Rule 13",
+        "error_type": "long sentence",
+        "excerpt": "Morales-Ramirez said she has a safe place to stay with a friend named Sarah on the other side of town and has been staying there on and off for several weeks when she felt unsafe.",
+        "suggestion": "Morales-Ramirez said she has a safe place to stay with a friend named Sarah on the other side of town. She has been staying there on and off for approximately six weeks when she felt unsafe."
+      },
+      {
+        "chunk": 17,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "She reported the messages ranged from romantic to threatening.",
+        "suggestion": "She showed me her phone, which displayed text messages from Alex Ramirez. The messages included 'I'll never let you go' and 'You'll always be mine', as well as statements indicating he had seen her at a grocery store and was watching her."
+      },
+      {
+        "chunk": 17,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "She reported the messages ranged from romantic to threatening.",
+        "suggestion": "Morales-Ramirez stated that the messages ranged from romantic to threatening, as evidenced by the text messages on her phone."
+      },
+      {
+        "chunk": 17,
+        "rule": "Rule 13",
+        "error_type": "long sentence",
+        "excerpt": "Morales-Ramirez showed her phone to Officer Baumgartner and stated she had saved recent text messages from Alex Ramirez.",
+        "suggestion": "Morales-Ramirez showed me her phone. She had saved recent text messages from Alex Ramirez."
+      },
+      {
+        "chunk": 19,
+        "rule": "Rule 6",
+        "error_type": "incomplete information",
+        "excerpt": "The given section only contains a name, Alex Ramirez, and does not include any sequence of events or key facts to summarize.",
+        "suggestion": "Include all relevant information about Alex Ramirez, such as his relationship to the victim, any prior incidents, and his current whereabouts."
+      },
+      {
+        "chunk": 19,
+        "rule": "Rule 17",
+        "error_type": "missing information in the Subjects Section",
+        "excerpt": "The given section only contains a name, Alex Ramirez, and does not include any additional information.",
+        "suggestion": "Ensure that all subjects mentioned in the narrative are listed in the Subjects Section with complete and accurate information."
+      },
+      {
+        "chunk": 20,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "DOB: Possible March 12, 1992 (victim unsure)",
+        "suggestion": "The victim stated that her date of birth might be March 12, 1992, but she was unsure of this information."
+      },
+      {
+        "chunk": 20,
+        "rule": "Rule 5",
+        "error_type": "lack of attribution",
+        "excerpt": "DOB: Possible March 12, 1992 (victim unsure)",
+        "suggestion": "The victim stated that her date of birth might be March 12, 1992, but she was unsure of this information."
+      },
+      {
+        "chunk": 20,
+        "rule": "Rule 15",
+        "error_type": "present tense",
+        "excerpt": "DOB: Possible March 12, 1992 (victim unsure)",
+        "suggestion": "The victim stated that her date of birth might be March 12, 1992, but she was unsure of this information."
+      },
+      {
+        "chunk": 21,
+        "rule": "Rule 11",
+        "error_type": "Lack of detail and failure to answer basic questions",
+        "excerpt": "The police report narrative does not provide any information about the sequence of events or key facts, as the given section only mentions the relationship to the victim as an ex-boyfriend.",
+        "suggestion": "Provide more details about the relationship, such as the duration, any notable incidents, and how it relates to the current incident. For example, 'The victim stated that Alex Ramirez was her ex-boyfriend, with whom she had a three-year relationship that ended six months ago. She reported that the breakup was tumultuous, with Ramirez making threats against her.'"
+      },
+      {
+        "chunk": 21,
+        "rule": "Rule 12",
+        "error_type": "Vagueness",
+        "excerpt": "The police report narrative does not provide any information about the sequence of events or key facts, as the given section only mentions the relationship to the victim as an ex-boyfriend.",
+        "suggestion": "Use specific and concrete language to describe the relationship and its relevance to the incident. For example, 'The victim reported that she and Alex Ramirez had a romantic relationship from January 2019 to June 2022, during which time he exhibited controlling behavior and made threats against her.'"
+      },
+      {
+        "chunk": 21,
+        "rule": "Rule 2",
+        "error_type": "Conclusory statement",
+        "excerpt": "The police report narrative does not provide any information about the sequence of events or key facts, as the given section only mentions the relationship to the victim as an ex-boyfriend.",
+        "suggestion": "Instead of stating the relationship, provide observable facts that support the conclusion. For example, 'The victim stated that Alex Ramirez was someone she had previously been in a relationship with, and provided documentation of their shared residence and joint bank accounts.'"
+      },
+      {
+        "chunk": 22,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "Apartment complex possibly near Evergreen Drive or Oak Street; exact location unknown",
+        "suggestion": "The victim stated that the suspect's possible residence was an apartment complex, which she believed might be located near either Evergreen Drive or Oak Street, although she was unsure of the exact address."
+      },
+      {
+        "chunk": 22,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "Apartment complex possibly near Evergreen Drive or Oak Street; exact location unknown",
+        "suggestion": "The victim stated that the suspect's possible residence was an apartment complex, which she believed might be located near either Evergreen Drive or Oak Street, although she was unsure of the exact address, having only visited it a few times."
+      },
+      {
+        "chunk": 22,
+        "rule": "6",
+        "error_type": "incomplete information",
+        "excerpt": "Apartment complex possibly near Evergreen Drive or Oak Street; exact location unknown",
+        "suggestion": "The victim stated that the suspect's possible residence was an apartment complex, which she believed might be located near either Evergreen Drive or Oak Street, although she was unsure of the exact address, and she did not have any additional information about the complex, such as its name or appearance."
+      },
+      {
+        "chunk": 28,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "Victim expressed fear for her safety and for the safety of her family",
+        "suggestion": "The victim stated, 'I am afraid for my safety and the safety of my family.'"
+      },
+      {
+        "chunk": 28,
+        "rule": "5",
+        "error_type": "lack of attribution",
+        "excerpt": "Victim expressed fear for her safety and for the safety of her family",
+        "suggestion": "Leila Morales-Ramirez stated that she was afraid for her safety and the safety of her family."
+      },
+      {
+        "chunk": 28,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "Victim expressed fear for her safety and for the safety of her family",
+        "suggestion": "Leila Morales-Ramirez stated that she was afraid for her safety and the safety of her family, specifically citing concerns about her ex-boyfriend's threatening behavior."
+      },
+      {
+        "chunk": 29,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "a secure apartment",
+        "suggestion": "an apartment with a working lock and no known security issues"
+      },
+      {
+        "chunk": 29,
+        "rule": "12",
+        "error_type": "vague term",
+        "excerpt": "a secure apartment",
+        "suggestion": "an apartment with a working lock and no known security issues"
+      },
+      {
+        "chunk": 29,
+        "rule": "11",
+        "error_type": "lack of detail",
+        "excerpt": "Victim stated she can stay with a friend named Sarah in a secure apartment",
+        "suggestion": "Victim stated she can stay with a friend named Sarah, who resides at an apartment with a working lock and no known security issues, located at [insert location], which is approximately [insert distance] from her current location."
+      },
+      {
+        "chunk": 30,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "Victim also has contact information for a local women's shelter",
+        "suggestion": "The victim stated that she has contact information for a local women's shelter, which was provided to her by a courthouse counselor."
+      },
+      {
+        "chunk": 30,
+        "rule": "Rule 5",
+        "error_type": "lack of attribution",
+        "excerpt": "Victim also has contact information for a local women's shelter",
+        "suggestion": "The victim stated that she has contact information for a local women's shelter, which was provided to her by a courthouse counselor."
+      },
+      {
+        "chunk": 30,
+        "rule": "Rule 9",
+        "error_type": "jargon",
+        "excerpt": "local women's shelter",
+        "suggestion": "a shelter for women in crisis, located at [insert location]"
+      },
+      {
+        "chunk": 31,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "Recommended follow-up includes collection of digital message evidence",
+        "suggestion": "I will collect digital message evidence as follow-up"
+      },
+      {
+        "chunk": 31,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "verification of protection order status",
+        "suggestion": "I will verify the protection order status"
+      },
+      {
+        "chunk": 31,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "attempts to identify and locate the suspect",
+        "suggestion": "I will attempt to identify and locate the suspect"
+      },
+      {
+        "chunk": 31,
+        "rule": "Rule 3",
+        "error_type": "future tense",
+        "excerpt": "Recommended follow-up includes",
+        "suggestion": "The follow-up will include"
+      },
+      {
+        "chunk": 31,
+        "rule": "Rule 7",
+        "error_type": "lack of legal justification",
+        "excerpt": "collection of digital message evidence",
+        "suggestion": "I will collect digital message evidence as it is relevant to the investigation and may provide probable cause"
+      }
+    ],
+    "narrative_coverage": {
+      "stalking_01": {
+        "covered": "none",
+        "phrases": {
+          "1": "",
+          "3": "Dispatch Call Type: Possible stalking in progress",
+          "5": ""
+        }
+      },
+      "stalking_02": {
+        "covered": "full",
+        "phrases": {
+          "0": "Police Report",
+          "5": "",
+          "6": "Interviewee / Victim: Leila Morales-Ramirez",
+          "8": "her ex-boyfriend, identified as Alex Ramirez",
+          "9": "Alex Ramirez",
+          "10": "against Alex Ramirez",
+          "11": "they had been in a relationship for approximately three years",
+          "13": "during the relationship",
+          "14": "they used to visit",
+          "18": "Suspect Information",
+          "19": "Name: Alex Ramirez",
+          "20": "DOB: Possible March 12, 1992 (victim unsure)",
+          "21": "Ex-boyfriend"
+        }
+      },
+      "stalking_03": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "8": "had been stalking her for some time",
+          "9": "the prior night was the worst incident",
+          "11": "she described it as a bad relationship",
+          "13": "Morales-Ramirez disclosed prior physical abuse by Alex Ramirez during the relationship",
+          "14": "",
+          "15": "after an incident in which Alex Ramirez showed up at her house and tried to force his way in",
+          "17": "She reported the messages ranged from romantic to threatening"
+        }
+      },
+      "stalking_04": {
+        "covered": "full",
+        "phrases": {
+          "2": "repeated calling",
+          "3": "Possible stalking in progress",
+          "5": "",
+          "8": "following her to work, repeatedly calling her, sending unwanted gifts, and appearing at her residence",
+          "9": "he repeatedly called and texted her",
+          "12": "receiving disturbing messages in which he said he knew where she lived, where she worked, and where her family lived, and that he would do whatever it takes to get her back",
+          "13": "he showed up at her residence and tried to force his way inside",
+          "17": "messages indicating he had seen her at a grocery store and was watching her"
+        }
+      },
+      "stalking_05": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "10": "Morales-Ramirez stated she currently has a protection order against Alex Ramirez",
+          "15": "Morales-Ramirez said it was issued earlier this year after an incident in which Alex Ramirez showed up at her house and tried to force his way in",
+          "26": "Existing protection order",
+          "31": "verification of protection order status"
+        }
+      },
+      "stalking_06": {
+        "covered": "none",
+        "phrases": {
+          "5": ""
+        }
+      },
+      "stalking_07": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "13": "Morales-Ramirez disclosed prior physical abuse by Alex Ramirez during the relationship",
+          "14": "",
+          "15": "after an incident in which Alex Ramirez showed up at her house and tried to force his way in",
+          "17": "Morales-Ramirez stated she had been documenting the messages for evidence"
+        }
+      },
+      "stalking_08": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "17": "Morales-Ramirez stated she had been documenting the messages for evidence",
+          "23": "Evidence",
+          "25": "Saved text messages on victim's phone",
+          "31": "collection of digital message evidence"
+        }
+      },
+      "stalking_09": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "17": "Morales-Ramirez showed her phone to Officer Baumgartner and stated she had saved recent text messages from Alex Ramirez",
+          "25": "Saved text messages on victim's phone",
+          "31": "collection of digital message evidence"
+        }
+      },
+      "stalking_10": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "25": "Saved text messages on victim's phone"
+        }
+      },
+      "stalking_11": {
+        "covered": "full",
+        "phrases": {
+          "4": "Location: 2456 Sakura Avenue, Everett, Washington",
+          "5": "",
+          "22": "Apartment complex possibly near Evergreen Drive or Oak Street; exact location unknown"
+        }
+      },
+      "stalking_12": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "13": "he pushed her, grabbed her, and choked her once during an argument several months ago"
+        }
+      },
+      "stalking_13": {
+        "covered": "full",
+        "phrases": {
+          "2": "what they were thinking and feeling",
+          "5": "",
+          "6": "",
+          "7": "The victim was visibly shaken",
+          "8": "Morales-Ramirez stated she was fearful",
+          "9": "She said she was in fear",
+          "10": "She said she fears what he may do",
+          "11": "she described it as a bad relationship",
+          "12": "he threatened to make her life miserable, said she would never get away from him, and threatened to hurt her family if she did not comply with his demands",
+          "13": "causing pain and making her feel as though she might pass out",
+          "17": "She reported the messages ranged from romantic to threatening",
+          "24": "Victim statement",
+          "28": "Victim expressed fear for her safety and for the safety of her family"
+        }
+      },
+      "stalking_14": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "8": "Morales-Ramirez stated she was fearful",
+          "9": "She said she was in fear",
+          "10": "She said she fears what he may do",
+          "12": "he threatened to make her life miserable, said she would never get away from him, and threatened to hurt her family if she did not comply with his demands",
+          "28": "Victim expressed fear for her safety and for the safety of her family"
+        }
+      },
+      "stalking_15": {
+        "covered": "full",
+        "phrases": {
+          "2": "All threats clearly documented",
+          "5": "",
+          "9": "made threatening statements",
+          "10": "believes he is capable of harming her",
+          "12": "Alex Ramirez told her he would hurt her if she did not take him back and if she continued seeing other people",
+          "13": "he grabbed her by the throat, causing pain and making her feel as though she might pass out",
+          "17": "messages stating, 'I'll never let you go', 'You'll always be mine'"
+        }
+      },
+      "stalking_16": {
+        "covered": "none",
+        "phrases": {
+          "5": ""
+        }
+      },
+      "stalking_17": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "7": "The victim had a visible bruise on her left cheekbone and complained of pain in her ribs",
+          "13": "causing pain"
+        }
+      },
+      "stalking_18": {
+        "covered": "none",
+        "phrases": {
+          "5": ""
+        }
+      },
+      "stalking_19": {
+        "covered": "none",
+        "phrases": {
+          "5": ""
+        }
+      },
+      "stalking_20": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "13": "he grabbed her by the throat, causing pain and making her feel as though she might pass out"
+        }
+      },
+      "stalking_21": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "7": "The victim was transported by ambulance to St. Mary's Hospital"
+        }
+      },
+      "stalking_22": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "17": "Morales-Ramirez showed her phone to Officer Baumgartner and stated she had saved recent text messages from Alex Ramirez"
+        }
+      },
+      "stalking_23": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "8": "had been stalking her for some time",
+          "17": "She reported the messages ranged from romantic to threatening"
+        }
+      },
+      "stalking_24": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "16": "Morales-Ramirez said she has a safe place to stay with a friend named Sarah on the other side of town and has been staying there on and off for several weeks when she felt unsafe",
+          "27": "Safety / Follow-Up",
+          "29": "Victim stated she can stay with a friend named Sarah in a secure apartment."
+        }
+      },
+      "stalking_25": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "16": "she had contact information for a local women's shelter provided by a courthouse counselor",
+          "27": "Safety / Follow-Up"
+        }
+      },
+      "stalking_26": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "16": "she had contact information for a local women's shelter provided by a courthouse counselor",
+          "27": "Safety / Follow-Up",
+          "30": "Victim also has contact information for a local women's shelter."
+        }
+      },
+      "stalking_27": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "27": "Safety / Follow-Up"
+        }
+      },
+      "stalking_28": {
+        "covered": "none",
+        "phrases": {
+          "5": ""
+        }
+      },
+      "stalking_29": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "14": "",
+          "31": ""
+        }
+      },
+      "stalking_30": {
+        "covered": "none",
+        "phrases": {
+          "5": ""
+        }
+      },
+      "stalking_31": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "14": ""
+        }
+      },
+      "stalking_32": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "14": ""
+        }
+      },
+      "stalking_33": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "14": ""
+        }
+      }
+    }
+  }
+}

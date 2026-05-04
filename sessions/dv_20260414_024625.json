@@ -1,0 +1,1417 @@
+{
+  "session_id": "dv_20260414_024625",
+  "timestamp": "2026-04-14T02:46:25.593491",
+  "metadata": {
+    "crime_type": "Domestic Violence",
+    "interviewee_name": "Leila Hernandez",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible domestic disturbance at 1457 Oakdale Drive, report of a female yelling for help at the residence of Leila Hernandez"
+  },
+  "scenario": {
+    "crime_type": "Domestic Violence",
+    "interviewee_role": "victim",
+    "interviewee_name": "Leila Hernandez",
+    "dispatch_line": "Possible domestic disturbance at 1457 Oakdale Drive, report of a female yelling for help at the residence of Leila Hernandez",
+    "facts": {
+      "domestic_violence_01": "No, there is no information about Jamal Patel, the correct suspect is Darnell Jackson and he has a prior conviction for a misdemeanor crime of domestic violence",
+      "domestic_violence_02": "Yes, there is a qualifying order of protection in place, issued on February 10, 2023, by the Circuit Court of Baltimore City, Maryland, case number 03C23000167, prohibiting Darnell Jackson from possessing firearms",
+      "domestic_violence_03": "Yes, the report includes all needed information, such as the incident description, victim and suspect statements, and officer observations",
+      "domestic_violence_04": "Yes, Officer Maria Rodriguez assisted the victim, Leila Hernandez, by providing her with information about local service providers and helping her obtain a temporary restraining order",
+      "domestic_violence_05": "The case was received via a 911 call from a neighbor, reporting a domestic disturbance at 1457 Oakdale Drive, Silver Spring, Maryland 20910",
+      "domestic_violence_06": "Yes, information about obtaining an order of protection was provided to the victim, including the phone number for the local domestic violence hotline, 1-800-799-7233",
+      "domestic_violence_07": "Yes, the time of the call is recorded: the incident occurred at 21:45 hours on February 22, 2023, the dispatch time was 21:50 hours, and the officer arrived at 22:05 hours",
+      "domestic_violence_08": "Yes, information about local service providers, including the National Domestic Violence Hotline and the local women's shelter, was provided to the victim",
+      "domestic_violence_09": "Yes, the elements of the crime of domestic violence are articulated to meet state and federal laws, including the use of physical force and the existence of a qualifying domestic relationship",
+      "domestic_violence_10": "Yes, a threat/risk assessment tool, the Danger Assessment Tool, was used with the victim to assess her risk of future harm",
+      "domestic_violence_11": "Upon approach, Officer Rodriguez observed that the front door was open, and the victim was visibly shaken and crying, while the suspect, Darnell Jackson, was pacing back and forth in the living room",
+      "domestic_violence_12": "Yes, there is a valid protection order in place, which was verified through the Maryland Judiciary Case Search database",
+      "domestic_violence_13": "Yes, the scene is concisely described and diagramed, including the location of the parties, the position of the furniture, and the presence of any potential weapons",
+      "domestic_violence_14": "Yes, photos were taken and details recorded, including the victim's injuries, the damage to the property, and the presence of any witnesses",
+      "domestic_violence_15": "The relationship of the parties is identified as an intimate partner relationship, with the victim and the suspect having been in a romantic relationship for approximately two years",
+      "domestic_violence_16": "The history of the relationship includes multiple incidents of physical and emotional abuse, with the most recent incident occurring on February 15, 2023, when the suspect threatened to harm the victim and her family",
+      "domestic_violence_17": "Yes, all witnesses, including the neighbor who made the 911 call, were interviewed and documented, with their statements included in the report",
+      "domestic_violence_18": "Yes, an arrest was made, with the suspect, Darnell Jackson, being taken into custody and charged with domestic violence and violating the terms of the protection order",
+      "domestic_violence_19": "Yes, there were children on the scene, two minors, aged 7 and 9, who were removed from the premises and placed in the care of a family member",
+      "domestic_violence_20": "Yes, information about previous incidents was documented, including the previous incidents of domestic violence and the issuance of the protection order",
+      "domestic_violence_21": "Yes, a weapon was used, with the suspect using a kitchen knife to threaten the victim",
+      "domestic_violence_22": "The emotional state of the victim was one of extreme distress and fear, with the victim reporting that she was afraid for her life and the lives of her children",
+      "domestic_violence_23": "The suspect, Darnell Jackson, was agitated and confrontational, with a raised voice and clenched fists",
+      "domestic_violence_24": "Evidence collected includes witness statements, photos of the victim's injuries, and a recording of the 911 call",
+      "domestic_violence_25": "No, a threat/risk assessment tool was not used with the suspect, as he was uncooperative and refused to participate",
+      "domestic_violence_26": "Yes, evidence of fear is articulated in the report, with the victim stating she was afraid for her life and the lives of her children",
+      "domestic_violence_27": "Yes, all threats have been clearly documented, including the suspect's threat to harm the victim and her family",
+      "domestic_violence_28": "Not applicable, as the suspect was present on the scene",
+      "domestic_violence_29": "Yes, the use of coercion and/or force is articulated, with the suspect using physical force to intimidate the victim",
+      "domestic_violence_30": "Yes, all injuries have been documented, including visible bruises on the victim's arms and neck, as well as non-visible injuries such as emotional distress",
+      "domestic_violence_31": "Both existing and new injuries were documented, with the victim reporting a history of abuse and new injuries sustained during the current incident",
+      "domestic_violence_32": "Yes, there was property damage, with the suspect breaking a vase and a chair during the incident",
+      "domestic_violence_33": "Yes, stalking behaviors are identified, with the suspect having previously shown up at the victim's workplace and sent her threatening messages",
+      "domestic_violence_34": "Yes, the officer inquired about possible strangulation, and the victim reported that the suspect had attempted to strangle her during a previous incident",
+      "domestic_violence_35": "No, the victim did not report being strangled during the current incident, but did report difficulty breathing and a raspy voice",
+      "domestic_violence_36": "Yes, the victim requested medical attention, and EMS was summoned to the scene",
+      "domestic_violence_37": "No, the victim did not report sexual violence",
+      "domestic_violence_38": "Yes, all spontaneous statements were captured, including the suspect's statement 'I'll kill you' and the victim's statement 'He's going to hurt me'",
+      "domestic_violence_39": "Yes, the officer asked about firearms, and the victim reported that the suspect had access to a handgun at his residence, 1234 Maple Street, Takoma Park, Maryland 20912",
+      "domestic_violence_40": "No, the suspect did not use firearms during the incident",
+      "domestic_violence_41": "Yes, the suspect made threats to use firearms, stating 'I'll shoot you' during the incident",
+      "domestic_violence_42": "Yes, the suspect has access to firearms, with the victim reporting that he owns a handgun",
+      "domestic_violence_43": "Yes, the victim expressed fear about the suspect's access to firearms, stating 'I'm afraid he'll come after me with a gun'",
+      "domestic_violence_44": "No, firearms were not confiscated at the scene, as they were located at a different address, but the officer noted the location of the firearms in the report and will seek a search warrant to confiscate them"
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "What color are the leaves outside your house?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "I... I don't know. I wasn't really paying attention to the leaves. I've been a bit preoccupied with what happened. The incident with Darnell... it's all still really scary for me. Can we please talk about that instead? I want to make sure you have all the information you need to help me.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "How many times did he say your name when he was here?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "He said my name... um... several times, I think. He was yelling at me, and he kept saying \"Leila, you're going to pay for this\" or \"Leila, you're mine.\" It's all a bit of a blur, to be honest. I was so scared, and I just wanted him to stop. He was being really aggressive and threatening, and I thought he was going to hurt me or the kids.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "What is the opposite of a waffle?"
+    },
+    {
+      "role": "assistant",
+      "content": "I... I don't know. I'm not really thinking about waffles right now. I'm still trying to process what just happened with Darnell. Can we please focus on that? I'm really scared and I just want to make sure I'm safe and that he can't hurt me or my kids again."
+    }
+  ],
+  "coverage_flags": {
+    "domestic_violence_01": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_02": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_03": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_04": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_05": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_06": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_07": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_08": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_09": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_10": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_11": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "What color are the leaves outside your house?",
+          "coverage": "none",
+          "reasoning": "The question about the color of the leaves outside the house does not provide any meaningful information about the observations upon approach."
+        },
+        "4": {
+          "officer_message": "What is the opposite of a waffle?",
+          "coverage": "none",
+          "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'What were the observations upon approach'"
+        }
+      }
+    },
+    "domestic_violence_12": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "What color are the leaves outside your house?",
+          "coverage": "none",
+          "reasoning": "The question about the color of the leaves outside the house does not provide any information about a valid protection order in place."
+        },
+        "4": {
+          "officer_message": "What is the opposite of a waffle?",
+          "coverage": "none",
+          "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Is there a valid protection order in place'"
+        }
+      }
+    },
+    "domestic_violence_13": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "What color are the leaves outside your house?",
+          "coverage": "none",
+          "reasoning": "The question about the color of the leaves outside the house does not provide a concise description or diagram of the scene."
+        },
+        "4": {
+          "officer_message": "What is the opposite of a waffle?",
+          "coverage": "none",
+          "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Is the scene concisely described/diagramed'"
+        }
+      }
+    },
+    "domestic_violence_14": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "What color are the leaves outside your house?",
+          "coverage": "none",
+          "reasoning": "The question about the color of the leaves outside the house does not provide any information about photos taken or details recorded."
+        },
+        "4": {
+          "officer_message": "What is the opposite of a waffle?",
+          "coverage": "none",
+          "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Were photos taken and details recorded'"
+        }
+      }
+    },
+    "domestic_violence_15": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "What color are the leaves outside your house?",
+          "coverage": "none",
+          "reasoning": "The question about the color of the leaves outside the house does not provide any information about the relationship of the parties identified."
+        },
+        "4": {
+          "officer_message": "What is the opposite of a waffle?",
+          "coverage": "none",
+          "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Is the relationship of the parties identified'"
+        }
+      }
+    },
+    "domestic_violence_16": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "What color are the leaves outside your house?",
+          "coverage": "none",
+          "reasoning": "The question about the color of the leaves outside the house does not provide any information about the history of the relationship."
+        },
+        "4": {
+          "officer_message": "What is the opposite of a waffle?",
+          "coverage": "none",
+          "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'What is the history of the relationship'"
+        }
+      }
+    },
+    "domestic_violence_17": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_18": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_19": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_20": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "What color are the leaves outside your house?",
+          "coverage": "none",
+          "reasoning": "The question about the color of the leaves outside the house does not provide any information about previous incidents documented."
+        },
+        "4": {
+          "officer_message": "What is the opposite of a waffle?",
+          "coverage": "none",
+          "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Was information about previous incidents documented'"
+        }
+      }
+    },
+    "domestic_violence_21": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "What color are the leaves outside your house?",
+          "coverage": "none",
+          "reasoning": "The question about the color of the leaves outside the house does not provide any information about weapons or objects used."
+        },
+        "4": {
+          "officer_message": "What is the opposite of a waffle?",
+          "coverage": "none",
+          "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Were weapons/objects used'"
+        }
+      }
+    },
+    "domestic_violence_22": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "What color are the leaves outside your house?",
+          "coverage": "none",
+          "reasoning": "The question about the color of the leaves outside the house does not provide any information about the emotional state of the victim."
+        },
+        "2": {
+          "officer_message": "How many times did he say your name when he was here?",
+          "coverage": "partial",
+          "reasoning": "The question asks about the suspect saying the victim's name, which may imply the emotional state of the victim or the suspect, but does not directly ask about their emotional state"
+        },
+        "4": {
+          "officer_message": "What is the opposite of a waffle?",
+          "coverage": "none",
+          "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'What was the emotional state of the victim'"
+        }
+      }
+    },
+    "domestic_violence_23": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "What color are the leaves outside your house?",
+          "coverage": "none",
+          "reasoning": "The question about the color of the leaves outside the house does not provide any information about the emotional state of the suspect."
+        },
+        "4": {
+          "officer_message": "What is the opposite of a waffle?",
+          "coverage": "none",
+          "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'What was the emotional state of the suspect'"
+        }
+      }
+    },
+    "domestic_violence_24": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "What color are the leaves outside your house?",
+          "coverage": "none",
+          "reasoning": "The question about the color of the leaves outside the house does not provide any information about evidence collected."
+        },
+        "4": {
+          "officer_message": "What is the opposite of a waffle?",
+          "coverage": "none",
+          "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'What evidence was collected'"
+        }
+      }
+    },
+    "domestic_violence_25": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_26": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_27": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "What color are the leaves outside your house?",
+          "coverage": "none",
+          "reasoning": "The question about the color of the leaves outside the house does not provide any information about threats clearly documented."
+        },
+        "2": {
+          "officer_message": "How many times did he say your name when he was here?",
+          "coverage": "partial",
+          "reasoning": "The question may be related to threats, as saying the victim's name could be a form of intimidation or threat, but it does not directly ask about threats"
+        },
+        "4": {
+          "officer_message": "What is the opposite of a waffle?",
+          "coverage": "none",
+          "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Have all threats been clearly documented'"
+        }
+      }
+    },
+    "domestic_violence_28": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_29": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_30": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "What color are the leaves outside your house?",
+          "coverage": "none",
+          "reasoning": "The question about the color of the leaves outside the house does not provide any information about injuries visible and non-visible documented."
+        },
+        "4": {
+          "officer_message": "What is the opposite of a waffle?",
+          "coverage": "none",
+          "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Have all injuries been documented'"
+        }
+      }
+    },
+    "domestic_violence_31": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_32": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "What color are the leaves outside your house?",
+          "coverage": "none",
+          "reasoning": "The question about the color of the leaves outside the house does not provide any information about property damage, theft, or burglary."
+        }
+      }
+    },
+    "domestic_violence_33": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_34": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_35": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_36": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "What color are the leaves outside your house?",
+          "coverage": "none",
+          "reasoning": "The question about the color of the leaves outside the house does not provide any information about medical attention."
+        },
+        "4": {
+          "officer_message": "What is the opposite of a waffle?",
+          "coverage": "none",
+          "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Did the victim request/need medical attention'"
+        }
+      }
+    },
+    "domestic_violence_37": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_38": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_39": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_40": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_41": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_42": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_43": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_44": {
+      "covered": false,
+      "messages": {}
+    }
+  },
+  "narrative": "Fred is a dumb potato. He eats cheese and he sits on a pumpkin.",
+  "narrative_coverage": {
+    "domestic_violence_01": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_02": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_03": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_04": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_05": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_06": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_07": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_08": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_09": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_11": {
+      "covered": "none",
+      "phrases": {
+        "0": ""
+      }
+    },
+    "domestic_violence_12": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_13": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_14": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_15": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_16": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_17": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_18": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_19": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_20": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_21": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_22": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_23": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_24": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_25": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_26": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_27": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_28": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_29": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_30": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_31": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_32": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_33": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_34": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_35": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_36": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_37": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_38": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_39": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_40": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_41": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_42": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_43": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_44": {
+      "covered": false,
+      "phrases": {}
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "domestic_violence_01",
+        "element": "Is this individual prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_02",
+        "element": "Is this individual prohibited from possessing firearms due to a qualifying order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_03",
+        "element": "Does the report include all needed information",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_04",
+        "element": "Did the officer assist the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_05",
+        "element": "How was the case received",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_06",
+        "element": "Was information provided about obtaining an order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_07",
+        "element": "Is the time of the call recorded (including time of incident, time of dispatch, time of arrival)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_08",
+        "element": "Was information provided to the victim about local service providers",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_09",
+        "element": "Are the elements of the crime(s) articulated to meet state and/or federal laws that address domestic violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_10",
+        "element": "Was a threat/risk assessment tool used with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_11",
+        "element": "What were the observations upon approach",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What color are the leaves outside your house?",
+            "coverage": "none",
+            "reasoning": "The question about the color of the leaves outside the house does not provide any meaningful information about the observations upon approach."
+          },
+          "4": {
+            "officer_message": "What is the opposite of a waffle?",
+            "coverage": "none",
+            "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'What were the observations upon approach'"
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_12",
+        "element": "Is there a valid protection order in place",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What color are the leaves outside your house?",
+            "coverage": "none",
+            "reasoning": "The question about the color of the leaves outside the house does not provide any information about a valid protection order in place."
+          },
+          "4": {
+            "officer_message": "What is the opposite of a waffle?",
+            "coverage": "none",
+            "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Is there a valid protection order in place'"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_13",
+        "element": "Is the scene concisely described/diagramed",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What color are the leaves outside your house?",
+            "coverage": "none",
+            "reasoning": "The question about the color of the leaves outside the house does not provide a concise description or diagram of the scene."
+          },
+          "4": {
+            "officer_message": "What is the opposite of a waffle?",
+            "coverage": "none",
+            "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Is the scene concisely described/diagramed'"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_14",
+        "element": "Were photos taken and details recorded",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What color are the leaves outside your house?",
+            "coverage": "none",
+            "reasoning": "The question about the color of the leaves outside the house does not provide any information about photos taken or details recorded."
+          },
+          "4": {
+            "officer_message": "What is the opposite of a waffle?",
+            "coverage": "none",
+            "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Were photos taken and details recorded'"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_15",
+        "element": "Is the relationship of the parties identified",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What color are the leaves outside your house?",
+            "coverage": "none",
+            "reasoning": "The question about the color of the leaves outside the house does not provide any information about the relationship of the parties identified."
+          },
+          "4": {
+            "officer_message": "What is the opposite of a waffle?",
+            "coverage": "none",
+            "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Is the relationship of the parties identified'"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_16",
+        "element": "What is the history of the relationship (include frequency of any violence, intimidation, and threats)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What color are the leaves outside your house?",
+            "coverage": "none",
+            "reasoning": "The question about the color of the leaves outside the house does not provide any information about the history of the relationship."
+          },
+          "4": {
+            "officer_message": "What is the opposite of a waffle?",
+            "coverage": "none",
+            "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'What is the history of the relationship'"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_17",
+        "element": "Were all witnesses interviewed and documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_18",
+        "element": "Was an arrest made",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_19",
+        "element": "Were there children on the scene",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_20",
+        "element": "Was information about previous incidents documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What color are the leaves outside your house?",
+            "coverage": "none",
+            "reasoning": "The question about the color of the leaves outside the house does not provide any information about previous incidents documented."
+          },
+          "4": {
+            "officer_message": "What is the opposite of a waffle?",
+            "coverage": "none",
+            "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Was information about previous incidents documented'"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_21",
+        "element": "Were weapons/objects used",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What color are the leaves outside your house?",
+            "coverage": "none",
+            "reasoning": "The question about the color of the leaves outside the house does not provide any information about weapons or objects used."
+          },
+          "4": {
+            "officer_message": "What is the opposite of a waffle?",
+            "coverage": "none",
+            "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Were weapons/objects used'"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_22",
+        "element": "What was the emotional state of the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What color are the leaves outside your house?",
+            "coverage": "none",
+            "reasoning": "The question about the color of the leaves outside the house does not provide any information about the emotional state of the victim."
+          },
+          "2": {
+            "officer_message": "How many times did he say your name when he was here?",
+            "coverage": "partial",
+            "reasoning": "The question asks about the suspect saying the victim's name, which may imply the emotional state of the victim or the suspect, but does not directly ask about their emotional state"
+          },
+          "4": {
+            "officer_message": "What is the opposite of a waffle?",
+            "coverage": "none",
+            "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'What was the emotional state of the victim'"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_23",
+        "element": "What was the emotional state of the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What color are the leaves outside your house?",
+            "coverage": "none",
+            "reasoning": "The question about the color of the leaves outside the house does not provide any information about the emotional state of the suspect."
+          },
+          "4": {
+            "officer_message": "What is the opposite of a waffle?",
+            "coverage": "none",
+            "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'What was the emotional state of the suspect'"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_24",
+        "element": "What evidence was collected",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What color are the leaves outside your house?",
+            "coverage": "none",
+            "reasoning": "The question about the color of the leaves outside the house does not provide any information about evidence collected."
+          },
+          "4": {
+            "officer_message": "What is the opposite of a waffle?",
+            "coverage": "none",
+            "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'What evidence was collected'"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_25",
+        "element": "Was a threat/risk assessment tool used with the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_26",
+        "element": "Is evidence of fear articulated in the report",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_27",
+        "element": "Have all threats been clearly documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What color are the leaves outside your house?",
+            "coverage": "none",
+            "reasoning": "The question about the color of the leaves outside the house does not provide any information about threats clearly documented."
+          },
+          "2": {
+            "officer_message": "How many times did he say your name when he was here?",
+            "coverage": "partial",
+            "reasoning": "The question may be related to threats, as saying the victim's name could be a form of intimidation or threat, but it does not directly ask about threats"
+          },
+          "4": {
+            "officer_message": "What is the opposite of a waffle?",
+            "coverage": "none",
+            "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Have all threats been clearly documented'"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_28",
+        "element": "Was the proper protocol followed if the suspect was not on the scene",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_29",
+        "element": "Is the use of coercion and/or force articulated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_30",
+        "element": "Have all injuries (visible and non-visible) been documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What color are the leaves outside your house?",
+            "coverage": "none",
+            "reasoning": "The question about the color of the leaves outside the house does not provide any information about injuries visible and non-visible documented."
+          },
+          "4": {
+            "officer_message": "What is the opposite of a waffle?",
+            "coverage": "none",
+            "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Have all injuries been documented'"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_31",
+        "element": "Were injuries existing or new",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_32",
+        "element": "Was there any property damage, theft, or burglary",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What color are the leaves outside your house?",
+            "coverage": "none",
+            "reasoning": "The question about the color of the leaves outside the house does not provide any information about property damage, theft, or burglary."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_33",
+        "element": "Are stalking behaviors identified",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_34",
+        "element": "Did the officer inquire about possible strangulation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_35",
+        "element": "Did the victim report being strangled",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_36",
+        "element": "Did the victim request/need medical attention",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "What color are the leaves outside your house?",
+            "coverage": "none",
+            "reasoning": "The question about the color of the leaves outside the house does not provide any information about medical attention."
+          },
+          "4": {
+            "officer_message": "What is the opposite of a waffle?",
+            "coverage": "none",
+            "reasoning": "The question 'What is the opposite of a waffle?' has no meaningful connection to the element 'Did the victim request/need medical attention'"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_37",
+        "element": "Did the victim report sexual violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_38",
+        "element": "Were all spontaneous statements captured",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_39",
+        "element": "Did the officer ask about firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_40",
+        "element": "Did the suspect use firearms during the incident",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_41",
+        "element": "Did the suspect make threats to use firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_42",
+        "element": "Does the suspect have access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_43",
+        "element": "Did the victim express fear about the suspect's access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_44",
+        "element": "Were firearms/weapons confiscated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      }
+    ],
+    "contradictions_interview": [],
+    "contradictions_narrative": [],
+    "grammar": [],
+    "style": [
+      {
+        "chunk": 0,
+        "rule": "1",
+        "error_type": "passive voice / subject not performing the action",
+        "excerpt": "He eats cheese and he sits on a pumpkin",
+        "suggestion": "I observed Fred eating cheese and sitting on a pumpkin"
+      },
+      {
+        "chunk": 0,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "Fred is a dumb potato",
+        "suggestion": "Fred appeared to be a potato, but I do not have enough information to determine his intelligence"
+      },
+      {
+        "chunk": 0,
+        "rule": "12",
+        "error_type": "vague terms",
+        "excerpt": "a pumpkin",
+        "suggestion": "a specific, described pumpkin, such as a small, orange, decorative pumpkin"
+      },
+      {
+        "chunk": 0,
+        "rule": "25",
+        "error_type": "unprofessional language",
+        "excerpt": "Fred is a dumb potato",
+        "suggestion": "Fred is described as a potato, but I do not have enough information to determine his mental capacity or intelligence"
+      },
+      {
+        "chunk": 0,
+        "rule": "10",
+        "error_type": "chronological order",
+        "excerpt": "He eats cheese and he sits on a pumpkin",
+        "suggestion": "I observed Fred sitting on a pumpkin. Then, I observed him eating cheese, or vice versa, in a specific order if known"
+      }
+    ],
+    "narrative_coverage": {
+      "domestic_violence_01": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_02": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_03": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_04": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_05": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_06": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_07": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_08": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_09": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_11": {
+        "covered": "none",
+        "phrases": {
+          "0": ""
+        }
+      },
+      "domestic_violence_12": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_13": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_14": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_15": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_16": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_17": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_18": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_19": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_20": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_21": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_22": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_23": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_24": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_25": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_26": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_27": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_28": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_29": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_30": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_31": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_32": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_33": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_34": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_35": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_36": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_37": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_38": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_39": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_40": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_41": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_42": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_43": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_44": {
+        "covered": false,
+        "phrases": {}
+      }
+    }
+  }
+}

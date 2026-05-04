@@ -1,0 +1,1152 @@
+{
+  "session_id": "pov_20260414_173650",
+  "timestamp": "2026-04-14T17:36:50.386502",
+  "metadata": {
+    "crime_type": "Protection Order Violation",
+    "interviewee_name": "Leilani Morales-Ramirez",
+    "interviewee_role": "victim",
+    "dispatch_line": "Protection order violation reported at 1457 Oakwood Drive, victim requesting immediate assistance, suspect is known to the victim"
+  },
+  "scenario": {
+    "crime_type": "Protection Order Violation",
+    "interviewee_role": "victim",
+    "interviewee_name": "Leilani Morales-Ramirez",
+    "dispatch_line": "Protection order violation reported at 1457 Oakwood Drive, victim requesting immediate assistance, suspect is known to the victim",
+    "facts": {
+      "protection_order_violation_01": "No, the suspect did not use firearms during the incident.",
+      "protection_order_violation_02": "Yes, the suspect used firearms in a previous incident on February 10, 2022.",
+      "protection_order_violation_03": "Yes, the suspect made implied threats to use firearms during the incident.",
+      "protection_order_violation_04": "Yes, the suspect made real threats to use firearms in previous incidents.",
+      "protection_order_violation_05": "Yes, the suspect has access to firearms, specifically a Glock 19 located at 1456 Oakwood Drive, Apartment 3B, Denver, CO 80210.",
+      "protection_order_violation_06": "Yes, the victim expressed fear about the suspect's access to firearms, which was captured in the report as 'the victim stated she was in fear for her life due to the suspect's history of violence and access to firearms'.",
+      "protection_order_violation_07": "No, firearms were not confiscated at the scene, but a search warrant is pending to confiscate the firearm from the suspect's address.",
+      "protection_order_violation_08": "Yes, the suspect is prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence on January 5, 2020.",
+      "protection_order_violation_09": "Yes, the suspect is prohibited from possessing firearms due to a qualifying order of protection issued on March 15, 2022.",
+      "protection_order_violation_10": "No, the suspect is not prohibited from possessing firearms due to dishonorable discharge from the military.",
+      "protection_order_violation_11": "Yes, the relationship of the parties is identified as intimate partners, specifically boyfriend and girlfriend.",
+      "protection_order_violation_12": "The history of the relationship includes frequent incidents of violence, intimidation, and threats, with the most recent incident occurring on April 1, 2023.",
+      "protection_order_violation_13": "Yes, all witnesses, including the neighbor, were interviewed and documented.",
+      "protection_order_violation_14": "Yes, a kitchen knife was used as a weapon by the suspect.",
+      "protection_order_violation_15": "The victim reported feeling 'terrified' and 'helpless' during the incident.",
+      "protection_order_violation_16": "Evidence collected includes a torn piece of clothing, a broken cell phone, and a witness statement.",
+      "protection_order_violation_17": "Yes, evidence of fear is articulated in the report, specifically the victim's statement that 'she was in fear for her life'.",
+      "protection_order_violation_18": "Yes, all threats, including the implied threat to use firearms, have been clearly documented.",
+      "protection_order_violation_19": "Yes, stalking behaviors, including repeated calling and sending unwanted gifts, have been identified.",
+      "protection_order_violation_20": "Yes, the use of coercion and/or force is articulated in the report, specifically the suspect's use of physical force to restrain the victim.",
+      "protection_order_violation_21": "Yes, all injuries, including visible bruises and non-visible emotional trauma, have been documented.",
+      "protection_order_violation_22": "Yes, there was property damage, including a broken cell phone and a torn piece of clothing.",
+      "protection_order_violation_23": "Yes, the victim reported being strangled, which was described in detail as 'the suspect put his hands around her neck and squeezed'. EMS was summoned due to the reported strangulation.",
+      "protection_order_violation_24": "Yes, the victim needed medical attention and was transported to the hospital for treatment.",
+      "protection_order_violation_25": "Yes, all spontaneous statements, including the victim's statement that 'she was in fear for her life', have been captured and documented.",
+      "protection_order_violation_26": "Yes, information about local service providers, including the National Domestic Violence Hotline, was provided to the victim.",
+      "protection_order_violation_27": "Yes, a threat/risk assessment tool was used with the victim to assess her risk of further violence.",
+      "protection_order_violation_28": "Yes, the officer gathered comprehensive information about the suspect, including his criminal history and previous incidents of violence.",
+      "protection_order_violation_29": "Yes, an arrest was made, and the suspect was taken into custody. The suspect was read his Miranda rights prior to questioning.",
+      "protection_order_violation_30": "The suspect reported feeling 'angry' and 'defensive' during the incident.",
+      "protection_order_violation_31": "Yes, a threat/risk assessment tool was used with the suspect to assess his risk of further violence.",
+      "protection_order_violation_32": "Yes, the proper protocol was followed when the suspect was not on the scene, including obtaining a search warrant to confiscate the firearm.",
+      "protection_order_violation_33": "Yes, there is an active warrant out for the suspect's arrest for a previous incident of domestic violence.",
+      "protection_order_violation_34": "Yes, the suspect has been the respondent to a protection order in the past, specifically on January 10, 2020.",
+      "protection_order_violation_35": "Yes, the time of the call is recorded, including the time of incident (02:45 AM), time of dispatch (02:50 AM), and time of arrival (03:05 AM).",
+      "protection_order_violation_36": "Yes, the scene is concisely described and diagramed, including the location of the suspect's vehicle and the victim's residence.",
+      "protection_order_violation_37": "Yes, photos were taken and details recorded, including the victim's injuries and the damage to the residence.",
+      "protection_order_violation_38": "Yes, the elements of the crime(s) are articulated to meet state and/or federal laws, specifically the elements of domestic violence and violation of a protection order."
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Can you tell me what happened, starting at the beginning?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nervously) Oh, okay... I'll try. It's just been really scary and overwhelming. (pausing to collect my thoughts) I think it started a few days ago, when my ex-boyfriend... (hesitating) ...when he started calling me repeatedly and sending me gifts. I had already gotten a protection order against him, but he just wouldn't leave me alone. (my voice starts to shake) And then, last night... he showed up at my apartment. I was so scared. He was angry and yelling, and... (taking a deep breath) ...he had a kitchen knife. He used it to... to threaten me. (my eyes well up with tears) He put his hands around my neck and squeezed. I thought I was going to pass out. I was so afraid he was going to kill me. (sobbing) I'm just so glad the police came when they did. They saved me. (composing myself slightly) I don't know what would have happened if they hadn't gotten there when they did.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "What is his name?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(sniffling) His name is... (pausing, hesitant to say it out loud) ...my ex-boyfriend's name is... (taking a deep breath) ...I don't think I'm supposed to say his name, is that right? (looking at you uncertainly) I mean, I've already told the other officer, but... (trailing off) Oh, I'm sorry. His name is... (whispering) the same person who has been harassing me and violating the protection order. (looking down, tears welling up in my eyes again)",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Do you know his address?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nervously) Y-yes... I think it's... (pausing, trying to remember) 1456 Oakwood Drive, Apartment 3B, in Denver. That's where he's been staying, I think. (looking up at you) He's been keeping a gun there, too. A Glock 19. I'm scared he's going to use it to hurt me. (my voice trembling) That's one of the reasons I was so afraid last night. He didn't have the gun with him, but... (shuddering) he implied that he might use it if I didn't do what he wanted.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Can you describe his appearance for me?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(thinking for a moment) He's... um... about 5'10\" or 5'11\" with a medium build. He has short, dark brown hair and brown eyes. He usually has a bit of stubble on his face, but sometimes he shaves. (pausing, trying to remember any distinctive features) He has a scar above his left eyebrow, from a fight we got into a few years ago. And he has a tattoo of a snake on his right forearm. (shuddering slightly at the memory) I've seen him wear a silver necklace with a little pendant, but I don't know what it is. He usually wears jeans and a t-shirt or a hoodie. (looking down, my voice barely above a whisper) I'm sorry, I don't know if that helps...",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "Are there any other witnesses of what he did last night?"
+    },
+    {
+      "role": "assistant",
+      "content": "(nodding) Yes, my neighbor... she saw some of what happened. She lives in the apartment next door, and she heard us arguing. She came over and saw him... (shuddering) ...with the knife, and she called the police. I'm so grateful she did. I don't know what would have happened if she hadn't intervened. (tearfully) She was really brave, and I'm just so thankful she was there for me. The police talked to her, and she gave them a statement. I think they also got some other evidence from the scene... like my broken phone and some torn clothes. (sniffling) It was all just so scary and overwhelming..."
+    }
+  ],
+  "coverage_flags": {
+    "protection_order_violation_01": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_02": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_03": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_04": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_05": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_06": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_07": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_08": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_09": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_10": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_11": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Can you tell me what happened, starting at the beginning?",
+          "coverage": "partial",
+          "reasoning": "The question 'Can you tell me what happened, starting at the beginning?' may elicit information about the relationship of the parties, but it does not directly ask about it."
+        }
+      }
+    },
+    "protection_order_violation_12": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Can you tell me what happened, starting at the beginning?",
+          "coverage": "partial",
+          "reasoning": "The question may lead to a discussion about the history of the relationship as the victim recounts what happened, but it does not specifically ask for this information."
+        }
+      }
+    },
+    "protection_order_violation_13": {
+      "covered": "full",
+      "messages": {
+        "8": {
+          "officer_message": "Are there any other witnesses of what he did last night?",
+          "coverage": "full",
+          "reasoning": "The officer's question directly asks about other witnesses, which would elicit a complete answer about whether all witnesses were interviewed and documented."
+        }
+      }
+    },
+    "protection_order_violation_14": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_15": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Can you tell me what happened, starting at the beginning?",
+          "coverage": "partial",
+          "reasoning": "As the victim describes what happened, they may express their emotional state, but the question does not directly ask about their feelings or thoughts."
+        }
+      }
+    },
+    "protection_order_violation_16": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_17": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_18": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Can you tell me what happened, starting at the beginning?",
+          "coverage": "partial",
+          "reasoning": "The victim's account of what happened may include threats made by the suspect, but the question does not specifically ask about threats."
+        }
+      }
+    },
+    "protection_order_violation_19": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_20": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_21": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Can you tell me what happened, starting at the beginning?",
+          "coverage": "partial",
+          "reasoning": "The question may lead to a discussion about injuries if the victim describes being hurt, but it does not directly ask about injuries."
+        }
+      }
+    },
+    "protection_order_violation_22": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_23": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_24": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_25": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Can you tell me what happened, starting at the beginning?",
+          "coverage": "partial",
+          "reasoning": "The victim's spontaneous statements may be captured as they describe what happened, but the question does not specifically ask for these statements."
+        }
+      }
+    },
+    "protection_order_violation_26": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_27": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_28": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Can you tell me what happened, starting at the beginning?",
+          "coverage": "partial",
+          "reasoning": "Information about the suspect may be gathered as the victim describes what happened, but the question does not directly ask for comprehensive information about the suspect."
+        },
+        "2": {
+          "officer_message": "What is his name?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'What is his name?' implies gathering information about the suspect, which is a part of comprehensive information about the suspect."
+        },
+        "4": {
+          "officer_message": "Do you know his address?",
+          "coverage": "partial",
+          "reasoning": "The question 'Do you know his address?' implies gathering information about the suspect, which is a part of comprehensive information about the suspect."
+        },
+        "6": {
+          "officer_message": "Can you describe his appearance for me?",
+          "coverage": "partial",
+          "reasoning": "The officer's question about the suspect's appearance is related to gathering comprehensive information about the suspect, but it does not cover all aspects of this element."
+        }
+      }
+    },
+    "protection_order_violation_29": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_30": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_31": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_32": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_33": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_34": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_35": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_36": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_37": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_38": {
+      "covered": false,
+      "messages": {}
+    }
+  },
+  "narrative": "Last Night, the victim's ex boyfriend came to the victim's house and allegedly brandished a knife and threatened her life with a gun, kept at his residence in Denver. The neighbor who filed a police report was a victim to the crime.",
+  "narrative_coverage": {
+    "protection_order_violation_01": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_02": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_03": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_04": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_05": {
+      "covered": "partial",
+      "phrases": {
+        "0": "a gun, kept at his residence in Denver"
+      }
+    },
+    "protection_order_violation_06": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_07": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_08": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_09": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_11": {
+      "covered": "partial",
+      "phrases": {
+        "0": "the victim's ex boyfriend"
+      }
+    },
+    "protection_order_violation_12": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_13": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_14": {
+      "covered": "full",
+      "phrases": {
+        "0": "allegedly brandished a knife"
+      }
+    },
+    "protection_order_violation_15": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_16": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_17": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_18": {
+      "covered": "full",
+      "phrases": {
+        "0": "threatened her life"
+      }
+    },
+    "protection_order_violation_19": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_20": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_21": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_22": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_23": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_24": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_25": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_26": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_27": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_28": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_29": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_30": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_31": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_32": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_33": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_34": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_35": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_36": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_37": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_38": {
+      "covered": false,
+      "phrases": {}
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "protection_order_violation_01",
+        "element": "Did the suspect use firearms during the incident that occurred?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_02",
+        "element": "Did the suspect use firearms in previous incidents?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_03",
+        "element": "Did the suspect make threats\u2014 real or implied\u2014 to use firearms during the incident that occurred?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_04",
+        "element": "Did the suspect make threats\u2014 real or implied\u2014 to use firearms in previous incidents?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_05",
+        "element": "Does the suspect have access to firearms? If so, what are the details of the firearms? Where are they located?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "a gun, kept at his residence in Denver"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "protection_order_violation_06",
+        "element": "Did the victim express fear about the suspect\u2019s access to firearms? If so, how was this captured in the report?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_07",
+        "element": "Were firearms/weapons confiscated? If so, on what grounds?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_08",
+        "element": "Is this individual prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_09",
+        "element": "Is this individual prohibited from possessing firearms due to a qualifying order of protection?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_10",
+        "element": "Is this individual prohibited from possessing firearms due to dishonorable discharge from the military?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_11",
+        "element": "Is the relationship of the parties identified?",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Can you tell me what happened, starting at the beginning?",
+            "coverage": "partial",
+            "reasoning": "The question 'Can you tell me what happened, starting at the beginning?' may elicit information about the relationship of the parties, but it does not directly ask about it."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "the victim's ex boyfriend"
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "protection_order_violation_12",
+        "element": "What is the history of the relationship? (include frequency of any violence, intimidation, and threats)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Can you tell me what happened, starting at the beginning?",
+            "coverage": "partial",
+            "reasoning": "The question may lead to a discussion about the history of the relationship as the victim recounts what happened, but it does not specifically ask for this information."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "protection_order_violation_13",
+        "element": "Were all witnesses interviewed and documented?",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Are there any other witnesses of what he did last night?",
+            "coverage": "full",
+            "reasoning": "The officer's question directly asks about other witnesses, which would elicit a complete answer about whether all witnesses were interviewed and documented."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "protection_order_violation_14",
+        "element": "Were weapons/objects used?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "allegedly brandished a knife"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_15",
+        "element": "What was the emotional state of the victim (what did they report they were thinking and feeling)?",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Can you tell me what happened, starting at the beginning?",
+            "coverage": "partial",
+            "reasoning": "As the victim describes what happened, they may express their emotional state, but the question does not directly ask about their feelings or thoughts."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "protection_order_violation_16",
+        "element": "What evidence was collected?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_17",
+        "element": "Is evidence of fear articulated in the report?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_18",
+        "element": "Have all threats been clearly documented?",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Can you tell me what happened, starting at the beginning?",
+            "coverage": "partial",
+            "reasoning": "The victim's account of what happened may include threats made by the suspect, but the question does not specifically ask about threats."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "threatened her life"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_19",
+        "element": "Are stalking behaviors identified? (e.g. following, repeated calling, sending unwanted gifts)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_20",
+        "element": "Is the use of coercion and/or force articulated?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_21",
+        "element": "Have all injuries (visible and non-visible) been documented? Were injuries existing or new?",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Can you tell me what happened, starting at the beginning?",
+            "coverage": "partial",
+            "reasoning": "The question may lead to a discussion about injuries if the victim describes being hurt, but it does not directly ask about injuries."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "protection_order_violation_22",
+        "element": "Was there any property damage? Theft? Burglary?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_23",
+        "element": "Did the victim report being strangled (\u201cchoked\u201d)? If so, was it described in detail?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_24",
+        "element": "Did the victim need medical attention?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_25",
+        "element": "Were all spontaneous statements captured and documented?",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Can you tell me what happened, starting at the beginning?",
+            "coverage": "partial",
+            "reasoning": "The victim's spontaneous statements may be captured as they describe what happened, but the question does not specifically ask for these statements."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "protection_order_violation_26",
+        "element": "Was information provided to the victim about local service providers?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_27",
+        "element": "Was a threat/risk assessment tool used with the victim?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_28",
+        "element": "Did the officer gather comprehensive information about the suspect?",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Can you tell me what happened, starting at the beginning?",
+            "coverage": "partial",
+            "reasoning": "Information about the suspect may be gathered as the victim describes what happened, but the question does not directly ask for comprehensive information about the suspect."
+          },
+          "2": {
+            "officer_message": "What is his name?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'What is his name?' implies gathering information about the suspect, which is a part of comprehensive information about the suspect."
+          },
+          "4": {
+            "officer_message": "Do you know his address?",
+            "coverage": "partial",
+            "reasoning": "The question 'Do you know his address?' implies gathering information about the suspect, which is a part of comprehensive information about the suspect."
+          },
+          "6": {
+            "officer_message": "Can you describe his appearance for me?",
+            "coverage": "partial",
+            "reasoning": "The officer's question about the suspect's appearance is related to gathering comprehensive information about the suspect, but it does not cover all aspects of this element."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "protection_order_violation_29",
+        "element": "Was an arrest made?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_30",
+        "element": "What was the emotional state of the suspect (what did they report they were thinking and feeling)?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_31",
+        "element": "Was a threat/risk assessment tool used with the suspect?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_32",
+        "element": "Was the proper protocol followed if the suspect was not on the scene?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_33",
+        "element": "Are there any active warrants out for the suspect?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_34",
+        "element": "Has the suspect been the respondent to a protection order in the past?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_35",
+        "element": "Is the time of the call recorded (including time of incident, time of dispatch, time of arrival)?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_36",
+        "element": "Is the scene concisely described/diagramed?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_37",
+        "element": "Were photos taken and details recorded?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_38",
+        "element": "Are the elements of the crime(s) articulated to meet state and/or federal laws?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      }
+    ],
+    "contradictions_interview": [],
+    "contradictions_narrative": [
+      {
+        "element_id": "protection_order_violation_11",
+        "element": "Is the relationship of the parties identified?",
+        "location": 0,
+        "source": "narrative",
+        "phrase": "ex boyfriend",
+        "contradicts": "Yes, the relationship of the parties is identified as intimate partners, specifically boyfriend and girlfriend.",
+        "explanation": "The text states 'ex boyfriend', which directly conflicts with the established scenario fact that the relationship of the parties is identified as intimate partners, specifically boyfriend and girlfriend, implying they are currently in a relationship."
+      }
+    ],
+    "grammar": [
+      {
+        "chunk": 0,
+        "source": "language_tool",
+        "error_type": "EN_COMPOUNDS_EX_BOYFRIEND",
+        "excerpt": "ex boyfriend",
+        "suggestion": "ex-boyfriend"
+      },
+      {
+        "chunk": 0,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "the victim's ex boyfriend came to the victim's house and allegedly brandished a knife and threatened her life with a gun, kept at his residence in Denver",
+        "suggestion": "the victim's ex-boyfriend came to the victim's house and allegedly brandished a knife and threatened the victim's life with a gun, which he kept at his residence in Denver"
+      },
+      {
+        "chunk": 0,
+        "source": "llm",
+        "error_type": "Run-on sentence",
+        "excerpt": "the victim's ex boyfriend came to the victim's house and allegedly brandished a knife and threatened her life with a gun, kept at his residence in Denver",
+        "suggestion": "the victim's ex-boyfriend came to the victim's house and allegedly brandished a knife and threatened the victim's life with a gun. The gun was kept at his residence in Denver"
+      },
+      {
+        "chunk": 0,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "The neighbor who filed a police report was a victim to the crime",
+        "suggestion": "The neighbor who filed a police report was a witness to the crime, not the victim"
+      }
+    ],
+    "style": [
+      {
+        "chunk": 0,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "the victim's ex boyfriend came to the victim's house and allegedly brandished a knife and threatened her life",
+        "suggestion": "I was told that the victim's ex-boyfriend came to the victim's house and brandished a knife, threatening her life"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "allegedly brandished a knife and threatened her life",
+        "suggestion": "the victim stated that her ex-boyfriend brandished a knife and said 'I will kill you'"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "the victim's ex boyfriend came to the victim's house",
+        "suggestion": "the victim told me that her ex-boyfriend came to her house"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 10",
+        "error_type": "chronological order",
+        "excerpt": "Last Night, the victim's ex boyfriend came to the victim's house",
+        "suggestion": "On the previous night, the victim told me that her ex-boyfriend came to her house"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "Last Night",
+        "suggestion": "On February 10, 2024, at approximately 2200 hours"
+      }
+    ],
+    "narrative_coverage": {
+      "protection_order_violation_01": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_02": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_03": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_04": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_05": {
+        "covered": "partial",
+        "phrases": {
+          "0": "a gun, kept at his residence in Denver"
+        }
+      },
+      "protection_order_violation_06": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_07": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_08": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_09": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_11": {
+        "covered": "partial",
+        "phrases": {
+          "0": "the victim's ex boyfriend"
+        }
+      },
+      "protection_order_violation_12": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_13": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_14": {
+        "covered": "full",
+        "phrases": {
+          "0": "allegedly brandished a knife"
+        }
+      },
+      "protection_order_violation_15": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_16": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_17": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_18": {
+        "covered": "full",
+        "phrases": {
+          "0": "threatened her life"
+        }
+      },
+      "protection_order_violation_19": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_20": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_21": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_22": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_23": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_24": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_25": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_26": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_27": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_28": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_29": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_30": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_31": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_32": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_33": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_34": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_35": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_36": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_37": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_38": {
+        "covered": false,
+        "phrases": {}
+      }
+    }
+  }
+}

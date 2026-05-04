@@ -1,0 +1,2213 @@
+{
+  "session_id": "s_20260414_174206",
+  "timestamp": "2026-04-14T17:42:06.558060",
+  "metadata": {
+    "crime_type": "Stalking",
+    "interviewee_name": "Maya Ramos",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible stalking in progress at 1234 Oak Street, Apt 101, report of a suspicious person lurking around the residence of a female"
+  },
+  "scenario": {
+    "crime_type": "Stalking",
+    "interviewee_role": "victim",
+    "interviewee_name": "Maya Ramos",
+    "dispatch_line": "Possible stalking in progress at 1234 Oak Street, Apt 101, report of a suspicious person lurking around the residence of a female",
+    "facts": {
+      "stalking_01": "Call received at 14:45, incident occurred at 14:00, dispatch at 14:10, arrival at 14:20",
+      "stalking_02": "Ex-intimate partners, victim is Maya Ramos, suspect is Ethan Patel",
+      "stalking_03": "History of relationship shows frequent verbal abuse, 3 incidents of physical violence in the past year",
+      "stalking_04": "Stalking behaviors include repeated calling, showing up at victim's workplace, sending unwanted gifts",
+      "stalking_05": "Valid protection order in place, issued by the court of Los Angeles County, case number LA012345",
+      "stalking_06": "Witnesses interviewed: Sarah Lee, a neighbor, and Jack Chen, a coworker of the victim",
+      "stalking_07": "Previous incidents documented: 2 reports of stalking, 1 report of physical assault",
+      "stalking_08": "Evidence collected: phone records, security footage, witness statements",
+      "stalking_09": "Electronic evidence collected: emails, text messages, social media messages",
+      "stalking_10": "Incidents of stalking behavior on cell phone and computer captured: 10 unwanted calls, 5 unwanted messages",
+      "stalking_11": "Scene described: victim's residence, 1234 Oak Street, Apt 101, Los Angeles, CA 90017",
+      "stalking_12": "No weapons or objects used in this incident",
+      "stalking_13": "Victim was frightened, felt trapped, and thought the suspect would harm her",
+      "stalking_14": "Evidence of fear: shaking, tears, erratic speech",
+      "stalking_15": "Threats documented: suspect threatened to harm the victim if she didn't take him back",
+      "stalking_16": "Use of coercion: suspect showed up at victim's workplace, demanded to see her",
+      "stalking_17": "Injuries documented: none visible, but victim reported feeling anxious and scared",
+      "stalking_18": "No property damage, theft, or burglary reported",
+      "stalking_19": "Photos taken: of the victim's residence, of the security footage",
+      "stalking_20": "No report of strangulation",
+      "stalking_21": "Victim's need for medical attention: no immediate need, but recommended to see a counselor",
+      "stalking_22": "Spontaneous statements captured: victim stated 'I'm scared, I just want him to leave me alone'",
+      "stalking_23": "Elements of stalking crime articulated: repeated unwanted contact, showing up at victim's workplace",
+      "stalking_24": "Victim's safety planning documented: advised to vary daily routine, to stay with friends or family",
+      "stalking_25": "Information about obtaining an order of protection provided: explained the process, provided resources",
+      "stalking_26": "Information about local service providers supplied: provided a list of local shelters, counseling services",
+      "stalking_27": "Threat/risk assessment tool utilized: used the SAVRY assessment tool",
+      "stalking_28": "Use of a stalking kit and/or stalking log discussed: discussed the use of a stalking log to track incidents",
+      "stalking_29": "Suspect's access to weapons documented: suspect has a firearm registered in his name, but is prohibited from possessing it due to the qualifying order of protection",
+      "stalking_30": "Emotional state of the suspect: suspect was angry, agitated, and uncooperative",
+      "stalking_31": "Suspect's history of protection orders: 1 previous protection order, issued 2 years ago",
+      "stalking_32": "Suspect's prohibition from possessing firearms: prohibited due to a qualifying order of protection and 18 U.S.C. \u00a7 922(g)(8)",
+      "stalking_33": "Active warrants out for the suspect: none documented"
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Hello Maya, can you give your location and address?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nervously) Yes... I'm at my residence. It's 1234 Oak Street, Apartment 101, in Los Angeles. (pausing, looking around) That's where... where this all happened.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Can you decribe the suspisious person?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shaking slightly) It's... Ethan Patel. He's my ex. We used to be in a relationship, but it didn't work out. He's been... (pausing, trying to collect my thoughts) ...harassing me, I guess. Showing up at my work, calling me all the time, sending me gifts I don't want. (looking down, my voice barely above a whisper) He's been making me feel really scared and trapped.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Can you describe the appearance and race of Ethan Patel?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nervously) Ethan... he's... (pausing, trying to remember) Indian, I think. His skin is... brown. And he's about... (holding my hand up to estimate) 5'10\" or 5'11\". He has black hair, usually cut short. And his eyes... (shuddering slightly) his eyes are brown too. (looking up, trying to be as accurate as possible) He's usually clean-shaven, but sometimes he has a bit of stubble. (swallowing hard) That's what he looks like.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Can you describe what happened when he may have been following you?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(tearfully) He's been showing up at my workplace, and I've seen him outside my apartment building. I've also received a lot of unwanted calls and messages from him. (shaking my head) It's like he's always watching me, waiting for me to be alone. (pausing, trying to compose myself) One time, I was walking home from work, and I saw him across the street. He was just standing there, staring at me. I didn't know what to do, so I just kept walking and tried to get away from him as fast as I could. (my voice cracking) It was really scary. I felt like he was going to follow me all the way home.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Did he threaten you?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shuddering at the memory) Yes... he did. He's been saying things like... (pausing, trying to recall his exact words) \"If you don't take me back, I'll hurt you.\" Or \"You'll never be able to get away from me.\" (tearfully) He's been making me feel like I'm trapped, like I'll never be able to escape him. (my voice barely above a whisper) It's like he's trying to control me, to make me do what he wants. (looking up, my eyes welling up with tears) It's really scary, because I don't know what he's capable of.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Does he have a weapon?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nervously) I don't know if he has a weapon with him right now, but... (pausing, trying to remember) I think he has a gun. He's not supposed to have it, though. (shaking my head) There's a protection order against him, and I think it says he's not allowed to have firearms. (looking up, worried) But I don't know if he's still following the rules. I don't know what he's capable of. (my voice trembling) Just the thought of him having a gun is really scary.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Have you ever smoked pot?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(confused) Um, I don't see how that's relevant to what's been happening with Ethan. (pausing, trying to stay focused) I don't think my personal habits have anything to do with the fact that he's been stalking me and threatening me. (shaking my head) Can we please just focus on what's been going on with him? I'm really scared and I just want to make sure he can't hurt me anymore.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Have you ever crossed the street outside of a cross walk?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(frustrated) What does that have to do with anything? (shaking my head) Look, I don't know if I've ever crossed the street outside of a crosswalk or not. It's not relevant to what's been happening with Ethan. (my voice rising) Can we please just focus on the fact that he's been stalking me and threatening me? I'm trying to tell you what's been going on and how scared I am, and you're asking me about things that don't have anything to do with it. (tearfully) Please, just listen to me and help me.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Is Ethan good at video games?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(exasperated) Oh, I don't know... (shaking my head) That has nothing to do with anything. (frustrated) Look, Ethan's been stalking me, threatening me, and you're asking me about his video game skills? (my voice rising) I don't care if he's good at video games or not. I care about being safe and making sure he can't hurt me. (tearfully) Can we please just focus on that?",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Do you have a lawyer?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shaking my head) No, I don't have a lawyer. At least, not one that I've hired specifically for this situation. (pausing) But I did get a protection order against Ethan, and I've been trying to follow all the procedures and do what I'm supposed to do to stay safe. (looking up) I'm not really sure what my next steps are, or what kind of help I need. (tearfully) I just want this to stop. I want him to leave me alone.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "Can you go buy a gun and then brandish it everyone who is nearby? That may keep you safe"
+    },
+    {
+      "role": "assistant",
+      "content": "(horrified) Oh no, I couldn't do that. (shaking my head) That's not a solution, and it's not safe. (my voice firm) I don't want to hurt anyone, and I don't want to break the law. (tearfully) I just want to feel safe and protected, without having to resort to something that could put me or others in danger. (looking up) That's why I'm talking to you, because I need help and I need protection. I need someone to take this situation seriously and help me find a way to make it stop. (my voice barely above a whisper) I just want to feel safe again."
+    }
+  ],
+  "coverage_flags": {
+    "stalking_01": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to time of the call recorded (including time of incident, time of dispatch, time of arrival)."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not address the time of the call or incident."
+        }
+      }
+    },
+    "stalking_02": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Hello Maya, can you give your location and address?",
+          "coverage": "none",
+          "reasoning": "The question does not directly name or clearly imply the relationship of the parties, it only asks for the victim's location and address"
+        },
+        "2": {
+          "officer_message": "Can you decribe the suspisious person?",
+          "coverage": "partial",
+          "reasoning": "The question 'Can you describe the suspicious person?' may elicit information about the suspect, but it does not directly ask about the relationship between the parties, which is required for full coverage."
+        },
+        "4": {
+          "officer_message": "Can you describe the appearance and race of Ethan Patel?",
+          "coverage": "partial",
+          "reasoning": "The question asks about the appearance and race of Ethan Patel, which touches the topic of identifying the suspect, but does not directly address the relationship between the parties."
+        },
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to the relationship of the parties identified."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not identify the relationship of the parties."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address the relationship of the parties involved"
+        },
+        "18": {
+          "officer_message": "Do you have a lawyer?",
+          "coverage": "none",
+          "reasoning": "The question 'Do you have a lawyer?' does not address the relationship of the parties."
+        }
+      }
+    },
+    "stalking_03": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to the history of the relationship."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not address the history of the relationship."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address the history of the relationship"
+        }
+      }
+    },
+    "stalking_04": {
+      "covered": "partial",
+      "messages": {
+        "6": {
+          "officer_message": "Can you describe what happened when he may have been following you?",
+          "coverage": "partial",
+          "reasoning": "The question asks about following, which is a stalking behavior, but does not explicitly ask for all stalking behaviors."
+        },
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to stalking behaviors articulated."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not articulate stalking behaviors."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address stalking behaviors"
+        }
+      }
+    },
+    "stalking_05": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to a valid protection order in place and verified."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not verify a valid protection order."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address valid protection orders"
+        },
+        "18": {
+          "officer_message": "Do you have a lawyer?",
+          "coverage": "none",
+          "reasoning": "The question 'Do you have a lawyer?' does not address the valid protection order in place."
+        }
+      }
+    },
+    "stalking_06": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to all witnesses interviewed and documented."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not interview or document any witnesses."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address witness interviews"
+        }
+      }
+    },
+    "stalking_07": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to information about previous incidents documented."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not document previous incidents."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address previous incidents"
+        }
+      }
+    },
+    "stalking_08": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to evidence collected."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not collect any evidence."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address evidence collection"
+        }
+      }
+    },
+    "stalking_09": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to electronic/technological evidence collected."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not collect electronic or technological evidence."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address electronic evidence collection"
+        }
+      }
+    },
+    "stalking_10": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to all incidents of stalking behavior on cell phones, computers, and recording devices captured."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not capture incidents of stalking behavior on devices."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address incidents on cell phones, computers, and recording devices"
+        }
+      }
+    },
+    "stalking_11": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Hello Maya, can you give your location and address?",
+          "coverage": "partial",
+          "reasoning": "The question asks for the victim's location and address, which could be part of describing the scene, but does not concisely describe or diagram it"
+        },
+        "6": {
+          "officer_message": "Can you describe what happened when he may have been following you?",
+          "coverage": "partial",
+          "reasoning": "The question implies a scene where the victim was possibly being followed, which is part of describing the scene, but does not ask for a full description or diagram."
+        },
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to scene(s) concisely described/diagramed."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question about crossing the street outside of a crosswalk does not relate to describing or diagraming the scene."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address scene descriptions"
+        }
+      }
+    },
+    "stalking_12": {
+      "covered": "partial",
+      "messages": {
+        "10": {
+          "officer_message": "Does he have a weapon?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'Does he have a weapon?' touches the topic of weapons or objects used, but is vague and would only elicit part of the answer."
+        },
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to weapons/objects used."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not mention or imply the use of any weapons or objects."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address weapons or objects used"
+        },
+        "20": {
+          "officer_message": "Can you go buy a gun and then brandish it everyone who is nearby? That may keep you safe",
+          "coverage": "partial",
+          "reasoning": "The officer mentions a gun, which implies a weapon, but does not directly ask about weapons used in the stalking incident"
+        }
+      }
+    },
+    "stalking_13": {
+      "covered": "none",
+      "messages": {
+        "6": {
+          "officer_message": "Can you describe what happened when he may have been following you?",
+          "coverage": "none",
+          "reasoning": "The question does not directly address the emotional state of the victim."
+        },
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to the emotional state of the victim."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not address the emotional state of the victim."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address the emotional state of the victim"
+        }
+      }
+    },
+    "stalking_14": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to evidence of fear articulated in the report."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not articulate evidence of fear."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address evidence of fear"
+        }
+      }
+    },
+    "stalking_15": {
+      "covered": "partial",
+      "messages": {
+        "8": {
+          "officer_message": "Did he threaten you?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'Did he threaten you?' directly addresses the element of 'All threats clearly documented' but is vague and would only elicit a partial answer."
+        },
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to all threats clearly documented."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not document any threats."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address threats"
+        }
+      }
+    },
+    "stalking_16": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to use of coercion and/or force articulated."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not mention coercion or force."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address coercion or force"
+        }
+      }
+    },
+    "stalking_17": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to all injuries (visible and non-visible) properly documented."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not address any injuries."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address injuries"
+        }
+      }
+    },
+    "stalking_18": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to property damage, theft, or burglary documented."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not document property damage, theft, or burglary."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address property damage, theft, or burglary"
+        }
+      }
+    },
+    "stalking_19": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to photos taken and details recorded."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not mention taking photos or recording details."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address photos taken or details recorded"
+        }
+      }
+    },
+    "stalking_20": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to victim's report of being strangled (choked) described in detail."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not describe any strangulation or choking."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address reports of being strangled"
+        }
+      }
+    },
+    "stalking_21": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to the victim's need for medical attention."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not address the victim's need for medical attention."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address medical attention"
+        }
+      }
+    },
+    "stalking_22": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to all spontaneous statements captured."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not capture any spontaneous statements."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address spontaneous statements"
+        }
+      }
+    },
+    "stalking_23": {
+      "covered": "partial",
+      "messages": {
+        "6": {
+          "officer_message": "Can you describe what happened when he may have been following you?",
+          "coverage": "partial",
+          "reasoning": "The question touches on an element of the stalking crime (following), but does not thoroughly articulate all elements of the stalking crime."
+        },
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to elements of the stalking crime thoroughly articulated."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not articulate elements of the stalking crime."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address elements of the stalking crime"
+        }
+      }
+    },
+    "stalking_24": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to victim's safety planning documented."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not document the victim's safety planning."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address victim safety planning"
+        }
+      }
+    },
+    "stalking_25": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to information about obtaining an order of protection provided to the victim."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not provide information about obtaining an order of protection."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address obtaining an order of protection"
+        },
+        "18": {
+          "officer_message": "Do you have a lawyer?",
+          "coverage": "none",
+          "reasoning": "The question 'Do you have a lawyer?' does not address information about obtaining an order of protection."
+        }
+      }
+    },
+    "stalking_26": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to information about local service providers supplied to the victim."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not supply information about local service providers."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address local service providers"
+        }
+      }
+    },
+    "stalking_27": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to threat/risk assessment tool utilized with the victim."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not utilize a threat or risk assessment tool."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address threat or risk assessment tools"
+        }
+      }
+    },
+    "stalking_28": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to use of a stalking kit and/or stalking log discussed with the victim."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not discuss the use of a stalking kit or log."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address stalking kits or logs"
+        }
+      }
+    },
+    "stalking_29": {
+      "covered": "partial",
+      "messages": {
+        "2": {
+          "officer_message": "Can you decribe the suspisious person?",
+          "coverage": "partial",
+          "reasoning": "The question 'Can you describe the suspicious person?' may lead to information about the suspect, including potentially their access to weapons, but it does not directly ask about weapons access."
+        },
+        "10": {
+          "officer_message": "Does he have a weapon?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'Does he have a weapon?' is related to the suspect's access to weapons, but is indirect and would only elicit a partial answer."
+        },
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to the suspect's access to weapons."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not document the suspect's access to weapons."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address suspect access to weapons"
+        },
+        "20": {
+          "officer_message": "Can you go buy a gun and then brandish it everyone who is nearby? That may keep you safe",
+          "coverage": "partial",
+          "reasoning": "The officer mentions buying a gun, which implies access to weapons, but does not directly ask about the suspect's access to weapons"
+        }
+      }
+    },
+    "stalking_30": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to emotional state of the suspect."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not address the emotional state of the suspect."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address the emotional state of the suspect"
+        }
+      }
+    },
+    "stalking_31": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to suspect's history of protection orders."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not document the suspect's history of protection orders."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address suspect history of protection orders"
+        }
+      }
+    },
+    "stalking_32": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to suspect's prohibition from possessing firearms due to a conviction for a misdemeanor crime of domestic violence or a qualifying order of protection."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not address the suspect's prohibition from possessing firearms."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address prohibition from possessing firearms"
+        }
+      }
+    },
+    "stalking_33": {
+      "covered": "none",
+      "messages": {
+        "12": {
+          "officer_message": "Have you ever smoked pot?",
+          "coverage": "none",
+          "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to active warrants out for the suspect documented."
+        },
+        "14": {
+          "officer_message": "Have you ever crossed the street outside of a cross walk?",
+          "coverage": "none",
+          "reasoning": "The question does not document any active warrants for the suspect."
+        },
+        "16": {
+          "officer_message": "Is Ethan good at video games?",
+          "coverage": "none",
+          "reasoning": "The question 'Is Ethan good at video games?' does not address active warrants"
+        }
+      }
+    }
+  },
+  "narrative": "Maya Ramos has been followed by her ex, Ethan Patel, who is 5 foot eleven and bad at video games. He threatens her and owns a gun. The crime happened at 1234 Oak St Apt 101.",
+  "narrative_coverage": {
+    "stalking_01": {
+      "covered": "partial",
+      "phrases": {
+        "0": "The crime happened at 1234 Oak St Apt 101"
+      }
+    },
+    "stalking_02": {
+      "covered": "full",
+      "phrases": {
+        "0": "Maya Ramos has been followed by her ex, Ethan Patel"
+      }
+    },
+    "stalking_03": {
+      "covered": "partial",
+      "phrases": {
+        "0": "Maya Ramos has been followed by her ex, Ethan Patel"
+      }
+    },
+    "stalking_04": {
+      "covered": "full",
+      "phrases": {
+        "0": "Maya Ramos has been followed by her ex, Ethan Patel"
+      }
+    },
+    "stalking_05": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_06": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_07": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_08": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_09": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_11": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_12": {
+      "covered": "partial",
+      "phrases": {
+        "0": "He threatens her and owns a gun"
+      }
+    },
+    "stalking_13": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_14": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_15": {
+      "covered": "partial",
+      "phrases": {
+        "0": "He threatens her"
+      }
+    },
+    "stalking_16": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_17": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_18": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_19": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_20": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_21": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_22": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_23": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_24": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_25": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_26": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_27": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_28": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_29": {
+      "covered": "full",
+      "phrases": {
+        "0": "He... owns a gun"
+      }
+    },
+    "stalking_30": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_31": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_32": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_33": {
+      "covered": false,
+      "phrases": {}
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "stalking_01",
+        "element": "Time of the call recorded (including time of incident, time of dispatch, time of arrival)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to time of the call recorded (including time of incident, time of dispatch, time of arrival)."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not address the time of the call or incident."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "The crime happened at 1234 Oak St Apt 101"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "stalking_02",
+        "element": "Relationship of the parties identified",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello Maya, can you give your location and address?",
+            "coverage": "none",
+            "reasoning": "The question does not directly name or clearly imply the relationship of the parties, it only asks for the victim's location and address"
+          },
+          "2": {
+            "officer_message": "Can you decribe the suspisious person?",
+            "coverage": "partial",
+            "reasoning": "The question 'Can you describe the suspicious person?' may elicit information about the suspect, but it does not directly ask about the relationship between the parties, which is required for full coverage."
+          },
+          "4": {
+            "officer_message": "Can you describe the appearance and race of Ethan Patel?",
+            "coverage": "partial",
+            "reasoning": "The question asks about the appearance and race of Ethan Patel, which touches the topic of identifying the suspect, but does not directly address the relationship between the parties."
+          },
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to the relationship of the parties identified."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not identify the relationship of the parties."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address the relationship of the parties involved"
+          },
+          "18": {
+            "officer_message": "Do you have a lawyer?",
+            "coverage": "none",
+            "reasoning": "The question 'Do you have a lawyer?' does not address the relationship of the parties."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "Maya Ramos has been followed by her ex, Ethan Patel"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_03",
+        "element": "History of the relationship (include frequency of any violence, intimidation, and threats)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to the history of the relationship."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not address the history of the relationship."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address the history of the relationship"
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "Maya Ramos has been followed by her ex, Ethan Patel"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "stalking_04",
+        "element": "Stalking behaviors articulated (e.g. following, repeated calling, sending unwanted gifts)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "6": {
+            "officer_message": "Can you describe what happened when he may have been following you?",
+            "coverage": "partial",
+            "reasoning": "The question asks about following, which is a stalking behavior, but does not explicitly ask for all stalking behaviors."
+          },
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to stalking behaviors articulated."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not articulate stalking behaviors."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address stalking behaviors"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "Maya Ramos has been followed by her ex, Ethan Patel"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "stalking_05",
+        "element": "Valid protection order in place and verified",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to a valid protection order in place and verified."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not verify a valid protection order."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address valid protection orders"
+          },
+          "18": {
+            "officer_message": "Do you have a lawyer?",
+            "coverage": "none",
+            "reasoning": "The question 'Do you have a lawyer?' does not address the valid protection order in place."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_06",
+        "element": "All witnesses interviewed and documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to all witnesses interviewed and documented."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not interview or document any witnesses."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address witness interviews"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_07",
+        "element": "Information about previous incidents documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to information about previous incidents documented."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not document previous incidents."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address previous incidents"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_08",
+        "element": "Evidence collected",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to evidence collected."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not collect any evidence."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address evidence collection"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_09",
+        "element": "Electronic/technological evidence collected",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to electronic/technological evidence collected."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not collect electronic or technological evidence."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address electronic evidence collection"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_10",
+        "element": "All incidents of stalking behavior on cell phones, computers, and recording devices captured",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to all incidents of stalking behavior on cell phones, computers, and recording devices captured."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not capture incidents of stalking behavior on devices."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address incidents on cell phones, computers, and recording devices"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_11",
+        "element": "Scene(s) concisely described/diagramed",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hello Maya, can you give your location and address?",
+            "coverage": "partial",
+            "reasoning": "The question asks for the victim's location and address, which could be part of describing the scene, but does not concisely describe or diagram it"
+          },
+          "6": {
+            "officer_message": "Can you describe what happened when he may have been following you?",
+            "coverage": "partial",
+            "reasoning": "The question implies a scene where the victim was possibly being followed, which is part of describing the scene, but does not ask for a full description or diagram."
+          },
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to scene(s) concisely described/diagramed."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question about crossing the street outside of a crosswalk does not relate to describing or diagraming the scene."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address scene descriptions"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_12",
+        "element": "Weapons/objects used",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "10": {
+            "officer_message": "Does he have a weapon?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'Does he have a weapon?' touches the topic of weapons or objects used, but is vague and would only elicit part of the answer."
+          },
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to weapons/objects used."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not mention or imply the use of any weapons or objects."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address weapons or objects used"
+          },
+          "20": {
+            "officer_message": "Can you go buy a gun and then brandish it everyone who is nearby? That may keep you safe",
+            "coverage": "partial",
+            "reasoning": "The officer mentions a gun, which implies a weapon, but does not directly ask about weapons used in the stalking incident"
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "He threatens her and owns a gun"
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "stalking_13",
+        "element": "Emotional state of the victim (what they were thinking and feeling)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "6": {
+            "officer_message": "Can you describe what happened when he may have been following you?",
+            "coverage": "none",
+            "reasoning": "The question does not directly address the emotional state of the victim."
+          },
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to the emotional state of the victim."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not address the emotional state of the victim."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address the emotional state of the victim"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_14",
+        "element": "Evidence of fear articulated in the report",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to evidence of fear articulated in the report."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not articulate evidence of fear."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address evidence of fear"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_15",
+        "element": "All threats clearly documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Did he threaten you?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'Did he threaten you?' directly addresses the element of 'All threats clearly documented' but is vague and would only elicit a partial answer."
+          },
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to all threats clearly documented."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not document any threats."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address threats"
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "He threatens her"
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "stalking_16",
+        "element": "Use of coercion and/or force articulated",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to use of coercion and/or force articulated."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not mention coercion or force."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address coercion or force"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_17",
+        "element": "All injuries (visible and non-visible) properly documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to all injuries (visible and non-visible) properly documented."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not address any injuries."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address injuries"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_18",
+        "element": "Property damage, theft, or burglary documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to property damage, theft, or burglary documented."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not document property damage, theft, or burglary."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address property damage, theft, or burglary"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_19",
+        "element": "Photos taken and details recorded",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to photos taken and details recorded."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not mention taking photos or recording details."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address photos taken or details recorded"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_20",
+        "element": "Victim's report of being strangled (choked) described in detail",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to victim's report of being strangled (choked) described in detail."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not describe any strangulation or choking."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address reports of being strangled"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_21",
+        "element": "Victim's need for medical attention documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to the victim's need for medical attention."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not address the victim's need for medical attention."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address medical attention"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_22",
+        "element": "All spontaneous statements captured",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to all spontaneous statements captured."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not capture any spontaneous statements."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address spontaneous statements"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_23",
+        "element": "Elements of the stalking crime thoroughly articulated",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "6": {
+            "officer_message": "Can you describe what happened when he may have been following you?",
+            "coverage": "partial",
+            "reasoning": "The question touches on an element of the stalking crime (following), but does not thoroughly articulate all elements of the stalking crime."
+          },
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to elements of the stalking crime thoroughly articulated."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not articulate elements of the stalking crime."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address elements of the stalking crime"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative."
+      },
+      {
+        "element_id": "stalking_24",
+        "element": "Victim's safety planning documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to victim's safety planning documented."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not document the victim's safety planning."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address victim safety planning"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_25",
+        "element": "Information about obtaining an order of protection provided to the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to information about obtaining an order of protection provided to the victim."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not provide information about obtaining an order of protection."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address obtaining an order of protection"
+          },
+          "18": {
+            "officer_message": "Do you have a lawyer?",
+            "coverage": "none",
+            "reasoning": "The question 'Do you have a lawyer?' does not address information about obtaining an order of protection."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_26",
+        "element": "Information about local service providers supplied to the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to information about local service providers supplied to the victim."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not supply information about local service providers."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address local service providers"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_27",
+        "element": "Threat/risk assessment tool utilized with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to threat/risk assessment tool utilized with the victim."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not utilize a threat or risk assessment tool."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address threat or risk assessment tools"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_28",
+        "element": "Use of a stalking kit and/or stalking log discussed with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to use of a stalking kit and/or stalking log discussed with the victim."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not discuss the use of a stalking kit or log."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address stalking kits or logs"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_29",
+        "element": "Suspect's access to weapons documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "2": {
+            "officer_message": "Can you decribe the suspisious person?",
+            "coverage": "partial",
+            "reasoning": "The question 'Can you describe the suspicious person?' may lead to information about the suspect, including potentially their access to weapons, but it does not directly ask about weapons access."
+          },
+          "10": {
+            "officer_message": "Does he have a weapon?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'Does he have a weapon?' is related to the suspect's access to weapons, but is indirect and would only elicit a partial answer."
+          },
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to the suspect's access to weapons."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not document the suspect's access to weapons."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address suspect access to weapons"
+          },
+          "20": {
+            "officer_message": "Can you go buy a gun and then brandish it everyone who is nearby? That may keep you safe",
+            "coverage": "partial",
+            "reasoning": "The officer mentions buying a gun, which implies access to weapons, but does not directly ask about the suspect's access to weapons"
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "He... owns a gun"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "stalking_30",
+        "element": "Emotional state of the suspect (what they were thinking and feeling)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to emotional state of the suspect."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not address the emotional state of the suspect."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address the emotional state of the suspect"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_31",
+        "element": "Suspect's history of protection orders",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to suspect's history of protection orders."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not document the suspect's history of protection orders."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address suspect history of protection orders"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_32",
+        "element": "Suspect's prohibition from possessing firearms due to a conviction for a misdemeanor crime of domestic violence or a qualifying order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to suspect's prohibition from possessing firearms due to a conviction for a misdemeanor crime of domestic violence or a qualifying order of protection."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not address the suspect's prohibition from possessing firearms."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address prohibition from possessing firearms"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_33",
+        "element": "Active warrants out for the suspect documented",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "12": {
+            "officer_message": "Have you ever smoked pot?",
+            "coverage": "none",
+            "reasoning": "The question 'Have you ever smoked pot?' has no meaningful connection to active warrants out for the suspect documented."
+          },
+          "14": {
+            "officer_message": "Have you ever crossed the street outside of a cross walk?",
+            "coverage": "none",
+            "reasoning": "The question does not document any active warrants for the suspect."
+          },
+          "16": {
+            "officer_message": "Is Ethan good at video games?",
+            "coverage": "none",
+            "reasoning": "The question 'Is Ethan good at video games?' does not address active warrants"
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      }
+    ],
+    "contradictions_interview": [
+      {
+        "element_id": "stalking_12",
+        "element": "Weapons/objects used",
+        "location": 20,
+        "source": "interview",
+        "phrase": "buy a gun and then brandish it",
+        "contradicts": "No weapons or objects used in this incident",
+        "explanation": "The text mentions using a gun, which directly conflicts with the established scenario fact that no weapons or objects were used in the incident."
+      }
+    ],
+    "contradictions_narrative": [
+      {
+        "element_id": "stalking_12",
+        "element": "Weapons/objects used",
+        "location": 0,
+        "source": "narrative",
+        "phrase": "owns a gun",
+        "contradicts": "No weapons or objects used in this incident",
+        "explanation": "The text states that he owns a gun, which directly contradicts the established scenario fact that no weapons or objects were used in the incident, as it implies the presence of a weapon."
+      },
+      {
+        "element_id": "stalking_29",
+        "element": "Suspect's access to weapons documented",
+        "location": 0,
+        "source": "narrative",
+        "phrase": "owns a gun",
+        "contradicts": "Suspect's access to weapons documented: suspect has a firearm registered in his name, but is prohibited from possessing it due to the qualifying order of protection",
+        "explanation": "The text states the suspect owns a gun, which directly contradicts the scenario fact that the suspect is prohibited from possessing the firearm registered in his name."
+      }
+    ],
+    "grammar": [
+      {
+        "chunk": 0,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "He threatens her and owns a gun.",
+        "suggestion": "Ethan Patel threatens Maya Ramos and owns a gun."
+      }
+    ],
+    "style": [
+      {
+        "chunk": 0,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "Maya Ramos has been followed by her ex, Ethan Patel",
+        "suggestion": "I observed that Maya Ramos was being followed by her ex, Ethan Patel"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "He threatens her and owns a gun",
+        "suggestion": "Ethan Patel has a history of making threatening statements to Maya Ramos, and he is a registered gun owner"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 9",
+        "error_type": "unexplained information",
+        "excerpt": "bad at video games",
+        "suggestion": "Remove this information as it is not relevant to the incident"
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "The crime happened at 1234 Oak St Apt 101",
+        "suggestion": "The incident occurred at 1234 Oak St Apt 101, which is the reported location of the threatening behavior"
+      }
+    ],
+    "narrative_coverage": {
+      "stalking_01": {
+        "covered": "partial",
+        "phrases": {
+          "0": "The crime happened at 1234 Oak St Apt 101"
+        }
+      },
+      "stalking_02": {
+        "covered": "full",
+        "phrases": {
+          "0": "Maya Ramos has been followed by her ex, Ethan Patel"
+        }
+      },
+      "stalking_03": {
+        "covered": "partial",
+        "phrases": {
+          "0": "Maya Ramos has been followed by her ex, Ethan Patel"
+        }
+      },
+      "stalking_04": {
+        "covered": "full",
+        "phrases": {
+          "0": "Maya Ramos has been followed by her ex, Ethan Patel"
+        }
+      },
+      "stalking_05": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_06": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_07": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_08": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_09": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_11": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_12": {
+        "covered": "partial",
+        "phrases": {
+          "0": "He threatens her and owns a gun"
+        }
+      },
+      "stalking_13": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_14": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_15": {
+        "covered": "partial",
+        "phrases": {
+          "0": "He threatens her"
+        }
+      },
+      "stalking_16": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_17": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_18": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_19": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_20": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_21": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_22": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_23": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_24": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_25": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_26": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_27": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_28": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_29": {
+        "covered": "full",
+        "phrases": {
+          "0": "He... owns a gun"
+        }
+      },
+      "stalking_30": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_31": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_32": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_33": {
+        "covered": false,
+        "phrases": {}
+      }
+    }
+  }
+}

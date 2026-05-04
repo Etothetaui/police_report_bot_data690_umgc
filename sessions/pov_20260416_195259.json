@@ -1,0 +1,2274 @@
+{
+  "session_id": "pov_20260416_195259",
+  "timestamp": "2026-04-16T19:52:59.219100",
+  "metadata": {
+    "crime_type": "Protection Order Violation",
+    "interviewee_name": "Leila Rohini Patel",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible Protection Order Violation at 1452 Santiago Drive, report of Leila Patel being harassed by ex-boyfriend"
+  },
+  "scenario": {
+    "crime_type": "Protection Order Violation",
+    "interviewee_role": "victim",
+    "interviewee_name": "Leila Rohini Patel",
+    "dispatch_line": "Possible Protection Order Violation at 1452 Santiago Drive, report of Leila Patel being harassed by ex-boyfriend",
+    "facts": {
+      "protection_order_violation_01": "No, the suspect did not use firearms during the incident that occurred",
+      "protection_order_violation_02": "Yes, the suspect used firearms in a previous incident on February 10, 2022, at 3456 Oakwood Drive, Atlanta, GA 30301",
+      "protection_order_violation_03": "Yes, the suspect made threats to use firearms during the incident, stating 'I will shoot you if you leave me'",
+      "protection_order_violation_04": "Yes, the suspect made implied threats to use firearms in previous incidents, such as leaving a note with a gun emoji at the victim's workplace, 123 Main Street, Suite 400, Denver, CO 80202",
+      "protection_order_violation_05": "Yes, the suspect has access to a 9mm handgun, which is located at their residence, 2345 Maple Street, Chicago, IL 60614",
+      "protection_order_violation_06": "Yes, the victim expressed fear about the suspect's access to firearms, stating 'I'm scared he will shoot me' in the report",
+      "protection_order_violation_07": "No, firearms were not confiscated at the scene because the suspect was not present and no search warrant was obtained. A search warrant will be sought to confiscate the firearms from the suspect's address.",
+      "protection_order_violation_08": "Yes, the suspect is prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence on January 15, 2020",
+      "protection_order_violation_09": "Yes, the suspect is prohibited from possessing firearms due to a qualifying order of protection issued on June 1, 2022",
+      "protection_order_violation_10": "No, the suspect has not been dishonorably discharged from the military",
+      "protection_order_violation_11": "The relationship of the parties is identified as intimate partners, with the suspect, Javier Sanchez, and the victim, Leila Patel, having been in a romantic relationship for 3 years",
+      "protection_order_violation_12": "The history of the relationship includes frequent verbal arguments, with 3 incidents of physical violence in the past year, including an incident on March 20, 2022, where the suspect pushed the victim at their residence, 456 Elm Street, Los Angeles, CA 90012",
+      "protection_order_violation_13": "Yes, all witnesses, including the victim's sister, Sofia Patel, and the suspect's brother, Carlos Sanchez, were interviewed and documented",
+      "protection_order_violation_14": "Yes, a kitchen knife was used as a weapon by the suspect to threaten the victim",
+      "protection_order_violation_15": "The victim reported feeling scared, anxious, and trapped during the incident",
+      "protection_order_violation_16": "Evidence collected includes a torn shirt, a broken vase, and a handwritten note with threatening messages, which were stored in evidence bags labeled as 'POV-001' and 'POV-002'",
+      "protection_order_violation_17": "Yes, evidence of fear is articulated in the report, with the victim stating 'I was terrified' and 'I thought he was going to hurt me'",
+      "protection_order_violation_18": "Yes, all threats made by the suspect were clearly documented, including the threat to shoot the victim",
+      "protection_order_violation_19": "Yes, stalking behaviors were identified, including repeated phone calls and showing up at the victim's workplace, 901 Broadway, New York, NY 10003",
+      "protection_order_violation_20": "Yes, the use of coercion and force was articulated, with the suspect using physical force to restrain the victim",
+      "protection_order_violation_21": "Yes, all injuries, including a bruise on the victim's arm and a cut on their hand, were documented, with photos taken and stored in the case file as 'POV-003' and 'POV-004'",
+      "protection_order_violation_22": "Yes, there was property damage, including a broken vase and a torn shirt, with a total estimated damage of $500",
+      "protection_order_violation_23": "Yes, the victim reported being strangled by the suspect, with difficulty breathing and a raspy voice, and the incident was described in detail in the report",
+      "protection_order_violation_24": "Yes, the victim needed medical attention and was transported to the hospital, where they were treated for non-life-threatening injuries",
+      "protection_order_violation_25": "Yes, all spontaneous statements, including the suspect's statement 'I didn't mean to hurt her', were captured and documented",
+      "protection_order_violation_26": "Yes, information about local service providers, including the National Domestic Violence Hotline, was provided to the victim",
+      "protection_order_violation_27": "Yes, a threat/risk assessment tool was used with the victim, which indicated a high risk of further violence",
+      "protection_order_violation_28": "Yes, the officer gathered comprehensive information about the suspect, including their address, 789 Pine Street, Miami, FL 33101, and employment history",
+      "protection_order_violation_29": "Yes, an arrest was made, with the suspect being taken into custody at 10:45 PM on the night of the incident",
+      "protection_order_violation_30": "The suspect reported feeling angry and frustrated during the incident",
+      "protection_order_violation_31": "Yes, a threat/risk assessment tool was used with the suspect, which indicated a high risk of further violence",
+      "protection_order_violation_32": "Yes, the proper protocol was followed when the suspect was not on the scene initially, with a warrant being issued for their arrest, and the suspect was later apprehended",
+      "protection_order_violation_33": "Yes, there is an active warrant out for the suspect for a previous domestic violence incident",
+      "protection_order_violation_34": "Yes, the suspect has been the respondent to a protection order in the past, with a previous order being issued on March 1, 2020",
+      "protection_order_violation_35": "Yes, the time of the call is recorded, with the incident occurring at 9:00 PM, dispatch at 9:05 PM, and arrival at 9:15 PM",
+      "protection_order_violation_36": "Yes, the scene is concisely described and diagramed, with a sketch of the residence and surrounding area",
+      "protection_order_violation_37": "Yes, photos were taken and details recorded, including photos of the victim's injuries and the damaged property",
+      "protection_order_violation_38": "Yes, the elements of the crime(s) are articulated to meet state and/or federal laws, with the suspect being charged with domestic violence, strangulation, and violation of a protection order"
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(taking a deep breath) Oh, thank you, Officer Davis. I... I think I'm ready. It's just been a really scary and overwhelming day. (pausing for a moment) Okay, so... Javier, my ex-boyfriend, he showed up at my house this morning. I had a protection order against him, and I thought he was supposed to stay away from me. But he just... he just showed up. He was angry, and he started yelling at me. He said I was his, and that I couldn't leave him. (my voice starts to shake) He got really close to me, and I could see the anger in his eyes. He was holding a kitchen knife, and he... he threatened me with it. He said he would hurt me if I didn't do what he wanted. (tearfully) And then... and then he grabbed me and started choking me. I couldn't breathe, and I thought... I thought he was going to kill me. (sobbing) I'm so scared of him, Officer Davis. I don't know what he's capable of.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "\"Ms. Patel, I hear you, and your fear is completely justified. What you just described is an incredibly traumatic and dangerous experience, but I want to assure you that you are safe right now. Because he forced his way in, used a weapon, and choked you, we are looking at much more serious charges than just a protection order violation, including aggravated assault.\n\nTo help my team locate him immediately and secure the scene, I need to pin down a few specific facts from you.\n\nFirst, I strongly advise that we have EMS come in to check your neck. Strangulation can cause severe internal injuries that aren't always immediately visible, and having a medical record will also strengthen the case against him. Please let me know if you will consent to a medical evaluation.\n\nSecond, regarding the kitchen knife he threatened you with, I need you to clarify if he brought that weapon with him to your house, or if he grabbed it from your own kitchen.\n\nFinally, please tell me exactly how the assault ended and how he left the property, including whether he fled on foot or if you saw him drive away in a specific vehicle.\"",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(sniffling) Oh, thank you, Officer Davis. Just knowing that you're taking this seriously and that you're going to help me... it means a lot. (taking a deep breath) Okay, yes... I consent to the medical evaluation. I didn't think about internal injuries, but it makes sense. My neck is still sore, and my throat hurts when I swallow. (touching my neck gingerly)\n\nRegarding the knife... I think he grabbed it from my kitchen. I don't remember seeing him bring it with him, but I could be wrong. I was so scared, and everything happened so fast. But I do remember seeing him walk into the kitchen and then coming back with the knife. It was one of my own kitchen knives, and it was... it was really terrifying to see him holding it like that.\n\nAs for how the assault ended... (shuddering at the memory) I think I managed to push him away from me, or maybe he just let me go. I don't know. But I remember running to the living room and locking myself in. I called 911 from there, and I stayed on the line until I heard the sirens. I didn't see him leave the property, but I heard the front door slam shut. I didn't see a car, but I did hear the sound of footsteps outside, and then it was quiet. I was too scared to look out the window, so I don't know if he had a car or if he ran away. (starting to tear up again) I'm just so glad he's gone, and I'm safe now.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "\"I\u2019m sorry, Leila. I\u2019m moving too fast. Let\u2019s take a second. You\u2019re doing great, and the most important thing is that you\u2019re safe and the medics are on their way to help you.\n\nYou mentioned he went into the kitchen to get that knife. Can you point out to me exactly where he grabbed it from? I want to make sure my team doesn't touch that area so we can get his prints off the counter or the drawer.\"",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(exhaling slowly) Okay, thank you, Officer Davis. I appreciate your concern. (composing myself) Yes, the kitchen... it's just through that doorway. (pointing) If you go into the kitchen, the knife block is on the counter, right next to the sink. I think he grabbed the knife from the block. It's a wooden block with five slots, and the knife he used was the biggest one, the chef's knife. (shuddering at the memory) I remember seeing him pull it out of the block and then... (trailing off)\n\nBut, yes, please be careful. I don't know if he touched anything else in the kitchen, but I think he might have touched the counter or the sink when he was getting the knife. And maybe the drawer handle, too, because I think he opened the drawer to... (pausing, trying to remember) no, wait, I'm not sure about the drawer. Just the counter and the knife block, I'm pretty sure. (looking at you anxiously) Will that help? Will his fingerprints be on the counter?",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "\"That helps immensely, Leila. Yes, the knife block and the counter are great surfaces for lifting prints. Even if he didn't realize it, he likely left behind exactly the kind of evidence we need to put him away for a long time. My team will be very careful with that area.\n\nI have one more question for you right now, and then I'll let the medics take over.\n\n**Do you recall if he was wearing any gloves, or were his hands bare when he grabbed the knife and when he... when he put his hands on you?**\"",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shuddering at the memory) No, he wasn't wearing gloves. His hands were bare. I remember feeling his skin on mine, and it was... it was so cold and rough. (shivering) When he grabbed the knife, I saw his bare hand wrap around the handle, and when he... when he choked me, his hands were around my neck, and I could feel his fingers digging into my skin. (touching my neck again, wincing at the memory) It was so painful, and it's still sore now.\n\n(looking up at you) I hope that helps. I want him to pay for what he did to me. I want him to never be able to hurt me or anyone else again. (my voice cracking) I just want to feel safe again.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "\"I hear you, Leila, and we are going to do everything in our power to make sure that happens. The fact that his hands were bare is significant\u2014it means we have a much better chance of recovering physical evidence from both the kitchen and your person.\n\nI\u2019m going to step aside for a moment to let the medical team examine you. While they do that, I'm going to have my partner secure the kitchen.\n\nI just have one more thing to ask before I give you some space: Since he's been harassing you, do you know what he's been driving lately, or is there a specific place\u2014like a friend's house or a workplace\u2014where he might have headed?\"",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(thinking for a moment) Ah, yes... his car. I think he's been driving a black Honda Civic. I've seen him driving it around my neighborhood a few times, and I'm pretty sure it's his. (pausing, trying to remember) As for where he might have headed... (hesitating) There is one place that comes to mind. He has a friend who lives in an apartment complex not too far from here. I've met the friend a few times, and I think his name is Alex. Javier has stayed with him before when we were having problems. (looking up at you) I don't know the exact address, but I can try to describe the apartment complex to you. It's a big place with a pool and a gym... (trailing off, hoping that might be helpful)\n\n(glancing over at the medical team, who are waiting patiently) Oh, I think the medics are waiting for me. (sighing) I'm ready to get this over with. (preparing myself for the examination)",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "While the medics are looking at your neck, try to think if you remember any part of his license plate\u2014even just a few letters or numbers\u2014but don't stress if you can't. We'll talk again in a few minutes.\""
+    },
+    {
+      "role": "assistant",
+      "content": "(nodding, wincing slightly as the medics examine my neck) Okay, I'll try to think about it. (closing my eyes, concentrating) Hmm... his license plate... (pausing, trying to recall) I think I remember seeing it a few times when he would park his car outside my apartment. (frowning, straining to remember) There was a \"J\" or a \"G\" in it, I'm pretty sure. And maybe a \"2\" or a \"5\". (shaking my head) I'm sorry, it's not very clear. I don't know why I didn't pay more attention to it at the time. (sighing, opening my eyes) I'm sorry, Officer Davis. I don't know if that helps at all. (looking up at you) Can I ask, will I be able to go home after this? Or do I need to go somewhere else?"
+    }
+  ],
+  "coverage_flags": {
+    "protection_order_violation_01": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_02": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_03": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_04": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_05": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_06": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_07": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_08": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_09": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_10": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_11": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+          "coverage": "partial",
+          "reasoning": "The officer mentions 'your ex-boyfriend', which implies a relationship but does not explicitly ask about or identify the nature of the relationship."
+        },
+        "8": {
+          "officer_message": "\"I hear you, Leila, and we are going to do everything in our power to make sure that happens. The fact that his hands were bare is significant\u2014it means we have a much better chance of recovering physical evidence from both the kitchen and your person.\n\nI\u2019m going to step aside for a moment to let the medical team examine you. While they do that, I'm going to have my partner secure the kitchen.\n\nI just have one more thing to ask before I give you some space: Since he's been harassing you, do you know what he's been driving lately, or is there a specific place\u2014like a friend's house or a workplace\u2014where he might have headed?\"",
+          "coverage": "partial",
+          "reasoning": "The officer is trying to gather more information about the suspect, but does not directly ask about the relationship of the parties"
+        }
+      }
+    },
+    "protection_order_violation_12": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+          "coverage": "partial",
+          "reasoning": "The officer's introduction implies a history but does not directly ask about the history of the relationship or previous incidents."
+        },
+        "8": {
+          "officer_message": "\"I hear you, Leila, and we are going to do everything in our power to make sure that happens. The fact that his hands were bare is significant\u2014it means we have a much better chance of recovering physical evidence from both the kitchen and your person.\n\nI\u2019m going to step aside for a moment to let the medical team examine you. While they do that, I'm going to have my partner secure the kitchen.\n\nI just have one more thing to ask before I give you some space: Since he's been harassing you, do you know what he's been driving lately, or is there a specific place\u2014like a friend's house or a workplace\u2014where he might have headed?\"",
+          "coverage": "partial",
+          "reasoning": "The officer asks about the suspect's whereabouts and possible locations, which may imply a history of the relationship, but does not directly ask about it"
+        }
+      }
+    },
+    "protection_order_violation_13": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_14": {
+      "covered": "full",
+      "messages": {
+        "2": {
+          "officer_message": "\"Ms. Patel, I hear you, and your fear is completely justified. What you just described is an incredibly traumatic and dangerous experience, but I want to assure you that you are safe right now. Because he forced his way in, used a weapon, and choked you, we are looking at much more serious charges than just a protection order violation, including aggravated assault.\n\nTo help my team locate him immediately and secure the scene, I need to pin down a few specific facts from you.\n\nFirst, I strongly advise that we have EMS come in to check your neck. Strangulation can cause severe internal injuries that aren't always immediately visible, and having a medical record will also strengthen the case against him. Please let me know if you will consent to a medical evaluation.\n\nSecond, regarding the kitchen knife he threatened you with, I need you to clarify if he brought that weapon with him to your house, or if he grabbed it from your own kitchen.\n\nFinally, please tell me exactly how the assault ended and how he left the property, including whether he fled on foot or if you saw him drive away in a specific vehicle.\"",
+          "coverage": "full",
+          "reasoning": "The officer asks about the kitchen knife the suspect threatened the victim with, which directly addresses the use of weapons or objects."
+        },
+        "4": {
+          "officer_message": "\"I\u2019m sorry, Leila. I\u2019m moving too fast. Let\u2019s take a second. You\u2019re doing great, and the most important thing is that you\u2019re safe and the medics are on their way to help you.\n\nYou mentioned he went into the kitchen to get that knife. Can you point out to me exactly where he grabbed it from? I want to make sure my team doesn't touch that area so we can get his prints off the counter or the drawer.\"",
+          "coverage": "full",
+          "reasoning": "The officer asks about the knife, which is a weapon used during the incident, directly addressing the element of weapons/objects used."
+        },
+        "6": {
+          "officer_message": "\"That helps immensely, Leila. Yes, the knife block and the counter are great surfaces for lifting prints. Even if he didn't realize it, he likely left behind exactly the kind of evidence we need to put him away for a long time. My team will be very careful with that area.\n\nI have one more question for you right now, and then I'll let the medics take over.\n\n**Do you recall if he was wearing any gloves, or were his hands bare when he grabbed the knife and when he... when he put his hands on you?**\"",
+          "coverage": "full",
+          "reasoning": "The officer asks about the suspect's hands being bare or gloved when grabbing the knife, which directly addresses the use of weapons or objects."
+        }
+      }
+    },
+    "protection_order_violation_15": {
+      "covered": "full",
+      "messages": {
+        "0": {
+          "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+          "coverage": "partial",
+          "reasoning": "The officer acknowledges the stress of the situation, which may encourage the victim to discuss their emotional state, but does not directly ask about it."
+        },
+        "2": {
+          "officer_message": "\"Ms. Patel, I hear you, and your fear is completely justified. What you just described is an incredibly traumatic and dangerous experience, but I want to assure you that you are safe right now. Because he forced his way in, used a weapon, and choked you, we are looking at much more serious charges than just a protection order violation, including aggravated assault.\n\nTo help my team locate him immediately and secure the scene, I need to pin down a few specific facts from you.\n\nFirst, I strongly advise that we have EMS come in to check your neck. Strangulation can cause severe internal injuries that aren't always immediately visible, and having a medical record will also strengthen the case against him. Please let me know if you will consent to a medical evaluation.\n\nSecond, regarding the kitchen knife he threatened you with, I need you to clarify if he brought that weapon with him to your house, or if he grabbed it from your own kitchen.\n\nFinally, please tell me exactly how the assault ended and how he left the property, including whether he fled on foot or if you saw him drive away in a specific vehicle.\"",
+          "coverage": "full",
+          "reasoning": "The officer acknowledges the victim's fear and the traumatic experience, which directly addresses the emotional state of the victim."
+        }
+      }
+    },
+    "protection_order_violation_16": {
+      "covered": "partial",
+      "messages": {
+        "4": {
+          "officer_message": "\"I\u2019m sorry, Leila. I\u2019m moving too fast. Let\u2019s take a second. You\u2019re doing great, and the most important thing is that you\u2019re safe and the medics are on their way to help you.\n\nYou mentioned he went into the kitchen to get that knife. Can you point out to me exactly where he grabbed it from? I want to make sure my team doesn't touch that area so we can get his prints off the counter or the drawer.\"",
+          "coverage": "partial",
+          "reasoning": "The officer mentions getting his prints off the counter or the drawer, which implies evidence collection, but does not directly ask about all evidence collected."
+        },
+        "6": {
+          "officer_message": "\"That helps immensely, Leila. Yes, the knife block and the counter are great surfaces for lifting prints. Even if he didn't realize it, he likely left behind exactly the kind of evidence we need to put him away for a long time. My team will be very careful with that area.\n\nI have one more question for you right now, and then I'll let the medics take over.\n\n**Do you recall if he was wearing any gloves, or were his hands bare when he grabbed the knife and when he... when he put his hands on you?**\"",
+          "coverage": "partial",
+          "reasoning": "The officer mentions collecting evidence, specifically lifting prints from the knife block and counter, but does not ask about the type or extent of evidence collected."
+        },
+        "8": {
+          "officer_message": "\"I hear you, Leila, and we are going to do everything in our power to make sure that happens. The fact that his hands were bare is significant\u2014it means we have a much better chance of recovering physical evidence from both the kitchen and your person.\n\nI\u2019m going to step aside for a moment to let the medical team examine you. While they do that, I'm going to have my partner secure the kitchen.\n\nI just have one more thing to ask before I give you some space: Since he's been harassing you, do you know what he's been driving lately, or is there a specific place\u2014like a friend's house or a workplace\u2014where he might have headed?\"",
+          "coverage": "partial",
+          "reasoning": "The officer mentions recovering physical evidence, which implies that evidence will be collected, but does not directly ask about it"
+        },
+        "10": {
+          "officer_message": "While the medics are looking at your neck, try to think if you remember any part of his license plate\u2014even just a few letters or numbers\u2014but don't stress if you can't. We'll talk again in a few minutes.\"",
+          "coverage": "partial",
+          "reasoning": "The officer's question about the license plate implies that evidence may be collected, but it does not directly ask about the type of evidence or the process of collecting it."
+        }
+      }
+    },
+    "protection_order_violation_17": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_18": {
+      "covered": "full",
+      "messages": {
+        "0": {
+          "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+          "coverage": "partial",
+          "reasoning": "The officer asks the victim to 'walk me through exactly what happened', which may elicit information about threats, but does not directly ask about them."
+        },
+        "2": {
+          "officer_message": "\"Ms. Patel, I hear you, and your fear is completely justified. What you just described is an incredibly traumatic and dangerous experience, but I want to assure you that you are safe right now. Because he forced his way in, used a weapon, and choked you, we are looking at much more serious charges than just a protection order violation, including aggravated assault.\n\nTo help my team locate him immediately and secure the scene, I need to pin down a few specific facts from you.\n\nFirst, I strongly advise that we have EMS come in to check your neck. Strangulation can cause severe internal injuries that aren't always immediately visible, and having a medical record will also strengthen the case against him. Please let me know if you will consent to a medical evaluation.\n\nSecond, regarding the kitchen knife he threatened you with, I need you to clarify if he brought that weapon with him to your house, or if he grabbed it from your own kitchen.\n\nFinally, please tell me exactly how the assault ended and how he left the property, including whether he fled on foot or if you saw him drive away in a specific vehicle.\"",
+          "coverage": "full",
+          "reasoning": "The officer mentions the suspect's use of a weapon and choking, which directly addresses the threats made by the suspect."
+        }
+      }
+    },
+    "protection_order_violation_19": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_20": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_21": {
+      "covered": "full",
+      "messages": {
+        "2": {
+          "officer_message": "\"Ms. Patel, I hear you, and your fear is completely justified. What you just described is an incredibly traumatic and dangerous experience, but I want to assure you that you are safe right now. Because he forced his way in, used a weapon, and choked you, we are looking at much more serious charges than just a protection order violation, including aggravated assault.\n\nTo help my team locate him immediately and secure the scene, I need to pin down a few specific facts from you.\n\nFirst, I strongly advise that we have EMS come in to check your neck. Strangulation can cause severe internal injuries that aren't always immediately visible, and having a medical record will also strengthen the case against him. Please let me know if you will consent to a medical evaluation.\n\nSecond, regarding the kitchen knife he threatened you with, I need you to clarify if he brought that weapon with him to your house, or if he grabbed it from your own kitchen.\n\nFinally, please tell me exactly how the assault ended and how he left the property, including whether he fled on foot or if you saw him drive away in a specific vehicle.\"",
+          "coverage": "full",
+          "reasoning": "The officer advises the victim to have a medical evaluation, specifically mentioning the risk of internal injuries from strangulation, which directly addresses the documentation of all injuries."
+        },
+        "4": {
+          "officer_message": "\"I\u2019m sorry, Leila. I\u2019m moving too fast. Let\u2019s take a second. You\u2019re doing great, and the most important thing is that you\u2019re safe and the medics are on their way to help you.\n\nYou mentioned he went into the kitchen to get that knife. Can you point out to me exactly where he grabbed it from? I want to make sure my team doesn't touch that area so we can get his prints off the counter or the drawer.\"",
+          "coverage": "partial",
+          "reasoning": "The officer mentions medics are on the way to help the victim, which implies the victim may have injuries, but does not directly ask about all injuries."
+        },
+        "8": {
+          "officer_message": "\"I hear you, Leila, and we are going to do everything in our power to make sure that happens. The fact that his hands were bare is significant\u2014it means we have a much better chance of recovering physical evidence from both the kitchen and your person.\n\nI\u2019m going to step aside for a moment to let the medical team examine you. While they do that, I'm going to have my partner secure the kitchen.\n\nI just have one more thing to ask before I give you some space: Since he's been harassing you, do you know what he's been driving lately, or is there a specific place\u2014like a friend's house or a workplace\u2014where he might have headed?\"",
+          "coverage": "partial",
+          "reasoning": "The officer mentions the medical team examining the victim, which implies that injuries will be documented, but does not directly ask about them"
+        },
+        "10": {
+          "officer_message": "While the medics are looking at your neck, try to think if you remember any part of his license plate\u2014even just a few letters or numbers\u2014but don't stress if you can't. We'll talk again in a few minutes.\"",
+          "coverage": "partial",
+          "reasoning": "The officer mentions the medics looking at the victim's neck, which implies that injuries may be documented, but it does not directly ask about all injuries (visible and non-visible)."
+        }
+      }
+    },
+    "protection_order_violation_22": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_23": {
+      "covered": "full",
+      "messages": {
+        "2": {
+          "officer_message": "\"Ms. Patel, I hear you, and your fear is completely justified. What you just described is an incredibly traumatic and dangerous experience, but I want to assure you that you are safe right now. Because he forced his way in, used a weapon, and choked you, we are looking at much more serious charges than just a protection order violation, including aggravated assault.\n\nTo help my team locate him immediately and secure the scene, I need to pin down a few specific facts from you.\n\nFirst, I strongly advise that we have EMS come in to check your neck. Strangulation can cause severe internal injuries that aren't always immediately visible, and having a medical record will also strengthen the case against him. Please let me know if you will consent to a medical evaluation.\n\nSecond, regarding the kitchen knife he threatened you with, I need you to clarify if he brought that weapon with him to your house, or if he grabbed it from your own kitchen.\n\nFinally, please tell me exactly how the assault ended and how he left the property, including whether he fled on foot or if you saw him drive away in a specific vehicle.\"",
+          "coverage": "full",
+          "reasoning": "The officer mentions the victim being choked, which directly addresses the victim's report of being strangled."
+        }
+      }
+    },
+    "protection_order_violation_24": {
+      "covered": "full",
+      "messages": {
+        "0": {
+          "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+          "coverage": "partial",
+          "reasoning": "The officer expresses concern for the victim's well-being, which may lead to a discussion about medical attention, but does not directly ask if medical attention is needed."
+        },
+        "2": {
+          "officer_message": "\"Ms. Patel, I hear you, and your fear is completely justified. What you just described is an incredibly traumatic and dangerous experience, but I want to assure you that you are safe right now. Because he forced his way in, used a weapon, and choked you, we are looking at much more serious charges than just a protection order violation, including aggravated assault.\n\nTo help my team locate him immediately and secure the scene, I need to pin down a few specific facts from you.\n\nFirst, I strongly advise that we have EMS come in to check your neck. Strangulation can cause severe internal injuries that aren't always immediately visible, and having a medical record will also strengthen the case against him. Please let me know if you will consent to a medical evaluation.\n\nSecond, regarding the kitchen knife he threatened you with, I need you to clarify if he brought that weapon with him to your house, or if he grabbed it from your own kitchen.\n\nFinally, please tell me exactly how the assault ended and how he left the property, including whether he fled on foot or if you saw him drive away in a specific vehicle.\"",
+          "coverage": "full",
+          "reasoning": "The officer advises the victim to have a medical evaluation and mentions the importance of a medical record for the case, which directly addresses the victim's need for medical attention."
+        },
+        "4": {
+          "officer_message": "\"I\u2019m sorry, Leila. I\u2019m moving too fast. Let\u2019s take a second. You\u2019re doing great, and the most important thing is that you\u2019re safe and the medics are on their way to help you.\n\nYou mentioned he went into the kitchen to get that knife. Can you point out to me exactly where he grabbed it from? I want to make sure my team doesn't touch that area so we can get his prints off the counter or the drawer.\"",
+          "coverage": "full",
+          "reasoning": "The officer mentions medics are on the way to help the victim, which directly addresses the element of medical attention."
+        },
+        "8": {
+          "officer_message": "\"I hear you, Leila, and we are going to do everything in our power to make sure that happens. The fact that his hands were bare is significant\u2014it means we have a much better chance of recovering physical evidence from both the kitchen and your person.\n\nI\u2019m going to step aside for a moment to let the medical team examine you. While they do that, I'm going to have my partner secure the kitchen.\n\nI just have one more thing to ask before I give you some space: Since he's been harassing you, do you know what he's been driving lately, or is there a specific place\u2014like a friend's house or a workplace\u2014where he might have headed?\"",
+          "coverage": "full",
+          "reasoning": "The officer mentions the medical team examining the victim, which directly addresses the need for medical attention"
+        },
+        "10": {
+          "officer_message": "While the medics are looking at your neck, try to think if you remember any part of his license plate\u2014even just a few letters or numbers\u2014but don't stress if you can't. We'll talk again in a few minutes.\"",
+          "coverage": "partial",
+          "reasoning": "The officer mentions medics looking at the victim's neck, which implies that medical attention is being provided, but it does not directly ask if the victim needed medical attention."
+        }
+      }
+    },
+    "protection_order_violation_25": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_26": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_27": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_28": {
+      "covered": "partial",
+      "messages": {
+        "8": {
+          "officer_message": "\"I hear you, Leila, and we are going to do everything in our power to make sure that happens. The fact that his hands were bare is significant\u2014it means we have a much better chance of recovering physical evidence from both the kitchen and your person.\n\nI\u2019m going to step aside for a moment to let the medical team examine you. While they do that, I'm going to have my partner secure the kitchen.\n\nI just have one more thing to ask before I give you some space: Since he's been harassing you, do you know what he's been driving lately, or is there a specific place\u2014like a friend's house or a workplace\u2014where he might have headed?\"",
+          "coverage": "partial",
+          "reasoning": "The officer asks about the suspect's vehicle and possible locations, which implies gathering information about the suspect, but does not directly ask about it"
+        }
+      }
+    },
+    "protection_order_violation_29": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_30": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_31": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_32": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_33": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_34": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_35": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+          "coverage": "partial",
+          "reasoning": "The officer mentions 'the incident reported earlier today', which implies a record of the time of the incident, but does not directly ask about or confirm the time."
+        }
+      }
+    },
+    "protection_order_violation_36": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+          "coverage": "partial",
+          "reasoning": "The officer mentions 'the incident at 1452 Santiago Drive', which provides some description of the scene, but does not directly ask for or confirm details about the scene."
+        },
+        "4": {
+          "officer_message": "\"I\u2019m sorry, Leila. I\u2019m moving too fast. Let\u2019s take a second. You\u2019re doing great, and the most important thing is that you\u2019re safe and the medics are on their way to help you.\n\nYou mentioned he went into the kitchen to get that knife. Can you point out to me exactly where he grabbed it from? I want to make sure my team doesn't touch that area so we can get his prints off the counter or the drawer.\"",
+          "coverage": "partial",
+          "reasoning": "The officer asks the victim to point out where the suspect grabbed the knife, which implies a description of the scene, but does not directly ask for a concise description or diagram of the scene."
+        }
+      }
+    },
+    "protection_order_violation_37": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+          "coverage": "none",
+          "reasoning": "Not applicable as the officer does not ask about photos or details."
+        },
+        "4": {
+          "officer_message": "\"I\u2019m sorry, Leila. I\u2019m moving too fast. Let\u2019s take a second. You\u2019re doing great, and the most important thing is that you\u2019re safe and the medics are on their way to help you.\n\nYou mentioned he went into the kitchen to get that knife. Can you point out to me exactly where he grabbed it from? I want to make sure my team doesn't touch that area so we can get his prints off the counter or the drawer.\"",
+          "coverage": "partial",
+          "reasoning": "The officer mentions getting his prints off the counter or the drawer, which implies photos or details may be recorded, but does not directly ask about photos or details being taken and recorded."
+        }
+      }
+    },
+    "protection_order_violation_38": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+          "coverage": "none",
+          "reasoning": "Not applicable as the officer does not ask about the elements of the crime."
+        }
+      }
+    }
+  },
+  "narrative": "**INCIDENT REPORT**\n\n**DEPARTMENT:** Rockville Police Department\n**DATE OF REPORT:** April 16, 2026\n**REPORTING OFFICER:** Officer Davis, Badge #4928\n**INCIDENT LOCATION:** 1452 Santiago Drive, Rockville, MD\n\n---\n\n### **INCIDENT CLASSIFICATION**\n1. Aggravated Assault (Weapon)\n2. Assault by Strangulation\n3. Violation of Active Protection Order\n\n### **INVOLVED PARTIES**\n* **VICTIM:** Patel, Leila\n* **SUSPECT:** Javier (Last Name Unknown at time of report) - Ex-boyfriend of Victim\n\n### **VEHICLE / SUSPECT INFORMATION**\n* **VEHICLE:** Honda Civic\n* **COLOR:** Black\n* **LICENSE PLATE:** Partial plate containing \"J\" or \"G\", and \"2\" or \"5\"\n* **KNOWN ASSOCIATES:** \"Alex\" (Friend of suspect, resides in a nearby apartment complex featuring a pool and gym).\n\n---\n\n### **NARRATIVE**\n\nOn April 16, 2026, I responded to a dispatched call at 1452 Santiago Drive regarding a possible protection order violation and reported harassment. \n\nUpon arrival, I made contact with the resident and victim, Leila Patel. Ms. Patel was visibly distressed and reported that her ex-boyfriend, identified as Javier, had unlawfully entered her residence earlier this morning in direct violation of an active protection order. \n\nMs. Patel stated that the suspect confronted her in an aggressive manner, yelling that she \"was his\" and \"couldn't leave him.\" The suspect then proceeded to the kitchen and retrieved a weapon. The victim specified that the suspect pulled a large chef's knife from a five-slot wooden knife block located on the kitchen counter adjacent to the sink. \n\nWhile holding the knife, the suspect threatened the victim with physical harm if she did not comply with his demands. The suspect then dropped the weapon or used his free hands to grab the victim by the throat, applying pressure and choking her. The victim stated she was unable to breathe during the assault and feared for her life. She confirmed the suspect was not wearing gloves and described his bare hands as feeling \"cold and rough.\" \n\nThe assault concluded when the victim was able to separate from the suspect. She immediately fled to the living room, locked the door, and dialed 911. The victim remained on the line with dispatch until she heard police sirens. She reported hearing the front door slam and footsteps outside, but did not visually witness the suspect's direction of travel or his vehicle. \n\n**MEDICAL & EVIDENCE:**\nDue to the report of strangulation and the victim's complaints of neck pain and pain when swallowing, EMS was dispatched to the scene to conduct a thorough medical evaluation. \n\nThe kitchen area, specifically the counter by the sink and the wooden knife block, was immediately secured as a crime scene. Because the victim confirmed the suspect handled the knife and choked her with bare hands, forensics units were called to process the kitchen surfaces and the victim's person for latent fingerprints and DNA.\n\n**FOLLOW-UP / ACTIONS TAKEN:**\n1.  Medical evaluation provided to the victim on the scene by EMS.\n2.  Crime scene tape deployed to secure the kitchen pending forensic processing.\n3.  A BOLO (Be On the Lookout) was issued to all surrounding units for a black Honda Civic with a partial plate matching the victim's description.\n4.  Officers are actively canvas nearby apartment complexes matching the description provided by the victim to locate the suspect's known associate, \"Alex.\"\n5.  Victim safety plan discussed, including alternative lodging while the suspect remains at large. \n\n**STATUS:** Active / Ongoing Investigation. Suspect is currently at large and considered armed and dangerous.",
+  "narrative_coverage": {
+    "protection_order_violation_01": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_02": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_03": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_04": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_05": {
+      "covered": "partial",
+      "phrases": {
+        "34": "considered armed and dangerous"
+      }
+    },
+    "protection_order_violation_06": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_07": {
+      "covered": "none",
+      "phrases": {
+        "34": ""
+      }
+    },
+    "protection_order_violation_08": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_09": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_11": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "1": "",
+        "3": "",
+        "4": "1452 Santiago Drive, Rockville, MD",
+        "5": "",
+        "6": "",
+        "9": "Violation of Active Protection Order",
+        "10": "INVOLVED PARTIES",
+        "11": "**VICTIM:** Patel, Leila",
+        "12": "Javier (Last Name Unknown at time of report) - Ex-boyfriend of Victim",
+        "15": "",
+        "19": "The victim stated she and the suspect have been married for six years",
+        "20": "a possible protection order violation",
+        "21": "her ex-boyfriend, identified as Javier",
+        "24": ""
+      }
+    },
+    "protection_order_violation_12": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "9": "Violation of Active Protection Order",
+        "12": "Ex-boyfriend of Victim",
+        "19": "The victim stated she and the suspect have been married for six years and that he has assaulted her on approximately ten prior occasions over the past two years.",
+        "21": "her ex-boyfriend, identified as Javier"
+      }
+    },
+    "protection_order_violation_13": {
+      "covered": "none",
+      "phrases": {
+        "5": ""
+      }
+    },
+    "protection_order_violation_14": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "7": "Aggravated Assault (Weapon)",
+        "8": "Assault by Strangulation",
+        "15": "",
+        "19": "The victim stated the suspect struck her with a closed fist and then grabbed a kitchen knife and held it to her throat.",
+        "22": "The suspect then proceeded to the kitchen and retrieved a weapon. The victim specified that the suspect pulled a large chef's knife from a five-slot wooden knife block located on the kitchen counter adjacent to the sink.",
+        "23": "the suspect threatened the victim with physical harm if she did not comply with his demands",
+        "27": "the victim confirmed the suspect handled the knife",
+        "34": "considered armed and dangerous"
+      }
+    },
+    "protection_order_violation_15": {
+      "covered": "none",
+      "phrases": {
+        "3": "",
+        "5": "",
+        "15": "",
+        "18": "The victim was visibly shaken",
+        "19": "The victim was visibly shaking and crying throughout the interview. She stated she was terrified he would return.",
+        "21": "Ms. Patel was visibly distressed",
+        "23": "She confirmed... and feared for her life",
+        "24": ""
+      }
+    },
+    "protection_order_violation_16": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "15": "",
+        "16": "LICENSE PLATE:",
+        "27": "forensics units were called to process the kitchen surfaces and the victim's person for latent fingerprints and DNA"
+      }
+    },
+    "protection_order_violation_17": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "21": "Ms. Patel was visibly distressed",
+        "23": "She confirmed... and feared for her life"
+      }
+    },
+    "protection_order_violation_18": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "19": "The victim stated the suspect said 'I will kill you if you call the police again' during the incident.",
+        "21": "",
+        "22": "yelling that she 'was his' and 'couldn't leave him.'",
+        "23": "the suspect threatened the victim with physical harm if she did not comply with his demands"
+      }
+    },
+    "protection_order_violation_19": {
+      "covered": "none",
+      "phrases": {
+        "5": ""
+      }
+    },
+    "protection_order_violation_20": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "22": "confronted her in an aggressive manner",
+        "23": "the suspect then dropped the weapon or used his free hands to grab the victim by the throat, applying pressure and choking her"
+      }
+    },
+    "protection_order_violation_21": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "8": "",
+        "18": "The victim had a visible bruise on her left cheekbone",
+        "19": "The victim had a visible bruise on her left cheekbone and complained of pain in her ribs. She also reported pain when swallowing consistent with possible strangulation.",
+        "21": "",
+        "23": "the suspect then dropped the weapon or used his free hands to grab the victim by the throat, applying pressure and choking her",
+        "24": "",
+        "26": "",
+        "27": "the kitchen area, specifically the counter by the sink and the wooden knife block, was immediately secured as a crime scene"
+      }
+    },
+    "protection_order_violation_22": {
+      "covered": "none",
+      "phrases": {
+        "5": ""
+      }
+    },
+    "protection_order_violation_23": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "8": "Assault by Strangulation",
+        "23": "the suspect then dropped the weapon or used his free hands to grab the victim by the throat, applying pressure and choking her",
+        "27": "the victim confirmed... the suspect... choked her with bare hands"
+      }
+    },
+    "protection_order_violation_24": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "18": "The victim was transported by ambulance to St. Mary's Hospital",
+        "19": "The victim was transported by ambulance to St. Mary's Hospital. She refused further treatment and signed a medical release form.",
+        "24": "The victim remained on the line with dispatch until she heard police sirens.",
+        "25": "**MEDICAL & EVIDENCE:**",
+        "26": "Due to the report of strangulation and the victim's complaints of neck pain and pain when swallowing, EMS was dispatched to the scene to conduct a thorough medical evaluation.",
+        "29": "Medical evaluation provided to the victim on the scene by EMS."
+      }
+    },
+    "protection_order_violation_25": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "28": ""
+      }
+    },
+    "protection_order_violation_26": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "28": "",
+        "33": "Victim safety plan discussed"
+      }
+    },
+    "protection_order_violation_27": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "28": ""
+      }
+    },
+    "protection_order_violation_28": {
+      "covered": "partial",
+      "phrases": {
+        "3": "Officer Davis, Badge #4928",
+        "5": "",
+        "13": "VEHICLE / SUSPECT INFORMATION",
+        "17": "Alex (Friend of suspect",
+        "28": "",
+        "32": "Officers are actively canvas nearby apartment complexes matching the description provided by the victim to locate the suspect's known associate, 'Alex.'"
+      }
+    },
+    "protection_order_violation_29": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "28": ""
+      }
+    },
+    "protection_order_violation_30": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "28": ""
+      }
+    },
+    "protection_order_violation_31": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "28": ""
+      }
+    },
+    "protection_order_violation_32": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "28": "",
+        "31": "A BOLO (Be On the Lookout) was issued to all surrounding units"
+      }
+    },
+    "protection_order_violation_33": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "28": ""
+      }
+    },
+    "protection_order_violation_34": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "9": "Violation of Active Protection Order",
+        "28": ""
+      }
+    },
+    "protection_order_violation_35": {
+      "covered": "full",
+      "phrases": {
+        "2": "**DATE OF REPORT:** April 16, 2026",
+        "5": "",
+        "20": "On April 16, 2026",
+        "21": "earlier this morning",
+        "24": "The victim remained on the line with dispatch until she heard police sirens.",
+        "28": ""
+      }
+    },
+    "protection_order_violation_36": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "4": "1452 Santiago Drive, Rockville, MD",
+        "5": "",
+        "6": "",
+        "14": "",
+        "15": "",
+        "20": "at 1452 Santiago Drive",
+        "21": "",
+        "24": "",
+        "28": "",
+        "30": "the kitchen"
+      }
+    },
+    "protection_order_violation_37": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "15": "",
+        "27": "the kitchen area, specifically the counter by the sink and the wooden knife block, was immediately secured as a crime scene",
+        "28": "",
+        "30": "Crime scene tape deployed to secure the kitchen"
+      }
+    },
+    "protection_order_violation_38": {
+      "covered": "none",
+      "phrases": {
+        "5": "",
+        "9": "Violation of Active Protection Order",
+        "21": "in direct violation of an active protection order",
+        "28": ""
+      }
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "protection_order_violation_01",
+        "element": "Did the suspect use firearms during the incident that occurred?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_02",
+        "element": "Did the suspect use firearms in previous incidents?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_03",
+        "element": "Did the suspect make threats\u2014 real or implied\u2014 to use firearms during the incident that occurred?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_04",
+        "element": "Did the suspect make threats\u2014 real or implied\u2014 to use firearms in previous incidents?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_05",
+        "element": "Does the suspect have access to firearms? If so, what are the details of the firearms? Where are they located?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "34": "considered armed and dangerous"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "protection_order_violation_06",
+        "element": "Did the victim express fear about the suspect\u2019s access to firearms? If so, how was this captured in the report?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_07",
+        "element": "Were firearms/weapons confiscated? If so, on what grounds?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "34": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_08",
+        "element": "Is this individual prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_09",
+        "element": "Is this individual prohibited from possessing firearms due to a qualifying order of protection?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_10",
+        "element": "Is this individual prohibited from possessing firearms due to dishonorable discharge from the military?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_11",
+        "element": "Is the relationship of the parties identified?",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+            "coverage": "partial",
+            "reasoning": "The officer mentions 'your ex-boyfriend', which implies a relationship but does not explicitly ask about or identify the nature of the relationship."
+          },
+          "8": {
+            "officer_message": "\"I hear you, Leila, and we are going to do everything in our power to make sure that happens. The fact that his hands were bare is significant\u2014it means we have a much better chance of recovering physical evidence from both the kitchen and your person.\n\nI\u2019m going to step aside for a moment to let the medical team examine you. While they do that, I'm going to have my partner secure the kitchen.\n\nI just have one more thing to ask before I give you some space: Since he's been harassing you, do you know what he's been driving lately, or is there a specific place\u2014like a friend's house or a workplace\u2014where he might have headed?\"",
+            "coverage": "partial",
+            "reasoning": "The officer is trying to gather more information about the suspect, but does not directly ask about the relationship of the parties"
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "1": "",
+          "3": "",
+          "4": "1452 Santiago Drive, Rockville, MD",
+          "5": "",
+          "6": "",
+          "9": "Violation of Active Protection Order",
+          "10": "INVOLVED PARTIES",
+          "11": "**VICTIM:** Patel, Leila",
+          "12": "Javier (Last Name Unknown at time of report) - Ex-boyfriend of Victim",
+          "15": "",
+          "19": "The victim stated she and the suspect have been married for six years",
+          "20": "a possible protection order violation",
+          "21": "her ex-boyfriend, identified as Javier",
+          "24": ""
+        },
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_12",
+        "element": "What is the history of the relationship? (include frequency of any violence, intimidation, and threats)",
+        "asked_in_interview": "false",
+        "interview_messages": {
+          "0": {
+            "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+            "coverage": "partial",
+            "reasoning": "The officer's introduction implies a history but does not directly ask about the history of the relationship or previous incidents."
+          },
+          "8": {
+            "officer_message": "\"I hear you, Leila, and we are going to do everything in our power to make sure that happens. The fact that his hands were bare is significant\u2014it means we have a much better chance of recovering physical evidence from both the kitchen and your person.\n\nI\u2019m going to step aside for a moment to let the medical team examine you. While they do that, I'm going to have my partner secure the kitchen.\n\nI just have one more thing to ask before I give you some space: Since he's been harassing you, do you know what he's been driving lately, or is there a specific place\u2014like a friend's house or a workplace\u2014where he might have headed?\"",
+            "coverage": "partial",
+            "reasoning": "The officer asks about the suspect's whereabouts and possible locations, which may imply a history of the relationship, but does not directly ask about it"
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "9": "Violation of Active Protection Order",
+          "12": "Ex-boyfriend of Victim",
+          "19": "The victim stated she and the suspect have been married for six years and that he has assaulted her on approximately ten prior occasions over the past two years.",
+          "21": "her ex-boyfriend, identified as Javier"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "protection_order_violation_13",
+        "element": "Were all witnesses interviewed and documented?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_14",
+        "element": "Were weapons/objects used?",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "2": {
+            "officer_message": "\"Ms. Patel, I hear you, and your fear is completely justified. What you just described is an incredibly traumatic and dangerous experience, but I want to assure you that you are safe right now. Because he forced his way in, used a weapon, and choked you, we are looking at much more serious charges than just a protection order violation, including aggravated assault.\n\nTo help my team locate him immediately and secure the scene, I need to pin down a few specific facts from you.\n\nFirst, I strongly advise that we have EMS come in to check your neck. Strangulation can cause severe internal injuries that aren't always immediately visible, and having a medical record will also strengthen the case against him. Please let me know if you will consent to a medical evaluation.\n\nSecond, regarding the kitchen knife he threatened you with, I need you to clarify if he brought that weapon with him to your house, or if he grabbed it from your own kitchen.\n\nFinally, please tell me exactly how the assault ended and how he left the property, including whether he fled on foot or if you saw him drive away in a specific vehicle.\"",
+            "coverage": "full",
+            "reasoning": "The officer asks about the kitchen knife the suspect threatened the victim with, which directly addresses the use of weapons or objects."
+          },
+          "4": {
+            "officer_message": "\"I\u2019m sorry, Leila. I\u2019m moving too fast. Let\u2019s take a second. You\u2019re doing great, and the most important thing is that you\u2019re safe and the medics are on their way to help you.\n\nYou mentioned he went into the kitchen to get that knife. Can you point out to me exactly where he grabbed it from? I want to make sure my team doesn't touch that area so we can get his prints off the counter or the drawer.\"",
+            "coverage": "full",
+            "reasoning": "The officer asks about the knife, which is a weapon used during the incident, directly addressing the element of weapons/objects used."
+          },
+          "6": {
+            "officer_message": "\"That helps immensely, Leila. Yes, the knife block and the counter are great surfaces for lifting prints. Even if he didn't realize it, he likely left behind exactly the kind of evidence we need to put him away for a long time. My team will be very careful with that area.\n\nI have one more question for you right now, and then I'll let the medics take over.\n\n**Do you recall if he was wearing any gloves, or were his hands bare when he grabbed the knife and when he... when he put his hands on you?**\"",
+            "coverage": "full",
+            "reasoning": "The officer asks about the suspect's hands being bare or gloved when grabbing the knife, which directly addresses the use of weapons or objects."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "7": "Aggravated Assault (Weapon)",
+          "8": "Assault by Strangulation",
+          "15": "",
+          "19": "The victim stated the suspect struck her with a closed fist and then grabbed a kitchen knife and held it to her throat.",
+          "22": "The suspect then proceeded to the kitchen and retrieved a weapon. The victim specified that the suspect pulled a large chef's knife from a five-slot wooden knife block located on the kitchen counter adjacent to the sink.",
+          "23": "the suspect threatened the victim with physical harm if she did not comply with his demands",
+          "27": "the victim confirmed the suspect handled the knife",
+          "34": "considered armed and dangerous"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_15",
+        "element": "What was the emotional state of the victim (what did they report they were thinking and feeling)?",
+        "asked_in_interview": "false",
+        "interview_messages": {
+          "0": {
+            "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+            "coverage": "partial",
+            "reasoning": "The officer acknowledges the stress of the situation, which may encourage the victim to discuss their emotional state, but does not directly ask about it."
+          },
+          "2": {
+            "officer_message": "\"Ms. Patel, I hear you, and your fear is completely justified. What you just described is an incredibly traumatic and dangerous experience, but I want to assure you that you are safe right now. Because he forced his way in, used a weapon, and choked you, we are looking at much more serious charges than just a protection order violation, including aggravated assault.\n\nTo help my team locate him immediately and secure the scene, I need to pin down a few specific facts from you.\n\nFirst, I strongly advise that we have EMS come in to check your neck. Strangulation can cause severe internal injuries that aren't always immediately visible, and having a medical record will also strengthen the case against him. Please let me know if you will consent to a medical evaluation.\n\nSecond, regarding the kitchen knife he threatened you with, I need you to clarify if he brought that weapon with him to your house, or if he grabbed it from your own kitchen.\n\nFinally, please tell me exactly how the assault ended and how he left the property, including whether he fled on foot or if you saw him drive away in a specific vehicle.\"",
+            "coverage": "full",
+            "reasoning": "The officer acknowledges the victim's fear and the traumatic experience, which directly addresses the emotional state of the victim."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": "",
+          "5": "",
+          "15": "",
+          "18": "The victim was visibly shaken",
+          "19": "The victim was visibly shaking and crying throughout the interview. She stated she was terrified he would return.",
+          "21": "Ms. Patel was visibly distressed",
+          "23": "She confirmed... and feared for her life",
+          "24": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "protection_order_violation_16",
+        "element": "What evidence was collected?",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "4": {
+            "officer_message": "\"I\u2019m sorry, Leila. I\u2019m moving too fast. Let\u2019s take a second. You\u2019re doing great, and the most important thing is that you\u2019re safe and the medics are on their way to help you.\n\nYou mentioned he went into the kitchen to get that knife. Can you point out to me exactly where he grabbed it from? I want to make sure my team doesn't touch that area so we can get his prints off the counter or the drawer.\"",
+            "coverage": "partial",
+            "reasoning": "The officer mentions getting his prints off the counter or the drawer, which implies evidence collection, but does not directly ask about all evidence collected."
+          },
+          "6": {
+            "officer_message": "\"That helps immensely, Leila. Yes, the knife block and the counter are great surfaces for lifting prints. Even if he didn't realize it, he likely left behind exactly the kind of evidence we need to put him away for a long time. My team will be very careful with that area.\n\nI have one more question for you right now, and then I'll let the medics take over.\n\n**Do you recall if he was wearing any gloves, or were his hands bare when he grabbed the knife and when he... when he put his hands on you?**\"",
+            "coverage": "partial",
+            "reasoning": "The officer mentions collecting evidence, specifically lifting prints from the knife block and counter, but does not ask about the type or extent of evidence collected."
+          },
+          "8": {
+            "officer_message": "\"I hear you, Leila, and we are going to do everything in our power to make sure that happens. The fact that his hands were bare is significant\u2014it means we have a much better chance of recovering physical evidence from both the kitchen and your person.\n\nI\u2019m going to step aside for a moment to let the medical team examine you. While they do that, I'm going to have my partner secure the kitchen.\n\nI just have one more thing to ask before I give you some space: Since he's been harassing you, do you know what he's been driving lately, or is there a specific place\u2014like a friend's house or a workplace\u2014where he might have headed?\"",
+            "coverage": "partial",
+            "reasoning": "The officer mentions recovering physical evidence, which implies that evidence will be collected, but does not directly ask about it"
+          },
+          "10": {
+            "officer_message": "While the medics are looking at your neck, try to think if you remember any part of his license plate\u2014even just a few letters or numbers\u2014but don't stress if you can't. We'll talk again in a few minutes.\"",
+            "coverage": "partial",
+            "reasoning": "The officer's question about the license plate implies that evidence may be collected, but it does not directly ask about the type of evidence or the process of collecting it."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "15": "",
+          "16": "LICENSE PLATE:",
+          "27": "forensics units were called to process the kitchen surfaces and the victim's person for latent fingerprints and DNA"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_17",
+        "element": "Is evidence of fear articulated in the report?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "21": "Ms. Patel was visibly distressed",
+          "23": "She confirmed... and feared for her life"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_18",
+        "element": "Have all threats been clearly documented?",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+            "coverage": "partial",
+            "reasoning": "The officer asks the victim to 'walk me through exactly what happened', which may elicit information about threats, but does not directly ask about them."
+          },
+          "2": {
+            "officer_message": "\"Ms. Patel, I hear you, and your fear is completely justified. What you just described is an incredibly traumatic and dangerous experience, but I want to assure you that you are safe right now. Because he forced his way in, used a weapon, and choked you, we are looking at much more serious charges than just a protection order violation, including aggravated assault.\n\nTo help my team locate him immediately and secure the scene, I need to pin down a few specific facts from you.\n\nFirst, I strongly advise that we have EMS come in to check your neck. Strangulation can cause severe internal injuries that aren't always immediately visible, and having a medical record will also strengthen the case against him. Please let me know if you will consent to a medical evaluation.\n\nSecond, regarding the kitchen knife he threatened you with, I need you to clarify if he brought that weapon with him to your house, or if he grabbed it from your own kitchen.\n\nFinally, please tell me exactly how the assault ended and how he left the property, including whether he fled on foot or if you saw him drive away in a specific vehicle.\"",
+            "coverage": "full",
+            "reasoning": "The officer mentions the suspect's use of a weapon and choking, which directly addresses the threats made by the suspect."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "19": "The victim stated the suspect said 'I will kill you if you call the police again' during the incident.",
+          "21": "",
+          "22": "yelling that she 'was his' and 'couldn't leave him.'",
+          "23": "the suspect threatened the victim with physical harm if she did not comply with his demands"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "protection_order_violation_19",
+        "element": "Are stalking behaviors identified? (e.g. following, repeated calling, sending unwanted gifts)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_20",
+        "element": "Is the use of coercion and/or force articulated?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "22": "confronted her in an aggressive manner",
+          "23": "the suspect then dropped the weapon or used his free hands to grab the victim by the throat, applying pressure and choking her"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_21",
+        "element": "Have all injuries (visible and non-visible) been documented? Were injuries existing or new?",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "2": {
+            "officer_message": "\"Ms. Patel, I hear you, and your fear is completely justified. What you just described is an incredibly traumatic and dangerous experience, but I want to assure you that you are safe right now. Because he forced his way in, used a weapon, and choked you, we are looking at much more serious charges than just a protection order violation, including aggravated assault.\n\nTo help my team locate him immediately and secure the scene, I need to pin down a few specific facts from you.\n\nFirst, I strongly advise that we have EMS come in to check your neck. Strangulation can cause severe internal injuries that aren't always immediately visible, and having a medical record will also strengthen the case against him. Please let me know if you will consent to a medical evaluation.\n\nSecond, regarding the kitchen knife he threatened you with, I need you to clarify if he brought that weapon with him to your house, or if he grabbed it from your own kitchen.\n\nFinally, please tell me exactly how the assault ended and how he left the property, including whether he fled on foot or if you saw him drive away in a specific vehicle.\"",
+            "coverage": "full",
+            "reasoning": "The officer advises the victim to have a medical evaluation, specifically mentioning the risk of internal injuries from strangulation, which directly addresses the documentation of all injuries."
+          },
+          "4": {
+            "officer_message": "\"I\u2019m sorry, Leila. I\u2019m moving too fast. Let\u2019s take a second. You\u2019re doing great, and the most important thing is that you\u2019re safe and the medics are on their way to help you.\n\nYou mentioned he went into the kitchen to get that knife. Can you point out to me exactly where he grabbed it from? I want to make sure my team doesn't touch that area so we can get his prints off the counter or the drawer.\"",
+            "coverage": "partial",
+            "reasoning": "The officer mentions medics are on the way to help the victim, which implies the victim may have injuries, but does not directly ask about all injuries."
+          },
+          "8": {
+            "officer_message": "\"I hear you, Leila, and we are going to do everything in our power to make sure that happens. The fact that his hands were bare is significant\u2014it means we have a much better chance of recovering physical evidence from both the kitchen and your person.\n\nI\u2019m going to step aside for a moment to let the medical team examine you. While they do that, I'm going to have my partner secure the kitchen.\n\nI just have one more thing to ask before I give you some space: Since he's been harassing you, do you know what he's been driving lately, or is there a specific place\u2014like a friend's house or a workplace\u2014where he might have headed?\"",
+            "coverage": "partial",
+            "reasoning": "The officer mentions the medical team examining the victim, which implies that injuries will be documented, but does not directly ask about them"
+          },
+          "10": {
+            "officer_message": "While the medics are looking at your neck, try to think if you remember any part of his license plate\u2014even just a few letters or numbers\u2014but don't stress if you can't. We'll talk again in a few minutes.\"",
+            "coverage": "partial",
+            "reasoning": "The officer mentions the medics looking at the victim's neck, which implies that injuries may be documented, but it does not directly ask about all injuries (visible and non-visible)."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "8": "",
+          "18": "The victim had a visible bruise on her left cheekbone",
+          "19": "The victim had a visible bruise on her left cheekbone and complained of pain in her ribs. She also reported pain when swallowing consistent with possible strangulation.",
+          "21": "",
+          "23": "the suspect then dropped the weapon or used his free hands to grab the victim by the throat, applying pressure and choking her",
+          "24": "",
+          "26": "",
+          "27": "the kitchen area, specifically the counter by the sink and the wooden knife block, was immediately secured as a crime scene"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "protection_order_violation_22",
+        "element": "Was there any property damage? Theft? Burglary?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_23",
+        "element": "Did the victim report being strangled (\u201cchoked\u201d)? If so, was it described in detail?",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "2": {
+            "officer_message": "\"Ms. Patel, I hear you, and your fear is completely justified. What you just described is an incredibly traumatic and dangerous experience, but I want to assure you that you are safe right now. Because he forced his way in, used a weapon, and choked you, we are looking at much more serious charges than just a protection order violation, including aggravated assault.\n\nTo help my team locate him immediately and secure the scene, I need to pin down a few specific facts from you.\n\nFirst, I strongly advise that we have EMS come in to check your neck. Strangulation can cause severe internal injuries that aren't always immediately visible, and having a medical record will also strengthen the case against him. Please let me know if you will consent to a medical evaluation.\n\nSecond, regarding the kitchen knife he threatened you with, I need you to clarify if he brought that weapon with him to your house, or if he grabbed it from your own kitchen.\n\nFinally, please tell me exactly how the assault ended and how he left the property, including whether he fled on foot or if you saw him drive away in a specific vehicle.\"",
+            "coverage": "full",
+            "reasoning": "The officer mentions the victim being choked, which directly addresses the victim's report of being strangled."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "8": "Assault by Strangulation",
+          "23": "the suspect then dropped the weapon or used his free hands to grab the victim by the throat, applying pressure and choking her",
+          "27": "the victim confirmed... the suspect... choked her with bare hands"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "protection_order_violation_24",
+        "element": "Did the victim need medical attention?",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "0": {
+            "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+            "coverage": "partial",
+            "reasoning": "The officer expresses concern for the victim's well-being, which may lead to a discussion about medical attention, but does not directly ask if medical attention is needed."
+          },
+          "2": {
+            "officer_message": "\"Ms. Patel, I hear you, and your fear is completely justified. What you just described is an incredibly traumatic and dangerous experience, but I want to assure you that you are safe right now. Because he forced his way in, used a weapon, and choked you, we are looking at much more serious charges than just a protection order violation, including aggravated assault.\n\nTo help my team locate him immediately and secure the scene, I need to pin down a few specific facts from you.\n\nFirst, I strongly advise that we have EMS come in to check your neck. Strangulation can cause severe internal injuries that aren't always immediately visible, and having a medical record will also strengthen the case against him. Please let me know if you will consent to a medical evaluation.\n\nSecond, regarding the kitchen knife he threatened you with, I need you to clarify if he brought that weapon with him to your house, or if he grabbed it from your own kitchen.\n\nFinally, please tell me exactly how the assault ended and how he left the property, including whether he fled on foot or if you saw him drive away in a specific vehicle.\"",
+            "coverage": "full",
+            "reasoning": "The officer advises the victim to have a medical evaluation and mentions the importance of a medical record for the case, which directly addresses the victim's need for medical attention."
+          },
+          "4": {
+            "officer_message": "\"I\u2019m sorry, Leila. I\u2019m moving too fast. Let\u2019s take a second. You\u2019re doing great, and the most important thing is that you\u2019re safe and the medics are on their way to help you.\n\nYou mentioned he went into the kitchen to get that knife. Can you point out to me exactly where he grabbed it from? I want to make sure my team doesn't touch that area so we can get his prints off the counter or the drawer.\"",
+            "coverage": "full",
+            "reasoning": "The officer mentions medics are on the way to help the victim, which directly addresses the element of medical attention."
+          },
+          "8": {
+            "officer_message": "\"I hear you, Leila, and we are going to do everything in our power to make sure that happens. The fact that his hands were bare is significant\u2014it means we have a much better chance of recovering physical evidence from both the kitchen and your person.\n\nI\u2019m going to step aside for a moment to let the medical team examine you. While they do that, I'm going to have my partner secure the kitchen.\n\nI just have one more thing to ask before I give you some space: Since he's been harassing you, do you know what he's been driving lately, or is there a specific place\u2014like a friend's house or a workplace\u2014where he might have headed?\"",
+            "coverage": "full",
+            "reasoning": "The officer mentions the medical team examining the victim, which directly addresses the need for medical attention"
+          },
+          "10": {
+            "officer_message": "While the medics are looking at your neck, try to think if you remember any part of his license plate\u2014even just a few letters or numbers\u2014but don't stress if you can't. We'll talk again in a few minutes.\"",
+            "coverage": "partial",
+            "reasoning": "The officer mentions medics looking at the victim's neck, which implies that medical attention is being provided, but it does not directly ask if the victim needed medical attention."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "18": "The victim was transported by ambulance to St. Mary's Hospital",
+          "19": "The victim was transported by ambulance to St. Mary's Hospital. She refused further treatment and signed a medical release form.",
+          "24": "The victim remained on the line with dispatch until she heard police sirens.",
+          "25": "**MEDICAL & EVIDENCE:**",
+          "26": "Due to the report of strangulation and the victim's complaints of neck pain and pain when swallowing, EMS was dispatched to the scene to conduct a thorough medical evaluation.",
+          "29": "Medical evaluation provided to the victim on the scene by EMS."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_25",
+        "element": "Were all spontaneous statements captured and documented?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "28": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_26",
+        "element": "Was information provided to the victim about local service providers?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "28": "",
+          "33": "Victim safety plan discussed"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_27",
+        "element": "Was a threat/risk assessment tool used with the victim?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "28": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_28",
+        "element": "Did the officer gather comprehensive information about the suspect?",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "\"I hear you, Leila, and we are going to do everything in our power to make sure that happens. The fact that his hands were bare is significant\u2014it means we have a much better chance of recovering physical evidence from both the kitchen and your person.\n\nI\u2019m going to step aside for a moment to let the medical team examine you. While they do that, I'm going to have my partner secure the kitchen.\n\nI just have one more thing to ask before I give you some space: Since he's been harassing you, do you know what he's been driving lately, or is there a specific place\u2014like a friend's house or a workplace\u2014where he might have headed?\"",
+            "coverage": "partial",
+            "reasoning": "The officer asks about the suspect's vehicle and possible locations, which implies gathering information about the suspect, but does not directly ask about it"
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "3": "Officer Davis, Badge #4928",
+          "5": "",
+          "13": "VEHICLE / SUSPECT INFORMATION",
+          "17": "Alex (Friend of suspect",
+          "28": "",
+          "32": "Officers are actively canvas nearby apartment complexes matching the description provided by the victim to locate the suspect's known associate, 'Alex.'"
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "protection_order_violation_29",
+        "element": "Was an arrest made?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "28": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_30",
+        "element": "What was the emotional state of the suspect (what did they report they were thinking and feeling)?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "28": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_31",
+        "element": "Was a threat/risk assessment tool used with the suspect?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "28": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_32",
+        "element": "Was the proper protocol followed if the suspect was not on the scene?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "28": "",
+          "31": "A BOLO (Be On the Lookout) was issued to all surrounding units"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_33",
+        "element": "Are there any active warrants out for the suspect?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "28": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_34",
+        "element": "Has the suspect been the respondent to a protection order in the past?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "9": "Violation of Active Protection Order",
+          "28": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_35",
+        "element": "Is the time of the call recorded (including time of incident, time of dispatch, time of arrival)?",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+            "coverage": "partial",
+            "reasoning": "The officer mentions 'the incident reported earlier today', which implies a record of the time of the incident, but does not directly ask about or confirm the time."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "2": "**DATE OF REPORT:** April 16, 2026",
+          "5": "",
+          "20": "On April 16, 2026",
+          "21": "earlier this morning",
+          "24": "The victim remained on the line with dispatch until she heard police sirens.",
+          "28": ""
+        },
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_36",
+        "element": "Is the scene concisely described/diagramed?",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+            "coverage": "partial",
+            "reasoning": "The officer mentions 'the incident at 1452 Santiago Drive', which provides some description of the scene, but does not directly ask for or confirm details about the scene."
+          },
+          "4": {
+            "officer_message": "\"I\u2019m sorry, Leila. I\u2019m moving too fast. Let\u2019s take a second. You\u2019re doing great, and the most important thing is that you\u2019re safe and the medics are on their way to help you.\n\nYou mentioned he went into the kitchen to get that knife. Can you point out to me exactly where he grabbed it from? I want to make sure my team doesn't touch that area so we can get his prints off the counter or the drawer.\"",
+            "coverage": "partial",
+            "reasoning": "The officer asks the victim to point out where the suspect grabbed the knife, which implies a description of the scene, but does not directly ask for a concise description or diagram of the scene."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "4": "1452 Santiago Drive, Rockville, MD",
+          "5": "",
+          "6": "",
+          "14": "",
+          "15": "",
+          "20": "at 1452 Santiago Drive",
+          "21": "",
+          "24": "",
+          "28": "",
+          "30": "the kitchen"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_37",
+        "element": "Were photos taken and details recorded?",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+            "coverage": "none",
+            "reasoning": "Not applicable as the officer does not ask about photos or details."
+          },
+          "4": {
+            "officer_message": "\"I\u2019m sorry, Leila. I\u2019m moving too fast. Let\u2019s take a second. You\u2019re doing great, and the most important thing is that you\u2019re safe and the medics are on their way to help you.\n\nYou mentioned he went into the kitchen to get that knife. Can you point out to me exactly where he grabbed it from? I want to make sure my team doesn't touch that area so we can get his prints off the counter or the drawer.\"",
+            "coverage": "partial",
+            "reasoning": "The officer mentions getting his prints off the counter or the drawer, which implies photos or details may be recorded, but does not directly ask about photos or details being taken and recorded."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "15": "",
+          "27": "the kitchen area, specifically the counter by the sink and the wooden knife block, was immediately secured as a crime scene",
+          "28": "",
+          "30": "Crime scene tape deployed to secure the kitchen"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "protection_order_violation_38",
+        "element": "Are the elements of the crime(s) articulated to meet state and/or federal laws?",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "\"Good afternoon, Ms. Patel. I'm Officer Davis. I'm following up on the incident reported earlier today at 1452 Santiago Drive regarding a possible protection order violation involving your ex-boyfriend. I know going over these events can be incredibly stressful, so please take all the time you need. We're just here to get the facts down for the official report. Whenever you're ready, please start from the beginning and walk me through exactly what happened.\"",
+            "coverage": "none",
+            "reasoning": "Not applicable as the officer does not ask about the elements of the crime."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "5": "",
+          "9": "Violation of Active Protection Order",
+          "21": "in direct violation of an active protection order",
+          "28": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      }
+    ],
+    "contradictions_interview": [],
+    "contradictions_narrative": [
+      {
+        "element_id": "protection_order_violation_11",
+        "element": "Is the relationship of the parties identified?",
+        "location": 19,
+        "source": "narrative",
+        "phrase": "she and the suspect have been married for six years",
+        "contradicts": "The relationship of the parties is identified as intimate partners, with the suspect, Javier Sanchez, and the victim, Leila Patel, having been in a romantic relationship for 3 years",
+        "explanation": "The text states the victim and suspect are married for six years, directly conflicting with the established fact that they are intimate partners in a romantic relationship for 3 years, with no mention of marriage."
+      },
+      {
+        "element_id": "protection_order_violation_11",
+        "element": "Is the relationship of the parties identified?",
+        "location": 21,
+        "source": "narrative",
+        "phrase": "her ex-boyfriend",
+        "contradicts": "The relationship of the parties is identified as intimate partners, with the suspect, Javier Sanchez, and the victim, Leila Patel, having been in a romantic relationship for 3 years",
+        "explanation": "The text states Javier is the victim's ex-boyfriend, which directly contradicts the established fact that they are currently intimate partners, having been in a romantic relationship for 3 years."
+      },
+      {
+        "element_id": "protection_order_violation_12",
+        "element": "What is the history of the relationship? (include frequency of any violence, intimidation, and threats)",
+        "location": 19,
+        "source": "narrative",
+        "phrase": "he has assaulted her on approximately ten prior occasions over the past two years",
+        "contradicts": "The history of the relationship includes frequent verbal arguments, with 3 incidents of physical violence in the past year, including an incident on March 20, 2022, where the suspect pushed the victim at their residence, 456 Elm Street, Los Angeles, CA 90012",
+        "explanation": "The text states there have been approximately ten prior assaults, but the established fact only mentions 3 incidents of physical violence in the past year."
+      },
+      {
+        "element_id": "protection_order_violation_21",
+        "element": "Have all injuries (visible and non-visible) been documented? Were injuries existing or new?",
+        "location": 18,
+        "source": "narrative",
+        "phrase": "a visible bruise on her left cheekbone",
+        "contradicts": "Yes, all injuries, including a bruise on the victim's arm and a cut on their hand, were documented, with photos taken and stored in the case file as 'POV-003' and 'POV-004'",
+        "explanation": "The established scenario fact mentions a bruise on the victim's arm, but the text states the bruise is on the left cheekbone, which directly conflicts with the documented injury location."
+      },
+      {
+        "element_id": "protection_order_violation_21",
+        "element": "Have all injuries (visible and non-visible) been documented? Were injuries existing or new?",
+        "location": 19,
+        "source": "narrative",
+        "phrase": "a visible bruise on her left cheekbone",
+        "contradicts": "Yes, all injuries, including a bruise on the victim's arm and a cut on their hand, were documented, with photos taken and stored in the case file as 'POV-003' and 'POV-004'",
+        "explanation": "The established scenario fact mentions a bruise on the victim's arm, but the text describes a bruise on the victim's left cheekbone, which directly conflicts with the documented injury location."
+      },
+      {
+        "element_id": "protection_order_violation_24",
+        "element": "Did the victim need medical attention?",
+        "location": 19,
+        "source": "narrative",
+        "phrase": "She refused further treatment",
+        "contradicts": "Yes, the victim needed medical attention and was transported to the hospital, where they were treated for non-life-threatening injuries",
+        "explanation": "The scenario fact states the victim was treated for non-life-threatening injuries, but the text states the victim refused further treatment, directly conflicting with the fact that they received treatment."
+      },
+      {
+        "element_id": "protection_order_violation_35",
+        "element": "Is the time of the call recorded (including time of incident, time of dispatch, time of arrival)?",
+        "location": 21,
+        "source": "narrative",
+        "phrase": "earlier this morning",
+        "contradicts": "Yes, the time of the call is recorded, with the incident occurring at 9:00 PM, dispatch at 9:05 PM, and arrival at 9:15 PM",
+        "explanation": "The established scenario fact states the incident occurred at 9:00 PM, while the text mentions 'earlier this morning', which directly conflicts with the nighttime incident time."
+      }
+    ],
+    "grammar": [
+      {
+        "chunk": 22,
+        "source": "language_tool",
+        "error_type": "IN_A_X_MANNER",
+        "excerpt": "in an aggressive manner",
+        "suggestion": "aggressively"
+      },
+      {
+        "chunk": 22,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "yelling that she 'was his' and 'couldn't leave him'",
+        "suggestion": "yelling that Ms. Patel was his and couldn't leave him"
+      },
+      {
+        "chunk": 23,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "the suspect threatened the victim with physical harm if she did not comply with his demands",
+        "suggestion": "the suspect threatened the victim with physical harm if the victim did not comply with the suspect's demands"
+      },
+      {
+        "chunk": 24,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "She immediately fled to the living room, locked the door, and dialed 911.",
+        "suggestion": "The victim immediately fled to the living room, locked the door, and dialed 911."
+      },
+      {
+        "chunk": 24,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "She reported hearing the front door slam and footsteps outside, but did not visually witness the suspect's direction of travel or his vehicle.",
+        "suggestion": "The victim reported hearing the front door slam and footsteps outside, but did not visually witness the suspect's direction of travel or his vehicle."
+      },
+      {
+        "chunk": 24,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "The victim remained on the line with dispatch until she heard police sirens.",
+        "suggestion": "The victim remained on the line with dispatch until the victim heard police sirens."
+      },
+      {
+        "chunk": 27,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Because the victim confirmed the suspect handled the knife and choked her with bare hands",
+        "suggestion": "Because the victim confirmed that the suspect handled the knife and choked the victim with bare hands"
+      },
+      {
+        "chunk": 31,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "BOLO",
+        "suggestion": "SOLO"
+      }
+    ],
+    "style": [
+      {
+        "chunk": 4,
+        "rule": "Rule 9",
+        "error_type": "unexplained location format",
+        "excerpt": "**INCIDENT LOCATION:** 1452 Santiago Drive, Rockville, MD",
+        "suggestion": "**INCIDENT LOCATION:** The incident occurred at 1452 Santiago Drive, Rockville, Maryland. This is a residential address located in the city of Rockville."
+      },
+      {
+        "chunk": 4,
+        "rule": "Rule 12",
+        "error_type": "vague location description",
+        "excerpt": "**INCIDENT LOCATION:** 1452 Santiago Drive, Rockville, MD",
+        "suggestion": "**INCIDENT LOCATION:** The incident occurred at 1452 Santiago Drive, a single-family residence located in the northwest part of Rockville, Maryland, approximately 0.5 miles from the city center."
+      },
+      {
+        "chunk": 11,
+        "rule": "Rule 5",
+        "error_type": "Lack of attribution",
+        "excerpt": "**VICTIM:** Patel, Leila",
+        "suggestion": "I identified the victim as Leila Patel."
+      },
+      {
+        "chunk": 11,
+        "rule": "Rule 12",
+        "error_type": "Vague language",
+        "excerpt": "**VICTIM:** Patel, Leila",
+        "suggestion": "I identified the victim as Leila Patel, a  [insert age]-year-old female."
+      },
+      {
+        "chunk": 11,
+        "rule": "Rule 19",
+        "error_type": "Lack of secondary contact information",
+        "excerpt": "**VICTIM:** Patel, Leila",
+        "suggestion": "I identified the victim as Leila Patel, and obtained her secondary contact information: [insert phone number] and [insert address]."
+      },
+      {
+        "chunk": 12,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "Ex-boyfriend of Victim",
+        "suggestion": "The suspect was identified as Javier, the ex-boyfriend of the victim, as stated by the victim."
+      },
+      {
+        "chunk": 12,
+        "rule": "5",
+        "error_type": "unattributed statement",
+        "excerpt": "Ex-boyfriend of Victim",
+        "suggestion": "The victim stated that Javier was her ex-boyfriend."
+      },
+      {
+        "chunk": 12,
+        "rule": "17",
+        "error_type": "missing subject information",
+        "excerpt": "Javier (Last Name Unknown at time of report)",
+        "suggestion": "The suspect, Javier, whose last name is currently unknown, should be listed in the Subjects Section with all available information."
+      },
+      {
+        "chunk": 14,
+        "rule": "9",
+        "error_type": "jargon",
+        "excerpt": "**VEHICLE:** Honda Civic",
+        "suggestion": "**VEHICLE:** A Honda Civic"
+      },
+      {
+        "chunk": 14,
+        "rule": "12",
+        "error_type": "vague terms",
+        "excerpt": "**VEHICLE:** Honda Civic",
+        "suggestion": "**VEHICLE:** A black Honda Civic, or a Honda Civic with an unknown color"
+      },
+      {
+        "chunk": 15,
+        "rule": "9",
+        "error_type": "unexplained term or jargon",
+        "excerpt": "Black",
+        "suggestion": "The color of the vehicle was black."
+      },
+      {
+        "chunk": 15,
+        "rule": "12",
+        "error_type": "vague or abstract term",
+        "excerpt": "Black",
+        "suggestion": "The vehicle was black in color."
+      },
+      {
+        "chunk": 15,
+        "rule": "11",
+        "error_type": "missing information",
+        "excerpt": "Black",
+        "suggestion": "The vehicle involved in the incident was black in color and was located at 1452 Santiago Drive."
+      },
+      {
+        "chunk": 16,
+        "rule": "9",
+        "error_type": "jargon",
+        "excerpt": "Partial plate containing 'J' or 'G', and '2' or '5'",
+        "suggestion": "The vehicle's license plate was partially visible, with either the letter 'J' or 'G' and the numbers '2' or '5' visible to me."
+      },
+      {
+        "chunk": 16,
+        "rule": "12",
+        "error_type": "vague language",
+        "excerpt": "Partial plate containing 'J' or 'G', and '2' or '5'",
+        "suggestion": "The vehicle's license plate had a partial plate with either the letter 'J' or 'G' as the first or last character and the numbers '2' or '5' as part of the sequence."
+      },
+      {
+        "chunk": 17,
+        "rule": "Rule 9",
+        "error_type": "jargon",
+        "excerpt": "resides in a nearby apartment complex featuring a pool and gym",
+        "suggestion": "resides in a nearby apartment complex with a pool and gym; however, the presence of a pool and gym is not clearly relevant to the incident and could be omitted for clarity"
+      },
+      {
+        "chunk": 17,
+        "rule": "Rule 12",
+        "error_type": "vague terms",
+        "excerpt": "a nearby apartment complex",
+        "suggestion": "an apartment complex located at [insert specific address or location]"
+      },
+      {
+        "chunk": 17,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "known associate",
+        "suggestion": "associate of the suspect, as reported by the victim; the nature of their relationship is [insert specific details, e.g., 'friend' or 'acquaintance']"
+      },
+      {
+        "chunk": 20,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "a call was dispatched to 1452 Santiago Drive",
+        "suggestion": "I was dispatched to 1452 Santiago Drive"
+      },
+      {
+        "chunk": 20,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "a call was dispatched",
+        "suggestion": "I responded to a dispatched call"
+      },
+      {
+        "chunk": 20,
+        "rule": "6",
+        "error_type": "incomplete information",
+        "excerpt": "regarding a possible protection order violation and reported harassment",
+        "suggestion": "regarding a possible protection order violation and reported harassment, as stated by the caller/victim"
+      },
+      {
+        "chunk": 20,
+        "rule": "11",
+        "error_type": "missing basic question",
+        "excerpt": "On April 16, 2026, I responded to a dispatched call",
+        "suggestion": "On April 16, 2026, at approximately [time], I responded to a dispatched call from [who] at 1452 Santiago Drive"
+      },
+      {
+        "chunk": 21,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "Ms. Patel was visibly distressed",
+        "suggestion": "Ms. Patel had tears in her eyes, a trembling voice, and was shaking."
+      },
+      {
+        "chunk": 21,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "in direct violation of an active protection order",
+        "suggestion": "in violation of a protection order that was still in effect, as confirmed by my review of the court documents."
+      },
+      {
+        "chunk": 22,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "The suspect then proceeded to the kitchen and retrieved a weapon.",
+        "suggestion": "The suspect then went to the kitchen and I saw him retrieve a weapon."
+      },
+      {
+        "chunk": 22,
+        "rule": "Rule 4",
+        "error_type": "paraphrased quote",
+        "excerpt": "yelling that she 'was his' and 'couldn't leave him'",
+        "suggestion": "yelling 'I'm your boyfriend, you're mine, you can't leave me' or the exact words used by the suspect"
+      },
+      {
+        "chunk": 22,
+        "rule": "Rule 9",
+        "error_type": "vagueness",
+        "excerpt": "The suspect retrieved a weapon",
+        "suggestion": "The suspect retrieved a large chef's knife, as previously stated by the victim"
+      },
+      {
+        "chunk": 23,
+        "rule": "2",
+        "error_type": "conclusory statement",
+        "excerpt": "The victim stated she was unable to breathe during the assault and feared for her life.",
+        "suggestion": "The victim stated, 'I couldn't breathe' and 'I thought I was going to die' during the assault."
+      },
+      {
+        "chunk": 23,
+        "rule": "5",
+        "error_type": "unattributed statement",
+        "excerpt": "She confirmed the suspect was not wearing gloves and described his bare hands as feeling 'cold and rough'.",
+        "suggestion": "The victim confirmed that the suspect was not wearing gloves and described his bare hands as feeling 'cold and rough'."
+      },
+      {
+        "chunk": 24,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "The assault concluded when the victim was able to separate from the suspect.",
+        "suggestion": "The victim was able to separate from the suspect by pushing him away and creating distance, which concluded the assault."
+      },
+      {
+        "chunk": 24,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "She immediately fled to the living room, locked the door, and dialed 911.",
+        "suggestion": "She quickly ran to the living room, locked the door behind her, and dialed 911 using her phone."
+      },
+      {
+        "chunk": 24,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "She reported hearing the front door slam and footsteps outside, but did not visually witness the suspect's direction of travel or his vehicle.",
+        "suggestion": "The victim reported to me that she heard the front door slam and footsteps outside, but did not visually witness the suspect's direction of travel or his vehicle."
+      },
+      {
+        "chunk": 26,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "EMS was dispatched to the scene",
+        "suggestion": "I dispatched EMS to the scene"
+      },
+      {
+        "chunk": 26,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "report of strangulation",
+        "suggestion": "The victim reported being strangled, which was evident from the visible marks on her neck and her complaints of neck pain and pain when swallowing"
+      },
+      {
+        "chunk": 27,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "was immediately secured",
+        "suggestion": "I immediately secured the kitchen area"
+      },
+      {
+        "chunk": 27,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "were called to process",
+        "suggestion": "I called forensics units to process"
+      },
+      {
+        "chunk": 27,
+        "rule": "Rule 9",
+        "error_type": "jargon",
+        "excerpt": "forensics units",
+        "suggestion": "crime scene technicians"
+      },
+      {
+        "chunk": 27,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "the victim confirmed the suspect handled the knife and choked her with bare hands",
+        "suggestion": "the victim stated that the suspect picked up a knife from the counter and grabbed her throat with his bare hands"
+      },
+      {
+        "chunk": 29,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "The victim received a medical evaluation on the scene, which was provided by Emergency Medical Services (EMS).",
+        "suggestion": "I provided the victim with a medical evaluation on the scene, assisted by Emergency Medical Services (EMS)."
+      },
+      {
+        "chunk": 29,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "This medical evaluation was administered to the victim at the location of the incident, as part of the initial response to the situation.",
+        "suggestion": "I administered the medical evaluation to the victim at the location of the incident, as part of the initial response to the situation."
+      },
+      {
+        "chunk": 30,
+        "rule": "1",
+        "error_type": "passive voice",
+        "excerpt": "Crime scene tape deployed to secure the kitchen pending forensic processing.",
+        "suggestion": "I deployed crime scene tape to secure the kitchen pending forensic processing."
+      },
+      {
+        "chunk": 31,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "A BOLO (Be On the Lookout) was issued to all surrounding units",
+        "suggestion": "I issued a BOLO to all surrounding units"
+      },
+      {
+        "chunk": 31,
+        "rule": "Rule 9",
+        "error_type": "jargon",
+        "excerpt": "A BOLO (Be On the Lookout)",
+        "suggestion": "I issued a 'Be On the Lookout' alert to all surrounding units"
+      },
+      {
+        "chunk": 31,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "a black Honda Civic with a partial plate matching the victim's description",
+        "suggestion": "a black Honda Civic with a partial license plate containing the letters 'J' or 'G' and the numbers '2' or '5', as described by the victim"
+      },
+      {
+        "chunk": 32,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "Officers are actively canvas nearby apartment complexes",
+        "suggestion": "I am actively canvassing nearby apartment complexes"
+      },
+      {
+        "chunk": 32,
+        "rule": "Rule 9",
+        "error_type": "jargon",
+        "excerpt": "canvas",
+        "suggestion": "search"
+      },
+      {
+        "chunk": 32,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "nearby apartment complexes",
+        "suggestion": "apartment complexes within a 1-mile radius"
+      },
+      {
+        "chunk": 33,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "The need for alternative lodging was necessitated by the fact that the suspect in the case remains at large.",
+        "suggestion": "The victim required alternative lodging because the suspect had not been apprehended and posed an ongoing threat."
+      },
+      {
+        "chunk": 33,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "A discussion about a victim safety plan took place",
+        "suggestion": "I discussed a victim safety plan with the victim."
+      },
+      {
+        "chunk": 33,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "alternative lodging",
+        "suggestion": "a hotel room for the night"
+      },
+      {
+        "chunk": 34,
+        "rule": "Rule 1",
+        "error_type": "passive voice",
+        "excerpt": "The investigation is currently active and ongoing",
+        "suggestion": "I am currently conducting an active and ongoing investigation"
+      },
+      {
+        "chunk": 34,
+        "rule": "Rule 3",
+        "error_type": "future tense",
+        "excerpt": "The investigation is currently active and ongoing",
+        "suggestion": "The investigation was active and ongoing at the time of this report"
+      },
+      {
+        "chunk": 34,
+        "rule": "Rule 7",
+        "error_type": "lack of legal justification",
+        "excerpt": "Suspect is currently at large and considered armed and dangerous",
+        "suggestion": "The suspect is considered armed and dangerous due to the violent nature of the crime and the threat made to the victim"
+      },
+      {
+        "chunk": 34,
+        "rule": "Rule 10",
+        "error_type": "lack of chronological order",
+        "excerpt": "The investigation is currently active and ongoing",
+        "suggestion": "The investigation began on April 16, 2026, and was active and ongoing at the time of this report"
+      },
+      {
+        "chunk": 34,
+        "rule": "Rule 20",
+        "error_type": "lack of spontaneous statement",
+        "excerpt": "None",
+        "suggestion": "The victim stated, 'I'm scared, he's going to hurt me,' which was a spontaneous statement made during the initial contact"
+      }
+    ],
+    "narrative_coverage": {
+      "protection_order_violation_01": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_02": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_03": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_04": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_05": {
+        "covered": "partial",
+        "phrases": {
+          "34": "considered armed and dangerous"
+        }
+      },
+      "protection_order_violation_06": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_07": {
+        "covered": "none",
+        "phrases": {
+          "34": ""
+        }
+      },
+      "protection_order_violation_08": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_09": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_11": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "1": "",
+          "3": "",
+          "4": "1452 Santiago Drive, Rockville, MD",
+          "5": "",
+          "6": "",
+          "9": "Violation of Active Protection Order",
+          "10": "INVOLVED PARTIES",
+          "11": "**VICTIM:** Patel, Leila",
+          "12": "Javier (Last Name Unknown at time of report) - Ex-boyfriend of Victim",
+          "15": "",
+          "19": "The victim stated she and the suspect have been married for six years",
+          "20": "a possible protection order violation",
+          "21": "her ex-boyfriend, identified as Javier",
+          "24": ""
+        }
+      },
+      "protection_order_violation_12": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "9": "Violation of Active Protection Order",
+          "12": "Ex-boyfriend of Victim",
+          "19": "The victim stated she and the suspect have been married for six years and that he has assaulted her on approximately ten prior occasions over the past two years.",
+          "21": "her ex-boyfriend, identified as Javier"
+        }
+      },
+      "protection_order_violation_13": {
+        "covered": "none",
+        "phrases": {
+          "5": ""
+        }
+      },
+      "protection_order_violation_14": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "7": "Aggravated Assault (Weapon)",
+          "8": "Assault by Strangulation",
+          "15": "",
+          "19": "The victim stated the suspect struck her with a closed fist and then grabbed a kitchen knife and held it to her throat.",
+          "22": "The suspect then proceeded to the kitchen and retrieved a weapon. The victim specified that the suspect pulled a large chef's knife from a five-slot wooden knife block located on the kitchen counter adjacent to the sink.",
+          "23": "the suspect threatened the victim with physical harm if she did not comply with his demands",
+          "27": "the victim confirmed the suspect handled the knife",
+          "34": "considered armed and dangerous"
+        }
+      },
+      "protection_order_violation_15": {
+        "covered": "none",
+        "phrases": {
+          "3": "",
+          "5": "",
+          "15": "",
+          "18": "The victim was visibly shaken",
+          "19": "The victim was visibly shaking and crying throughout the interview. She stated she was terrified he would return.",
+          "21": "Ms. Patel was visibly distressed",
+          "23": "She confirmed... and feared for her life",
+          "24": ""
+        }
+      },
+      "protection_order_violation_16": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "15": "",
+          "16": "LICENSE PLATE:",
+          "27": "forensics units were called to process the kitchen surfaces and the victim's person for latent fingerprints and DNA"
+        }
+      },
+      "protection_order_violation_17": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "21": "Ms. Patel was visibly distressed",
+          "23": "She confirmed... and feared for her life"
+        }
+      },
+      "protection_order_violation_18": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "19": "The victim stated the suspect said 'I will kill you if you call the police again' during the incident.",
+          "21": "",
+          "22": "yelling that she 'was his' and 'couldn't leave him.'",
+          "23": "the suspect threatened the victim with physical harm if she did not comply with his demands"
+        }
+      },
+      "protection_order_violation_19": {
+        "covered": "none",
+        "phrases": {
+          "5": ""
+        }
+      },
+      "protection_order_violation_20": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "22": "confronted her in an aggressive manner",
+          "23": "the suspect then dropped the weapon or used his free hands to grab the victim by the throat, applying pressure and choking her"
+        }
+      },
+      "protection_order_violation_21": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "8": "",
+          "18": "The victim had a visible bruise on her left cheekbone",
+          "19": "The victim had a visible bruise on her left cheekbone and complained of pain in her ribs. She also reported pain when swallowing consistent with possible strangulation.",
+          "21": "",
+          "23": "the suspect then dropped the weapon or used his free hands to grab the victim by the throat, applying pressure and choking her",
+          "24": "",
+          "26": "",
+          "27": "the kitchen area, specifically the counter by the sink and the wooden knife block, was immediately secured as a crime scene"
+        }
+      },
+      "protection_order_violation_22": {
+        "covered": "none",
+        "phrases": {
+          "5": ""
+        }
+      },
+      "protection_order_violation_23": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "8": "Assault by Strangulation",
+          "23": "the suspect then dropped the weapon or used his free hands to grab the victim by the throat, applying pressure and choking her",
+          "27": "the victim confirmed... the suspect... choked her with bare hands"
+        }
+      },
+      "protection_order_violation_24": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "18": "The victim was transported by ambulance to St. Mary's Hospital",
+          "19": "The victim was transported by ambulance to St. Mary's Hospital. She refused further treatment and signed a medical release form.",
+          "24": "The victim remained on the line with dispatch until she heard police sirens.",
+          "25": "**MEDICAL & EVIDENCE:**",
+          "26": "Due to the report of strangulation and the victim's complaints of neck pain and pain when swallowing, EMS was dispatched to the scene to conduct a thorough medical evaluation.",
+          "29": "Medical evaluation provided to the victim on the scene by EMS."
+        }
+      },
+      "protection_order_violation_25": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "28": ""
+        }
+      },
+      "protection_order_violation_26": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "28": "",
+          "33": "Victim safety plan discussed"
+        }
+      },
+      "protection_order_violation_27": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "28": ""
+        }
+      },
+      "protection_order_violation_28": {
+        "covered": "partial",
+        "phrases": {
+          "3": "Officer Davis, Badge #4928",
+          "5": "",
+          "13": "VEHICLE / SUSPECT INFORMATION",
+          "17": "Alex (Friend of suspect",
+          "28": "",
+          "32": "Officers are actively canvas nearby apartment complexes matching the description provided by the victim to locate the suspect's known associate, 'Alex.'"
+        }
+      },
+      "protection_order_violation_29": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "28": ""
+        }
+      },
+      "protection_order_violation_30": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "28": ""
+        }
+      },
+      "protection_order_violation_31": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "28": ""
+        }
+      },
+      "protection_order_violation_32": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "28": "",
+          "31": "A BOLO (Be On the Lookout) was issued to all surrounding units"
+        }
+      },
+      "protection_order_violation_33": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "28": ""
+        }
+      },
+      "protection_order_violation_34": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "9": "Violation of Active Protection Order",
+          "28": ""
+        }
+      },
+      "protection_order_violation_35": {
+        "covered": "full",
+        "phrases": {
+          "2": "**DATE OF REPORT:** April 16, 2026",
+          "5": "",
+          "20": "On April 16, 2026",
+          "21": "earlier this morning",
+          "24": "The victim remained on the line with dispatch until she heard police sirens.",
+          "28": ""
+        }
+      },
+      "protection_order_violation_36": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "4": "1452 Santiago Drive, Rockville, MD",
+          "5": "",
+          "6": "",
+          "14": "",
+          "15": "",
+          "20": "at 1452 Santiago Drive",
+          "21": "",
+          "24": "",
+          "28": "",
+          "30": "the kitchen"
+        }
+      },
+      "protection_order_violation_37": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "15": "",
+          "27": "the kitchen area, specifically the counter by the sink and the wooden knife block, was immediately secured as a crime scene",
+          "28": "",
+          "30": "Crime scene tape deployed to secure the kitchen"
+        }
+      },
+      "protection_order_violation_38": {
+        "covered": "none",
+        "phrases": {
+          "5": "",
+          "9": "Violation of Active Protection Order",
+          "21": "in direct violation of an active protection order",
+          "28": ""
+        }
+      }
+    }
+  }
+}

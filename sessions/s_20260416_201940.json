@@ -1,0 +1,1003 @@
+{
+  "session_id": "s_20260416_201940",
+  "timestamp": "2026-04-16T20:19:40.438844",
+  "metadata": {
+    "crime_type": "Stalking",
+    "interviewee_name": "Leila Ramos Jensen",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible stalking in progress, 345 Elmhurst Drive, report of a female being followed by a male suspect, Arlington, Texas"
+  },
+  "scenario": {
+    "crime_type": "Stalking",
+    "interviewee_role": "victim",
+    "interviewee_name": "Leila Ramos Jensen",
+    "dispatch_line": "Possible stalking in progress, 345 Elmhurst Drive, report of a female being followed by a male suspect, Arlington, Texas",
+    "facts": {
+      "stalking_01": "Incident time: 22:45, Dispatch time: 22:47, Arrival time: 22:52",
+      "stalking_02": "Ex-girlfriend and boyfriend, 2-year relationship",
+      "stalking_03": "History of frequent arguments, 3 incidents of physical violence, and daily intimidation via text messages and phone calls",
+      "stalking_04": "Following, repeated calling, sending unwanted gifts, and showing up at her workplace",
+      "stalking_05": "Yes, a valid protection order is in place, verified through the state database",
+      "stalking_06": "All witnesses, including the victim's roommate and coworker, were interviewed and documented",
+      "stalking_07": "Previous incidents of stalking and domestic violence were documented, including a police report from 6 months ago",
+      "stalking_08": "Evidence collected includes a torn piece of clothing, a broken phone, and a threatening letter",
+      "stalking_09": "Electronic evidence collected includes text messages, emails, and social media posts",
+      "stalking_10": "All incidents of stalking behavior on cell phones, computers, and recording devices were captured and documented",
+      "stalking_11": "Scene described: a single-family residence at 1456 Oakwood Drive, with a broken front door and scattered personal belongings",
+      "stalking_12": "Weapons/objects used: a baseball bat and a kitchen knife",
+      "stalking_13": "Victim was shaking, crying, and expressed fear for her life",
+      "stalking_14": "Evidence of fear: the victim's statement, 'I thought he was going to kill me'",
+      "stalking_15": "Threats documented: 'You'll never be able to leave me', 'I'll always find you'",
+      "stalking_16": "Use of coercion and/or force: the suspect used physical force to restrain the victim",
+      "stalking_17": "Injuries documented: a bruise on the victim's left cheek, a cut on her right hand, and signs of strangulation, including difficulty breathing and a raspy voice",
+      "stalking_18": "Property damage documented: a broken front door, a shattered window, and damaged furniture",
+      "stalking_19": "Photos taken of the scene, including the broken door, scattered belongings, and the victim's injuries",
+      "stalking_20": "Victim reported being strangled, with difficulty breathing and a raspy voice, and EMS was summoned to the scene",
+      "stalking_21": "Victim's need for medical attention documented, and she was transported to the hospital for further evaluation",
+      "stalking_22": "Spontaneous statement captured: 'He's been doing this for months, I'm so scared'",
+      "stalking_23": "Elements of the stalking crime thoroughly articulated, including the suspect's pattern of behavior and the victim's fear",
+      "stalking_24": "Victim's safety planning documented, including a plan to stay with a friend and to vary her daily routine",
+      "stalking_25": "Information about obtaining an order of protection provided to the victim, including a brochure and contact information for a local advocate",
+      "stalking_26": "Information about local service providers supplied to the victim, including a crisis hotline and a counseling service",
+      "stalking_27": "Threat/risk assessment tool utilized with the victim, indicating a high level of risk",
+      "stalking_28": "Use of a stalking kit and/or stalking log discussed with the victim, and a log was provided to document future incidents",
+      "stalking_29": "Suspect's access to weapons documented: the suspect has a firearm at his residence, 2345 Maple Street, but it was not confiscated due to the suspect's absence and the firearm's location at a different address",
+      "stalking_30": "Emotional state of the suspect: unknown, as the suspect was not present at the scene",
+      "stalking_31": "Suspect's history of protection orders: one previous order of protection, which was violated",
+      "stalking_32": "Suspect is prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence and a qualifying order of protection",
+      "stalking_33": "Active warrants out for the suspect: one warrant for violation of the protection order and one warrant for stalking, and efforts are being made to locate and apprehend the suspect"
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Hi Leila, dispatch mentioned you were being followed by someone. Can you tell about them? Do you know who they are?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(shaking) Oh, yes... it's my ex-boyfriend. We were together for about two years, but it was a really toxic relationship. We had a lot of arguments, and... (pausing, taking a deep breath) ...there were some incidents of physical violence. He's been stalking me ever since we broke up, following me, calling me all the time, showing up at my workplace... it's been really scary. (tearfully) I have a protection order against him, but it doesn't seem to be stopping him.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Can you tell me what color the leaves were outside at the time?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(confused and slightly frustrated) I... I don't know. It was dark outside, and I wasn't really paying attention to the leaves. I was too scared and focused on getting away from him. (shaking her head) I don't remember anything about the leaves. Can we please just focus on what happened with my ex-boyfriend? I'm still really shaken up.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Did you talk to him? When was the last time you spoke with him?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nervously) We didn't really talk, not in the sense of having a conversation. He was just yelling at me, threatening me. He said things like \"You'll never be able to leave me\" and \"I'll always find you\". (shuddering) It was really frightening. As for the last time we spoke... I don't know, it's all kind of a blur. He's been calling and texting me nonstop, but I haven't been answering. Tonight, he just showed up at my house. (tearfully) I didn't expect him to do that.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Can you tell me about him? What is his name?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(sniffling) His name is... (pausing, collecting her thoughts) ...my ex-boyfriend. I don't want to say his name out loud, it's just too scary. (looking around nervously) But I can tell you that we were together for two years, and like I said, it was a really toxic relationship. He's got a history of violence, and he's been getting worse and worse since we broke up. (shaking her head) I've tried to get away from him, but he just won't leave me alone. ( whispering) I'm really afraid of him.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "His name is important for the case, and for the investigation."
+    },
+    {
+      "role": "assistant",
+      "content": "(taking a deep breath) Okay... his name is... (pausing, hesitating) ...my ex-boyfriend. I don't know if I should say it out loud, but... (whispering) his name is Alex. (looking around nervously again) Please, you have to promise to protect me from him. He's going to be so angry if he finds out I told you. (starting to cry) I'm really scared of what he might do."
+    }
+  ],
+  "coverage_flags": {
+    "stalking_01": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_02": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Hi Leila, dispatch mentioned you were being followed by someone. Can you tell about them? Do you know who they are?",
+          "coverage": "partial",
+          "reasoning": "The officer asks if Leila knows who the person following her is, which touches the topic of the relationship between the parties but does not directly ask for or imply the nature of their relationship."
+        },
+        "4": {
+          "officer_message": "Did you talk to him? When was the last time you spoke with him?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'Did you talk to him?' implies a relationship but does not directly ask about the nature of the relationship."
+        },
+        "6": {
+          "officer_message": "Can you tell me about him? What is his name?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'Can you tell me about him? What is his name?' touches the topic of the relationship of the parties but is vague and would only elicit part of the answer."
+        },
+        "8": {
+          "officer_message": "His name is important for the case, and for the investigation.",
+          "coverage": "partial",
+          "reasoning": "The officer mentions the importance of the suspect's name, which implies the need to identify the parties involved, but does not directly ask about their relationship."
+        }
+      }
+    },
+    "stalking_03": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Hi Leila, dispatch mentioned you were being followed by someone. Can you tell about them? Do you know who they are?",
+          "coverage": "partial",
+          "reasoning": "By asking about the person following Leila, the officer indirectly touches on the history of their relationship, but does not specifically ask about previous incidents or the frequency of any violence, intimidation, or threats."
+        },
+        "4": {
+          "officer_message": "Did you talk to him? When was the last time you spoke with him?",
+          "coverage": "partial",
+          "reasoning": "The question 'When was the last time you spoke with him?' touches on the history of the relationship but is vague and does not ask about frequency of violence, intimidation, or threats."
+        },
+        "8": {
+          "officer_message": "His name is important for the case, and for the investigation.",
+          "coverage": "partial",
+          "reasoning": "The officer's statement about the suspect's name being important for the case and investigation may imply a need to understand the history of the relationship, but it is indirect and vague."
+        }
+      }
+    },
+    "stalking_04": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Hi Leila, dispatch mentioned you were being followed by someone. Can you tell about them? Do you know who they are?",
+          "coverage": "partial",
+          "reasoning": "The officer mentions being followed, which is a stalking behavior, but does not articulate other potential stalking behaviors or ask Leila to describe them in detail."
+        }
+      }
+    },
+    "stalking_05": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_06": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_07": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_08": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_09": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_10": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_11": {
+      "covered": "none",
+      "messages": {
+        "2": {
+          "officer_message": "Can you tell me what color the leaves were outside at the time?",
+          "coverage": "none",
+          "reasoning": "The question about the color of the leaves outside does not provide any meaningful information about the scene or the incident."
+        }
+      }
+    },
+    "stalking_12": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_13": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Hi Leila, dispatch mentioned you were being followed by someone. Can you tell about them? Do you know who they are?",
+          "coverage": "partial",
+          "reasoning": "While not directly asking about Leila's emotional state, the context of the question about being followed may elicit an emotional response, but it does not specifically inquire about her emotional state or what she was thinking and feeling."
+        },
+        "4": {
+          "officer_message": "Did you talk to him? When was the last time you spoke with him?",
+          "coverage": "partial",
+          "reasoning": "Although not directly asked, the question 'Did you talk to him?' may lead to understanding the victim's emotional state in relation to the interaction with the suspect."
+        }
+      }
+    },
+    "stalking_14": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_15": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_16": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_17": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_18": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_19": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_20": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_21": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_22": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_23": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_24": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_25": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_26": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_27": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_28": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_29": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_30": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_31": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_32": {
+      "covered": false,
+      "messages": {}
+    },
+    "stalking_33": {
+      "covered": false,
+      "messages": {}
+    }
+  },
+  "narrative": "The victim reports being followed by a man she believes is her ex-boyfriend Alex. She hasn't spoken to him recently but there were past incidents involving violence. ",
+  "narrative_coverage": {
+    "stalking_01": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_02": {
+      "covered": "partial",
+      "phrases": {
+        "0": "a man she believes is her ex-boyfriend Alex"
+      }
+    },
+    "stalking_03": {
+      "covered": "partial",
+      "phrases": {
+        "0": "there were past incidents involving violence"
+      }
+    },
+    "stalking_04": {
+      "covered": "partial",
+      "phrases": {
+        "0": "The victim reports being followed"
+      }
+    },
+    "stalking_05": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_06": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_07": {
+      "covered": "partial",
+      "phrases": {
+        "0": "there were past incidents involving violence"
+      }
+    },
+    "stalking_08": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_09": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_11": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_12": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_13": {
+      "covered": "none",
+      "phrases": {
+        "0": ""
+      }
+    },
+    "stalking_14": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_15": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_16": {
+      "covered": "none",
+      "phrases": {
+        "0": ""
+      }
+    },
+    "stalking_17": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_18": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_19": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_20": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_21": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_22": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_23": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_24": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_25": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_26": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_27": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_28": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_29": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_30": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_31": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_32": {
+      "covered": false,
+      "phrases": {}
+    },
+    "stalking_33": {
+      "covered": false,
+      "phrases": {}
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "stalking_01",
+        "element": "Time of the call recorded (including time of incident, time of dispatch, time of arrival)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_02",
+        "element": "Relationship of the parties identified",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi Leila, dispatch mentioned you were being followed by someone. Can you tell about them? Do you know who they are?",
+            "coverage": "partial",
+            "reasoning": "The officer asks if Leila knows who the person following her is, which touches the topic of the relationship between the parties but does not directly ask for or imply the nature of their relationship."
+          },
+          "4": {
+            "officer_message": "Did you talk to him? When was the last time you spoke with him?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'Did you talk to him?' implies a relationship but does not directly ask about the nature of the relationship."
+          },
+          "6": {
+            "officer_message": "Can you tell me about him? What is his name?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'Can you tell me about him? What is his name?' touches the topic of the relationship of the parties but is vague and would only elicit part of the answer."
+          },
+          "8": {
+            "officer_message": "His name is important for the case, and for the investigation.",
+            "coverage": "partial",
+            "reasoning": "The officer mentions the importance of the suspect's name, which implies the need to identify the parties involved, but does not directly ask about their relationship."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "a man she believes is her ex-boyfriend Alex"
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "stalking_03",
+        "element": "History of the relationship (include frequency of any violence, intimidation, and threats)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi Leila, dispatch mentioned you were being followed by someone. Can you tell about them? Do you know who they are?",
+            "coverage": "partial",
+            "reasoning": "By asking about the person following Leila, the officer indirectly touches on the history of their relationship, but does not specifically ask about previous incidents or the frequency of any violence, intimidation, or threats."
+          },
+          "4": {
+            "officer_message": "Did you talk to him? When was the last time you spoke with him?",
+            "coverage": "partial",
+            "reasoning": "The question 'When was the last time you spoke with him?' touches on the history of the relationship but is vague and does not ask about frequency of violence, intimidation, or threats."
+          },
+          "8": {
+            "officer_message": "His name is important for the case, and for the investigation.",
+            "coverage": "partial",
+            "reasoning": "The officer's statement about the suspect's name being important for the case and investigation may imply a need to understand the history of the relationship, but it is indirect and vague."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "there were past incidents involving violence"
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "stalking_04",
+        "element": "Stalking behaviors articulated (e.g. following, repeated calling, sending unwanted gifts)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi Leila, dispatch mentioned you were being followed by someone. Can you tell about them? Do you know who they are?",
+            "coverage": "partial",
+            "reasoning": "The officer mentions being followed, which is a stalking behavior, but does not articulate other potential stalking behaviors or ask Leila to describe them in detail."
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "The victim reports being followed"
+        },
+        "notes": "Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "stalking_05",
+        "element": "Valid protection order in place and verified",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_06",
+        "element": "All witnesses interviewed and documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_07",
+        "element": "Information about previous incidents documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "there were past incidents involving violence"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "stalking_08",
+        "element": "Evidence collected",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_09",
+        "element": "Electronic/technological evidence collected",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_10",
+        "element": "All incidents of stalking behavior on cell phones, computers, and recording devices captured",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_11",
+        "element": "Scene(s) concisely described/diagramed",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "2": {
+            "officer_message": "Can you tell me what color the leaves were outside at the time?",
+            "coverage": "none",
+            "reasoning": "The question about the color of the leaves outside does not provide any meaningful information about the scene or the incident."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_12",
+        "element": "Weapons/objects used",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_13",
+        "element": "Emotional state of the victim (what they were thinking and feeling)",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Hi Leila, dispatch mentioned you were being followed by someone. Can you tell about them? Do you know who they are?",
+            "coverage": "partial",
+            "reasoning": "While not directly asking about Leila's emotional state, the context of the question about being followed may elicit an emotional response, but it does not specifically inquire about her emotional state or what she was thinking and feeling."
+          },
+          "4": {
+            "officer_message": "Did you talk to him? When was the last time you spoke with him?",
+            "coverage": "partial",
+            "reasoning": "Although not directly asked, the question 'Did you talk to him?' may lead to understanding the victim's emotional state in relation to the interaction with the suspect."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "stalking_14",
+        "element": "Evidence of fear articulated in the report",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_15",
+        "element": "All threats clearly documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_16",
+        "element": "Use of coercion and/or force articulated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "stalking_17",
+        "element": "All injuries (visible and non-visible) properly documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_18",
+        "element": "Property damage, theft, or burglary documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_19",
+        "element": "Photos taken and details recorded",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_20",
+        "element": "Victim's report of being strangled (choked) described in detail",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_21",
+        "element": "Victim's need for medical attention documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_22",
+        "element": "All spontaneous statements captured",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_23",
+        "element": "Elements of the stalking crime thoroughly articulated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_24",
+        "element": "Victim's safety planning documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_25",
+        "element": "Information about obtaining an order of protection provided to the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_26",
+        "element": "Information about local service providers supplied to the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_27",
+        "element": "Threat/risk assessment tool utilized with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_28",
+        "element": "Use of a stalking kit and/or stalking log discussed with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_29",
+        "element": "Suspect's access to weapons documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_30",
+        "element": "Emotional state of the suspect (what they were thinking and feeling)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_31",
+        "element": "Suspect's history of protection orders",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_32",
+        "element": "Suspect's prohibition from possessing firearms due to a conviction for a misdemeanor crime of domestic violence or a qualifying order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "stalking_33",
+        "element": "Active warrants out for the suspect documented",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      }
+    ],
+    "contradictions_interview": [],
+    "contradictions_narrative": [],
+    "grammar": [
+      {
+        "chunk": 0,
+        "source": "language_tool",
+        "error_type": "COMMA_COMPOUND_SENTENCE_2",
+        "excerpt": " but",
+        "suggestion": ", but"
+      }
+    ],
+    "style": [
+      {
+        "chunk": 0,
+        "rule": "Rule 2",
+        "error_type": "conclusory statement",
+        "excerpt": "past incidents involving violence",
+        "suggestion": "The victim stated that she and Alex had been involved in past incidents, including physical altercations, which she described as violent."
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 5",
+        "error_type": "unattributed statement",
+        "excerpt": "She hasn't spoken to him recently",
+        "suggestion": "The victim stated that she hasn't spoken to Alex recently."
+      },
+      {
+        "chunk": 0,
+        "rule": "Rule 12",
+        "error_type": "vague language",
+        "excerpt": "past incidents involving violence",
+        "suggestion": "The victim reported two prior incidents of domestic violence with Alex, which occurred in 2020 and 2021."
+      }
+    ],
+    "narrative_coverage": {
+      "stalking_01": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_02": {
+        "covered": "partial",
+        "phrases": {
+          "0": "a man she believes is her ex-boyfriend Alex"
+        }
+      },
+      "stalking_03": {
+        "covered": "partial",
+        "phrases": {
+          "0": "there were past incidents involving violence"
+        }
+      },
+      "stalking_04": {
+        "covered": "partial",
+        "phrases": {
+          "0": "The victim reports being followed"
+        }
+      },
+      "stalking_05": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_06": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_07": {
+        "covered": "partial",
+        "phrases": {
+          "0": "there were past incidents involving violence"
+        }
+      },
+      "stalking_08": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_09": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_11": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_12": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_13": {
+        "covered": "none",
+        "phrases": {
+          "0": ""
+        }
+      },
+      "stalking_14": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_15": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_16": {
+        "covered": "none",
+        "phrases": {
+          "0": ""
+        }
+      },
+      "stalking_17": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_18": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_19": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_20": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_21": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_22": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_23": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_24": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_25": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_26": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_27": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_28": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_29": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_30": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_31": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_32": {
+        "covered": false,
+        "phrases": {}
+      },
+      "stalking_33": {
+        "covered": false,
+        "phrases": {}
+      }
+    }
+  }
+}

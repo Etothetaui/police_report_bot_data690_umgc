@@ -1,0 +1,1858 @@
+{
+  "session_id": "dv_20260428_220638",
+  "timestamp": "2026-04-28T22:06:38.089751",
+  "metadata": {
+    "crime_type": "Domestic Violence",
+    "interviewee_name": "Leila Morales-Ramirez",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible domestic disturbance at 1457 Calle Del Sol, apartment 3B, in the city of Oakdale, California, report of a female yelling for help"
+  },
+  "scenario": {
+    "crime_type": "Domestic Violence",
+    "interviewee_role": "victim",
+    "interviewee_name": "Leila Morales-Ramirez",
+    "dispatch_line": "Possible domestic disturbance at 1457 Calle Del Sol, apartment 3B, in the city of Oakdale, California, report of a female yelling for help",
+    "facts": {
+      "domestic_violence_01": "No",
+      "domestic_violence_02": "Yes",
+      "domestic_violence_03": "Yes",
+      "domestic_violence_04": "Yes, Officer Maria Rodriguez assisted the victim, Ms. Leila Morales-Ramirez",
+      "domestic_violence_05": "Priority response call received at 9:45 PM from a neighbor at 1457 Calle Del Sol, Apt 3B, Oakdale, CA",
+      "domestic_violence_06": "Yes, information about obtaining an order of protection was provided to Ms. Leila Morales-Ramirez",
+      "domestic_violence_07": "Yes, the time of the call is recorded: incident occurred at 9:30 PM, dispatch at 9:40 PM, and arrival at 9:50 PM",
+      "domestic_violence_08": "Yes, information about local service providers, including the Oakdale Women's Center, was provided to Ms. Leila Morales-Ramirez",
+      "domestic_violence_09": "Yes, the elements of the crime(s) articulated meet state and/or federal laws that address domestic violence",
+      "domestic_violence_10": "Yes, a threat/risk assessment tool was used with Ms. Leila Morales-Ramirez",
+      "domestic_violence_11": "Upon approach, officers observed a broken window, and Ms. Leila Morales-Ramirez had visible bruises on her face and neck",
+      "domestic_violence_12": "Yes, a valid protection order is in place, issued on February 10, 2023, by the Oakdale County Court",
+      "domestic_violence_13": "Yes, the scene is concisely described and diagramed, including the location of the broken window and the position of the parties",
+      "domestic_violence_14": "Yes, photos were taken, and details were recorded, including the injuries sustained by Ms. Leila Morales-Ramirez and the damage to the property",
+      "domestic_violence_15": "The parties are identified as Ms. Leila Morales-Ramirez, the victim, and Mr. Rohan Jensen, the suspect, who are in a romantic relationship",
+      "domestic_violence_16": "The history of the relationship includes frequent incidents of violence, intimidation, and threats, with the most recent incident occurring on February 20, 2023",
+      "domestic_violence_17": "Yes, all witnesses, including the neighbor who made the call, were interviewed and documented",
+      "domestic_violence_18": "Yes, an arrest was made, and Mr. Rohan Jensen was taken into custody",
+      "domestic_violence_19": "Yes, there were two children on the scene, ages 7 and 9, who were unharmed and are currently with a family member",
+      "domestic_violence_20": "Yes, information about previous incidents was documented, including the issuance of the protection order and prior police responses",
+      "domestic_violence_21": "Yes, a weapon/object was used, a kitchen knife, which was recovered at the scene",
+      "domestic_violence_22": "The emotional state of the victim, Ms. Leila Morales-Ramirez, was distressed and fearful, with visible signs of anxiety and trauma",
+      "domestic_violence_23": "Defiant and agitated",
+      "domestic_violence_24": "Photos of injuries, broken window, and kitchen knife, as well as witness statements and officer's notes",
+      "domestic_violence_25": "Yes, a threat/risk assessment tool was used with Mr. Rohan Jensen",
+      "domestic_violence_26": "Yes, evidence of fear is articulated in the report, including Ms. Leila Morales-Ramirez's distressed and fearful state",
+      "domestic_violence_27": "Yes, all threats made by Mr. Rohan Jensen have been clearly documented, including verbal threats and intimidation",
+      "domestic_violence_28": "Not applicable, as the suspect was on the scene",
+      "domestic_violence_29": "Yes, the use of coercion and/or force is articulated, including Mr. Rohan Jensen's history of violence and intimidation",
+      "domestic_violence_30": "Yes, all injuries (visible and non-visible) have been documented, including Ms. Leila Morales-Ramirez's bruises and potential non-visible injuries from strangulation",
+      "domestic_violence_31": "Both existing and new injuries were documented, with the new injuries sustained during the current incident",
+      "domestic_violence_32": "Yes, property damage was observed, including the broken window",
+      "domestic_violence_33": "Yes, stalking behaviors were identified, including Mr. Rohan Jensen's history of tracking and monitoring Ms. Leila Morales-Ramirez's activities",
+      "domestic_violence_34": "Yes, the officer inquired about possible strangulation and documented the potential symptoms",
+      "domestic_violence_35": "Yes, Ms. Leila Morales-Ramirez reported being strangled by Mr. Rohan Jensen during the incident",
+      "domestic_violence_36": "Yes, Ms. Leila Morales-Ramirez requested medical attention and was treated by EMS at the scene",
+      "domestic_violence_37": "No, Ms. Leila Morales-Ramirez did not report sexual violence during the incident",
+      "domestic_violence_38": "Yes, all spontaneous statements made by Ms. Leila Morales-Ramirez and Mr. Rohan Jensen were captured and documented",
+      "domestic_violence_39": "Yes, the officer asked about possible firearms, and Mr. Rohan Jensen admitted to owning a handgun",
+      "domestic_violence_40": "No, the suspect did not use firearms during the incident",
+      "domestic_violence_41": "Yes, Mr. Rohan Jensen made threats to use firearms against Ms. Leila Morales-Ramirez in the past",
+      "domestic_violence_42": "Yes, the suspect has access to firearms, including a handgun stored at his residence, 1234 Maple Street, Apt 1A, Oakdale, CA 95667",
+      "domestic_violence_43": "Yes, Ms. Leila Morales-Ramirez expressed fear about Mr. Rohan Jensen's access to firearms and the potential threat to her safety",
+      "domestic_violence_44": "Yes, the handgun was confiscated from Mr. Rohan Jensen's residence, 1234 Maple Street, Apt 1A, Oakdale, CA 95667, after a search warrant was obtained"
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Good evening, ma'am. I'm Officer Johnson with the Oakdale Police Department. I'm here because we received a call about a disturbance at this address. Before we begin, I want you to know that you are safe and I am here to help you. Can you please state your full name and date of birth for the record?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nervously) Oh, thank you, Officer... Johnson. My name is Leila Morales-Ramirez, and my date of birth is... (pausing for a moment) November 12, 1985. (looking around nervously) I'm just glad you're here. It's been a really scary night.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Thank you, Ms. Morales-Ramirez. I can see you're upset and I want to help. Can you tell me what happened tonight? Please start from the beginning \u2014 what time did the incident occur and who was involved?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(taking a deep breath, trying to compose herself) It happened around 9:30 PM, I think. My boyfriend, Rohan Jensen, and I were arguing. It started as a normal fight, but it escalated really quickly. He... (pausing, getting choked up) he got really angry and started yelling at me. Then, he... (shuddering) he grabbed me and started hurting me. I was trying to defend myself, but he's a lot stronger than me. (looking down, tears welling up in her eyes) He had a knife, and I was really scared. I thought he was going to... (trailing off, unable to finish the sentence)\n\n(composing herself slightly) Our neighbor must have heard the noise and called the police, because I heard the sirens outside around 9:50 PM. That's when Rohan stopped and tried to leave, but the police arrived and... (exhaling) and they took him away. (looking up at the officer, pleadingly) I'm just glad they got here when they did. I don't know what would have happened if they hadn't.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "You mentioned he grabbed you and started hurting you, and that he had a knife. Can you describe exactly what he did physically \u2014 where did he grab you, did he strike you, and what are your injuries? Also, can you describe the knife \u2014 what did it look like and where did he get it from?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(wincing, remembering the pain) He... he grabbed me by the neck and arms. He was squeezing my neck really hard, and I thought I was going to pass out. He also hit me in the face, I think with his fist. (touching her face, wincing) My cheek and eye are really sore. And... (pausing, taking a deep breath) he used the knife to threaten me. He didn't stab me, but he held it up to my throat and said he would kill me if I didn't do what he wanted.\n\n(shuddering at the memory) The knife was a big kitchen knife, with a sharp point. I think he got it from the kitchen drawer. I remember seeing him open the drawer and take it out. He was waving it around, saying he would hurt me if I didn't calm down. (looking down, tears streaming down her face) I was so scared. I thought he was going to kill me.\n\n(sniffling, trying to compose herself) My neck is really sore, and I have bruises on my arms and face. (touching her neck, gently) I think he might have tried to strangle me, because my throat is really sore too. (looking up at the officer, pleadingly) I'm just glad he didn't hurt me worse. I don't know what would have happened if the police hadn't arrived when they did.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "I'm very concerned about what you've described, and I want to make sure you receive medical attention. First, has Rohan ever physically hurt you before tonight? And do you know where the knife is right now? Is it still in the apartment?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nodding, tears still streaming down her face) Yes, Rohan has hurt me before. This isn't the first time. He's been getting more and more violent over the past few months. I've tried to leave him, but he always apologizes and promises to change. But he never does. (shaking her head) I'm so scared of him.\n\nAnd... (thinking for a moment) I think the police took the knife away. I remember seeing one of the officers pick it up and put it in a bag. I don't think it's still in the apartment. (looking around, nervously) I hope it's not. I don't want to see it again.\n\n(sniffling, remembering something) Oh, and there's something else. Rohan has a gun. He keeps it at his apartment, and he's threatened to use it against me before. (looking up at the officer, fear in her eyes) I'm really scared that he might try to hurt me again if he gets out. Can you... can you please make sure he doesn't have access to any guns?",
+      "options": null
+    },
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Thank you for telling me about the gun - that information is very important and we will address it. Can you tell me: how long have you and Rohan been in a relationship, and do you live together here at this apartment? Also, you mentioned a neighbor called \u2014 do you know which neighbor that was, or who may have witnessed what happened?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(thinking for a moment) Rohan and I have been together for about three years. We don't live together, though. I live here with my two kids, and Rohan has his own apartment. But he's been staying here with me a lot lately, and that's when the fights usually happen.\n\nAnd... (nodding) I think the neighbor who called the police is Mrs. Patel from next door. She's a really nice lady, and she's always looking out for me and the kids. I've talked to her before about Rohan's behavior, and she's always been really supportive. I'm pretty sure she's the one who called the police, because I remember hearing her yelling at Rohan to stop and then hearing the sirens outside.\n\n(shaking her head) I don't think anyone else witnessed what happened, though. We were inside the apartment, and the door was closed. But Mrs. Patel might have heard some of the noise. She's always been able to hear when Rohan and I are fighting, and she's always tried to help me get away from him. (looking down, tears in her eyes) I'm just glad she was home tonight and was able to call for help.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "You mentioned children were present - how old are your children, and were they in the apartment during the incident? Also, is there an existing restraining order or protective order against Rohan? Have you ever called the police before about his behavior? And do you know Rohan's full date of birth and current home address?"
+    },
+    {
+      "role": "assistant",
+      "content": "(nodding, worried about her kids) My children are 7 and 9 years old, and they were in the apartment when the incident happened. They were in their room, but they might have heard some of the noise. I'm just glad they didn't see anything. (shuddering at the thought) I don't know what I would do if they had seen Rohan hurting me like that.\n\nAnd... (nodding) yes, there is a protective order against Rohan. I got it a few weeks ago, after he threatened to hurt me and the kids. I've had to call the police before about his behavior, too. This isn't the first time he's gotten violent with me. (sighing) I've tried to get help before, but it's hard to make him stop.\n\nAs for his date of birth and address... (thinking for a moment) Rohan's date of birth is August 25, 1982, and his current home address is 1234 Maple Street, Apartment 1A. (looking up at the officer) I hope that helps. I just want to make sure he can't hurt me or the kids again.\n\n(looking down, tears in her eyes) I'm just so scared of him. I don't know what he's capable of. (sniffling) I just want to be safe."
+    }
+  ],
+  "coverage_flags": {
+    "domestic_violence_01": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_02": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_03": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_04": {
+      "covered": "partial",
+      "messages": {
+        "2": {
+          "officer_message": "Thank you, Ms. Morales-Ramirez. I can see you're upset and I want to help. Can you tell me what happened tonight? Please start from the beginning \u2014 what time did the incident occur and who was involved?",
+          "coverage": "partial",
+          "reasoning": "The officer offers to help the victim, which implies assistance, but does not directly state it."
+        }
+      }
+    },
+    "domestic_violence_05": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_06": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_07": {
+      "covered": "partial",
+      "messages": {
+        "2": {
+          "officer_message": "Thank you, Ms. Morales-Ramirez. I can see you're upset and I want to help. Can you tell me what happened tonight? Please start from the beginning \u2014 what time did the incident occur and who was involved?",
+          "coverage": "partial",
+          "reasoning": "The officer asks about the time the incident occurred, which is part of the time of the call recording."
+        }
+      }
+    },
+    "domestic_violence_08": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_09": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_10": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_11": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_12": {
+      "covered": "partial",
+      "messages": {
+        "10": {
+          "officer_message": "You mentioned children were present - how old are your children, and were they in the apartment during the incident? Also, is there an existing restraining order or protective order against Rohan? Have you ever called the police before about his behavior? And do you know Rohan's full date of birth and current home address?",
+          "coverage": "partial",
+          "reasoning": "The officer asks if there is an existing restraining order or protective order against Rohan, which is related to a valid protection order being in place, but does not ask about its validity or current status."
+        }
+      }
+    },
+    "domestic_violence_13": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_14": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_15": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Good evening, ma'am. I'm Officer Johnson with the Oakdale Police Department. I'm here because we received a call about a disturbance at this address. Before we begin, I want you to know that you are safe and I am here to help you. Can you please state your full name and date of birth for the record?",
+          "coverage": "none",
+          "reasoning": "The question does not directly address the relationship of the parties"
+        },
+        "2": {
+          "officer_message": "Thank you, Ms. Morales-Ramirez. I can see you're upset and I want to help. Can you tell me what happened tonight? Please start from the beginning \u2014 what time did the incident occur and who was involved?",
+          "coverage": "partial",
+          "reasoning": "The officer asks the victim to tell what happened, which may elicit information about the relationship, but does not directly ask about it."
+        },
+        "8": {
+          "officer_message": "Thank you for telling me about the gun - that information is very important and we will address it. Can you tell me: how long have you and Rohan been in a relationship, and do you live together here at this apartment? Also, you mentioned a neighbor called \u2014 do you know which neighbor that was, or who may have witnessed what happened?",
+          "coverage": "full",
+          "reasoning": "The officer asked about the relationship between the victim and Rohan, including how long they have been in a relationship and if they live together."
+        },
+        "10": {
+          "officer_message": "You mentioned children were present - how old are your children, and were they in the apartment during the incident? Also, is there an existing restraining order or protective order against Rohan? Have you ever called the police before about his behavior? And do you know Rohan's full date of birth and current home address?",
+          "coverage": "partial",
+          "reasoning": "The officer does not directly ask about the relationship of the parties, but the context implies a domestic relationship since the officer is asking about children and a restraining order."
+        }
+      }
+    },
+    "domestic_violence_16": {
+      "covered": "none",
+      "messages": {
+        "2": {
+          "officer_message": "Thank you, Ms. Morales-Ramirez. I can see you're upset and I want to help. Can you tell me what happened tonight? Please start from the beginning \u2014 what time did the incident occur and who was involved?",
+          "coverage": "none",
+          "reasoning": "The officer does not directly ask about the history of the relationship, but may elicit this information by asking what happened."
+        },
+        "6": {
+          "officer_message": "I'm very concerned about what you've described, and I want to make sure you receive medical attention. First, has Rohan ever physically hurt you before tonight? And do you know where the knife is right now? Is it still in the apartment?",
+          "coverage": "partial",
+          "reasoning": "The officer asks if Rohan has physically hurt the victim before, which touches the topic of the history of the relationship but is vague and indirect."
+        },
+        "8": {
+          "officer_message": "Thank you for telling me about the gun - that information is very important and we will address it. Can you tell me: how long have you and Rohan been in a relationship, and do you live together here at this apartment? Also, you mentioned a neighbor called \u2014 do you know which neighbor that was, or who may have witnessed what happened?",
+          "coverage": "partial",
+          "reasoning": "The officer asked about the history of the relationship, but only in terms of how long they have been in a relationship and if they live together, without inquiring about frequency of violence, intimidation, or threats."
+        },
+        "10": {
+          "officer_message": "You mentioned children were present - how old are your children, and were they in the apartment during the incident? Also, is there an existing restraining order or protective order against Rohan? Have you ever called the police before about his behavior? And do you know Rohan's full date of birth and current home address?",
+          "coverage": "partial",
+          "reasoning": "The officer asks if the victim has ever called the police before about Rohan's behavior, which touches on the history of the relationship but does not fully explore it."
+        }
+      }
+    },
+    "domestic_violence_17": {
+      "covered": "partial",
+      "messages": {
+        "8": {
+          "officer_message": "Thank you for telling me about the gun - that information is very important and we will address it. Can you tell me: how long have you and Rohan been in a relationship, and do you live together here at this apartment? Also, you mentioned a neighbor called \u2014 do you know which neighbor that was, or who may have witnessed what happened?",
+          "coverage": "partial",
+          "reasoning": "The officer inquired about a neighbor who may have witnessed the incident, which could lead to identifying and interviewing witnesses, but did not directly ask about interviewing all witnesses."
+        }
+      }
+    },
+    "domestic_violence_18": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_19": {
+      "covered": "partial",
+      "messages": {
+        "10": {
+          "officer_message": "You mentioned children were present - how old are your children, and were they in the apartment during the incident? Also, is there an existing restraining order or protective order against Rohan? Have you ever called the police before about his behavior? And do you know Rohan's full date of birth and current home address?",
+          "coverage": "partial",
+          "reasoning": "The officer mentions children being present, which implies there were children on the scene, but does not confirm their presence or ask about their involvement."
+        }
+      }
+    },
+    "domestic_violence_20": {
+      "covered": "partial",
+      "messages": {
+        "8": {
+          "officer_message": "Thank you for telling me about the gun - that information is very important and we will address it. Can you tell me: how long have you and Rohan been in a relationship, and do you live together here at this apartment? Also, you mentioned a neighbor called \u2014 do you know which neighbor that was, or who may have witnessed what happened?",
+          "coverage": "partial",
+          "reasoning": "The officer's question about the relationship and living situation may lead to discussing previous incidents, but does not directly ask about previous incidents or their documentation."
+        },
+        "10": {
+          "officer_message": "You mentioned children were present - how old are your children, and were they in the apartment during the incident? Also, is there an existing restraining order or protective order against Rohan? Have you ever called the police before about his behavior? And do you know Rohan's full date of birth and current home address?",
+          "coverage": "partial",
+          "reasoning": "The officer asks if the victim has ever called the police before about Rohan's behavior, which is related to documenting previous incidents, but does not ask for details about those incidents."
+        }
+      }
+    },
+    "domestic_violence_21": {
+      "covered": "full",
+      "messages": {
+        "4": {
+          "officer_message": "You mentioned he grabbed you and started hurting you, and that he had a knife. Can you describe exactly what he did physically \u2014 where did he grab you, did he strike you, and what are your injuries? Also, can you describe the knife \u2014 what did it look like and where did he get it from?",
+          "coverage": "full",
+          "reasoning": "The officer asked about the knife, which is a weapon/object used, and requested a description of it."
+        },
+        "6": {
+          "officer_message": "I'm very concerned about what you've described, and I want to make sure you receive medical attention. First, has Rohan ever physically hurt you before tonight? And do you know where the knife is right now? Is it still in the apartment?",
+          "coverage": "full",
+          "reasoning": "The officer asks about the location of the knife, which directly addresses the topic of weapons or objects used."
+        }
+      }
+    },
+    "domestic_violence_22": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Good evening, ma'am. I'm Officer Johnson with the Oakdale Police Department. I'm here because we received a call about a disturbance at this address. Before we begin, I want you to know that you are safe and I am here to help you. Can you please state your full name and date of birth for the record?",
+          "coverage": "none",
+          "reasoning": "The question does not address the emotional state of the victim"
+        },
+        "2": {
+          "officer_message": "Thank you, Ms. Morales-Ramirez. I can see you're upset and I want to help. Can you tell me what happened tonight? Please start from the beginning \u2014 what time did the incident occur and who was involved?",
+          "coverage": "partial",
+          "reasoning": "The officer acknowledges the victim is upset, which implies an emotional state, but does not directly ask about it."
+        },
+        "4": {
+          "officer_message": "You mentioned he grabbed you and started hurting you, and that he had a knife. Can you describe exactly what he did physically \u2014 where did he grab you, did he strike you, and what are your injuries? Also, can you describe the knife \u2014 what did it look like and where did he get it from?",
+          "coverage": "none",
+          "reasoning": "The officer did not ask about the emotional state of the victim."
+        }
+      }
+    },
+    "domestic_violence_23": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_24": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_25": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_26": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_27": {
+      "covered": "partial",
+      "messages": {
+        "4": {
+          "officer_message": "You mentioned he grabbed you and started hurting you, and that he had a knife. Can you describe exactly what he did physically \u2014 where did he grab you, did he strike you, and what are your injuries? Also, can you describe the knife \u2014 what did it look like and where did he get it from?",
+          "coverage": "partial",
+          "reasoning": "The officer asked about the suspect's actions, which may imply threats, but did not directly ask about threats."
+        },
+        "8": {
+          "officer_message": "Thank you for telling me about the gun - that information is very important and we will address it. Can you tell me: how long have you and Rohan been in a relationship, and do you live together here at this apartment? Also, you mentioned a neighbor called \u2014 do you know which neighbor that was, or who may have witnessed what happened?",
+          "coverage": "partial",
+          "reasoning": "The officer did not directly ask about threats, but by inquiring about what happened and showing concern for the gun, may have indirectly addressed the topic of threats."
+        },
+        "10": {
+          "officer_message": "You mentioned children were present - how old are your children, and were they in the apartment during the incident? Also, is there an existing restraining order or protective order against Rohan? Have you ever called the police before about his behavior? And do you know Rohan's full date of birth and current home address?",
+          "coverage": "partial",
+          "reasoning": "The officer asks about an existing restraining order, which could imply previous threats, but does not directly ask about threats made during the incident."
+        }
+      }
+    },
+    "domestic_violence_28": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_29": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_30": {
+      "covered": "full",
+      "messages": {
+        "4": {
+          "officer_message": "You mentioned he grabbed you and started hurting you, and that he had a knife. Can you describe exactly what he did physically \u2014 where did he grab you, did he strike you, and what are your injuries? Also, can you describe the knife \u2014 what did it look like and where did he get it from?",
+          "coverage": "full",
+          "reasoning": "The officer asked the victim to describe exactly what the suspect did physically, including where he grabbed the victim, if he struck the victim, and what the victim's injuries are."
+        },
+        "6": {
+          "officer_message": "I'm very concerned about what you've described, and I want to make sure you receive medical attention. First, has Rohan ever physically hurt you before tonight? And do you know where the knife is right now? Is it still in the apartment?",
+          "coverage": "full",
+          "reasoning": "The officer expresses concern for the victim's well-being and offers medical attention, which directly addresses the topic of all injuries visible and non-visible documented, but more specifically the officer's concern implies the need to document any injuries."
+        }
+      }
+    },
+    "domestic_violence_31": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_32": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_33": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_34": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_35": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_36": {
+      "covered": "none",
+      "messages": {
+        "0": {
+          "officer_message": "Good evening, ma'am. I'm Officer Johnson with the Oakdale Police Department. I'm here because we received a call about a disturbance at this address. Before we begin, I want you to know that you are safe and I am here to help you. Can you please state your full name and date of birth for the record?",
+          "coverage": "none",
+          "reasoning": "The question does not address medical attention"
+        },
+        "2": {
+          "officer_message": "Thank you, Ms. Morales-Ramirez. I can see you're upset and I want to help. Can you tell me what happened tonight? Please start from the beginning \u2014 what time did the incident occur and who was involved?",
+          "coverage": "none",
+          "reasoning": "The officer does not directly ask about medical attention, but may elicit this information by asking what happened."
+        },
+        "4": {
+          "officer_message": "You mentioned he grabbed you and started hurting you, and that he had a knife. Can you describe exactly what he did physically \u2014 where did he grab you, did he strike you, and what are your injuries? Also, can you describe the knife \u2014 what did it look like and where did he get it from?",
+          "coverage": "none",
+          "reasoning": "The officer did not ask if the victim needed medical attention, but this may be implied in the follow-up questions about injuries."
+        },
+        "6": {
+          "officer_message": "I'm very concerned about what you've described, and I want to make sure you receive medical attention. First, has Rohan ever physically hurt you before tonight? And do you know where the knife is right now? Is it still in the apartment?",
+          "coverage": "full",
+          "reasoning": "The officer offers medical attention to the victim, which directly addresses whether the victim requested or needed medical attention."
+        }
+      }
+    },
+    "domestic_violence_37": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_38": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_39": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_40": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_41": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_42": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_43": {
+      "covered": false,
+      "messages": {}
+    },
+    "domestic_violence_44": {
+      "covered": false,
+      "messages": {}
+    }
+  },
+  "narrative": "INCIDENT REPORT - DOMESTIC VIOLENCE / CRIMINAL THREATS / ASSAULT WITH A DEADLY WEAPON / PROTECTION ORDER VIOLATION\n\nReporting Officer: Officer Johnson\nDate of Report: Current Date\nIncident Location: 1457 Calle Del Sol, Apartment 3B, Oakdale, California\nCrime Type: Domestic Violence, Assault with a Deadly Weapon, Criminal Threats, Violation of Protective Order\nCase Status: Suspect in Custody\n\nVICTIM INFORMATION:\nName: Leila Morales-Ramirez\nDate of Birth: November 12, 1985\nAddress: 1457 Calle Del Sol, Apartment 3B, Oakdale, California\n\nSUSPECT INFORMATION:\nName: Rohan Jensen\nDate of Birth: August 25, 1982\nAddress: 1234 Maple Street, Apartment 1A, Oakdale, California\nRelationship to Victim: Boyfriend (3-year relationship)\n\nWITNESS:\nName: Mrs. Patel\nAddress: Adjacent unit (next door) to Apartment 3B, 1457 Calle Del Sol\n\nNARRATIVE:\n\nOn the date of this incident, at approximately 2150 hours, this officer was dispatched to 1457 Calle Del Sol, Apartment 3B, Oakdale, California, in response to a report of a domestic disturbance. Dispatch reported that a female was heard yelling for help at the location.\n\nUpon arrival, this officer contacted victim Leila Morales-Ramirez (DOB: 11/12/1985) at the above address. The victim appeared visibly distressed, with tears streaming down her face, and displayed observable injuries including redness and bruising to her cheek and eye area and visible redness to her neck.\n\nVICTIM STATEMENT:\n\nVictim Morales-Ramirez stated that at approximately 2130 hours, she and her boyfriend, Rohan Jensen (DOB: 08/25/1982), became engaged in a verbal argument at her residence. The victim reported that the argument escalated rapidly, at which point Jensen became physically violent. Specifically, the victim stated that Jensen grabbed her by the neck and arms, applying significant pressure to her neck to the point where she believed she was going to lose consciousness. The victim further stated that Jensen struck her in the face with a closed fist, causing pain and injury to her cheek and eye.\n\nThe victim stated that Jensen then retrieved a large kitchen knife from the kitchen drawer and held the knife to her throat. Jensen allegedly stated words to the effect that he would kill her if she did not comply with his demands. The victim stated she was in fear for her life during this encounter.\n\nThe victim identified the knife as a large kitchen knife with a sharp point. This officer notes that the knife was collected at the scene by responding officers and placed into evidence.\n\nThe victim further stated that at approximately 2150 hours, neighbor Mrs. Patel (next-door unit) apparently heard the disturbance and called police. The victim reported hearing Mrs. Patel yelling at Jensen to stop prior to police arrival. Upon the arrival of law enforcement, Jensen ceased his actions and attempted to leave the premises. Jensen was subsequently detained by responding officers.\n\nMINOR CHILDREN:\nThe victim disclosed that two minor children, ages 7 and 9, were present in the apartment during the incident. The children were located in their bedroom and did not directly witness the physical assault, although it is believed they may have heard portions of the altercation.\n\nPROTECTIVE ORDER:\nThe victim reported that an active protective order exists against Jensen, which was obtained approximately two to three weeks prior to this incident following prior threats made against the victim and her children. Jensen's presence at the victim's residence and his conduct this evening constitute a violation of this protective order.\n\nPRIOR INCIDENTS:\nThe victim disclosed a pattern of escalating domestic violence perpetrated by Jensen over a period of approximately the past several months. The victim reported having previously contacted law enforcement on at least one prior occasion regarding Jensen's violent behavior. The victim stated that she has attempted to end the relationship but that Jensen has repeatedly apologized and promised to change without doing so.\n\nFIREARM / SAFETY CONCERN:\nThe victim disclosed that Jensen is known to possess a firearm at his residence located at 1234 Maple Street, Apartment 1A. The victim stated that Jensen has previously threatened to use the firearm against her. This officer notes this information as a significant officer and public safety concern warranting follow-up investigation and verification.\n\nINJURIES OBSERVED:\nThis officer observed the following injuries on the victim: visible redness and bruising to the left cheek and eye area; redness and tenderness to the neck consistent with the reported strangulation attempt. The victim reported soreness to her arms consistent with being forcibly grabbed. The victim was advised to seek medical attention.\n\nEVIDENCE:\nOne (1) large kitchen knife recovered from the scene by responding officers and placed into an evidence bag.\n\nCHARGES / RECOMMENDED CHARGES:\nBased on the evidence gathered and the victim's statement, the following charges are recommended against Rohan Jensen: (1) Domestic Battery; (2) Assault with a Deadly Weapon (knife); (3) Criminal Threats; (4) Strangulation / Attempted Strangulation; (5) Violation of Protective/Restraining Order.\n\nThis report is submitted for review and further action.",
+  "narrative_coverage": {
+    "domestic_violence_01": {
+      "covered": "none",
+      "phrases": {
+        "8": "",
+        "12": ""
+      }
+    },
+    "domestic_violence_02": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_03": {
+      "covered": "none",
+      "phrases": {
+        "40": ""
+      }
+    },
+    "domestic_violence_04": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_05": {
+      "covered": "full",
+      "phrases": {
+        "19": "in response to a report of a domestic disturbance"
+      }
+    },
+    "domestic_violence_06": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_07": {
+      "covered": "full",
+      "phrases": {
+        "2": "Date of Report: Current Date",
+        "9": "",
+        "19": "On the date of this incident, at approximately 2150 hours"
+      }
+    },
+    "domestic_violence_08": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_09": {
+      "covered": "full",
+      "phrases": {
+        "0": "DOMESTIC VIOLENCE",
+        "39": "Domestic Battery"
+      }
+    },
+    "domestic_violence_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_11": {
+      "covered": "full",
+      "phrases": {
+        "1": "Reporting Officer: Officer Johnson",
+        "9": "",
+        "13": "",
+        "19": "a female was heard yelling for help at the location",
+        "25": "Upon the arrival of law enforcement, Jensen ceased his actions and attempted to leave the premises."
+      }
+    },
+    "domestic_violence_12": {
+      "covered": "full",
+      "phrases": {
+        "0": "PROTECTION ORDER VIOLATION",
+        "4": "Violation of Protective Order",
+        "28": "PROTECTIVE ORDER",
+        "29": "an active protective order exists against Jensen",
+        "39": "Violation of Protective/Restraining Order"
+      }
+    },
+    "domestic_violence_13": {
+      "covered": "full",
+      "phrases": {
+        "3": "Incident Location: 1457 Calle Del Sol, Apartment 3B, Oakdale, California",
+        "9": "Address: 1457 Calle Del Sol, Apartment 3B, Oakdale, California",
+        "13": "Address: 1234 Maple Street, Apartment 1A, Oakdale, California",
+        "17": "Address: Adjacent unit (next door) to Apartment 3B, 1457 Calle Del Sol"
+      }
+    },
+    "domestic_violence_14": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_15": {
+      "covered": "full",
+      "phrases": {
+        "4": "Domestic Violence",
+        "7": "Name: Leila Morales-Ramirez",
+        "9": "",
+        "11": "Name: Rohan Jensen",
+        "13": "",
+        "14": "Boyfriend (3-year relationship)",
+        "16": "Name: Mrs. Patel",
+        "19": "a report of a domestic disturbance",
+        "22": "her boyfriend, Rohan Jensen",
+        "31": "The victim disclosed a pattern of escalating domestic violence perpetrated by Jensen"
+      }
+    },
+    "domestic_violence_16": {
+      "covered": "full",
+      "phrases": {
+        "14": "3-year relationship",
+        "22": "a verbal argument",
+        "29": "following prior threats made against the victim and her children",
+        "31": "The victim disclosed a pattern of escalating domestic violence perpetrated by Jensen over a period of approximately the past several months."
+      }
+    },
+    "domestic_violence_17": {
+      "covered": "none",
+      "phrases": {
+        "15": "",
+        "25": "neighbor Mrs. Patel (next-door unit) apparently heard the disturbance and called police."
+      }
+    },
+    "domestic_violence_18": {
+      "covered": "full",
+      "phrases": {
+        "5": "Suspect in Custody",
+        "25": "Jensen was subsequently detained by responding officers.",
+        "38": "CHARGES / RECOMMENDED CHARGES"
+      }
+    },
+    "domestic_violence_19": {
+      "covered": "full",
+      "phrases": {
+        "26": "MINOR CHILDREN",
+        "27": "The victim disclosed that two minor children, ages 7 and 9, were present in the apartment during the incident."
+      }
+    },
+    "domestic_violence_20": {
+      "covered": "full",
+      "phrases": {
+        "22": "a verbal argument",
+        "29": "following prior threats made against the victim and her children",
+        "30": "PRIOR INCIDENTS:",
+        "31": "The victim reported having previously contacted law enforcement on at least one prior occasion regarding Jensen's violent behavior."
+      }
+    },
+    "domestic_violence_21": {
+      "covered": "full",
+      "phrases": {
+        "0": "ASSAULT WITH A DEADLY WEAPON",
+        "4": "Assault with a Deadly Weapon",
+        "22": "Jensen grabbed her by the neck and arms, applying significant pressure to her neck",
+        "23": "Jensen then retrieved a large kitchen knife from the kitchen drawer and held the knife to her throat",
+        "24": "The victim identified the knife as a large kitchen knife with a sharp point",
+        "25": "the disturbance",
+        "33": "The victim disclosed that Jensen is known to possess a firearm at his residence located at 1234 Maple Street, Apartment 1A.",
+        "37": "One (1) large kitchen knife recovered from the scene by responding officers and placed into an evidence bag.",
+        "39": "Assault with a Deadly Weapon (knife)"
+      }
+    },
+    "domestic_violence_22": {
+      "covered": "none",
+      "phrases": {
+        "6": "",
+        "18": "",
+        "20": "The victim appeared visibly distressed, with tears streaming down her face",
+        "21": "",
+        "22": "causing pain and injury to her cheek and eye",
+        "23": "The victim stated she was in fear for her life during this encounter",
+        "31": "The victim stated that she has attempted to end the relationship but that Jensen has repeatedly apologized and promised to change without doing so."
+      }
+    },
+    "domestic_violence_23": {
+      "covered": "none",
+      "phrases": {
+        "10": ""
+      }
+    },
+    "domestic_violence_24": {
+      "covered": "full",
+      "phrases": {
+        "24": "This officer notes that the knife was collected at the scene by responding officers and placed into evidence",
+        "36": "EVIDENCE:",
+        "37": "One (1) large kitchen knife recovered from the scene by responding officers and placed into an evidence bag."
+      }
+    },
+    "domestic_violence_25": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_26": {
+      "covered": "full",
+      "phrases": {
+        "22": "to the point where she believed she was going to lose consciousness",
+        "23": "The victim stated she was in fear for her life during this encounter",
+        "29": "following prior threats made against the victim and her children"
+      }
+    },
+    "domestic_violence_27": {
+      "covered": "full",
+      "phrases": {
+        "0": "CRIMINAL THREATS",
+        "4": "Criminal Threats",
+        "22": "the argument escalated rapidly",
+        "23": "Jensen allegedly stated words to the effect that he would kill her if she did not comply with his demands",
+        "25": "the disturbance",
+        "29": "following prior threats made against the victim and her children",
+        "33": "The victim stated that Jensen has previously threatened to use the firearm against her.",
+        "39": "Criminal Threats"
+      }
+    },
+    "domestic_violence_28": {
+      "covered": "full",
+      "phrases": {
+        "25": "Upon the arrival of law enforcement, Jensen ceased his actions and attempted to leave the premises."
+      }
+    },
+    "domestic_violence_29": {
+      "covered": "full",
+      "phrases": {
+        "22": "Jensen grabbed her by the neck and arms, applying significant pressure to her neck",
+        "23": "Jensen then retrieved a large kitchen knife from the kitchen drawer and held the knife to her throat"
+      }
+    },
+    "domestic_violence_30": {
+      "covered": "none",
+      "phrases": {
+        "18": "",
+        "20": "displayed observable injuries including redness and bruising to her cheek and eye area and visible redness to her neck",
+        "22": "causing pain and injury to her cheek and eye",
+        "34": "INJURIES OBSERVED",
+        "35": "This officer observed the following injuries on the victim: visible redness and bruising to the left cheek and eye area; redness and tenderness to the neck consistent with the reported strangulation attempt. The victim reported soreness to her arms consistent with being forcibly grabbed.",
+        "39": "Strangulation / Attempted Strangulation"
+      }
+    },
+    "domestic_violence_31": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_32": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_33": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_34": {
+      "covered": "full",
+      "phrases": {
+        "22": "Jensen grabbed her by the neck and arms, applying significant pressure to her neck"
+      }
+    },
+    "domestic_violence_35": {
+      "covered": "full",
+      "phrases": {
+        "22": "Jensen grabbed her by the neck and arms, applying significant pressure to her neck"
+      }
+    },
+    "domestic_violence_36": {
+      "covered": "full",
+      "phrases": {
+        "35": "The victim was advised to seek medical attention."
+      }
+    },
+    "domestic_violence_37": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_38": {
+      "covered": "partial",
+      "phrases": {
+        "25": "The victim reported hearing Mrs. Patel yelling at Jensen to stop prior to police arrival."
+      }
+    },
+    "domestic_violence_39": {
+      "covered": "partial",
+      "phrases": {
+        "32": "FIREARM / SAFETY CONCERN"
+      }
+    },
+    "domestic_violence_40": {
+      "covered": "none",
+      "phrases": {
+        "32": ""
+      }
+    },
+    "domestic_violence_41": {
+      "covered": "none",
+      "phrases": {
+        "32": "",
+        "33": "The victim stated that Jensen has previously threatened to use the firearm against her."
+      }
+    },
+    "domestic_violence_42": {
+      "covered": "none",
+      "phrases": {
+        "32": "",
+        "33": "The victim disclosed that Jensen is known to possess a firearm at his residence located at 1234 Maple Street, Apartment 1A."
+      }
+    },
+    "domestic_violence_43": {
+      "covered": false,
+      "phrases": {}
+    },
+    "domestic_violence_44": {
+      "covered": "full",
+      "phrases": {
+        "37": "One (1) large kitchen knife recovered from the scene by responding officers and placed into an evidence bag."
+      }
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "domestic_violence_01",
+        "element": "Is this individual prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "8": "",
+          "12": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_02",
+        "element": "Is this individual prohibited from possessing firearms due to a qualifying order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_03",
+        "element": "Does the report include all needed information",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "40": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_04",
+        "element": "Did the officer assist the victim",
+        "asked_in_interview": "false",
+        "interview_messages": {
+          "2": {
+            "officer_message": "Thank you, Ms. Morales-Ramirez. I can see you're upset and I want to help. Can you tell me what happened tonight? Please start from the beginning \u2014 what time did the incident occur and who was involved?",
+            "coverage": "partial",
+            "reasoning": "The officer offers to help the victim, which implies assistance, but does not directly state it."
+          }
+        },
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": "Asked in interview but not written up in narrative. Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_05",
+        "element": "How was the case received",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "19": "in response to a report of a domestic disturbance"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_06",
+        "element": "Was information provided about obtaining an order of protection",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_07",
+        "element": "Is the time of the call recorded (including time of incident, time of dispatch, time of arrival)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "2": {
+            "officer_message": "Thank you, Ms. Morales-Ramirez. I can see you're upset and I want to help. Can you tell me what happened tonight? Please start from the beginning \u2014 what time did the incident occur and who was involved?",
+            "coverage": "partial",
+            "reasoning": "The officer asks about the time the incident occurred, which is part of the time of the call recording."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "2": "Date of Report: Current Date",
+          "9": "",
+          "19": "On the date of this incident, at approximately 2150 hours"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_08",
+        "element": "Was information provided to the victim about local service providers",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_09",
+        "element": "Are the elements of the crime(s) articulated to meet state and/or federal laws that address domestic violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "DOMESTIC VIOLENCE",
+          "39": "Domestic Battery"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_10",
+        "element": "Was a threat/risk assessment tool used with the victim",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_11",
+        "element": "What were the observations upon approach",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "Reporting Officer: Officer Johnson",
+          "9": "",
+          "13": "",
+          "19": "a female was heard yelling for help at the location",
+          "25": "Upon the arrival of law enforcement, Jensen ceased his actions and attempted to leave the premises."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_12",
+        "element": "Is there a valid protection order in place",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "10": {
+            "officer_message": "You mentioned children were present - how old are your children, and were they in the apartment during the incident? Also, is there an existing restraining order or protective order against Rohan? Have you ever called the police before about his behavior? And do you know Rohan's full date of birth and current home address?",
+            "coverage": "partial",
+            "reasoning": "The officer asks if there is an existing restraining order or protective order against Rohan, which is related to a valid protection order being in place, but does not ask about its validity or current status."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "PROTECTION ORDER VIOLATION",
+          "4": "Violation of Protective Order",
+          "28": "PROTECTIVE ORDER",
+          "29": "an active protective order exists against Jensen",
+          "39": "Violation of Protective/Restraining Order"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_13",
+        "element": "Is the scene concisely described/diagramed",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "3": "Incident Location: 1457 Calle Del Sol, Apartment 3B, Oakdale, California",
+          "9": "Address: 1457 Calle Del Sol, Apartment 3B, Oakdale, California",
+          "13": "Address: 1234 Maple Street, Apartment 1A, Oakdale, California",
+          "17": "Address: Adjacent unit (next door) to Apartment 3B, 1457 Calle Del Sol"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_14",
+        "element": "Were photos taken and details recorded",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_15",
+        "element": "Is the relationship of the parties identified",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Good evening, ma'am. I'm Officer Johnson with the Oakdale Police Department. I'm here because we received a call about a disturbance at this address. Before we begin, I want you to know that you are safe and I am here to help you. Can you please state your full name and date of birth for the record?",
+            "coverage": "none",
+            "reasoning": "The question does not directly address the relationship of the parties"
+          },
+          "2": {
+            "officer_message": "Thank you, Ms. Morales-Ramirez. I can see you're upset and I want to help. Can you tell me what happened tonight? Please start from the beginning \u2014 what time did the incident occur and who was involved?",
+            "coverage": "partial",
+            "reasoning": "The officer asks the victim to tell what happened, which may elicit information about the relationship, but does not directly ask about it."
+          },
+          "8": {
+            "officer_message": "Thank you for telling me about the gun - that information is very important and we will address it. Can you tell me: how long have you and Rohan been in a relationship, and do you live together here at this apartment? Also, you mentioned a neighbor called \u2014 do you know which neighbor that was, or who may have witnessed what happened?",
+            "coverage": "full",
+            "reasoning": "The officer asked about the relationship between the victim and Rohan, including how long they have been in a relationship and if they live together."
+          },
+          "10": {
+            "officer_message": "You mentioned children were present - how old are your children, and were they in the apartment during the incident? Also, is there an existing restraining order or protective order against Rohan? Have you ever called the police before about his behavior? And do you know Rohan's full date of birth and current home address?",
+            "coverage": "partial",
+            "reasoning": "The officer does not directly ask about the relationship of the parties, but the context implies a domestic relationship since the officer is asking about children and a restraining order."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "4": "Domestic Violence",
+          "7": "Name: Leila Morales-Ramirez",
+          "9": "",
+          "11": "Name: Rohan Jensen",
+          "13": "",
+          "14": "Boyfriend (3-year relationship)",
+          "16": "Name: Mrs. Patel",
+          "19": "a report of a domestic disturbance",
+          "22": "her boyfriend, Rohan Jensen",
+          "31": "The victim disclosed a pattern of escalating domestic violence perpetrated by Jensen"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_16",
+        "element": "What is the history of the relationship (include frequency of any violence, intimidation, and threats)",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "2": {
+            "officer_message": "Thank you, Ms. Morales-Ramirez. I can see you're upset and I want to help. Can you tell me what happened tonight? Please start from the beginning \u2014 what time did the incident occur and who was involved?",
+            "coverage": "none",
+            "reasoning": "The officer does not directly ask about the history of the relationship, but may elicit this information by asking what happened."
+          },
+          "6": {
+            "officer_message": "I'm very concerned about what you've described, and I want to make sure you receive medical attention. First, has Rohan ever physically hurt you before tonight? And do you know where the knife is right now? Is it still in the apartment?",
+            "coverage": "partial",
+            "reasoning": "The officer asks if Rohan has physically hurt the victim before, which touches the topic of the history of the relationship but is vague and indirect."
+          },
+          "8": {
+            "officer_message": "Thank you for telling me about the gun - that information is very important and we will address it. Can you tell me: how long have you and Rohan been in a relationship, and do you live together here at this apartment? Also, you mentioned a neighbor called \u2014 do you know which neighbor that was, or who may have witnessed what happened?",
+            "coverage": "partial",
+            "reasoning": "The officer asked about the history of the relationship, but only in terms of how long they have been in a relationship and if they live together, without inquiring about frequency of violence, intimidation, or threats."
+          },
+          "10": {
+            "officer_message": "You mentioned children were present - how old are your children, and were they in the apartment during the incident? Also, is there an existing restraining order or protective order against Rohan? Have you ever called the police before about his behavior? And do you know Rohan's full date of birth and current home address?",
+            "coverage": "partial",
+            "reasoning": "The officer asks if the victim has ever called the police before about Rohan's behavior, which touches on the history of the relationship but does not fully explore it."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "14": "3-year relationship",
+          "22": "a verbal argument",
+          "29": "following prior threats made against the victim and her children",
+          "31": "The victim disclosed a pattern of escalating domestic violence perpetrated by Jensen over a period of approximately the past several months."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_17",
+        "element": "Were all witnesses interviewed and documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Thank you for telling me about the gun - that information is very important and we will address it. Can you tell me: how long have you and Rohan been in a relationship, and do you live together here at this apartment? Also, you mentioned a neighbor called \u2014 do you know which neighbor that was, or who may have witnessed what happened?",
+            "coverage": "partial",
+            "reasoning": "The officer inquired about a neighbor who may have witnessed the incident, which could lead to identifying and interviewing witnesses, but did not directly ask about interviewing all witnesses."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "15": "",
+          "25": "neighbor Mrs. Patel (next-door unit) apparently heard the disturbance and called police."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_18",
+        "element": "Was an arrest made",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "5": "Suspect in Custody",
+          "25": "Jensen was subsequently detained by responding officers.",
+          "38": "CHARGES / RECOMMENDED CHARGES"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_19",
+        "element": "Were there children on the scene",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "10": {
+            "officer_message": "You mentioned children were present - how old are your children, and were they in the apartment during the incident? Also, is there an existing restraining order or protective order against Rohan? Have you ever called the police before about his behavior? And do you know Rohan's full date of birth and current home address?",
+            "coverage": "partial",
+            "reasoning": "The officer mentions children being present, which implies there were children on the scene, but does not confirm their presence or ask about their involvement."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "26": "MINOR CHILDREN",
+          "27": "The victim disclosed that two minor children, ages 7 and 9, were present in the apartment during the incident."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_20",
+        "element": "Was information about previous incidents documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "8": {
+            "officer_message": "Thank you for telling me about the gun - that information is very important and we will address it. Can you tell me: how long have you and Rohan been in a relationship, and do you live together here at this apartment? Also, you mentioned a neighbor called \u2014 do you know which neighbor that was, or who may have witnessed what happened?",
+            "coverage": "partial",
+            "reasoning": "The officer's question about the relationship and living situation may lead to discussing previous incidents, but does not directly ask about previous incidents or their documentation."
+          },
+          "10": {
+            "officer_message": "You mentioned children were present - how old are your children, and were they in the apartment during the incident? Also, is there an existing restraining order or protective order against Rohan? Have you ever called the police before about his behavior? And do you know Rohan's full date of birth and current home address?",
+            "coverage": "partial",
+            "reasoning": "The officer asks if the victim has ever called the police before about Rohan's behavior, which is related to documenting previous incidents, but does not ask for details about those incidents."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "22": "a verbal argument",
+          "29": "following prior threats made against the victim and her children",
+          "30": "PRIOR INCIDENTS:",
+          "31": "The victim reported having previously contacted law enforcement on at least one prior occasion regarding Jensen's violent behavior."
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_21",
+        "element": "Were weapons/objects used",
+        "asked_in_interview": "full",
+        "interview_messages": {
+          "4": {
+            "officer_message": "You mentioned he grabbed you and started hurting you, and that he had a knife. Can you describe exactly what he did physically \u2014 where did he grab you, did he strike you, and what are your injuries? Also, can you describe the knife \u2014 what did it look like and where did he get it from?",
+            "coverage": "full",
+            "reasoning": "The officer asked about the knife, which is a weapon/object used, and requested a description of it."
+          },
+          "6": {
+            "officer_message": "I'm very concerned about what you've described, and I want to make sure you receive medical attention. First, has Rohan ever physically hurt you before tonight? And do you know where the knife is right now? Is it still in the apartment?",
+            "coverage": "full",
+            "reasoning": "The officer asks about the location of the knife, which directly addresses the topic of weapons or objects used."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "ASSAULT WITH A DEADLY WEAPON",
+          "4": "Assault with a Deadly Weapon",
+          "22": "Jensen grabbed her by the neck and arms, applying significant pressure to her neck",
+          "23": "Jensen then retrieved a large kitchen knife from the kitchen drawer and held the knife to her throat",
+          "24": "The victim identified the knife as a large kitchen knife with a sharp point",
+          "25": "the disturbance",
+          "33": "The victim disclosed that Jensen is known to possess a firearm at his residence located at 1234 Maple Street, Apartment 1A.",
+          "37": "One (1) large kitchen knife recovered from the scene by responding officers and placed into an evidence bag.",
+          "39": "Assault with a Deadly Weapon (knife)"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_22",
+        "element": "What was the emotional state of the victim",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Good evening, ma'am. I'm Officer Johnson with the Oakdale Police Department. I'm here because we received a call about a disturbance at this address. Before we begin, I want you to know that you are safe and I am here to help you. Can you please state your full name and date of birth for the record?",
+            "coverage": "none",
+            "reasoning": "The question does not address the emotional state of the victim"
+          },
+          "2": {
+            "officer_message": "Thank you, Ms. Morales-Ramirez. I can see you're upset and I want to help. Can you tell me what happened tonight? Please start from the beginning \u2014 what time did the incident occur and who was involved?",
+            "coverage": "partial",
+            "reasoning": "The officer acknowledges the victim is upset, which implies an emotional state, but does not directly ask about it."
+          },
+          "4": {
+            "officer_message": "You mentioned he grabbed you and started hurting you, and that he had a knife. Can you describe exactly what he did physically \u2014 where did he grab you, did he strike you, and what are your injuries? Also, can you describe the knife \u2014 what did it look like and where did he get it from?",
+            "coverage": "none",
+            "reasoning": "The officer did not ask about the emotional state of the victim."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "6": "",
+          "18": "",
+          "20": "The victim appeared visibly distressed, with tears streaming down her face",
+          "21": "",
+          "22": "causing pain and injury to her cheek and eye",
+          "23": "The victim stated she was in fear for her life during this encounter",
+          "31": "The victim stated that she has attempted to end the relationship but that Jensen has repeatedly apologized and promised to change without doing so."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_23",
+        "element": "What was the emotional state of the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "10": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_24",
+        "element": "What evidence was collected",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "24": "This officer notes that the knife was collected at the scene by responding officers and placed into evidence",
+          "36": "EVIDENCE:",
+          "37": "One (1) large kitchen knife recovered from the scene by responding officers and placed into an evidence bag."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_25",
+        "element": "Was a threat/risk assessment tool used with the suspect",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_26",
+        "element": "Is evidence of fear articulated in the report",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "22": "to the point where she believed she was going to lose consciousness",
+          "23": "The victim stated she was in fear for her life during this encounter",
+          "29": "following prior threats made against the victim and her children"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_27",
+        "element": "Have all threats been clearly documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "4": {
+            "officer_message": "You mentioned he grabbed you and started hurting you, and that he had a knife. Can you describe exactly what he did physically \u2014 where did he grab you, did he strike you, and what are your injuries? Also, can you describe the knife \u2014 what did it look like and where did he get it from?",
+            "coverage": "partial",
+            "reasoning": "The officer asked about the suspect's actions, which may imply threats, but did not directly ask about threats."
+          },
+          "8": {
+            "officer_message": "Thank you for telling me about the gun - that information is very important and we will address it. Can you tell me: how long have you and Rohan been in a relationship, and do you live together here at this apartment? Also, you mentioned a neighbor called \u2014 do you know which neighbor that was, or who may have witnessed what happened?",
+            "coverage": "partial",
+            "reasoning": "The officer did not directly ask about threats, but by inquiring about what happened and showing concern for the gun, may have indirectly addressed the topic of threats."
+          },
+          "10": {
+            "officer_message": "You mentioned children were present - how old are your children, and were they in the apartment during the incident? Also, is there an existing restraining order or protective order against Rohan? Have you ever called the police before about his behavior? And do you know Rohan's full date of birth and current home address?",
+            "coverage": "partial",
+            "reasoning": "The officer asks about an existing restraining order, which could imply previous threats, but does not directly ask about threats made during the incident."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "0": "CRIMINAL THREATS",
+          "4": "Criminal Threats",
+          "22": "the argument escalated rapidly",
+          "23": "Jensen allegedly stated words to the effect that he would kill her if she did not comply with his demands",
+          "25": "the disturbance",
+          "29": "following prior threats made against the victim and her children",
+          "33": "The victim stated that Jensen has previously threatened to use the firearm against her.",
+          "39": "Criminal Threats"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_28",
+        "element": "Was the proper protocol followed if the suspect was not on the scene",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "25": "Upon the arrival of law enforcement, Jensen ceased his actions and attempted to leave the premises."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_29",
+        "element": "Is the use of coercion and/or force articulated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "22": "Jensen grabbed her by the neck and arms, applying significant pressure to her neck",
+          "23": "Jensen then retrieved a large kitchen knife from the kitchen drawer and held the knife to her throat"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_30",
+        "element": "Have all injuries (visible and non-visible) been documented",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "4": {
+            "officer_message": "You mentioned he grabbed you and started hurting you, and that he had a knife. Can you describe exactly what he did physically \u2014 where did he grab you, did he strike you, and what are your injuries? Also, can you describe the knife \u2014 what did it look like and where did he get it from?",
+            "coverage": "full",
+            "reasoning": "The officer asked the victim to describe exactly what the suspect did physically, including where he grabbed the victim, if he struck the victim, and what the victim's injuries are."
+          },
+          "6": {
+            "officer_message": "I'm very concerned about what you've described, and I want to make sure you receive medical attention. First, has Rohan ever physically hurt you before tonight? And do you know where the knife is right now? Is it still in the apartment?",
+            "coverage": "full",
+            "reasoning": "The officer expresses concern for the victim's well-being and offers medical attention, which directly addresses the topic of all injuries visible and non-visible documented, but more specifically the officer's concern implies the need to document any injuries."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "18": "",
+          "20": "displayed observable injuries including redness and bruising to her cheek and eye area and visible redness to her neck",
+          "22": "causing pain and injury to her cheek and eye",
+          "34": "INJURIES OBSERVED",
+          "35": "This officer observed the following injuries on the victim: visible redness and bruising to the left cheek and eye area; redness and tenderness to the neck consistent with the reported strangulation attempt. The victim reported soreness to her arms consistent with being forcibly grabbed.",
+          "39": "Strangulation / Attempted Strangulation"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_31",
+        "element": "Were injuries existing or new",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_32",
+        "element": "Was there any property damage, theft, or burglary",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_33",
+        "element": "Are stalking behaviors identified",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_34",
+        "element": "Did the officer inquire about possible strangulation",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "22": "Jensen grabbed her by the neck and arms, applying significant pressure to her neck"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_35",
+        "element": "Did the victim report being strangled",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "22": "Jensen grabbed her by the neck and arms, applying significant pressure to her neck"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_36",
+        "element": "Did the victim request/need medical attention",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Good evening, ma'am. I'm Officer Johnson with the Oakdale Police Department. I'm here because we received a call about a disturbance at this address. Before we begin, I want you to know that you are safe and I am here to help you. Can you please state your full name and date of birth for the record?",
+            "coverage": "none",
+            "reasoning": "The question does not address medical attention"
+          },
+          "2": {
+            "officer_message": "Thank you, Ms. Morales-Ramirez. I can see you're upset and I want to help. Can you tell me what happened tonight? Please start from the beginning \u2014 what time did the incident occur and who was involved?",
+            "coverage": "none",
+            "reasoning": "The officer does not directly ask about medical attention, but may elicit this information by asking what happened."
+          },
+          "4": {
+            "officer_message": "You mentioned he grabbed you and started hurting you, and that he had a knife. Can you describe exactly what he did physically \u2014 where did he grab you, did he strike you, and what are your injuries? Also, can you describe the knife \u2014 what did it look like and where did he get it from?",
+            "coverage": "none",
+            "reasoning": "The officer did not ask if the victim needed medical attention, but this may be implied in the follow-up questions about injuries."
+          },
+          "6": {
+            "officer_message": "I'm very concerned about what you've described, and I want to make sure you receive medical attention. First, has Rohan ever physically hurt you before tonight? And do you know where the knife is right now? Is it still in the apartment?",
+            "coverage": "full",
+            "reasoning": "The officer offers medical attention to the victim, which directly addresses whether the victim requested or needed medical attention."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "35": "The victim was advised to seek medical attention."
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "domestic_violence_37",
+        "element": "Did the victim report sexual violence",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_38",
+        "element": "Were all spontaneous statements captured",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "25": "The victim reported hearing Mrs. Patel yelling at Jensen to stop prior to police arrival."
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "domestic_violence_39",
+        "element": "Did the officer ask about firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "32": "FIREARM / SAFETY CONCERN"
+        },
+        "notes": "Appears in narrative but was never asked in interview. Narrative addresses this element but only partially."
+      },
+      {
+        "element_id": "domestic_violence_40",
+        "element": "Did the suspect use firearms during the incident",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "32": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_41",
+        "element": "Did the suspect make threats to use firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "32": "",
+          "33": "The victim stated that Jensen has previously threatened to use the firearm against her."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_42",
+        "element": "Does the suspect have access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "32": "",
+          "33": "The victim disclosed that Jensen is known to possess a firearm at his residence located at 1234 Maple Street, Apartment 1A."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "domestic_violence_43",
+        "element": "Did the victim express fear about the suspect's access to firearms",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "domestic_violence_44",
+        "element": "Were firearms/weapons confiscated",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "37": "One (1) large kitchen knife recovered from the scene by responding officers and placed into an evidence bag."
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      }
+    ],
+    "contradictions_interview": [],
+    "contradictions_narrative": [],
+    "grammar": [
+      {
+        "chunk": 23,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Jensen allegedly stated words to the effect that he would kill her if she did not comply with his demands.",
+        "suggestion": "Jensen allegedly stated words to the effect that he would kill the victim if she did not comply with his demands."
+      },
+      {
+        "chunk": 31,
+        "source": "llm",
+        "error_type": "verb tense inconsistencies",
+        "excerpt": "The victim disclosed a pattern of escalating domestic violence perpetrated by Jensen over a period of approximately the past several months. The victim reported having previously contacted law enforcement on at least one prior occasion regarding Jensen's violent behavior. The victim stated that she has attempted to end the relationship but that Jensen has repeatedly apologized and promised to change without doing so.",
+        "suggestion": "The victim disclosed a pattern of escalating domestic violence perpetrated by Jensen over a period of approximately the past several months. The victim reported having previously contacted law enforcement on at least one prior occasion regarding Jensen's violent behavior. The victim stated that she had attempted to end the relationship but that Jensen had repeatedly apologized and promised to change without doing so."
+      },
+      {
+        "chunk": 33,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "This officer notes this information as a significant officer and public safety concern warranting follow-up investigation and verification.",
+        "suggestion": "This officer notes this information as a significant concern for officer and public safety, warranting follow-up investigation and verification."
+      },
+      {
+        "chunk": 33,
+        "source": "llm",
+        "error_type": "Verb tense inconsistency",
+        "excerpt": "The victim disclosed that Jensen is known to possess a firearm at his residence located at 1234 Maple Street, Apartment 1A. The victim stated that Jensen has previously threatened to use the firearm against her.",
+        "suggestion": "The victim disclosed that Jensen is known to possess a firearm at his residence located at 1234 Maple Street, Apartment 1A. The victim also stated that Jensen had previously threatened to use the firearm against her."
+      },
+      {
+        "chunk": 37,
+        "source": "llm",
+        "error_type": "Sentence fragment",
+        "excerpt": "One (1) large kitchen knife recovered from the scene by responding officers and placed into an evidence bag.",
+        "suggestion": "One (1) large kitchen knife was recovered from the scene by responding officers and placed into an evidence bag."
+      }
+    ],
+    "style": [
+      "violations",
+      "violations",
+      "errors",
+      "violations",
+      "errors",
+      "errors",
+      "errors",
+      "violations",
+      "violations",
+      "errors",
+      "violations",
+      "errors",
+      "violations",
+      "violations",
+      "violations",
+      "violations",
+      "violations",
+      "violations",
+      "errors",
+      "violations",
+      "violations",
+      "errors",
+      "violations",
+      "violations",
+      "violations",
+      "violations",
+      "violations",
+      "violations",
+      "errors",
+      "violations",
+      "violations",
+      "violations",
+      "errors",
+      "violations",
+      "errors",
+      "violations",
+      "errors",
+      "violations",
+      "errors",
+      "violations",
+      "violations"
+    ],
+    "narrative_coverage": {
+      "domestic_violence_01": {
+        "covered": "none",
+        "phrases": {
+          "8": "",
+          "12": ""
+        }
+      },
+      "domestic_violence_02": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_03": {
+        "covered": "none",
+        "phrases": {
+          "40": ""
+        }
+      },
+      "domestic_violence_04": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_05": {
+        "covered": "full",
+        "phrases": {
+          "19": "in response to a report of a domestic disturbance"
+        }
+      },
+      "domestic_violence_06": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_07": {
+        "covered": "full",
+        "phrases": {
+          "2": "Date of Report: Current Date",
+          "9": "",
+          "19": "On the date of this incident, at approximately 2150 hours"
+        }
+      },
+      "domestic_violence_08": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_09": {
+        "covered": "full",
+        "phrases": {
+          "0": "DOMESTIC VIOLENCE",
+          "39": "Domestic Battery"
+        }
+      },
+      "domestic_violence_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_11": {
+        "covered": "full",
+        "phrases": {
+          "1": "Reporting Officer: Officer Johnson",
+          "9": "",
+          "13": "",
+          "19": "a female was heard yelling for help at the location",
+          "25": "Upon the arrival of law enforcement, Jensen ceased his actions and attempted to leave the premises."
+        }
+      },
+      "domestic_violence_12": {
+        "covered": "full",
+        "phrases": {
+          "0": "PROTECTION ORDER VIOLATION",
+          "4": "Violation of Protective Order",
+          "28": "PROTECTIVE ORDER",
+          "29": "an active protective order exists against Jensen",
+          "39": "Violation of Protective/Restraining Order"
+        }
+      },
+      "domestic_violence_13": {
+        "covered": "full",
+        "phrases": {
+          "3": "Incident Location: 1457 Calle Del Sol, Apartment 3B, Oakdale, California",
+          "9": "Address: 1457 Calle Del Sol, Apartment 3B, Oakdale, California",
+          "13": "Address: 1234 Maple Street, Apartment 1A, Oakdale, California",
+          "17": "Address: Adjacent unit (next door) to Apartment 3B, 1457 Calle Del Sol"
+        }
+      },
+      "domestic_violence_14": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_15": {
+        "covered": "full",
+        "phrases": {
+          "4": "Domestic Violence",
+          "7": "Name: Leila Morales-Ramirez",
+          "9": "",
+          "11": "Name: Rohan Jensen",
+          "13": "",
+          "14": "Boyfriend (3-year relationship)",
+          "16": "Name: Mrs. Patel",
+          "19": "a report of a domestic disturbance",
+          "22": "her boyfriend, Rohan Jensen",
+          "31": "The victim disclosed a pattern of escalating domestic violence perpetrated by Jensen"
+        }
+      },
+      "domestic_violence_16": {
+        "covered": "full",
+        "phrases": {
+          "14": "3-year relationship",
+          "22": "a verbal argument",
+          "29": "following prior threats made against the victim and her children",
+          "31": "The victim disclosed a pattern of escalating domestic violence perpetrated by Jensen over a period of approximately the past several months."
+        }
+      },
+      "domestic_violence_17": {
+        "covered": "none",
+        "phrases": {
+          "15": "",
+          "25": "neighbor Mrs. Patel (next-door unit) apparently heard the disturbance and called police."
+        }
+      },
+      "domestic_violence_18": {
+        "covered": "full",
+        "phrases": {
+          "5": "Suspect in Custody",
+          "25": "Jensen was subsequently detained by responding officers.",
+          "38": "CHARGES / RECOMMENDED CHARGES"
+        }
+      },
+      "domestic_violence_19": {
+        "covered": "full",
+        "phrases": {
+          "26": "MINOR CHILDREN",
+          "27": "The victim disclosed that two minor children, ages 7 and 9, were present in the apartment during the incident."
+        }
+      },
+      "domestic_violence_20": {
+        "covered": "full",
+        "phrases": {
+          "22": "a verbal argument",
+          "29": "following prior threats made against the victim and her children",
+          "30": "PRIOR INCIDENTS:",
+          "31": "The victim reported having previously contacted law enforcement on at least one prior occasion regarding Jensen's violent behavior."
+        }
+      },
+      "domestic_violence_21": {
+        "covered": "full",
+        "phrases": {
+          "0": "ASSAULT WITH A DEADLY WEAPON",
+          "4": "Assault with a Deadly Weapon",
+          "22": "Jensen grabbed her by the neck and arms, applying significant pressure to her neck",
+          "23": "Jensen then retrieved a large kitchen knife from the kitchen drawer and held the knife to her throat",
+          "24": "The victim identified the knife as a large kitchen knife with a sharp point",
+          "25": "the disturbance",
+          "33": "The victim disclosed that Jensen is known to possess a firearm at his residence located at 1234 Maple Street, Apartment 1A.",
+          "37": "One (1) large kitchen knife recovered from the scene by responding officers and placed into an evidence bag.",
+          "39": "Assault with a Deadly Weapon (knife)"
+        }
+      },
+      "domestic_violence_22": {
+        "covered": "none",
+        "phrases": {
+          "6": "",
+          "18": "",
+          "20": "The victim appeared visibly distressed, with tears streaming down her face",
+          "21": "",
+          "22": "causing pain and injury to her cheek and eye",
+          "23": "The victim stated she was in fear for her life during this encounter",
+          "31": "The victim stated that she has attempted to end the relationship but that Jensen has repeatedly apologized and promised to change without doing so."
+        }
+      },
+      "domestic_violence_23": {
+        "covered": "none",
+        "phrases": {
+          "10": ""
+        }
+      },
+      "domestic_violence_24": {
+        "covered": "full",
+        "phrases": {
+          "24": "This officer notes that the knife was collected at the scene by responding officers and placed into evidence",
+          "36": "EVIDENCE:",
+          "37": "One (1) large kitchen knife recovered from the scene by responding officers and placed into an evidence bag."
+        }
+      },
+      "domestic_violence_25": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_26": {
+        "covered": "full",
+        "phrases": {
+          "22": "to the point where she believed she was going to lose consciousness",
+          "23": "The victim stated she was in fear for her life during this encounter",
+          "29": "following prior threats made against the victim and her children"
+        }
+      },
+      "domestic_violence_27": {
+        "covered": "full",
+        "phrases": {
+          "0": "CRIMINAL THREATS",
+          "4": "Criminal Threats",
+          "22": "the argument escalated rapidly",
+          "23": "Jensen allegedly stated words to the effect that he would kill her if she did not comply with his demands",
+          "25": "the disturbance",
+          "29": "following prior threats made against the victim and her children",
+          "33": "The victim stated that Jensen has previously threatened to use the firearm against her.",
+          "39": "Criminal Threats"
+        }
+      },
+      "domestic_violence_28": {
+        "covered": "full",
+        "phrases": {
+          "25": "Upon the arrival of law enforcement, Jensen ceased his actions and attempted to leave the premises."
+        }
+      },
+      "domestic_violence_29": {
+        "covered": "full",
+        "phrases": {
+          "22": "Jensen grabbed her by the neck and arms, applying significant pressure to her neck",
+          "23": "Jensen then retrieved a large kitchen knife from the kitchen drawer and held the knife to her throat"
+        }
+      },
+      "domestic_violence_30": {
+        "covered": "none",
+        "phrases": {
+          "18": "",
+          "20": "displayed observable injuries including redness and bruising to her cheek and eye area and visible redness to her neck",
+          "22": "causing pain and injury to her cheek and eye",
+          "34": "INJURIES OBSERVED",
+          "35": "This officer observed the following injuries on the victim: visible redness and bruising to the left cheek and eye area; redness and tenderness to the neck consistent with the reported strangulation attempt. The victim reported soreness to her arms consistent with being forcibly grabbed.",
+          "39": "Strangulation / Attempted Strangulation"
+        }
+      },
+      "domestic_violence_31": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_32": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_33": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_34": {
+        "covered": "full",
+        "phrases": {
+          "22": "Jensen grabbed her by the neck and arms, applying significant pressure to her neck"
+        }
+      },
+      "domestic_violence_35": {
+        "covered": "full",
+        "phrases": {
+          "22": "Jensen grabbed her by the neck and arms, applying significant pressure to her neck"
+        }
+      },
+      "domestic_violence_36": {
+        "covered": "full",
+        "phrases": {
+          "35": "The victim was advised to seek medical attention."
+        }
+      },
+      "domestic_violence_37": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_38": {
+        "covered": "partial",
+        "phrases": {
+          "25": "The victim reported hearing Mrs. Patel yelling at Jensen to stop prior to police arrival."
+        }
+      },
+      "domestic_violence_39": {
+        "covered": "partial",
+        "phrases": {
+          "32": "FIREARM / SAFETY CONCERN"
+        }
+      },
+      "domestic_violence_40": {
+        "covered": "none",
+        "phrases": {
+          "32": ""
+        }
+      },
+      "domestic_violence_41": {
+        "covered": "none",
+        "phrases": {
+          "32": "",
+          "33": "The victim stated that Jensen has previously threatened to use the firearm against her."
+        }
+      },
+      "domestic_violence_42": {
+        "covered": "none",
+        "phrases": {
+          "32": "",
+          "33": "The victim disclosed that Jensen is known to possess a firearm at his residence located at 1234 Maple Street, Apartment 1A."
+        }
+      },
+      "domestic_violence_43": {
+        "covered": false,
+        "phrases": {}
+      },
+      "domestic_violence_44": {
+        "covered": "full",
+        "phrases": {
+          "37": "One (1) large kitchen knife recovered from the scene by responding officers and placed into an evidence bag."
+        }
+      }
+    }
+  }
+}

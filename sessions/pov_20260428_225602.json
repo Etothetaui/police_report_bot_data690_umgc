@@ -1,0 +1,1270 @@
+{
+  "session_id": "pov_20260428_225602",
+  "timestamp": "2026-04-28T22:56:02.701591",
+  "metadata": {
+    "crime_type": "Protection Order Violation",
+    "interviewee_name": "Leela Rohini Desai",
+    "interviewee_role": "victim",
+    "dispatch_line": "Possible Protection Order Violation at 1457 Oakwood Drive, report of Jasmine Patel being harassed by her ex-boyfriend"
+  },
+  "scenario": {
+    "crime_type": "Protection Order Violation",
+    "interviewee_role": "victim",
+    "interviewee_name": "Leela Rohini Desai",
+    "dispatch_line": "Possible Protection Order Violation at 1457 Oakwood Drive, report of Jasmine Patel being harassed by her ex-boyfriend",
+    "facts": {
+      "protection_order_violation_01": "No, the suspect did not use firearms during the incident.",
+      "protection_order_violation_02": "Yes, the suspect used firearms in a previous incident on February 10, 2022.",
+      "protection_order_violation_03": "Yes, the suspect made implied threats to use firearms during the incident.",
+      "protection_order_violation_04": "Yes, the suspect made real threats to use firearms in an incident on January 5, 2022.",
+      "protection_order_violation_05": "Yes, the suspect has access to a Glock 19 handgun and a Remington 700 rifle, located at 1456 Oakwood Drive, Apartment 3B, Denver, CO 80210.",
+      "protection_order_violation_06": "Yes, the victim expressed fear about the suspect's access to firearms, which was captured in the report as 'the victim stated she was afraid of the suspect's ability to harm her with his guns'.",
+      "protection_order_violation_07": "No, firearms were not confiscated at the scene because the suspect was present and arrested, but a search warrant is pending to confiscate them from the suspect's address.",
+      "protection_order_violation_08": "Yes, the suspect is prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence on August 20, 2020.",
+      "protection_order_violation_09": "Yes, the suspect is prohibited from possessing firearms due to a qualifying order of protection issued on March 15, 2022.",
+      "protection_order_violation_10": "No, the suspect is not prohibited from possessing firearms due to a dishonorable discharge from the military.",
+      "protection_order_violation_11": "Yes, the relationship of the parties is identified as intimate partners, with the suspect being the ex-boyfriend of the victim.",
+      "protection_order_violation_12": "The history of the relationship includes frequent incidents of violence, intimidation, and threats, with the suspect having a history of physically and emotionally abusing the victim over the past two years.",
+      "protection_order_violation_13": "Yes, all witnesses were interviewed and documented, including the victim's neighbor, who witnessed the suspect yelling at the victim.",
+      "protection_order_violation_14": "Yes, a kitchen knife was used as a weapon by the suspect during the incident.",
+      "protection_order_violation_15": "The victim reported feeling 'terrified' and 'helpless' during the incident, and stated she was thinking 'he's going to kill me'.",
+      "protection_order_violation_16": "Evidence collected includes photos of the victim's injuries, a statement from the witness, and a recording of the 911 call.",
+      "protection_order_violation_17": "Yes, evidence of fear is articulated in the report, with the victim stating she was 'afraid for her life'.",
+      "protection_order_violation_18": "Yes, all threats made by the suspect were clearly documented, including the threat to 'shoot her if she ever left him'.",
+      "protection_order_violation_19": "Yes, stalking behaviors were identified, including the suspect repeatedly calling and texting the victim, and showing up at her workplace uninvited.",
+      "protection_order_violation_20": "Yes, the use of coercion and force was articulated, with the suspect using physical force to restrain the victim during the incident.",
+      "protection_order_violation_21": "Yes, all injuries were documented, including visible bruising on the victim's arms and neck, and non-visible injuries including a headache and difficulty breathing.",
+      "protection_order_violation_22": "Yes, there was property damage, including a broken vase and a hole in the wall, and theft, with the suspect taking the victim's phone and wallet.",
+      "protection_order_violation_23": "Yes, the victim reported being strangled by the suspect, describing it as 'he choked me until I thought I was going to pass out'.",
+      "protection_order_violation_24": "Yes, the victim needed medical attention and was transported to the hospital for treatment. EMS was summoned due to the reported strangulation.",
+      "protection_order_violation_25": "Yes, all spontaneous statements were captured and documented, including the suspect's statement 'I didn't mean to hurt her'.",
+      "protection_order_violation_26": "Yes, information was provided to the victim about local service providers, including a domestic violence hotline and a shelter.",
+      "protection_order_violation_27": "Yes, a threat/risk assessment tool was used with the victim, which indicated a high risk of future violence.",
+      "protection_order_violation_28": "Yes, the officer gathered comprehensive information about the suspect, including his criminal history and previous incidents of domestic violence.",
+      "protection_order_violation_29": "Yes, an arrest was made, with the suspect being taken into custody for violating the protection order and committing domestic violence.",
+      "protection_order_violation_30": "The suspect reported feeling 'angry' and 'frustrated' during the incident, and stated he was thinking 'she's going to pay for what she did'.",
+      "protection_order_violation_31": "Yes, a threat/risk assessment tool was used with the suspect, which indicated a high risk of future violence.",
+      "protection_order_violation_32": "N/A, as the suspect was present and arrested at the scene.",
+      "protection_order_violation_33": "Yes, there is an active warrant out for the suspect for a previous incident of domestic violence.",
+      "protection_order_violation_34": "Yes, the suspect has been the respondent to a protection order in the past, with a previous order being issued in 2018.",
+      "protection_order_violation_35": "Yes, the time of the call is recorded, including the time of incident (22:45), time of dispatch (22:50), and time of arrival (23:05).",
+      "protection_order_violation_36": "Yes, the scene is concisely described and diagramed, including a sketch of the location of the incident and the position of the parties involved.",
+      "protection_order_violation_37": "Yes, photos were taken and details recorded, including photos of the victim's injuries and the damage to the property.",
+      "protection_order_violation_38": "Yes, the elements of the crime(s) are articulated to meet state and/or federal laws, including the violation of the protection order and the commission of domestic violence."
+    }
+  },
+  "interview_transcript": [
+    {
+      "role": "user",
+      "metadata": null,
+      "content": "Ma'am, what's going on tonight? Someone called about a protection order being violated?",
+      "options": null
+    },
+    {
+      "role": "assistant",
+      "metadata": null,
+      "content": "(nervously) Oh, yes... that's right. It's my ex-boyfriend. He showed up at my place and... (pausing, taking a deep breath) ...and he wasn't supposed to be here. There's a protection order against him, but he just came in and started yelling at me. (starting to tear up) He's been doing this for a while now, and I'm just so scared of him. Tonight was really bad, though. He had a knife, and... (shuddering) ...he choked me. I thought I was going to pass out. (trying to compose herself) I'm just really scared, officer. I don't know what he's capable of.",
+      "options": null
+    },
+    {
+      "role": "user",
+      "content": "Okay. What's his name and do you have the protection order document?"
+    },
+    {
+      "role": "assistant",
+      "content": "(sniffling) His name is... (pausing, trying to remember if she's supposed to say) ...I don't know if I should say his name. Is that okay? (looking at the officer for reassurance) And, um, I think the protection order document is... (trying to remember) ...I think it's at my kitchen table. I had to leave the room when he showed up, so I'm not really sure where everything is right now. (starting to get tearful again) Everything is just really confusing and scary right now."
+    }
+  ],
+  "coverage_flags": {
+    "protection_order_violation_01": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_02": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_03": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_04": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_05": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_06": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_07": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_08": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_09": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_10": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_11": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Ma'am, what's going on tonight? Someone called about a protection order being violated?",
+          "coverage": "partial",
+          "reasoning": "The officer's question 'Someone called about a protection order being violated?' implies a relationship between the parties, but does not directly ask about the nature of the relationship."
+        },
+        "2": {
+          "officer_message": "Okay. What's his name and do you have the protection order document?",
+          "coverage": "partial",
+          "reasoning": "The officer asked for the suspect's name, which implies a relationship but does not directly ask about it"
+        }
+      }
+    },
+    "protection_order_violation_12": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_13": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_14": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Ma'am, what's going on tonight? Someone called about a protection order being violated?",
+          "coverage": "partial",
+          "reasoning": "The question about a protection order being violated may imply that some form of threat or action was taken, but does not directly ask about weapons or objects used."
+        }
+      }
+    },
+    "protection_order_violation_15": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_16": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_17": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_18": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Ma'am, what's going on tonight? Someone called about a protection order being violated?",
+          "coverage": "partial",
+          "reasoning": "The question about a protection order being violated may imply that some form of threat was made, but does not directly ask about the nature of the threats."
+        },
+        "2": {
+          "officer_message": "Okay. What's his name and do you have the protection order document?",
+          "coverage": "partial",
+          "reasoning": "The officer asked for the protection order document, which may contain information about threats, but did not directly ask about threats"
+        }
+      }
+    },
+    "protection_order_violation_19": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_20": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_21": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_22": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_23": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_24": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_25": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_26": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_27": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_28": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_29": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_30": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_31": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_32": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_33": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_34": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_35": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Ma'am, what's going on tonight? Someone called about a protection order being violated?",
+          "coverage": "partial",
+          "reasoning": "The question 'what's going on tonight' may imply that the officer is trying to understand the context of the incident, including the time of the call, but does not directly ask about the time of the call."
+        }
+      }
+    },
+    "protection_order_violation_36": {
+      "covered": "partial",
+      "messages": {
+        "0": {
+          "officer_message": "Ma'am, what's going on tonight? Someone called about a protection order being violated?",
+          "coverage": "partial",
+          "reasoning": "The question 'what's going on tonight' may imply that the officer is trying to understand the context of the incident, including the scene, but does not directly ask about the description of the scene."
+        },
+        "2": {
+          "officer_message": "Okay. What's his name and do you have the protection order document?",
+          "coverage": "partial",
+          "reasoning": "The officer asked for the protection order document, which may contain information about the scene, but did not directly ask about the scene description"
+        }
+      }
+    },
+    "protection_order_violation_37": {
+      "covered": false,
+      "messages": {}
+    },
+    "protection_order_violation_38": {
+      "covered": false,
+      "messages": {}
+    }
+  },
+  "narrative": "INCIDENT REPORT\n\nDate: 04/28/2026\nLocation: 1457 Oakwood Drive\nType: Protection Order Violation\n\nThis officer responded to a reported protection order violation at the above location. Officer made contact with the victim, Leela Rohini Desai. Victim stated her ex-boyfriend came to her residence in violation of a protection order. Victim reported the suspect had a knife and choked her. Victim was emotional and upset. The suspect was not on scene. Victim stated the protection order document was somewhere in her residence.",
+  "narrative_coverage": {
+    "protection_order_violation_01": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_02": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_03": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_04": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_05": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_06": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_07": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_08": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_09": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_10": {
+      "covered": false,
+      "phrases": {}
+    },
+    "protection_order_violation_11": {
+      "covered": "none",
+      "phrases": {
+        "0": "",
+        "2": "Location: 1457 Oakwood Drive",
+        "3": "",
+        "4": "her ex-boyfriend"
+      }
+    },
+    "protection_order_violation_12": {
+      "covered": "none",
+      "phrases": {
+        "3": "",
+        "4": ""
+      }
+    },
+    "protection_order_violation_13": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    },
+    "protection_order_violation_14": {
+      "covered": "none",
+      "phrases": {
+        "3": "",
+        "4": "Victim reported the suspect had a knife and choked her"
+      }
+    },
+    "protection_order_violation_15": {
+      "covered": "none",
+      "phrases": {
+        "3": "",
+        "4": "Victim was emotional and upset"
+      }
+    },
+    "protection_order_violation_16": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    },
+    "protection_order_violation_17": {
+      "covered": "none",
+      "phrases": {
+        "3": "",
+        "4": "Victim was emotional and upset"
+      }
+    },
+    "protection_order_violation_18": {
+      "covered": "none",
+      "phrases": {
+        "3": "",
+        "4": ""
+      }
+    },
+    "protection_order_violation_19": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    },
+    "protection_order_violation_20": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    },
+    "protection_order_violation_21": {
+      "covered": "none",
+      "phrases": {
+        "3": "",
+        "4": ""
+      }
+    },
+    "protection_order_violation_22": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    },
+    "protection_order_violation_23": {
+      "covered": "none",
+      "phrases": {
+        "3": "",
+        "4": "choked her"
+      }
+    },
+    "protection_order_violation_24": {
+      "covered": "none",
+      "phrases": {
+        "3": "",
+        "4": ""
+      }
+    },
+    "protection_order_violation_25": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    },
+    "protection_order_violation_26": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    },
+    "protection_order_violation_27": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    },
+    "protection_order_violation_28": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    },
+    "protection_order_violation_29": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    },
+    "protection_order_violation_30": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    },
+    "protection_order_violation_31": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    },
+    "protection_order_violation_32": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    },
+    "protection_order_violation_33": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    },
+    "protection_order_violation_34": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    },
+    "protection_order_violation_35": {
+      "covered": "full",
+      "phrases": {
+        "1": "Date: 04/28/2026",
+        "3": ""
+      }
+    },
+    "protection_order_violation_36": {
+      "covered": "partial",
+      "phrases": {
+        "0": "INCIDENT REPORT",
+        "2": "Location: 1457 Oakwood Drive",
+        "3": ""
+      }
+    },
+    "protection_order_violation_37": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    },
+    "protection_order_violation_38": {
+      "covered": "none",
+      "phrases": {
+        "3": ""
+      }
+    }
+  },
+  "grading_results": {
+    "content": [
+      {
+        "element_id": "protection_order_violation_01",
+        "element": "Did the suspect use firearms during the incident that occurred?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_02",
+        "element": "Did the suspect use firearms in previous incidents?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_03",
+        "element": "Did the suspect make threats\u2014 real or implied\u2014 to use firearms during the incident that occurred?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_04",
+        "element": "Did the suspect make threats\u2014 real or implied\u2014 to use firearms in previous incidents?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_05",
+        "element": "Does the suspect have access to firearms? If so, what are the details of the firearms? Where are they located?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_06",
+        "element": "Did the victim express fear about the suspect\u2019s access to firearms? If so, how was this captured in the report?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_07",
+        "element": "Were firearms/weapons confiscated? If so, on what grounds?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_08",
+        "element": "Is this individual prohibited from possessing firearms due to a conviction for a misdemeanor crime of domestic violence?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_09",
+        "element": "Is this individual prohibited from possessing firearms due to a qualifying order of protection?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_10",
+        "element": "Is this individual prohibited from possessing firearms due to dishonorable discharge from the military?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": false,
+        "narrative_phrases": {},
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_11",
+        "element": "Is the relationship of the parties identified?",
+        "asked_in_interview": "partial",
+        "interview_messages": {
+          "0": {
+            "officer_message": "Ma'am, what's going on tonight? Someone called about a protection order being violated?",
+            "coverage": "partial",
+            "reasoning": "The officer's question 'Someone called about a protection order being violated?' implies a relationship between the parties, but does not directly ask about the nature of the relationship."
+          },
+          "2": {
+            "officer_message": "Okay. What's his name and do you have the protection order document?",
+            "coverage": "partial",
+            "reasoning": "The officer asked for the suspect's name, which implies a relationship but does not directly ask about it"
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "0": "",
+          "2": "Location: 1457 Oakwood Drive",
+          "3": "",
+          "4": "her ex-boyfriend"
+        },
+        "notes": null
+      },
+      {
+        "element_id": "protection_order_violation_12",
+        "element": "What is the history of the relationship? (include frequency of any violence, intimidation, and threats)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": "",
+          "4": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_13",
+        "element": "Were all witnesses interviewed and documented?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_14",
+        "element": "Were weapons/objects used?",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Ma'am, what's going on tonight? Someone called about a protection order being violated?",
+            "coverage": "partial",
+            "reasoning": "The question about a protection order being violated may imply that some form of threat or action was taken, but does not directly ask about weapons or objects used."
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": "",
+          "4": "Victim reported the suspect had a knife and choked her"
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "protection_order_violation_15",
+        "element": "What was the emotional state of the victim (what did they report they were thinking and feeling)?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": "",
+          "4": "Victim was emotional and upset"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_16",
+        "element": "What evidence was collected?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_17",
+        "element": "Is evidence of fear articulated in the report?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": "",
+          "4": "Victim was emotional and upset"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_18",
+        "element": "Have all threats been clearly documented?",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Ma'am, what's going on tonight? Someone called about a protection order being violated?",
+            "coverage": "partial",
+            "reasoning": "The question about a protection order being violated may imply that some form of threat was made, but does not directly ask about the nature of the threats."
+          },
+          "2": {
+            "officer_message": "Okay. What's his name and do you have the protection order document?",
+            "coverage": "partial",
+            "reasoning": "The officer asked for the protection order document, which may contain information about threats, but did not directly ask about threats"
+          }
+        },
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": "",
+          "4": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "protection_order_violation_19",
+        "element": "Are stalking behaviors identified? (e.g. following, repeated calling, sending unwanted gifts)",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_20",
+        "element": "Is the use of coercion and/or force articulated?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_21",
+        "element": "Have all injuries (visible and non-visible) been documented? Were injuries existing or new?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": "",
+          "4": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_22",
+        "element": "Was there any property damage? Theft? Burglary?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_23",
+        "element": "Did the victim report being strangled (\u201cchoked\u201d)? If so, was it described in detail?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": "",
+          "4": "choked her"
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_24",
+        "element": "Did the victim need medical attention?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": "",
+          "4": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_25",
+        "element": "Were all spontaneous statements captured and documented?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_26",
+        "element": "Was information provided to the victim about local service providers?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_27",
+        "element": "Was a threat/risk assessment tool used with the victim?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_28",
+        "element": "Did the officer gather comprehensive information about the suspect?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_29",
+        "element": "Was an arrest made?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_30",
+        "element": "What was the emotional state of the suspect (what did they report they were thinking and feeling)?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_31",
+        "element": "Was a threat/risk assessment tool used with the suspect?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_32",
+        "element": "Was the proper protocol followed if the suspect was not on the scene?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_33",
+        "element": "Are there any active warrants out for the suspect?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_34",
+        "element": "Has the suspect been the respondent to a protection order in the past?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_35",
+        "element": "Is the time of the call recorded (including time of incident, time of dispatch, time of arrival)?",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Ma'am, what's going on tonight? Someone called about a protection order being violated?",
+            "coverage": "partial",
+            "reasoning": "The question 'what's going on tonight' may imply that the officer is trying to understand the context of the incident, including the time of the call, but does not directly ask about the time of the call."
+          }
+        },
+        "in_narrative": "full",
+        "narrative_phrases": {
+          "1": "Date: 04/28/2026",
+          "3": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions."
+      },
+      {
+        "element_id": "protection_order_violation_36",
+        "element": "Is the scene concisely described/diagramed?",
+        "asked_in_interview": false,
+        "interview_messages": {
+          "0": {
+            "officer_message": "Ma'am, what's going on tonight? Someone called about a protection order being violated?",
+            "coverage": "partial",
+            "reasoning": "The question 'what's going on tonight' may imply that the officer is trying to understand the context of the incident, including the scene, but does not directly ask about the description of the scene."
+          },
+          "2": {
+            "officer_message": "Okay. What's his name and do you have the protection order document?",
+            "coverage": "partial",
+            "reasoning": "The officer asked for the protection order document, which may contain information about the scene, but did not directly ask about the scene description"
+          }
+        },
+        "in_narrative": "partial",
+        "narrative_phrases": {
+          "0": "INCIDENT REPORT",
+          "2": "Location: 1457 Oakwood Drive",
+          "3": ""
+        },
+        "notes": "Interview coverage flag could not be validated against recorded questions. Narrative addresses this element but only partially. Both interview and narrative only partially cover this element."
+      },
+      {
+        "element_id": "protection_order_violation_37",
+        "element": "Were photos taken and details recorded?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      },
+      {
+        "element_id": "protection_order_violation_38",
+        "element": "Are the elements of the crime(s) articulated to meet state and/or federal laws?",
+        "asked_in_interview": false,
+        "interview_messages": {},
+        "in_narrative": "none",
+        "narrative_phrases": {
+          "3": ""
+        },
+        "notes": "Appears in narrative but was never asked in interview."
+      }
+    ],
+    "contradictions_interview": [],
+    "contradictions_narrative": [],
+    "grammar": [
+      {
+        "chunk": 4,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "Leela",
+        "suggestion": "Leila"
+      },
+      {
+        "chunk": 4,
+        "source": "language_tool",
+        "error_type": "MORFOLOGIK_RULE_EN_US",
+        "excerpt": "Rohini",
+        "suggestion": "Robin"
+      },
+      {
+        "chunk": 4,
+        "source": "language_tool",
+        "error_type": "ENGLISH_WORD_REPEAT_BEGINNING_RULE",
+        "excerpt": "Victim",
+        "suggestion": null
+      },
+      {
+        "chunk": 4,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Officer made contact with the victim, Leela Rohini Desai. Victim stated her ex-boyfriend came to her residence in violation of a protection order.",
+        "suggestion": "This officer made contact with the victim, Leela Rohini Desai. The victim stated her ex-boyfriend came to her residence in violation of a protection order."
+      },
+      {
+        "chunk": 4,
+        "source": "llm",
+        "error_type": "Pronoun clarity issue",
+        "excerpt": "Victim stated the protection order document was somewhere in her residence.",
+        "suggestion": "The victim stated the protection order document was somewhere in her residence."
+      }
+    ],
+    "style": [
+      {
+        "chunk": 2,
+        "rule": "9",
+        "error_type": "unexplained location without context",
+        "excerpt": "Location: 1457 Oakwood Drive",
+        "suggestion": "I responded to a call at 1457 Oakwood Drive, which is the reported residence of the victim."
+      },
+      {
+        "chunk": 2,
+        "rule": "10",
+        "error_type": "lack of chronological order",
+        "excerpt": "Location: 1457 Oakwood Drive",
+        "suggestion": "Upon arrival at 1457 Oakwood Drive, I observed..."
+      },
+      {
+        "chunk": 2,
+        "rule": "11",
+        "error_type": "failure to answer basic questions",
+        "excerpt": "Location: 1457 Oakwood Drive",
+        "suggestion": "At 1457 Oakwood Drive, I met with the victim, who reported an incident occurring at this location on a specific date and time."
+      },
+      {
+        "chunk": 3,
+        "rule": "Rule 1: Use active voice",
+        "error_type": "passive voice",
+        "excerpt": "The section is empty and only contains the title 'INCIDENT REPORT' with no narrative or details to summarize.",
+        "suggestion": "I found the section to be empty with only the title 'INCIDENT REPORT' and no narrative or details to summarize."
+      },
+      {
+        "chunk": 3,
+        "rule": "Rule 10: Write in chronological order",
+        "error_type": "no chronological order",
+        "excerpt": "There is no section provided to summarize.",
+        "suggestion": "Provide a narrative with events in chronological order."
+      },
+      {
+        "chunk": 3,
+        "rule": "Rule 11: Answer the six basic questions",
+        "error_type": "missing information",
+        "excerpt": "The section is empty",
+        "suggestion": "Answer the six basic questions: Who, What, Where, When, Why, and How."
+      }
+    ],
+    "narrative_coverage": {
+      "protection_order_violation_01": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_02": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_03": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_04": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_05": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_06": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_07": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_08": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_09": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_10": {
+        "covered": false,
+        "phrases": {}
+      },
+      "protection_order_violation_11": {
+        "covered": "none",
+        "phrases": {
+          "0": "",
+          "2": "Location: 1457 Oakwood Drive",
+          "3": "",
+          "4": "her ex-boyfriend"
+        }
+      },
+      "protection_order_violation_12": {
+        "covered": "none",
+        "phrases": {
+          "3": "",
+          "4": ""
+        }
+      },
+      "protection_order_violation_13": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      },
+      "protection_order_violation_14": {
+        "covered": "none",
+        "phrases": {
+          "3": "",
+          "4": "Victim reported the suspect had a knife and choked her"
+        }
+      },
+      "protection_order_violation_15": {
+        "covered": "none",
+        "phrases": {
+          "3": "",
+          "4": "Victim was emotional and upset"
+        }
+      },
+      "protection_order_violation_16": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      },
+      "protection_order_violation_17": {
+        "covered": "none",
+        "phrases": {
+          "3": "",
+          "4": "Victim was emotional and upset"
+        }
+      },
+      "protection_order_violation_18": {
+        "covered": "none",
+        "phrases": {
+          "3": "",
+          "4": ""
+        }
+      },
+      "protection_order_violation_19": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      },
+      "protection_order_violation_20": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      },
+      "protection_order_violation_21": {
+        "covered": "none",
+        "phrases": {
+          "3": "",
+          "4": ""
+        }
+      },
+      "protection_order_violation_22": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      },
+      "protection_order_violation_23": {
+        "covered": "none",
+        "phrases": {
+          "3": "",
+          "4": "choked her"
+        }
+      },
+      "protection_order_violation_24": {
+        "covered": "none",
+        "phrases": {
+          "3": "",
+          "4": ""
+        }
+      },
+      "protection_order_violation_25": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      },
+      "protection_order_violation_26": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      },
+      "protection_order_violation_27": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      },
+      "protection_order_violation_28": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      },
+      "protection_order_violation_29": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      },
+      "protection_order_violation_30": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      },
+      "protection_order_violation_31": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      },
+      "protection_order_violation_32": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      },
+      "protection_order_violation_33": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      },
+      "protection_order_violation_34": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      },
+      "protection_order_violation_35": {
+        "covered": "full",
+        "phrases": {
+          "1": "Date: 04/28/2026",
+          "3": ""
+        }
+      },
+      "protection_order_violation_36": {
+        "covered": "partial",
+        "phrases": {
+          "0": "INCIDENT REPORT",
+          "2": "Location: 1457 Oakwood Drive",
+          "3": ""
+        }
+      },
+      "protection_order_violation_37": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      },
+      "protection_order_violation_38": {
+        "covered": "none",
+        "phrases": {
+          "3": ""
+        }
+      }
+    }
+  }
+}
